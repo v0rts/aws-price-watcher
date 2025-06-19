@@ -1,3 +1,61 @@
+## 2025-06-19 02:54
+
+**Modified services:**
+
+- [docdb](processed/docdb.json)
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.12xlarge: Israel (Tel Aviv) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.12xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.16xlarge: Israel (Tel Aviv) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.16xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.24xlarge: Israel (Tel Aviv) (Memory: 768 GiB, CPU: 96, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.24xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.2xlarge: Israel (Tel Aviv) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.2xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.4xlarge: Israel (Tel Aviv) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.4xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.8xlarge: Israel (Tel Aviv) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.8xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.large: Israel (Tel Aviv) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.large) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.xlarge: Israel (Tel Aviv) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.12xlarge: Israel (Tel Aviv) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.16xlarge: Israel (Tel Aviv) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.2xlarge: Israel (Tel Aviv) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.4xlarge: Israel (Tel Aviv) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.8xlarge: Israel (Tel Aviv) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.large: Israel (Tel Aviv) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.xlarge: Israel (Tel Aviv) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [General purpose OnDemand] OnDemand-instancetype-db.t3.medium: Israel (Tel Aviv) (Memory: 4 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.t3.medium) 🌎
+  - Region added for metric [General purpose OnDemand] OnDemand-instancetype-db.t4g.medium: Israel (Tel Aviv) (Memory: 4 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.12xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.12xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.16xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.16xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.24xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 768 GiB, CPU: 96, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.24xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.2xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.2xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.4xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.4xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.8xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.8xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.large IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.large) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.12xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.16xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.2xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.4xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.8xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.large IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.xlarge IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [General purpose OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.t3.medium IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 4 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.t3.medium) 🌎
+  - Region added for metric [General purpose OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.t4g.medium IO-Optimized-DocDB: Israel (Tel Aviv) (Memory: 4 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.12xlarge NVMe SSD: Israel (Tel Aviv) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.12xlarge, Instance Storage: 2 x 1425 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.16xlarge NVMe SSD: Israel (Tel Aviv) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.16xlarge, Instance Storage: 2 x 1900 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.2xlarge NVMe SSD: Israel (Tel Aviv) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.2xlarge, Instance Storage: 1 x 474 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.4xlarge NVMe SSD: Israel (Tel Aviv) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.4xlarge, Instance Storage: 1 x 950 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.8xlarge NVMe SSD: Israel (Tel Aviv) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.8xlarge, Instance Storage: 1 x 1900 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.xlarge NVMe SSD: Israel (Tel Aviv) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.xlarge, Instance Storage: 1 x 237 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.12xlarge NVMe SSD IO-Optimized: Israel (Tel Aviv) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.12xlarge, Instance Storage: 2 x 1425 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.16xlarge NVMe SSD IO-Optimized: Israel (Tel Aviv) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.16xlarge, Instance Storage: 2 x 1900 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.2xlarge NVMe SSD IO-Optimized: Israel (Tel Aviv) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.2xlarge, Instance Storage: 1 x 474 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.4xlarge NVMe SSD IO-Optimized: Israel (Tel Aviv) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.4xlarge, Instance Storage: 1 x 950 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.8xlarge NVMe SSD IO-Optimized: Israel (Tel Aviv) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.8xlarge, Instance Storage: 1 x 1900 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.xlarge NVMe SSD IO-Optimized: Israel (Tel Aviv) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.xlarge, Instance Storage: 1 x 237 NVMe SSD) 🌎
+  - Region added for metric 1 million IO requests: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage: Israel (Tel Aviv) 🌎
+  - Region added for metric Global Cluster Replicated IO per IOs: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage IO-Optimized-DocDB: Israel (Tel Aviv) 🌎
+  - Region added for metric Storage Snapshot: Israel (Tel Aviv) 🌎
+
+
 ## 2025-06-18 18:27
 
 **Modified services:**

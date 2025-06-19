@@ -1,3 +1,46 @@
+## 2025-06-19 22:26
+
+**Modified services:**
+
+- [neptune](processed/neptune.json)
+  - Price changed: [Neptune Memory Optimized Current Generation] US West (N. California) (Instance Type: db.r8g.12xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] US West (N. California) (Instance Type: db.r8g.16xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] US West (N. California) (Instance Type: db.r8g.24xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] US West (N. California) (Instance Type: db.r8g.2xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] US West (N. California) (Instance Type: db.r8g.48xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] US West (N. California) (Instance Type: db.r8g.4xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] US West (N. California) (Instance Type: db.r8g.8xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] US West (N. California) (Instance Type: db.r8g.large) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] US West (N. California) (Instance Type: db.r8g.xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] AWS GovCloud (US) (Instance Type: db.r8g.12xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] AWS GovCloud (US) (Instance Type: db.r8g.16xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] AWS GovCloud (US) (Instance Type: db.r8g.24xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] AWS GovCloud (US) (Instance Type: db.r8g.2xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] AWS GovCloud (US) (Instance Type: db.r8g.48xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] AWS GovCloud (US) (Instance Type: db.r8g.4xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] AWS GovCloud (US) (Instance Type: db.r8g.8xlarge) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] AWS GovCloud (US) (Instance Type: db.r8g.large) 💰
+  - Price changed: [Neptune Memory Optimized Current Generation] AWS GovCloud (US) (Instance Type: db.r8g.xlarge) 💰
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: US West (N. California) (Instance Type: db.r8g.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: US West (N. California) (Instance Type: db.r8g.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: US West (N. California) (Instance Type: db.r8g.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: US West (N. California) (Instance Type: db.r8g.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: US West (N. California) (Instance Type: db.r8g.48xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: US West (N. California) (Instance Type: db.r8g.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: US West (N. California) (Instance Type: db.r8g.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: US West (N. California) (Instance Type: db.r8g.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: US West (N. California) (Instance Type: db.r8g.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: AWS GovCloud (US) (Instance Type: db.r8g.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: AWS GovCloud (US) (Instance Type: db.r8g.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: AWS GovCloud (US) (Instance Type: db.r8g.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: AWS GovCloud (US) (Instance Type: db.r8g.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: AWS GovCloud (US) (Instance Type: db.r8g.48xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: AWS GovCloud (US) (Instance Type: db.r8g.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: AWS GovCloud (US) (Instance Type: db.r8g.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: AWS GovCloud (US) (Instance Type: db.r8g.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: AWS GovCloud (US) (Instance Type: db.r8g.xlarge) 🌎
+
+
 ## 2025-06-19 21:26
 
 **Modified services:**

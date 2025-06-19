@@ -1,3 +1,61 @@
+## 2025-06-19 17:26
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-24xl: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-24xl: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.2xlarge: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.2xlarge: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.8xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.8xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.8xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.16xlarge: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.16xlarge: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.12xlarge: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.12xlarge: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.16xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.16xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.16xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.medium: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.medium: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.24xlarge: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.24xlarge: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.large: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.large: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.12xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.12xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.12xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.4xlarge: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.4xlarge: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.8xlarge: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.8xlarge: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-48xl: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-48xl: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.48xlarge: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.48xlarge: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.large: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.large: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.large: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.2xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.2xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.2xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.metal: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.metal: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.metal: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.xlarge: Canada (Central) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.xlarge: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.medium: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.medium: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.medium: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.4xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.4xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.4xlarge: Asia Pacific (Jakarta) 🌎
+
+
 ## 2025-06-19 02:54
 
 **Modified services:**

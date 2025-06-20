@@ -1,3 +1,11 @@
+## 2025-06-20 17:26
+
+**Modified services:**
+
+- [amplify](processed/amplify.json)
+  - Billing metric added:  💡
+
+
 ## 2025-06-20 07:26
 
 **Modified services:**

@@ -1,3 +1,32 @@
+## 2025-06-20 07:26
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c7i.large: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.large: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.48xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.48xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.8xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.8xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.16xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.16xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-48xl: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-48xl: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-24xl: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-24xl: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.4xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.4xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.12xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.12xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.2xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.2xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.24xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.24xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.xlarge: Asia Pacific (Hong Kong) 🌎
+
+
 ## 2025-06-20 03:38
 
 **Modified services:**

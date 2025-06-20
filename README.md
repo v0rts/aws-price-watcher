@@ -1,3 +1,12 @@
+## 2025-06-20 22:26
+
+**Modified services:**
+
+- [rds-flex-ondemand](processed/rds-flex-ondemand.json)
+  - Region added for metric SOnMKHta1PUI2wmffRYwNgJvS92pmSm_Ig59cia29AE V2: US West (N. California) 🌎
+  - Region added for metric SQL Server Enterprise Single-AZ General Purpose SSD GB-Mo: US West (N. California) 🌎
+
+
 ## 2025-06-20 21:25
 
 **Modified services:**

@@ -1,3 +1,47 @@
+## 2025-06-20 21:25
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Price decreased: OnDemand Linux-instancetype-c7i.large EU (Spain)  **$0.10** → **$0.10** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i-flex.2xlarge EU (Spain)  **$0.38** → **$0.36** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i.48xlarge EU (Spain)  **$9.68** → **$9.19** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.2xlarge EU (Spain)  **$0.46** → **$0.44** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.12xlarge EU (Spain)  **$2.78** → **$2.64** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.32xlarge EU (Spain)  **$7.42** → **$7.05** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.8xlarge EU (Spain)  **$1.85** → **$1.76** 💸
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: Asia Pacific (Melbourne) 🌎
+  - Price decreased: OnDemand Linux-instancetype-c7a.large EU (Spain)  **$0.12** → **$0.11** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.24xlarge EU (Spain)  **$5.56** → **$5.28** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i.8xlarge EU (Spain)  **$1.61** → **$1.53** 💸
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: Asia Pacific (Melbourne) 🌎
+  - Price decreased: OnDemand Linux-instancetype-c7i-flex.large EU (Spain)  **$0.10** → **$0.09** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i.16xlarge EU (Spain)  **$3.23** → **$3.06** 💸
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: Asia Pacific (Melbourne) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: Asia Pacific (Melbourne) 🌎
+  - Price decreased: OnDemand Linux-instancetype-c7i-flex.8xlarge EU (Spain)  **$1.53** → **$1.46** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i.metal-48xl EU (Spain)  **$9.68** → **$9.19** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i-flex.xlarge EU (Spain)  **$0.19** → **$0.18** 💸
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: Asia Pacific (Melbourne) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: Asia Pacific (Melbourne) 🌎
+  - Price decreased: OnDemand Linux-instancetype-c7i.metal-24xl EU (Spain)  **$4.84** → **$4.60** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.4xlarge EU (Spain)  **$0.93** → **$0.88** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.xlarge EU (Spain)  **$0.23** → **$0.22** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.medium EU (Spain)  **$0.06** → **$0.06** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i.4xlarge EU (Spain)  **$0.81** → **$0.77** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.metal-48xl EU (Spain)  **$11.13** → **$10.57** 💸
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: Asia Pacific (Melbourne) 🌎
+  - Price decreased: OnDemand Linux-instancetype-c7i-flex.4xlarge EU (Spain)  **$0.77** → **$0.73** 💸
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: Asia Pacific (Melbourne) 🌎
+  - Price decreased: OnDemand Linux-instancetype-c7i.12xlarge EU (Spain)  **$2.42** → **$2.30** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7a.16xlarge EU (Spain)  **$3.71** → **$3.52** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i.2xlarge EU (Spain)  **$0.40** → **$0.38** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i.24xlarge EU (Spain)  **$4.84** → **$4.60** 💸
+  - Price decreased: OnDemand Linux-instancetype-c7i.xlarge EU (Spain)  **$0.20** → **$0.19** 💸
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: Asia Pacific (Melbourne) 🌎
+  - Price decreased: OnDemand Linux-instancetype-c7a.48xlarge EU (Spain)  **$11.13** → **$10.57** 💸
+
+
 ## 2025-06-20 17:26
 
 **Modified services:**

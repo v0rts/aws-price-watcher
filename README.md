@@ -1,3 +1,26 @@
+## 2025-06-20 01:57
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-m7i.12xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.8xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.metal-48xl: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.24xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.2xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.16xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.4xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.8xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.4xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.large: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.48xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.metal-24xl: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.large: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.2xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.xlarge: Asia Pacific (Hong Kong) 🌎
+
+
 ## 2025-06-19 22:26
 
 **Modified services:**

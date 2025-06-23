@@ -1,3 +1,49 @@
+## 2025-06-23 16:27
+
+**Modified services:**
+
+- [appsync](processed/appsync.json)
+  - Region added for metric API Calls CacheMemorySize 25 05 per Hrs: Canada West (Calgary) 🌎
+  - Region added for metric API Calls CacheMemorySize 25 05 per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric API Calls CacheMemorySize 25 05 per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric RealTime Updates per Messages: Canada West (Calgary) 🌎
+  - Region added for metric RealTime Updates per Messages: Asia Pacific (Thailand) 🌎
+  - Region added for metric RealTime Updates per Messages: Asia Pacific (Malaysia) 🌎
+  - Region added for metric API Calls CacheMemorySize 317 77 per Hrs: Canada West (Calgary) 🌎
+  - Region added for metric API Calls CacheMemorySize 317 77 per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric API Calls CacheMemorySize 317 77 per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric API Calls CacheMemorySize 203 26 per Hrs: Canada West (Calgary) 🌎
+  - Region added for metric API Calls CacheMemorySize 203 26 per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric API Calls CacheMemorySize 203 26 per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric RealTime Connection per Minutes: Canada West (Calgary) 🌎
+  - Region added for metric RealTime Connection per Minutes: Asia Pacific (Thailand) 🌎
+  - Region added for metric RealTime Connection per Minutes: Asia Pacific (Malaysia) 🌎
+  - Region added for metric API Calls CacheMemorySize 12 3 per Hrs: Canada West (Calgary) 🌎
+  - Region added for metric API Calls CacheMemorySize 12 3 per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric API Calls CacheMemorySize 12 3 per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric API Query and Data Modifications Operations: Canada West (Calgary) 🌎
+  - Region added for metric API Query and Data Modifications Operations: Asia Pacific (Thailand) 🌎
+  - Region added for metric API Query and Data Modifications Operations: Asia Pacific (Malaysia) 🌎
+  - Region added for metric RealTime per Operation: Canada West (Calgary) 🌎
+  - Region added for metric RealTime per Operation: Asia Pacific (Thailand) 🌎
+  - Region added for metric RealTime per Operation: Asia Pacific (Malaysia) 🌎
+  - Region added for metric API Calls CacheMemorySize 50 47 per Hrs: Canada West (Calgary) 🌎
+  - Region added for metric API Calls CacheMemorySize 50 47 per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric API Calls CacheMemorySize 50 47 per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric API Calls CacheMemorySize 101 38 per Hrs: Canada West (Calgary) 🌎
+  - Region added for metric API Calls CacheMemorySize 101 38 per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric API Calls CacheMemorySize 101 38 per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric RealTime per Minute: Canada West (Calgary) 🌎
+  - Region added for metric RealTime per Minute: Asia Pacific (Thailand) 🌎
+  - Region added for metric RealTime per Minute: Asia Pacific (Malaysia) 🌎
+  - Region added for metric API Calls CacheMemorySize 3 22 per Hrs: Canada West (Calgary) 🌎
+  - Region added for metric API Calls CacheMemorySize 3 22 per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric API Calls CacheMemorySize 3 22 per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric API Calls CacheMemorySize 1 55 per Hrs: Canada West (Calgary) 🌎
+  - Region added for metric API Calls CacheMemorySize 1 55 per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric API Calls CacheMemorySize 1 55 per Hrs: Asia Pacific (Malaysia) 🌎
+
+
 ## 2025-06-20 22:26
 
 **Modified services:**

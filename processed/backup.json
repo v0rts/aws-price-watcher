@@ -6518,7 +6518,8 @@
         "Asia Pacific (Seoul) (To Location: AWS GovCloud (US))": "0.0800000000",
         "Asia Pacific (Osaka) (To Location: AWS GovCloud (US))": "0.0900000000",
         "Asia Pacific (Mumbai) (To Location: AWS GovCloud (US))": "0.0860000000",
-        "Asia Pacific (Malaysia) (To Location: AWS GovCloud (US))": "0.0800000000"
+        "Asia Pacific (Malaysia) (To Location: AWS GovCloud (US))": "0.0800000000",
+        "AWS GovCloud (US-East) (To Location: AWS GovCloud (US))": "0.0300000000"
     },
     "[S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to GovCloud US-East": {
         "US West (Oregon) (To Location: AWS GovCloud (US-East))": "0.0200000000",
@@ -6541,7 +6542,8 @@
         "Asia Pacific (Seoul) (To Location: AWS GovCloud (US-East))": "0.0800000000",
         "Asia Pacific (Osaka) (To Location: AWS GovCloud (US-East))": "0.0900000000",
         "Asia Pacific (Mumbai) (To Location: AWS GovCloud (US-East))": "0.0860000000",
-        "Asia Pacific (Malaysia) (To Location: AWS GovCloud (US-East))": "0.0800000000"
+        "Asia Pacific (Malaysia) (To Location: AWS GovCloud (US-East))": "0.0800000000",
+        "AWS GovCloud (US) (To Location: AWS GovCloud (US-East))": "0.0300000000"
     },
     "[S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Africa Cape Town": {
         "US West (Oregon) (To Location: Africa (Cape Town))": "0.0200000000",

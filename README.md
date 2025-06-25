@@ -1,3 +1,19 @@
+## 2025-06-25 22:26
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c7g.16xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.2xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.4xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.metal: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.large: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.medium: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.8xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.12xlarge: Israel (Tel Aviv) 🌎
+
+
 ## 2025-06-25 21:26
 
 **Modified services:**

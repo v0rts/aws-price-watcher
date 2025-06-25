@@ -1,3 +1,46 @@
+## 2025-06-25 21:26
+
+**Modified services:**
+
+- [elasticmapreduce](processed/elasticmapreduce.json)
+  - Region added for metric Instance-instancetype-x2idn.32xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric Instance-instancetype-x2idn.32xlarge: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Instance-instancetype-x2idn.16xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric Instance-instancetype-x2idn.16xlarge: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Instance-instancetype-r7g.xlarge: Middle East (UAE) 🌎
+  - Region added for metric Instance-instancetype-r7g.xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric Instance-instancetype-r7g.xlarge: EU (Zurich) 🌎
+  - Region added for metric Instance-instancetype-r7g.xlarge: Canada West (Calgary) 🌎
+  - Region added for metric Instance-instancetype-r7g.xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Instance-instancetype-r7g.2xlarge: Middle East (UAE) 🌎
+  - Region added for metric Instance-instancetype-r7g.2xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric Instance-instancetype-r7g.2xlarge: EU (Zurich) 🌎
+  - Region added for metric Instance-instancetype-r7g.2xlarge: Canada West (Calgary) 🌎
+  - Region added for metric Instance-instancetype-r7g.2xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Instance-instancetype-x2idn.24xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric Instance-instancetype-x2idn.24xlarge: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Instance-instancetype-r7g.16xlarge: Middle East (UAE) 🌎
+  - Region added for metric Instance-instancetype-r7g.16xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric Instance-instancetype-r7g.16xlarge: EU (Zurich) 🌎
+  - Region added for metric Instance-instancetype-r7g.16xlarge: Canada West (Calgary) 🌎
+  - Region added for metric Instance-instancetype-r7g.16xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Instance-instancetype-r7g.8xlarge: Middle East (UAE) 🌎
+  - Region added for metric Instance-instancetype-r7g.8xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric Instance-instancetype-r7g.8xlarge: EU (Zurich) 🌎
+  - Region added for metric Instance-instancetype-r7g.8xlarge: Canada West (Calgary) 🌎
+  - Region added for metric Instance-instancetype-r7g.8xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Instance-instancetype-r7g.4xlarge: Middle East (UAE) 🌎
+  - Region added for metric Instance-instancetype-r7g.4xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric Instance-instancetype-r7g.4xlarge: EU (Zurich) 🌎
+  - Region added for metric Instance-instancetype-r7g.4xlarge: Canada West (Calgary) 🌎
+  - Region added for metric Instance-instancetype-r7g.4xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Instance-instancetype-r7g.12xlarge: Middle East (UAE) 🌎
+  - Region added for metric Instance-instancetype-r7g.12xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric Instance-instancetype-r7g.12xlarge: EU (Zurich) 🌎
+  - Region added for metric Instance-instancetype-r7g.12xlarge: Canada West (Calgary) 🌎
+  - Region added for metric Instance-instancetype-r7g.12xlarge: Asia Pacific (Jakarta) 🌎
+
+
 ## 2025-06-24 21:26
 
 **Modified services:**

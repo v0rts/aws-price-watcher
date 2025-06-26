@@ -1,3 +1,21 @@
+## 2025-06-26 19:25
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c7i.large: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.48xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.8xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.16xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-48xl: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-24xl: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.4xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.12xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.2xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.24xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.xlarge: Middle East (UAE) 🌎
+
+
 ## 2025-06-26 17:26
 
 **Modified services:**

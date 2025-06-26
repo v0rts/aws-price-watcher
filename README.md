@@ -1,3 +1,44 @@
+## 2025-06-26 16:27
+
+**Modified services:**
+
+- [backup](processed/backup.json)
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Canada (Central)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: EU (London)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: EU (Milan)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: EU (Paris)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: EU (Spain)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: US West (N. California)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: US West (Oregon)) 🌎
+
+
 ## 2025-06-26 15:26
 
 **Modified services:**

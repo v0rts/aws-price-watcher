@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudhsm",
         "accessType": "publish",
-        "esIndex": "plc-cloudhsm-usd-20250225000244",
-        "hawkFilePublicationDate": "2025-02-24T21:25:39Z",
-        "ETLIngestionTriggerDate": "2025-02-25T00:02:44Z",
+        "esIndex": "plc-cloudhsm-usd-20250626171250",
+        "hawkFilePublicationDate": "2025-06-26T17:12:50Z",
+        "ETLIngestionTriggerDate": "2025-06-26T17:12:50Z",
         "currencyCode": "USD",
         "source": "cloudhsm",
         "isMapped": "true"
@@ -338,6 +338,18 @@
             "CloudHSM Hourly": {
                 "rateCode": "R3FND3SGFTDRNQH5.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.4000000000",
+                "RegionlessRateCode": "-WPQlEP8cGa04OIFDqo9glg53GgmMjFnjzSg455fUAY"
+            }
+        },
+        "EU (Spain)": {
+            "-WPQlEP8cGa04OIFDqo9glg53GgmMjFnjzSg455fUAY": {
+                "rateCode": "RPF2259E97R82QHU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4700000000",
+                "RegionlessRateCode": "-WPQlEP8cGa04OIFDqo9glg53GgmMjFnjzSg455fUAY"
+            },
+            "CloudHSM Hourly": {
+                "rateCode": "RPF2259E97R82QHU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4700000000",
                 "RegionlessRateCode": "-WPQlEP8cGa04OIFDqo9glg53GgmMjFnjzSg455fUAY"
             }
         },

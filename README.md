@@ -1,3 +1,11 @@
+## 2025-06-26 17:26
+
+**Modified services:**
+
+- [cloudhsm](processed/cloudhsm.json)
+  - Region added for metric CloudHSM Hourly: EU (Spain) 🌎
+
+
 ## 2025-06-26 16:27
 
 **Modified services:**

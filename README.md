@@ -1,3 +1,694 @@
+## 2025-06-26 15:26
+
+**Modified services:**
+
+- [contactcentertelecomm](processed/contactcentertelecomm.json)
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Afghanistan 0 Inf: Asia Pacific (Osaka) (Country: Afghanistan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Albania 0 Inf: Asia Pacific (Osaka) (Country: Albania) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Algeria 0 Inf: Asia Pacific (Osaka) (Country: Algeria) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll American Samoa 0 Inf: Asia Pacific (Osaka) (Country: American Samoa) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Andorra 0 Inf: Asia Pacific (Osaka) (Country: Andorra) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Angola 0 Inf: Asia Pacific (Osaka) (Country: Angola) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Anguilla 0 Inf: Asia Pacific (Osaka) (Country: Anguilla) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Antarctica 0 Inf: Asia Pacific (Osaka) (Country: Antarctica) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Antigua and Barbuda 0 Inf: Asia Pacific (Osaka) (Country: Antigua and Barbuda) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Argentina 0 Inf: Asia Pacific (Osaka) (Country: Argentina) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Armenia 0 Inf: Asia Pacific (Osaka) (Country: Armenia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Aruba 0 Inf: Asia Pacific (Osaka) (Country: Aruba) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Ascension Island 0 Inf: Asia Pacific (Osaka) (Country: Ascension Island) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Australia 0 Inf: Asia Pacific (Osaka) (Country: Australia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Austria 0 Inf: Asia Pacific (Osaka) (Country: Austria) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Azerbaijan 0 Inf: Asia Pacific (Osaka) (Country: Azerbaijan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Bahamas 0 Inf: Asia Pacific (Osaka) (Country: Bahamas) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Bahrain 0 Inf: Asia Pacific (Osaka) (Country: Bahrain) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Bangladesh 0 Inf: Asia Pacific (Osaka) (Country: Bangladesh) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Barbados 0 Inf: Asia Pacific (Osaka) (Country: Barbados) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Belarus 0 Inf: Asia Pacific (Osaka) (Country: Belarus) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Belgium 0 Inf: Asia Pacific (Osaka) (Country: Belgium) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Belize 0 Inf: Asia Pacific (Osaka) (Country: Belize) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Benin 0 Inf: Asia Pacific (Osaka) (Country: Benin) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Bermuda 0 Inf: Asia Pacific (Osaka) (Country: Bermuda) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Bhutan 0 Inf: Asia Pacific (Osaka) (Country: Bhutan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Bolivia 0 Inf: Asia Pacific (Osaka) (Country: Bolivia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Bosnia and Herzegovina 0 Inf: Asia Pacific (Osaka) (Country: Bosnia and Herzegovina) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Botswana 0 Inf: Asia Pacific (Osaka) (Country: Botswana) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Brazil 0 Inf: Asia Pacific (Osaka) (Country: Brazil) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll British Virgin Islands 0 Inf: Asia Pacific (Osaka) (Country: British Virgin Islands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Bulgaria 0 Inf: Asia Pacific (Osaka) (Country: Bulgaria) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Burkina Faso 0 Inf: Asia Pacific (Osaka) (Country: Burkina Faso) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Burundi 0 Inf: Asia Pacific (Osaka) (Country: Burundi) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Cambodia 0 Inf: Asia Pacific (Osaka) (Country: Cambodia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Cameroon 0 Inf: Asia Pacific (Osaka) (Country: Cameroon) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Canada 0 Inf: Asia Pacific (Osaka) (Country: Canada) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Cape Verde 0 Inf: Asia Pacific (Osaka) (Country: Cape Verde) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Cayman Islands 0 Inf: Asia Pacific (Osaka) (Country: Cayman Islands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Central African Republic 0 Inf: Asia Pacific (Osaka) (Country: Central African Republic) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Chad 0 Inf: Asia Pacific (Osaka) (Country: Chad) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Chile 0 Inf: Asia Pacific (Osaka) (Country: Chile) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Christmas Island 0 Inf: Asia Pacific (Osaka) (Country: Christmas Island) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Colombia 0 Inf: Asia Pacific (Osaka) (Country: Colombia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Comoros 0 Inf: Asia Pacific (Osaka) (Country: Comoros) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Congo 0 Inf: Asia Pacific (Osaka) (Country: Congo) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Cook Islands 0 Inf: Asia Pacific (Osaka) (Country: Cook Islands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Costa Rica 0 Inf: Asia Pacific (Osaka) (Country: Costa Rica) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Croatia 0 Inf: Asia Pacific (Osaka) (Country: Croatia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Cuba 0 Inf: Asia Pacific (Osaka) (Country: Cuba) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Curacao 0 Inf: Asia Pacific (Osaka) (Country: Curacao) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Cyprus 0 Inf: Asia Pacific (Osaka) (Country: Cyprus) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Czech Republic 0 Inf: Asia Pacific (Osaka) (Country: Czech Republic) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Democratic Republic of Congo 0 Inf: Asia Pacific (Osaka) (Country: Democratic Republic of Congo) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Denmark 0 Inf: Asia Pacific (Osaka) (Country: Denmark) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Diego Garcia 0 Inf: Asia Pacific (Osaka) (Country: Diego Garcia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Djibouti 0 Inf: Asia Pacific (Osaka) (Country: Djibouti) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Dominica 0 Inf: Asia Pacific (Osaka) (Country: Dominica) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Dominican Republic 0 Inf: Asia Pacific (Osaka) (Country: Dominican Republic) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll East Timor 0 Inf: Asia Pacific (Osaka) (Country: East Timor) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Ecuador 0 Inf: Asia Pacific (Osaka) (Country: Ecuador) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Egypt 0 Inf: Asia Pacific (Osaka) (Country: Egypt) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll El Salvador 0 Inf: Asia Pacific (Osaka) (Country: El Salvador) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Equatorial Guinea 0 Inf: Asia Pacific (Osaka) (Country: Equatorial Guinea) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Eritrea 0 Inf: Asia Pacific (Osaka) (Country: Eritrea) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Estonia 0 Inf: Asia Pacific (Osaka) (Country: Estonia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Ethiopia 0 Inf: Asia Pacific (Osaka) (Country: Ethiopia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Falkland Islands 0 Inf: Asia Pacific (Osaka) (Country: Falkland Islands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Faroe Islands 0 Inf: Asia Pacific (Osaka) (Country: Faroe Islands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Fiji 0 Inf: Asia Pacific (Osaka) (Country: Fiji) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Finland 0 Inf: Asia Pacific (Osaka) (Country: Finland) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll France 0 Inf: Asia Pacific (Osaka) (Country: France) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll French Guiana 0 Inf: Asia Pacific (Osaka) (Country: French Guiana) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll French Polynesia 0 Inf: Asia Pacific (Osaka) (Country: French Polynesia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Gabon 0 Inf: Asia Pacific (Osaka) (Country: Gabon) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Gambia 0 Inf: Asia Pacific (Osaka) (Country: Gambia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Georgia 0 Inf: Asia Pacific (Osaka) (Country: Georgia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Germany 0 Inf: Asia Pacific (Osaka) (Country: Germany) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Ghana 0 Inf: Asia Pacific (Osaka) (Country: Ghana) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Gibraltar 0 Inf: Asia Pacific (Osaka) (Country: Gibraltar) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Greece 0 Inf: Asia Pacific (Osaka) (Country: Greece) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Greenland 0 Inf: Asia Pacific (Osaka) (Country: Greenland) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Grenada 0 Inf: Asia Pacific (Osaka) (Country: Grenada) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Guadeloupe 0 Inf: Asia Pacific (Osaka) (Country: Guadeloupe) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Guam 0 Inf: Asia Pacific (Osaka) (Country: Guam) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Guatemala 0 Inf: Asia Pacific (Osaka) (Country: Guatemala) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Guinea 0 Inf: Asia Pacific (Osaka) (Country: Guinea) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Guinea-Bissau 0 Inf: Asia Pacific (Osaka) (Country: Guinea-Bissau) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Guyana 0 Inf: Asia Pacific (Osaka) (Country: Guyana) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Haiti 0 Inf: Asia Pacific (Osaka) (Country: Haiti) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Honduras 0 Inf: Asia Pacific (Osaka) (Country: Honduras) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Hong Kong 0 Inf: Asia Pacific (Osaka) (Country: Hong Kong) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Hungary 0 Inf: Asia Pacific (Osaka) (Country: Hungary) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Iceland 0 Inf: Asia Pacific (Osaka) (Country: Iceland) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll India 0 Inf: Asia Pacific (Osaka) (Country: India) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Indonesia 0 Inf: Asia Pacific (Osaka) (Country: Indonesia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Iran 0 Inf: Asia Pacific (Osaka) (Country: Iran) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Iraq 0 Inf: Asia Pacific (Osaka) (Country: Iraq) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Ireland 0 Inf: Asia Pacific (Osaka) (Country: Ireland) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Israel 0 Inf: Asia Pacific (Osaka) (Country: Israel) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Italy 0 Inf: Asia Pacific (Osaka) (Country: Italy) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Ivory Coast 0 Inf: Asia Pacific (Osaka) (Country: Ivory Coast) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Jamaica 0 Inf: Asia Pacific (Osaka) (Country: Jamaica) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Jordan 0 Inf: Asia Pacific (Osaka) (Country: Jordan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Kazakhstan 0 Inf: Asia Pacific (Osaka) (Country: Kazakhstan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Kenya 0 Inf: Asia Pacific (Osaka) (Country: Kenya) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Kiribati 0 Inf: Asia Pacific (Osaka) (Country: Kiribati) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Kosovo 0 Inf: Asia Pacific (Osaka) (Country: Kosovo) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Kuwait 0 Inf: Asia Pacific (Osaka) (Country: Kuwait) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Kyrgyzstan 0 Inf: Asia Pacific (Osaka) (Country: Kyrgyzstan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Laos 0 Inf: Asia Pacific (Osaka) (Country: Laos) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Latvia 0 Inf: Asia Pacific (Osaka) (Country: Latvia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Lebanon 0 Inf: Asia Pacific (Osaka) (Country: Lebanon) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Lesotho 0 Inf: Asia Pacific (Osaka) (Country: Lesotho) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Liberia 0 Inf: Asia Pacific (Osaka) (Country: Liberia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Libya 0 Inf: Asia Pacific (Osaka) (Country: Libya) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Liechtenstein 0 Inf: Asia Pacific (Osaka) (Country: Liechtenstein) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Lithuania 0 Inf: Asia Pacific (Osaka) (Country: Lithuania) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Luxembourg 0 Inf: Asia Pacific (Osaka) (Country: Luxembourg) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Macedonia 0 Inf: Asia Pacific (Osaka) (Country: Macedonia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Madagascar 0 Inf: Asia Pacific (Osaka) (Country: Madagascar) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Malawi 0 Inf: Asia Pacific (Osaka) (Country: Malawi) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Malaysia 0 Inf: Asia Pacific (Osaka) (Country: Malaysia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Maldives 0 Inf: Asia Pacific (Osaka) (Country: Maldives) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Mali 0 Inf: Asia Pacific (Osaka) (Country: Mali) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Malta 0 Inf: Asia Pacific (Osaka) (Country: Malta) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Marshall Islands 0 Inf: Asia Pacific (Osaka) (Country: Marshall Islands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Martinique 0 Inf: Asia Pacific (Osaka) (Country: Martinique) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Mauritania 0 Inf: Asia Pacific (Osaka) (Country: Mauritania) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Mauritius 0 Inf: Asia Pacific (Osaka) (Country: Mauritius) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Mayotte 0 Inf: Asia Pacific (Osaka) (Country: Mayotte) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Mexico 0 Inf: Asia Pacific (Osaka) (Country: Mexico) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Micronesia 0 Inf: Asia Pacific (Osaka) (Country: Micronesia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Moldova 0 Inf: Asia Pacific (Osaka) (Country: Moldova) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Monaco 0 Inf: Asia Pacific (Osaka) (Country: Monaco) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Mongolia 0 Inf: Asia Pacific (Osaka) (Country: Mongolia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Montenegro 0 Inf: Asia Pacific (Osaka) (Country: Montenegro) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Montserrat 0 Inf: Asia Pacific (Osaka) (Country: Montserrat) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Morocco 0 Inf: Asia Pacific (Osaka) (Country: Morocco) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Mozambique 0 Inf: Asia Pacific (Osaka) (Country: Mozambique) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Myanmar 0 Inf: Asia Pacific (Osaka) (Country: Myanmar) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Namibia 0 Inf: Asia Pacific (Osaka) (Country: Namibia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Nauru 0 Inf: Asia Pacific (Osaka) (Country: Nauru) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Nepal 0 Inf: Asia Pacific (Osaka) (Country: Nepal) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Netherlands 0 Inf: Asia Pacific (Osaka) (Country: Netherlands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Netherlands Antilles 0 Inf: Asia Pacific (Osaka) (Country: Netherlands Antilles) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll New Caledonia 0 Inf: Asia Pacific (Osaka) (Country: New Caledonia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll New Zealand 0 Inf: Asia Pacific (Osaka) (Country: New Zealand) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Nicaragua 0 Inf: Asia Pacific (Osaka) (Country: Nicaragua) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Niger 0 Inf: Asia Pacific (Osaka) (Country: Niger) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Nigeria 0 Inf: Asia Pacific (Osaka) (Country: Nigeria) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Niue 0 Inf: Asia Pacific (Osaka) (Country: Niue) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Norfolk Island 0 Inf: Asia Pacific (Osaka) (Country: Norfolk Island) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll North Korea 0 Inf: Asia Pacific (Osaka) (Country: North Korea) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Northern Mariana Islands 0 Inf: Asia Pacific (Osaka) (Country: Northern Mariana Islands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Norway 0 Inf: Asia Pacific (Osaka) (Country: Norway) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Oman 0 Inf: Asia Pacific (Osaka) (Country: Oman) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Pakistan 0 Inf: Asia Pacific (Osaka) (Country: Pakistan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Palau 0 Inf: Asia Pacific (Osaka) (Country: Palau) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Panama 0 Inf: Asia Pacific (Osaka) (Country: Panama) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Papua New Guinea 0 Inf: Asia Pacific (Osaka) (Country: Papua New Guinea) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Paraguay 0 Inf: Asia Pacific (Osaka) (Country: Paraguay) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Peru 0 Inf: Asia Pacific (Osaka) (Country: Peru) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Philippines 0 Inf: Asia Pacific (Osaka) (Country: Philippines) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Poland 0 Inf: Asia Pacific (Osaka) (Country: Poland) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Portugal 0 Inf: Asia Pacific (Osaka) (Country: Portugal) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Puerto Rico 0 Inf: Asia Pacific (Osaka) (Country: Puerto Rico) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Qatar 0 Inf: Asia Pacific (Osaka) (Country: Qatar) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Reunion 0 Inf: Asia Pacific (Osaka) (Country: Reunion) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Romania 0 Inf: Asia Pacific (Osaka) (Country: Romania) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Russia 0 Inf: Asia Pacific (Osaka) (Country: Russia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Rwanda 0 Inf: Asia Pacific (Osaka) (Country: Rwanda) 🌎
+  - Region added for metric [Outbound Call Toll]: Asia Pacific (Osaka) (Country: Saint Barthelemy) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Saint Helena 0 Inf: Asia Pacific (Osaka) (Country: Saint Helena) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Saint Kitts and Nevis 0 Inf: Asia Pacific (Osaka) (Country: Saint Kitts and Nevis) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Saint Lucia 0 Inf: Asia Pacific (Osaka) (Country: Saint Lucia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Saint Pierre and Miquelon 0 Inf: Asia Pacific (Osaka) (Country: Saint Pierre and Miquelon) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Saint Vincent and Grenadines 0 Inf: Asia Pacific (Osaka) (Country: Saint Vincent and Grenadines) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Samoa 0 Inf: Asia Pacific (Osaka) (Country: Samoa) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll San Marino 0 Inf: Asia Pacific (Osaka) (Country: San Marino) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Saudi Arabia 0 Inf: Asia Pacific (Osaka) (Country: Saudi Arabia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Senegal 0 Inf: Asia Pacific (Osaka) (Country: Senegal) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Serbia 0 Inf: Asia Pacific (Osaka) (Country: Serbia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Seychelles 0 Inf: Asia Pacific (Osaka) (Country: Seychelles) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Sierra Leone 0 Inf: Asia Pacific (Osaka) (Country: Sierra Leone) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Singapore 0 Inf: Asia Pacific (Osaka) (Country: Singapore) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Sint Maarten 0 Inf: Asia Pacific (Osaka) (Country: Sint Maarten) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Slovakia 0 Inf: Asia Pacific (Osaka) (Country: Slovakia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Slovenia 0 Inf: Asia Pacific (Osaka) (Country: Slovenia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Solomon Islands 0 Inf: Asia Pacific (Osaka) (Country: Solomon Islands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Somalia 0 Inf: Asia Pacific (Osaka) (Country: Somalia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll South Africa 0 Inf: Asia Pacific (Osaka) (Country: South Africa) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll South Korea 0 Inf: Asia Pacific (Osaka) (Country: South Korea) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll South Sudan 0 Inf: Asia Pacific (Osaka) (Country: South Sudan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Spain 0 Inf: Asia Pacific (Osaka) (Country: Spain) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Sri Lanka 0 Inf: Asia Pacific (Osaka) (Country: Sri Lanka) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Sudan 0 Inf: Asia Pacific (Osaka) (Country: Sudan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Suriname 0 Inf: Asia Pacific (Osaka) (Country: Suriname) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Swaziland 0 Inf: Asia Pacific (Osaka) (Country: Swaziland) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Sweden 0 Inf: Asia Pacific (Osaka) (Country: Sweden) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Switzerland 0 Inf: Asia Pacific (Osaka) (Country: Switzerland) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Taiwan 0 Inf: Asia Pacific (Osaka) (Country: Taiwan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Tajikistan 0 Inf: Asia Pacific (Osaka) (Country: Tajikistan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Tanzania 0 Inf: Asia Pacific (Osaka) (Country: Tanzania) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Thailand 0 Inf: Asia Pacific (Osaka) (Country: Thailand) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Togo 0 Inf: Asia Pacific (Osaka) (Country: Togo) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Tokelau 0 Inf: Asia Pacific (Osaka) (Country: Tokelau) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Tonga 0 Inf: Asia Pacific (Osaka) (Country: Tonga) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Trinidad and Tobago 0 Inf: Asia Pacific (Osaka) (Country: Trinidad and Tobago) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Tunisia 0 Inf: Asia Pacific (Osaka) (Country: Tunisia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Turkey 0 Inf: Asia Pacific (Osaka) (Country: Turkey) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Turkmenistan 0 Inf: Asia Pacific (Osaka) (Country: Turkmenistan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Turks and Caicos Islands 0 Inf: Asia Pacific (Osaka) (Country: Turks and Caicos Islands) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Tuvalu 0 Inf: Asia Pacific (Osaka) (Country: Tuvalu) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Uganda 0 Inf: Asia Pacific (Osaka) (Country: Uganda) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Ukraine 0 Inf: Asia Pacific (Osaka) (Country: Ukraine) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll United Arab Emirates 0 Inf: Asia Pacific (Osaka) (Country: United Arab Emirates) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll United Kingdom 0 Inf: Asia Pacific (Osaka) (Country: United Kingdom) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Uruguay 0 Inf: Asia Pacific (Osaka) (Country: Uruguay) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Uzbekistan 0 Inf: Asia Pacific (Osaka) (Country: Uzbekistan) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Vanuatu 0 Inf: Asia Pacific (Osaka) (Country: Vanuatu) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Vietnam 0 Inf: Asia Pacific (Osaka) (Country: Vietnam) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Yemen 0 Inf: Asia Pacific (Osaka) (Country: Yemen) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Zambia 0 Inf: Asia Pacific (Osaka) (Country: Zambia) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Zimbabwe 0 Inf: Asia Pacific (Osaka) (Country: Zimbabwe) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Spain 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Germany 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Switzerland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Lithuania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call New Zealand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Iceland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Vietnam 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric UIFN UIFN Line Singapore 0 Inf ContactCenterTelecomm: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Italy 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Dominican Republic 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Colombia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Peru 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Argentina 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Estonia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Costa Rica 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Belgium 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Canada 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Latvia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Italy 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Japan 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Portugal 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call New Zealand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Hungary 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Austria 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Uruguay 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Romania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Guadeloupe 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Australia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Spain 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call French Guiana 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Japan 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Hong Kong 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Malaysia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Georgia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Czech Republic 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Cyprus 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Dominican Republic 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Italy 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Slovakia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Chile 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Mexico 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Czech Republic 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Hong Kong 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Greece 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call France 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Slovakia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Iceland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Puerto Rico 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Sweden 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Sweden 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Italy 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Poland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Barbados 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Australia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Taiwan 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Portugal 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Turks and Caicos Islands 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call France 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Venezuela 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Czech Republic 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Nicaragua 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Malaysia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line El Salvador 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Guatemala 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Finland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Luxembourg 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Colombia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Anguilla 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Panama 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Nicaragua 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Estonia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Slovenia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Thailand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Greece 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Germany 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Romania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Cyprus 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Latvia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Belgium 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Czech Republic 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Ireland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Indonesia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Spain 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Germany 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Colombia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line United Kingdom 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line South Africa 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Peru 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Belarus 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Singapore UIFN Inbound Call: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Netherlands 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line El Salvador 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Hungary 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Romania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Slovenia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Peru 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Bahamas 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Australia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Poland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Cyprus 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Denmark 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Canada 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Denmark 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Colombia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Georgia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Billing metric added: Outbound Call Toll US Virgin Islands 0 Inf 💡
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Italy 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Puerto Rico 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Luxembourg 0 Inf: Asia Pacific (Osaka) 🌎
+  - Billing metric added: Outbound Call Toll Venezuela 0 Inf 💡
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Japan 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Serbia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Netherlands 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Saint Lucia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Bonaire 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Mayotte 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Chile 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Israel 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Costa Rica 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Greece 0 Inf: Asia Pacific (Osaka) 🌎
+  - Billing metric added: Outbound Call Toll Palestine 0 Inf 💡
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Latvia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Saint Martin 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Austria 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Macedonia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Puerto Rico 0 Inf: Asia Pacific (Osaka) 🌎
+  - Billing metric added: Outbound Call Toll Brunei 0 Inf 💡
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Singapore 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Portugal 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Slovakia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Philippines 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Croatia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Anguilla 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Dominican Republic 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Brunei 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Curacao 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Luxembourg 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Ireland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Panama 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Mexico 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Nicaragua 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call El Salvador 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Philippines 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Netherlands 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Jamaica 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Trinidad and Tobago 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Latvia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Nicaragua 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Uruguay 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Latvia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call United Kingdom 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line New Zealand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Panama 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Singapore 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric Toll Free Inbound Call Singapore ContactCenterTelecomm: Asia Pacific (Osaka) 🌎
+  - Region added for metric Toll Free Inbound Call Singapore ContactCenterTelecomm 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Australia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Costa Rica 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Costa Rica 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Saint Pierre and Miquelon 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Ecuador 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line South Korea 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call South Korea 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Brazil 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Venezuela 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line France 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Hong Kong 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Greece 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Malaysia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Slovakia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Croatia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Germany 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Switzerland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Austria 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Lithuania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Sint Maarten 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Spain 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Iceland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Ireland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Slovenia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Argentina 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Panama 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Argentina 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Luxembourg 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Costa Rica 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Dominican Republic 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Ecuador 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Switzerland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Peru 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Estonia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Thailand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Canada 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Colombia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Taiwan 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Canada 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line French Guiana 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Canada 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Malaysia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call South Africa 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Costa Rica 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Antigua and Barbuda 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Brazil 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Austria 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Trinidad and Tobago 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Spain 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Monaco 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Netherlands 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Switzerland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Argentina 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Singapore 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric Toll Free Toll Free Line Singapore ContactCenterTelecomm: Asia Pacific (Osaka) 🌎
+  - Region added for metric Toll Free Toll Free Line Singapore 0 Inf ContactCenterTelecomm: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Reunion 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Thailand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line China 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call France 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Australia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Macau 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Curacao 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line United Kingdom 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Serbia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call El Salvador 0 Inf: Asia Pacific (Osaka) 🌎
+  - Billing metric added: Outbound Call Toll Western Sahara 0 Inf 💡
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Sint Maarten 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Greece 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Vietnam 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Barbados 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Ecuador 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Hungary 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Australia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Brunei 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Macedonia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Monaco 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Shared Shared Cost Line Argentina 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Poland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Belgium 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Peru 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call New Zealand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Mayotte 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Finland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Japan 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Bonaire 0 Inf: Asia Pacific (Osaka) 🌎
+  - Billing metric added: Outbound Call Toll Saint Martin 0 Inf 💡
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Saint Martin 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Reunion 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line France 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Antigua and Barbuda 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Iceland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Chile 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Thailand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Israel 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Lithuania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Luxembourg 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Guatemala 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Slovakia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Honduras 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Belgium 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Indonesia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Latvia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm DID DiD Line Bolivia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Romania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Lithuania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Macau 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Spain 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Thailand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call China 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Belarus 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Hungary 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Mexico 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Germany 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Mexico 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Martinique 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Argentina 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Bulgaria 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Denmark 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Shared Inbound Call Argentina 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Netherlands 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Saint Pierre and Miquelon 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Lithuania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Switzerland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Greece 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Poland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Bahamas 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Hong Kong 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Finland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Jamaica 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Germany 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Canada 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Switzerland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Lithuania 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Hungary 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Hungary 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Estonia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Saint Lucia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Chile 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Ireland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line France 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Belgium 0 Inf: Asia Pacific (Osaka) 🌎
+  - Billing metric added: Outbound Call Toll Syria 0 Inf 💡
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Estonia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Ecuador 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line United Kingdom 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Bolivia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Serbia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Cyprus 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Austria 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Finland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Denmark 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line New Zealand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Guadeloupe 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Portugal 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Indonesia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Italy 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Martinique 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Portugal 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Belgium 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Turks and Caicos Islands 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Denmark 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Puerto Rico 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call United Kingdom 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Estonia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Honduras 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Thailand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Hong Kong 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Peru 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Austria 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Serbia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Luxembourg 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line New Zealand 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Sweden 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call United Kingdom 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Sweden 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Argentina 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call Indonesia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Colombia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Denmark 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Portugal 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Hong Kong 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Singapore 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Bulgaria 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll DiD Line Slovenia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Slovakia 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Netherlands 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Singapore 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call United States 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Singapore 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Inbound Call Iceland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Billing metric added: Outbound Call Toll United States 0 Inf 💡
+  - Region added for metric ContactCenterTelecomm Toll DiD Line United States 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line Iceland 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Free Toll Free Line United States 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm Toll Inbound Call United States 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric Toll Free Inbound Call Germany ContactCenterTelecomm 0 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN UIFN Line Singapore: Asia Pacific (Osaka) 🌎
+  - Region added for metric Toll Free Inbound Call Japan 0 Inf ContactCenterTelecomm: Asia Pacific (Osaka) 🌎
+  - Region added for metric UIFN UIFN Line Germany 0 Inf ContactCenterTelecomm: Asia Pacific (Osaka) 🌎
+  - Region added for metric ContactCenterTelecomm UIFN Inbound Call Singapore: Asia Pacific (Osaka) 🌎
+  - Region added for metric UIFN Inbound Call Japan 0 Inf ContactCenterTelecomm: Asia Pacific (Osaka) 🌎
+  - Region added for metric UIFN UIFN Line Japan 0 Inf ContactCenterTelecomm: Asia Pacific (Osaka) 🌎
+  - Region added for metric UIFN Inbound Call Germany 0 Inf ContactCenterTelecomm: Asia Pacific (Osaka) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Japan 30 Inf: Asia Pacific (Osaka) (Country: Japan) 🌎
+  - Region added for metric Toll DiD Line Japan 31 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric Outbound Call Toll Japan 0 30: Asia Pacific (Osaka) 🌎
+  - Region added for metric Toll Inbound Call Japan 30 Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: Asia Pacific (Osaka) (Country: Brunei Darussalam) 🌎
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: US West (Oregon) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: US East (N. Virginia) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: EU (London) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: EU (Frankfurt) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: Canada (Central) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: Asia Pacific (Tokyo) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: Asia Pacific (Sydney) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: Asia Pacific (Singapore) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: Asia Pacific (Seoul) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: Africa (Cape Town) (Country: Brunei) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Brunei 0 Inf: AWS GovCloud (US) (Country: Brunei) 💥
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: Asia Pacific (Osaka) (Country: Palestinian Territory) 🌎
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: US West (Oregon) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: US East (N. Virginia) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: EU (London) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: EU (Frankfurt) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: Canada (Central) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: Asia Pacific (Tokyo) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: Asia Pacific (Sydney) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: Asia Pacific (Singapore) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: Asia Pacific (Seoul) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: Africa (Cape Town) (Country: Palestine) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Palestine 0 Inf: AWS GovCloud (US) (Country: Palestine) 💥
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: Asia Pacific (Osaka) (Country: Saint-Martin (French part)) 🌎
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: US West (Oregon) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: US East (N. Virginia) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: EU (London) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: EU (Frankfurt) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: Canada (Central) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: Asia Pacific (Tokyo) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: Asia Pacific (Sydney) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: Asia Pacific (Singapore) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: Asia Pacific (Seoul) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: Africa (Cape Town) (Country: Saint Martin) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Saint Martin 0 Inf: AWS GovCloud (US) (Country: Saint Martin) 💥
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: Asia Pacific (Osaka) (Country: Syrian Arab Republic (Syria)) 🌎
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: US West (Oregon) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: US East (N. Virginia) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: EU (London) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: EU (Frankfurt) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: Canada (Central) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: Asia Pacific (Tokyo) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: Asia Pacific (Sydney) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: Asia Pacific (Singapore) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: Asia Pacific (Seoul) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: Africa (Cape Town) (Country: Syria) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Syria 0 Inf: AWS GovCloud (US) (Country: Syria) 💥
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: Asia Pacific (Osaka) (Country: Virgin Islands) 🌎
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: US West (Oregon) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: US East (N. Virginia) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: EU (London) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: EU (Frankfurt) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: Canada (Central) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: Asia Pacific (Tokyo) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: Asia Pacific (Sydney) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: Asia Pacific (Singapore) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: Asia Pacific (Seoul) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: Africa (Cape Town) (Country: US Virgin Islands) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll US Virgin Islands 0 Inf: AWS GovCloud (US) (Country: US Virgin Islands) 💥
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll United States 0 Inf: Asia Pacific (Osaka) (Country: United States of America) 🌎
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll United States 0 Inf: EU (London) (Country: United States) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll United States 0 Inf: EU (Frankfurt) (Country: United States) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll United States 0 Inf: Asia Pacific (Tokyo) (Country: United States) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll United States 0 Inf: Asia Pacific (Sydney) (Country: United States) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll United States 0 Inf: Asia Pacific (Singapore) (Country: United States) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll United States 0 Inf: Asia Pacific (Seoul) (Country: United States) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll United States 0 Inf: Africa (Cape Town) (Country: United States) 💥
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: Asia Pacific (Osaka) (Country: Venezuela (Bolivarian Republic of)) 🌎
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: US West (Oregon) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: US East (N. Virginia) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: EU (London) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: EU (Frankfurt) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: Canada (Central) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: Asia Pacific (Tokyo) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: Asia Pacific (Sydney) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: Asia Pacific (Singapore) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: Asia Pacific (Seoul) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: Africa (Cape Town) (Country: Venezuela) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Venezuela 0 Inf: AWS GovCloud (US) (Country: Venezuela) 💥
+  - Region added for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: Asia Pacific (Osaka) (Country: Western Samoa) 🌎
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: US West (Oregon) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: US East (N. Virginia) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: EU (London) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: EU (Frankfurt) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: Canada (Central) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: Asia Pacific (Tokyo) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: Asia Pacific (Sydney) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: Asia Pacific (Singapore) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: Asia Pacific (Seoul) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: Africa (Cape Town) (Country: Western Sahara) 💥
+  - Region removed for metric [Outbound Call Toll] Outbound Call Toll Western Sahara 0 Inf: AWS GovCloud (US) (Country: Western Sahara) 💥
+  - Billing metric added: Outbound Call Toll Isle of Man 0 Inf 💡
+  - Billing metric added: Outbound Call Toll Macau 0 Inf 💡
+  - Billing metric added: Outbound Call Toll Sao Tome and Principe 0 Inf 💡
+
+
 ## 2025-06-25 22:26
 
 **Modified services:**

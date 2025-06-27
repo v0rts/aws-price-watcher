@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "athena",
         "accessType": "publish",
-        "esIndex": "plc-athena-usd-20250415220432",
-        "hawkFilePublicationDate": "2025-04-15T22:04:32Z",
-        "ETLIngestionTriggerDate": "2025-04-15T22:04:32Z",
+        "esIndex": "plc-athena-usd-20250627181541",
+        "hawkFilePublicationDate": "2025-06-27T18:15:41Z",
+        "ETLIngestionTriggerDate": "2025-06-27T18:15:41Z",
         "currencyCode": "USD",
         "source": "athena",
         "isMapped": "true"
@@ -400,6 +400,18 @@
             "Athena Queries": {
                 "rateCode": "E2XFKV899SVSFY2W.JRTCKXETXF.6YS6EN2CT7",
                 "price": "6.5000000000",
+                "RegionlessRateCode": "lQ1qMVmRa-J588tVPftvsrKamlBAZalTLlKKbn1r_uU"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "lQ1qMVmRa-J588tVPftvsrKamlBAZalTLlKKbn1r_uU": {
+                "rateCode": "5CWBAMC9HRHSC787.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.5000000000",
+                "RegionlessRateCode": "lQ1qMVmRa-J588tVPftvsrKamlBAZalTLlKKbn1r_uU"
+            },
+            "Athena Queries": {
+                "rateCode": "5CWBAMC9HRHSC787.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.5000000000",
                 "RegionlessRateCode": "lQ1qMVmRa-J588tVPftvsrKamlBAZalTLlKKbn1r_uU"
             }
         },

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "rds",
         "accessType": "publish",
-        "esIndex": "plc-rds-usd-20250627171318",
-        "hawkFilePublicationDate": "2025-06-27T17:13:18Z",
-        "ETLIngestionTriggerDate": "2025-06-27T17:13:18Z",
+        "esIndex": "plc-rds-usd-20250627180551",
+        "hawkFilePublicationDate": "2025-06-27T18:05:51Z",
+        "ETLIngestionTriggerDate": "2025-06-27T18:05:51Z",
         "currencyCode": "USD",
         "source": "rds-storage",
         "isMapped": "true"
@@ -23428,7 +23428,7 @@
             },
             "A4PILTtVZ4FKi6wjOiOtHj_dmKtIubiZ4xv2O0IPVD8": {
                 "rateCode": "DE667TKQNREAB3C5.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0440000000",
+                "price": "0.2160000000",
                 "RegionlessRateCode": "A4PILTtVZ4FKi6wjOiOtHj_dmKtIubiZ4xv2O0IPVD8"
             },
             "AL-f_1M_EqvaGmGRLvwDcf-vadvl3qdUzDN-K-FxDMI": {
@@ -23453,7 +23453,7 @@
             },
             "B6o_iYjRx4GB6cEnKqmYRDAQ48ZXqLKcQpZa3rSQ4oU": {
                 "rateCode": "VX5QWU6H52Z4AT45.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0660000000",
+                "price": "0.3240000000",
                 "RegionlessRateCode": "B6o_iYjRx4GB6cEnKqmYRDAQ48ZXqLKcQpZa3rSQ4oU"
             },
             "BU7_OzK7T9qVi3fiR83j70wGEMO2-9BT1k8tbhB1aq4": {
@@ -23538,12 +23538,12 @@
             },
             "JvbTDJYZ-cowsmWHUnbUDlyyiGGUksXGibCa5QXf2HM": {
                 "rateCode": "SRA6AR22B3MA87VA.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0220000000",
+                "price": "0.1080000000",
                 "RegionlessRateCode": "JvbTDJYZ-cowsmWHUnbUDlyyiGGUksXGibCa5QXf2HM"
             },
             "JwcO5-jFsraTdLcizaO1J3p5jXtXBr72jwPh3a5g3ng": {
                 "rateCode": "Q5RFGHSDGCRV266P.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0440000000",
+                "price": "0.2160000000",
                 "RegionlessRateCode": "JwcO5-jFsraTdLcizaO1J3p5jXtXBr72jwPh3a5g3ng"
             },
             "K2IXZXDu2WjwJhh4roa1NLjgXLu2_xKTE9JxqE4x-j0": {
@@ -23573,7 +23573,7 @@
             },
             "LNUGp2t-GFHA0DuJM5GTNSXrdABW1UNl6XlGvr2v1uU": {
                 "rateCode": "N46FGCDWYDKZ7644.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0220000000",
+                "price": "0.1080000000",
                 "RegionlessRateCode": "LNUGp2t-GFHA0DuJM5GTNSXrdABW1UNl6XlGvr2v1uU"
             },
             "LXb82e67E_vOPqBJQEiyx8lfuahqye2Wmnnfuit2LD0": {
@@ -23633,7 +23633,7 @@
             },
             "RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I": {
                 "rateCode": "2NCW7UATZX9T69MQ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0440000000",
+                "price": "0.2160000000",
                 "RegionlessRateCode": "RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I"
             },
             "SgTESMzFJqYiEIM0UpdHolL_dCgO_TsPlYilCOZ8qHA": {
@@ -23648,7 +23648,7 @@
             },
             "TDzw5mNDbR4SLJJuhynmMI2Mjfg-DbDAWkPBtXF4Au4": {
                 "rateCode": "GABBH22PTACFKTBB.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0440000000",
+                "price": "0.2160000000",
                 "RegionlessRateCode": "TDzw5mNDbR4SLJJuhynmMI2Mjfg-DbDAWkPBtXF4Au4"
             },
             "TM5eSN2IrT4-I46oFdm-4wk-wlakotIqS15vkUOvTjs": {
@@ -23748,7 +23748,7 @@
             },
             "banUqEzE98KC5FGj0VDyYhE-4dIqOIQSCmIAmhSj-2M": {
                 "rateCode": "9626UDU34V2R4C6G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0660000000",
+                "price": "0.3240000000",
                 "RegionlessRateCode": "banUqEzE98KC5FGj0VDyYhE-4dIqOIQSCmIAmhSj-2M"
             },
             "dQ23GiD4J3nTR4MYRwPK-hvKeeYi4TklDjtDnZIfams": {
@@ -23818,7 +23818,7 @@
             },
             "lzKeKwJnD0Yz8I4w4tzrLhrsbx6hT7fNUk9A2QrrYl8": {
                 "rateCode": "7ZKPA7M9EWQ3R2VW.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0220000000",
+                "price": "0.1080000000",
                 "RegionlessRateCode": "lzKeKwJnD0Yz8I4w4tzrLhrsbx6hT7fNUk9A2QrrYl8"
             },
             "m0_Blx5ykko2W-wpuJb5IsQpSO3CGGpFHsB6lW9ASVo": {
@@ -23853,7 +23853,7 @@
             },
             "qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI": {
                 "rateCode": "GU8KQV2G7BRZMBKB.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0220000000",
+                "price": "0.1080000000",
                 "RegionlessRateCode": "qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI"
             },
             "qH1Fb_w6gsIdXjYkWeTEer98-3fLmK4eh02KB5yW9eA": {
@@ -23953,7 +23953,7 @@
             },
             "xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes": {
                 "rateCode": "CW82VPH57NDRBJ98.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0440000000",
+                "price": "0.2160000000",
                 "RegionlessRateCode": "xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes"
             },
             "y3zu12WRIf-BYpj-5DNOKEQFEBM0DoM7xuF1EjzM6ug": {
@@ -23988,7 +23988,7 @@
             },
             "zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA": {
                 "rateCode": "DN69UFJC3CJENNQX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0660000000",
+                "price": "0.3240000000",
                 "RegionlessRateCode": "zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA"
             },
             "zjppDQg4OzVT8-XCauN1-1hXsVgfy2oDPNJVyTsUIv0": {
@@ -24083,7 +24083,7 @@
             },
             "Provisioned IOPS Multi AZ SQL Server Mirror": {
                 "rateCode": "2NCW7UATZX9T69MQ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0440000000",
+                "price": "0.2160000000",
                 "RegionlessRateCode": "RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I"
             },
             "Database Storage Single AZ General Purpose-GP3": {
@@ -24118,7 +24118,7 @@
             },
             "Provisioned IOPS Single AZ": {
                 "rateCode": "GU8KQV2G7BRZMBKB.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0220000000",
+                "price": "0.1080000000",
                 "RegionlessRateCode": "qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI"
             },
             "Provisioned Throughput Single AZ": {
@@ -24148,7 +24148,7 @@
             },
             "Provisioned IOPS Multi AZ": {
                 "rateCode": "CW82VPH57NDRBJ98.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0440000000",
+                "price": "0.2160000000",
                 "RegionlessRateCode": "xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes"
             },
             "Aurora PostgreSQL Aurora Global Database": {
@@ -24158,7 +24158,7 @@
             },
             "Provisioned IOPS Multi AZ readable standbys": {
                 "rateCode": "DN69UFJC3CJENNQX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0660000000",
+                "price": "0.3240000000",
                 "RegionlessRateCode": "zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA"
             }
         },

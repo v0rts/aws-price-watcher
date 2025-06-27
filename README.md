@@ -1,3 +1,105 @@
+## 2025-06-27 18:28
+
+**Modified services:**
+
+- [athena](processed/athena.json)
+  - Region added for metric Athena Queries: Asia Pacific (Taipei) 🌎
+
+- [rds-storage](processed/rds-storage.json)
+  - Price increased: Provisioned IOPS Multi AZ SQL Server Mirror Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: Provisioned IOPS Single AZ Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: Provisioned IOPS Multi AZ Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: Provisioned IOPS Multi AZ readable standbys Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+
+- [rds-db2-ondemand](processed/rds-db2-ondemand.json)
+  - Price increased: RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: fDck12ld3JbBw2xJO6tLuRQfex1eFs1TpQOmXmEdIxQ V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: wZ9jsT9kRwBueYvphKuUzEYEBlX49eFM54iXgYSbCng V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: _TfFXXD8nEFnIZI5X90B3E-uJoJRYZIxLB1c88Phqj8 V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: uvocrY677uhoqNTN8zTPCiDmwAVW2RKa-Tx_DZKt5zw V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+
+- [rds-mysql-ondemand](processed/rds-mysql-ondemand.json)
+  - Price increased: A4PILTtVZ4FKi6wjOiOtHj_dmKtIubiZ4xv2O0IPVD8 V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: B6o_iYjRx4GB6cEnKqmYRDAQ48ZXqLKcQpZa3rSQ4oU V1 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: JvbTDJYZ-cowsmWHUnbUDlyyiGGUksXGibCa5QXf2HM V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: JwcO5-jFsraTdLcizaO1J3p5jXtXBr72jwPh3a5g3ng V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: LNUGp2t-GFHA0DuJM5GTNSXrdABW1UNl6XlGvr2v1uU V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: TDzw5mNDbR4SLJJuhynmMI2Mjfg-DbDAWkPBtXF4Au4 V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: banUqEzE98KC5FGj0VDyYhE-4dIqOIQSCmIAmhSj-2M V1 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: lzKeKwJnD0Yz8I4w4tzrLhrsbx6hT7fNUk9A2QrrYl8 V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: Provisioned IOPS Multi AZ Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: Provisioned IOPS Multi AZ readable standbys Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: Provisioned IOPS Single AZ Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+
+- [rds-postgresql-ondemand](processed/rds-postgresql-ondemand.json)
+  - Price increased: A4PILTtVZ4FKi6wjOiOtHj_dmKtIubiZ4xv2O0IPVD8 V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: B6o_iYjRx4GB6cEnKqmYRDAQ48ZXqLKcQpZa3rSQ4oU V1 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: JvbTDJYZ-cowsmWHUnbUDlyyiGGUksXGibCa5QXf2HM V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: JwcO5-jFsraTdLcizaO1J3p5jXtXBr72jwPh3a5g3ng V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: LNUGp2t-GFHA0DuJM5GTNSXrdABW1UNl6XlGvr2v1uU V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: TDzw5mNDbR4SLJJuhynmMI2Mjfg-DbDAWkPBtXF4Au4 V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: banUqEzE98KC5FGj0VDyYhE-4dIqOIQSCmIAmhSj-2M V1 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: lzKeKwJnD0Yz8I4w4tzrLhrsbx6hT7fNUk9A2QrrYl8 V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: Provisioned IOPS Multi AZ Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: Provisioned IOPS Multi AZ readable standbys Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: Provisioned IOPS Single AZ Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+
+- [rds-oracle-ondemand](processed/rds-oracle-ondemand.json)
+  - Price increased: B_G5utVg_HOSd57b6lBOqdQVUkBi42KUTD8F92vFYVM V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: HbSP8qhXaA_lMSGJQQQiMAD2kj8CnfWZXcsnOx-Ikqc V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: IcOeS-yrAh5e4Bw2B6TDoAnMnxyUHje1QNeoL7oZFrw V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: jl_Mn7ryBF85V8uVTefPP6YPZQkcSbbA0H4aVXjAqT8 V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: osgyAUUOMiUGp6RB-y0hC7QUYIEr9_JH1xoboEcukaA V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: xdTwudGdcLRp-02RcOdB7K12C_wh3bpccPQXmK9b9WY V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: Provisioned IOPS Single AZ Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: Provisioned IOPS Multi AZ Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+
+- [rds-mariadb-ondemand](processed/rds-mariadb-ondemand.json)
+  - Price increased: A4PILTtVZ4FKi6wjOiOtHj_dmKtIubiZ4xv2O0IPVD8 V2 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: B6o_iYjRx4GB6cEnKqmYRDAQ48ZXqLKcQpZa3rSQ4oU V2 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: JvbTDJYZ-cowsmWHUnbUDlyyiGGUksXGibCa5QXf2HM V2 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: JwcO5-jFsraTdLcizaO1J3p5jXtXBr72jwPh3a5g3ng V2 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: LNUGp2t-GFHA0DuJM5GTNSXrdABW1UNl6XlGvr2v1uU V2 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V2 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: TDzw5mNDbR4SLJJuhynmMI2Mjfg-DbDAWkPBtXF4Au4 V2 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: banUqEzE98KC5FGj0VDyYhE-4dIqOIQSCmIAmhSj-2M V2 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: lzKeKwJnD0Yz8I4w4tzrLhrsbx6hT7fNUk9A2QrrYl8 V2 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V2 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V2 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V2 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: Provisioned IOPS Multi AZ Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: Provisioned IOPS Single AZ Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+
+- [rds-sqlserver-ondemand](processed/rds-sqlserver-ondemand.json)
+  - Price increased: 0DVIxBEnDQEZHeTrPPqc-OCCkDPljSjBKVvktMpMW1Q V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: 2QHb85pB1UNenRLBmPNLCyBrFQxhVP1HZMZTUZR4X3o V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: 3J6yWsch-jVWMPx56LOyOnRd-MAIIOFxH6P1AXY3sU0 V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: LKYVwXcvmlVQsfClOe5V1m9bD-KMkt5DZi5c1RgOkrc V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: XmtelWe9nijqA7eh5tZ-HeA9Z1V1DJRyBRyHJ7L-cSg V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: aaAyy7RfAFB74CmkUzS1FMV6vxlzeKP81KbJz5UE818 V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1 Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1 Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+  - Price increased: zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1 Asia Pacific (Taipei)  **$0.07** → **$0.32** 🤑
+  - Price increased: Provisioned IOPS Single AZ Asia Pacific (Taipei)  **$0.02** → **$0.11** 🤑
+  - Price increased: Provisioned IOPS Multi AZ SQL Server Mirror Asia Pacific (Taipei)  **$0.04** → **$0.22** 🤑
+
+
 ## 2025-06-27 17:25
 
 **Modified services:**

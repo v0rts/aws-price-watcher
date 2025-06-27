@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "rds",
         "accessType": "publish",
-        "esIndex": "plc-rds-usd-20250627171318",
-        "hawkFilePublicationDate": "2025-06-27T17:13:18Z",
-        "ETLIngestionTriggerDate": "2025-06-27T17:13:18Z",
+        "esIndex": "plc-rds-usd-20250627180551",
+        "hawkFilePublicationDate": "2025-06-27T18:05:51Z",
+        "ETLIngestionTriggerDate": "2025-06-27T18:05:51Z",
         "currencyCode": "USD",
         "source": "rds-aurora-storage",
         "isMapped": "true"
@@ -13988,7 +13988,7 @@
             },
             "RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I": {
                 "rateCode": "2NCW7UATZX9T69MQ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0440000000",
+                "price": "0.2160000000",
                 "RegionlessRateCode": "RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I"
             },
             "SzpLrSXiiTQgxc7LAumcN6_NA40diW6rrrdKMaVeR0Q": {
@@ -14083,7 +14083,7 @@
             },
             "qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI": {
                 "rateCode": "GU8KQV2G7BRZMBKB.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0220000000",
+                "price": "0.1080000000",
                 "RegionlessRateCode": "qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI"
             },
             "qH1Fb_w6gsIdXjYkWeTEer98-3fLmK4eh02KB5yW9eA": {
@@ -14123,7 +14123,7 @@
             },
             "xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes": {
                 "rateCode": "CW82VPH57NDRBJ98.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0440000000",
+                "price": "0.2160000000",
                 "RegionlessRateCode": "xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes"
             },
             "y71iS-pX7HNcJKiyxg1-cIsC1ONA3d8DFzyphqOAhfs": {
@@ -14138,7 +14138,7 @@
             },
             "zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA": {
                 "rateCode": "DN69UFJC3CJENNQX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0660000000",
+                "price": "0.3240000000",
                 "RegionlessRateCode": "zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA"
             },
             "zjppDQg4OzVT8-XCauN1-1hXsVgfy2oDPNJVyTsUIv0": {

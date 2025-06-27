@@ -1,3 +1,43 @@
+## 2025-06-27 14:26
+
+**Modified services:**
+
+- [ses](processed/ses.json)
+  - Region added for metric Email sent from AmazonEC2 to SES Mailbox Simulator: Middle East (UAE) 🌎
+  - Region added for metric Email sent from AmazonEC2 to SES Mailbox Simulator: EU (Zurich) 🌎
+  - Region added for metric Email sent from AmazonEC2 to SES Mailbox Simulator: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Email sent to an external recipient: Middle East (UAE) 🌎
+  - Region added for metric Email sent to an external recipient: EU (Zurich) 🌎
+  - Region added for metric Email sent to an external recipient: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Email sent to SES Mailbox Simulator: Middle East (UAE) 🌎
+  - Region added for metric Email sent to SES Mailbox Simulator: EU (Zurich) 🌎
+  - Region added for metric Email sent to SES Mailbox Simulator: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Dedicated IPs: Middle East (UAE) 🌎
+  - Region added for metric Dedicated IPs: EU (Zurich) 🌎
+  - Region added for metric Dedicated IPs: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Charged for attachments sent: Middle East (UAE) 🌎
+  - Region added for metric Charged for attachments sent: EU (Zurich) 🌎
+  - Region added for metric Charged for attachments sent: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Email sent from AmazonEC2 to an external recipient: Middle East (UAE) 🌎
+  - Region added for metric Email sent from AmazonEC2 to an external recipient: EU (Zurich) 🌎
+  - Region added for metric Email sent from AmazonEC2 to an external recipient: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Dedicated IPs managed from 0 to 10000000: Middle East (UAE) 🌎
+  - Region added for metric Dedicated IPs managed from 0 to 10000000: EU (Zurich) 🌎
+  - Region added for metric Dedicated IPs managed from 0 to 10000000: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Dedicated IPs managed from 100000000 to Inf: Middle East (UAE) 🌎
+  - Region added for metric Dedicated IPs managed from 100000000 to Inf: EU (Zurich) 🌎
+  - Region added for metric Dedicated IPs managed from 100000000 to Inf: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Dedicated IPs managed from 50000000 to 100000000: Middle East (UAE) 🌎
+  - Region added for metric Dedicated IPs managed from 50000000 to 100000000: EU (Zurich) 🌎
+  - Region added for metric Dedicated IPs managed from 50000000 to 100000000: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Dedicated IPs managed from subscription per Month: Middle East (UAE) 🌎
+  - Region added for metric Dedicated IPs managed from subscription per Month: EU (Zurich) 🌎
+  - Region added for metric Dedicated IPs managed from subscription per Month: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Dedicated IPs managed from 10000000 to 50000000: Middle East (UAE) 🌎
+  - Region added for metric Dedicated IPs managed from 10000000 to 50000000: EU (Zurich) 🌎
+  - Region added for metric Dedicated IPs managed from 10000000 to 50000000: Asia Pacific (Hyderabad) 🌎
+
+
 ## 2025-06-27 01:57
 
 **Modified services:**

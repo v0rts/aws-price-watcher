@@ -11865,6 +11865,7 @@
     },
     "[Gamelift Linux Current Generation] Gamelift c7g 12xlarge Linux Current Generation": {
         "US West (Oregon) (Memory: 96, vCPU: 48, Instance Type: c7g.12xlarge, PricePerUnit: 2.0950000000, operation: ConsumeLinuxGameLiftInstance)": "2.0950000000",
+        "US West (N. California) (Memory: 96, vCPU: 48, Instance Type: c7g.12xlarge, PricePerUnit: 2.6030000000, operation: ConsumeLinuxGameLiftInstance)": "2.6030000000",
         "US East (Ohio) (Memory: 96, vCPU: 48, Instance Type: c7g.12xlarge, PricePerUnit: 2.0880000000, operation: ConsumeLinuxGameLiftInstance)": "2.0880000000",
         "US East (N. Virginia) (Memory: 96, vCPU: 48, Instance Type: c7g.12xlarge, PricePerUnit: 2.0950000000, operation: ConsumeLinuxGameLiftInstance)": "2.0950000000",
         "South America (Sao Paulo) (Memory: 96, vCPU: 48, Instance Type: c7g.12xlarge, PricePerUnit: 3.2120000000, operation: ConsumeLinuxGameLiftInstance)": "3.2120000000",
@@ -11887,6 +11888,7 @@
     },
     "[Gamelift Linux Current Generation] Gamelift c7g 16xlarge Linux Current Generation": {
         "US West (Oregon) (Memory: 128, vCPU: 64, Instance Type: c7g.16xlarge, PricePerUnit: 2.7910000000, operation: ConsumeLinuxGameLiftInstance)": "2.7910000000",
+        "US West (N. California) (Memory: 128, vCPU: 64, Instance Type: c7g.16xlarge, PricePerUnit: 3.4680000000, operation: ConsumeLinuxGameLiftInstance)": "3.4680000000",
         "US East (Ohio) (Memory: 128, vCPU: 64, Instance Type: c7g.16xlarge, PricePerUnit: 2.7820000000, operation: ConsumeLinuxGameLiftInstance)": "2.7820000000",
         "US East (N. Virginia) (Memory: 128, vCPU: 64, Instance Type: c7g.16xlarge, PricePerUnit: 2.7910000000, operation: ConsumeLinuxGameLiftInstance)": "2.7910000000",
         "South America (Sao Paulo) (Memory: 128, vCPU: 64, Instance Type: c7g.16xlarge, PricePerUnit: 4.2790000000, operation: ConsumeLinuxGameLiftInstance)": "4.2790000000",
@@ -11909,6 +11911,7 @@
     },
     "[Gamelift Linux Current Generation] Gamelift c7g 2xlarge Linux Current Generation": {
         "US West (Oregon) (Memory: 16, vCPU: 8, Instance Type: c7g.2xlarge, PricePerUnit: 0.3550000000, operation: ConsumeLinuxGameLiftInstance)": "0.3550000000",
+        "US West (N. California) (Memory: 16, vCPU: 8, Instance Type: c7g.2xlarge, PricePerUnit: 0.4410000000, operation: ConsumeLinuxGameLiftInstance)": "0.4410000000",
         "US East (Ohio) (Memory: 16, vCPU: 8, Instance Type: c7g.2xlarge, PricePerUnit: 0.3540000000, operation: ConsumeLinuxGameLiftInstance)": "0.3540000000",
         "US East (N. Virginia) (Memory: 16, vCPU: 8, Instance Type: c7g.2xlarge, PricePerUnit: 0.3550000000, operation: ConsumeLinuxGameLiftInstance)": "0.3550000000",
         "South America (Sao Paulo) (Memory: 16, vCPU: 8, Instance Type: c7g.2xlarge, PricePerUnit: 0.5460000000, operation: ConsumeLinuxGameLiftInstance)": "0.5460000000",
@@ -11931,6 +11934,7 @@
     },
     "[Gamelift Linux Current Generation] Gamelift c7g 4xlarge Linux Current Generation": {
         "US West (Oregon) (Memory: 32, vCPU: 16, Instance Type: c7g.4xlarge, PricePerUnit: 0.7030000000, operation: ConsumeLinuxGameLiftInstance)": "0.7030000000",
+        "US West (N. California) (Memory: 32, vCPU: 16, Instance Type: c7g.4xlarge, PricePerUnit: 0.8730000000, operation: ConsumeLinuxGameLiftInstance)": "0.8730000000",
         "US East (Ohio) (Memory: 32, vCPU: 16, Instance Type: c7g.4xlarge, PricePerUnit: 0.7010000000, operation: ConsumeLinuxGameLiftInstance)": "0.7010000000",
         "US East (N. Virginia) (Memory: 32, vCPU: 16, Instance Type: c7g.4xlarge, PricePerUnit: 0.7030000000, operation: ConsumeLinuxGameLiftInstance)": "0.7030000000",
         "South America (Sao Paulo) (Memory: 32, vCPU: 16, Instance Type: c7g.4xlarge, PricePerUnit: 1.0790000000, operation: ConsumeLinuxGameLiftInstance)": "1.0790000000",
@@ -11953,6 +11957,7 @@
     },
     "[Gamelift Linux Current Generation] Gamelift c7g 8xlarge Linux Current Generation": {
         "US West (Oregon) (Memory: 64, vCPU: 32, Instance Type: c7g.8xlarge, PricePerUnit: 1.3990000000, operation: ConsumeLinuxGameLiftInstance)": "1.3990000000",
+        "US West (N. California) (Memory: 64, vCPU: 32, Instance Type: c7g.8xlarge, PricePerUnit: 1.7380000000, operation: ConsumeLinuxGameLiftInstance)": "1.7380000000",
         "US East (Ohio) (Memory: 64, vCPU: 32, Instance Type: c7g.8xlarge, PricePerUnit: 1.3940000000, operation: ConsumeLinuxGameLiftInstance)": "1.3940000000",
         "US East (N. Virginia) (Memory: 64, vCPU: 32, Instance Type: c7g.8xlarge, PricePerUnit: 1.3990000000, operation: ConsumeLinuxGameLiftInstance)": "1.3990000000",
         "South America (Sao Paulo) (Memory: 64, vCPU: 32, Instance Type: c7g.8xlarge, PricePerUnit: 2.1460000000, operation: ConsumeLinuxGameLiftInstance)": "2.1460000000",
@@ -11975,6 +11980,7 @@
     },
     "[Gamelift Linux Current Generation] Gamelift c7g large Linux Current Generation": {
         "US West (Oregon) (Memory: 4, vCPU: 2, Instance Type: c7g.large, PricePerUnit: 0.0940000000, operation: ConsumeLinuxGameLiftInstance)": "0.0940000000",
+        "US West (N. California) (Memory: 4, vCPU: 2, Instance Type: c7g.large, PricePerUnit: 0.1160000000, operation: ConsumeLinuxGameLiftInstance)": "0.1160000000",
         "US East (Ohio) (Memory: 4, vCPU: 2, Instance Type: c7g.large, PricePerUnit: 0.0940000000, operation: ConsumeLinuxGameLiftInstance)": "0.0940000000",
         "US East (N. Virginia) (Memory: 4, vCPU: 2, Instance Type: c7g.large, PricePerUnit: 0.0940000000, operation: ConsumeLinuxGameLiftInstance)": "0.0940000000",
         "South America (Sao Paulo) (Memory: 4, vCPU: 2, Instance Type: c7g.large, PricePerUnit: 0.1460000000, operation: ConsumeLinuxGameLiftInstance)": "0.1460000000",
@@ -11997,6 +12003,7 @@
     },
     "[Gamelift Linux Current Generation] Gamelift c7g medium Linux Current Generation": {
         "US West (Oregon) (Memory: 2, vCPU: 1, Instance Type: c7g.medium, PricePerUnit: 0.0500000000, operation: ConsumeLinuxGameLiftInstance)": "0.0500000000",
+        "US West (N. California) (Memory: 2, vCPU: 1, Instance Type: c7g.medium, PricePerUnit: 0.0620000000, operation: ConsumeLinuxGameLiftInstance)": "0.0620000000",
         "US East (Ohio) (Memory: 2, vCPU: 1, Instance Type: c7g.medium, PricePerUnit: 0.0500000000, operation: ConsumeLinuxGameLiftInstance)": "0.0500000000",
         "US East (N. Virginia) (Memory: 2, vCPU: 1, Instance Type: c7g.medium, PricePerUnit: 0.0500000000, operation: ConsumeLinuxGameLiftInstance)": "0.0500000000",
         "South America (Sao Paulo) (Memory: 2, vCPU: 1, Instance Type: c7g.medium, PricePerUnit: 0.0800000000, operation: ConsumeLinuxGameLiftInstance)": "0.0800000000",
@@ -12019,6 +12026,7 @@
     },
     "[Gamelift Linux Current Generation] Gamelift c7g xlarge Linux Current Generation": {
         "US West (Oregon) (Memory: 8, vCPU: 4, Instance Type: c7g.xlarge, PricePerUnit: 0.1810000000, operation: ConsumeLinuxGameLiftInstance)": "0.1810000000",
+        "US West (N. California) (Memory: 8, vCPU: 4, Instance Type: c7g.xlarge, PricePerUnit: 0.2240000000, operation: ConsumeLinuxGameLiftInstance)": "0.2240000000",
         "US East (Ohio) (Memory: 8, vCPU: 4, Instance Type: c7g.xlarge, PricePerUnit: 0.1800000000, operation: ConsumeLinuxGameLiftInstance)": "0.1800000000",
         "US East (N. Virginia) (Memory: 8, vCPU: 4, Instance Type: c7g.xlarge, PricePerUnit: 0.1810000000, operation: ConsumeLinuxGameLiftInstance)": "0.1810000000",
         "South America (Sao Paulo) (Memory: 8, vCPU: 4, Instance Type: c7g.xlarge, PricePerUnit: 0.2800000000, operation: ConsumeLinuxGameLiftInstance)": "0.2800000000",

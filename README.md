@@ -1,3 +1,200 @@
+## 2025-06-27 17:25
+
+**Modified services:**
+
+- [gamelift](processed/gamelift.json)
+  - Region added for metric [Gamelift Linux Current Generation] Gamelift c7g 12xlarge Linux Current Generation: US West (N. California) (Memory: 96, vCPU: 48, Instance Type: c7g.12xlarge, PricePerUnit: 2.6030000000, operation: ConsumeLinuxGameLiftInstance) 🌎
+  - Region added for metric [Gamelift Linux Current Generation] Gamelift c7g 16xlarge Linux Current Generation: US West (N. California) (Memory: 128, vCPU: 64, Instance Type: c7g.16xlarge, PricePerUnit: 3.4680000000, operation: ConsumeLinuxGameLiftInstance) 🌎
+  - Region added for metric [Gamelift Linux Current Generation] Gamelift c7g 2xlarge Linux Current Generation: US West (N. California) (Memory: 16, vCPU: 8, Instance Type: c7g.2xlarge, PricePerUnit: 0.4410000000, operation: ConsumeLinuxGameLiftInstance) 🌎
+  - Region added for metric [Gamelift Linux Current Generation] Gamelift c7g 4xlarge Linux Current Generation: US West (N. California) (Memory: 32, vCPU: 16, Instance Type: c7g.4xlarge, PricePerUnit: 0.8730000000, operation: ConsumeLinuxGameLiftInstance) 🌎
+  - Region added for metric [Gamelift Linux Current Generation] Gamelift c7g 8xlarge Linux Current Generation: US West (N. California) (Memory: 64, vCPU: 32, Instance Type: c7g.8xlarge, PricePerUnit: 1.7380000000, operation: ConsumeLinuxGameLiftInstance) 🌎
+  - Region added for metric [Gamelift Linux Current Generation] Gamelift c7g large Linux Current Generation: US West (N. California) (Memory: 4, vCPU: 2, Instance Type: c7g.large, PricePerUnit: 0.1160000000, operation: ConsumeLinuxGameLiftInstance) 🌎
+  - Region added for metric [Gamelift Linux Current Generation] Gamelift c7g medium Linux Current Generation: US West (N. California) (Memory: 2, vCPU: 1, Instance Type: c7g.medium, PricePerUnit: 0.0620000000, operation: ConsumeLinuxGameLiftInstance) 🌎
+  - Region added for metric [Gamelift Linux Current Generation] Gamelift c7g xlarge Linux Current Generation: US West (N. California) (Memory: 8, vCPU: 4, Instance Type: c7g.xlarge, PricePerUnit: 0.2240000000, operation: ConsumeLinuxGameLiftInstance) 🌎
+
+- [rds-storage](processed/rds-storage.json)
+  - Region removed for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ readable standbys Provisioned IOPS: Asia Pacific (Taipei) 💥
+
+- [rds-db2-ondemand](processed/rds-db2-ondemand.json)
+  - Billing metric removed: 2APzTtXFsS677yiwuepNtIziR9BKmPQxIC81Nyni9tg V1 💥
+  - Billing metric removed: EhnfCrxG8DAZnFi3eEVLVmfnPNPDZ2XCrQQXAp1EIQU V1 💥
+  - Billing metric removed: ILCKYvrag8-wg50QmqkWKrpYr_3Jbxv43R6CNxtr4WQ V1 💥
+  - Billing metric removed: Q5JdCEtCA1lTSLQS_wh31dvVkIpCNgAycZv5D7-pKHY V1 💥
+  - Billing metric removed: SSt-3bVEcceETYAdCkTf8xa3LeOuTH-31gFVIBfp4eM V1 💥
+  - Billing metric removed: UNm0yPcerF7Flfamk3ktZw07HoyZjaQJ1iRdzPCZnXw V1 💥
+  - Billing metric removed: UdR0lnb9tMlR5LwrrmUlHiuDiH1nmwLzBpGkF727VgY V1 💥
+  - Billing metric removed: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💥
+  - Billing metric removed: cyGwsAsU8DhQrKancfQBH-i83eYp7IXnB0-ppsuZ3cU V1 💥
+  - Region removed for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric KFcXmtc43pM4ZbP3964gnmsIfFYOJJw8zBzp81oRktY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric W9xnJ0kDdRA8cHVw1vX-heqOJpqzKRhU98er4jcvWj8 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric bObgkSpmoYASOS4u4ndJ_S6rNZoTDYLw33A3OJ6SiIo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric epdGszdovbm5HNxb-5_WevfJLYFTsmWNLophEMjwLnE V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Multi AZ Advanced: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Single AZ Provisioned IOPS Advanced: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Single AZ Advanced: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ Provisioned IOPS Advanced: Asia Pacific (Taipei) 💥
+
+- [rds-mysql-ondemand](processed/rds-mysql-ondemand.json)
+  - Billing metric removed: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💥
+  - Region removed for metric 40tN5cvvbJdQpBvytRKGG6SH-Z0o8hkvetgnUaViPbs V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric 7I_xVgKBZf1FrMQwYmVEL32FB3fBUTaXF28gUadx_oU V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric 7obTQLvnvDpoPC59TJTGuitMJLaIBLg6JAJ0XekB3rY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric BwMl2ilbBdwG9_LJdUNKJAyWaIMaPgcF8wDH-VqZOc0 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric KNXbjyr4_Gi85ohauJv8_QcofQ86rLajJ00jCiL6h1E V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric PAPlx-y1PGX0X3sjLj_8oTbQFjcnj1QQx5JOn2ubwa0 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric XUfOVfJ3YaHmuyp3x_SjWIIhq6SwCbeiw8mSn3voWg8 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric r47koz-weGQuI6uPlSPBRi6E--mbSGNUmF-n_cAuvZQ V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ readable standbys Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 💥
+
+- [rds-postgresql-ondemand](processed/rds-postgresql-ondemand.json)
+  - Billing metric removed: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💥
+  - Region removed for metric 40tN5cvvbJdQpBvytRKGG6SH-Z0o8hkvetgnUaViPbs V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric 7I_xVgKBZf1FrMQwYmVEL32FB3fBUTaXF28gUadx_oU V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric 7obTQLvnvDpoPC59TJTGuitMJLaIBLg6JAJ0XekB3rY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric BwMl2ilbBdwG9_LJdUNKJAyWaIMaPgcF8wDH-VqZOc0 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric KNXbjyr4_Gi85ohauJv8_QcofQ86rLajJ00jCiL6h1E V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric PAPlx-y1PGX0X3sjLj_8oTbQFjcnj1QQx5JOn2ubwa0 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric XUfOVfJ3YaHmuyp3x_SjWIIhq6SwCbeiw8mSn3voWg8 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric r47koz-weGQuI6uPlSPBRi6E--mbSGNUmF-n_cAuvZQ V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ readable standbys Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 💥
+
+- [rds-oracle-ondemand](processed/rds-oracle-ondemand.json)
+  - Billing metric removed: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💥
+  - Region removed for metric 1K7xD_NVF8DyW9EnpHLA9PsS4Ru5RQ2H05K6FFnf3fo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric _YZbWffD3S7pXqduokW1YoHAhMIBeGcc0fBdELvtY70 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric eZhcNalWZlg2_fzOdqcRhz5bi_6rs1_h4VYjvojRMyY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric l4YK7UFPBxh6Wm9qJG4NKwEI3JnvxtFd9y9SP-jIDKk V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric zEG-RQ-VgqM2p_CSKqwr1bX_Y4toY2H3g6Mv3UTeyq0 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric zUx2zRRCeSAWO-oxt1Eo-61JF1mtI8x_j6xwBV7XIcs V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+
+- [rds-mariadb-ondemand](processed/rds-mariadb-ondemand.json)
+  - Billing metric removed: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V2 💥
+  - Region removed for metric 40tN5cvvbJdQpBvytRKGG6SH-Z0o8hkvetgnUaViPbs V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric 7I_xVgKBZf1FrMQwYmVEL32FB3fBUTaXF28gUadx_oU V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric 7obTQLvnvDpoPC59TJTGuitMJLaIBLg6JAJ0XekB3rY V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric BwMl2ilbBdwG9_LJdUNKJAyWaIMaPgcF8wDH-VqZOc0 V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric KNXbjyr4_Gi85ohauJv8_QcofQ86rLajJ00jCiL6h1E V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric PAPlx-y1PGX0X3sjLj_8oTbQFjcnj1QQx5JOn2ubwa0 V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric XUfOVfJ3YaHmuyp3x_SjWIIhq6SwCbeiw8mSn3voWg8 V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric r47koz-weGQuI6uPlSPBRi6E--mbSGNUmF-n_cAuvZQ V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 💥
+
+- [rds-sqlserver-ondemand](processed/rds-sqlserver-ondemand.json)
+  - Billing metric removed: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💥
+  - Region removed for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric 9LwRoJJ2K3GivoWWAelOqXKdF36DovBSIn4A8dqD-XY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric IRD7MuFAM5nv_iZGOFZNaC7ohUv2Ci3cleYlElNAS6s V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric Qch7gK3gJcv6LpFaxvu6aZ0--anocqlszCzKFKeg5PY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric aCe-xNxSDMViCjopEI-ircLMxAz93PSO87dTJZq2o1Q V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric ipIGTx3x_n0OriKlEt9iPL3mhQVCI1H8jP602rt1Q0U V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric wWpeHA6rONM-TVg9aRnnqbstwLQ6lDd9scdX3nvFxJ8 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Taipei) 💥
+  - Region removed for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS: Asia Pacific (Taipei) 💥
+  - Region removed for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 💥
+
+
 ## 2025-06-27 14:26
 
 **Modified services:**

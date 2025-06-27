@@ -1,3 +1,17 @@
+## 2025-06-27 01:57
+
+**Modified services:**
+
+- [rds-flex-ondemand](processed/rds-flex-ondemand.json)
+  - Price decreased: Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided EU (Milan) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only)  **$142.08** → **$115.01** 💸
+  - Price decreased: Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided EU (Milan) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only)  **$5.92** → **$4.79** 💸
+  - Price decreased: Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided EU (Milan) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only)  **$47.36** → **$38.34** 💸
+  - Price decreased: Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided EU (Milan) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only)  **$94.72** → **$76.67** 💸
+  - Price decreased: Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided EU (Milan) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only)  **$189.44** → **$153.34** 💸
+  - Price decreased: Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided EU (Milan) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only)  **$23.68** → **$19.17** 💸
+  - Price decreased: Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided EU (Milan) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only)  **$11.84** → **$9.58** 💸
+
+
 ## 2025-06-26 19:25
 
 **Modified services:**

@@ -13006,13 +13006,13 @@
         "EU (Milan) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only)": "0.7920000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided": {
-        "EU (Milan) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only)": "142.0800000000"
+        "EU (Milan) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only)": "115.0080000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided": {
         "EU (Milan) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only)": "1.0840000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided": {
-        "EU (Milan) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only)": "5.9200000000"
+        "EU (Milan) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only)": "4.7920000000"
     },
     "Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided": {
         "EU (Milan) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only)": "9.5040000000"
@@ -13021,7 +13021,7 @@
         "EU (Milan) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only)": "13.0080000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided": {
-        "EU (Milan) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only)": "47.3600000000"
+        "EU (Milan) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only)": "38.3360000000"
     },
     "Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided": {
         "EU (Milan) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only)": "0.1510000000"
@@ -13048,7 +13048,7 @@
         "EU (Milan) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only)": "0.6480000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided": {
-        "EU (Milan) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only)": "94.7200000000"
+        "EU (Milan) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only)": "76.6720000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided": {
         "EU (Milan) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only)": "2.5900000000"
@@ -13057,7 +13057,7 @@
         "EU (Milan) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only)": "19.0080000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided": {
-        "EU (Milan) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only)": "189.4400000000"
+        "EU (Milan) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only)": "153.3440000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided": {
         "EU (Milan) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only)": "15.5400000000"
@@ -13075,13 +13075,13 @@
         "EU (Milan) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only)": "0.3020000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided": {
-        "EU (Milan) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only)": "23.6800000000"
+        "EU (Milan) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only)": "19.1680000000"
     },
     "Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided": {
         "EU (Milan) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only)": "1.2080000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided": {
-        "EU (Milan) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only)": "11.8400000000"
+        "EU (Milan) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only)": "9.5840000000"
     },
     "Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided": {
         "EU (Milan) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only)": "17.3440000000"

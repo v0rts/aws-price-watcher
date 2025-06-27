@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sns",
         "accessType": "publish",
-        "esIndex": "plc-sns-usd-20250605175703",
-        "hawkFilePublicationDate": "2025-06-05T17:57:03Z",
-        "ETLIngestionTriggerDate": "2025-06-05T17:57:03Z",
+        "esIndex": "plc-sns-usd-20250627192747",
+        "hawkFilePublicationDate": "2025-06-27T19:27:47Z",
+        "ETLIngestionTriggerDate": "2025-06-27T19:27:47Z",
         "currencyCode": "USD",
         "source": "sns",
         "isMapped": "true"
@@ -2431,6 +2431,11 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ITaAsBlJBBh8ibLVKhlER8vZjSnKvQ9BCe4kzdW6JLo"
             },
+            "KChyOgHEfTLnaeAHSHOnkwLaOPulhhpKZzSkuDeK8M0": {
+                "rateCode": "GKCQ4PVD32WVX7YQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "KChyOgHEfTLnaeAHSHOnkwLaOPulhhpKZzSkuDeK8M0"
+            },
             "LsgAlF1i44BcmT81wj-UioaW_gH7wva5F4fUDjWgMm0": {
                 "rateCode": "5NAXP5Y5ED3KWVAM.JRTCKXETXF.JXGPBPHWFF",
                 "price": "0.0000000000",
@@ -2525,6 +2530,11 @@
                 "rateCode": "F6EY7Q96SA7D4MJ3.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ITaAsBlJBBh8ibLVKhlER8vZjSnKvQ9BCe4kzdW6JLo"
+            },
+            "SMS Notifications": {
+                "rateCode": "GKCQ4PVD32WVX7YQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "KChyOgHEfTLnaeAHSHOnkwLaOPulhhpKZzSkuDeK8M0"
             },
             "SMTP 0 to 1000": {
                 "rateCode": "5NAXP5Y5ED3KWVAM.JRTCKXETXF.JXGPBPHWFF",

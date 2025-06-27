@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "neptune",
         "accessType": "publish",
-        "esIndex": "plc-neptune-usd-20250619213934",
-        "hawkFilePublicationDate": "2025-06-19T21:39:34Z",
-        "ETLIngestionTriggerDate": "2025-06-19T21:39:34Z",
+        "esIndex": "plc-neptune-usd-20250627195757",
+        "hawkFilePublicationDate": "2025-06-27T19:57:57Z",
+        "ETLIngestionTriggerDate": "2025-06-27T19:57:57Z",
         "currencyCode": "USD",
         "source": "neptune",
         "isMapped": "true"
@@ -14864,6 +14864,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "EKWMSGCWMGWTAH2X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002800",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "Imt8AkG_oGPdENa2tgQDfyY0F8cvWVyqbiafDXqmi6U": {
                 "rateCode": "64GA3QRFAQ5TS64S.JRTCKXETXF.6YS6EN2CT7",
                 "price": "29.5180000000",
@@ -15425,6 +15431,11 @@
                 "price": "15.5520000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "EKWMSGCWMGWTAH2X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002800",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "64GA3QRFAQ5TS64S.JRTCKXETXF.6YS6EN2CT7",
@@ -17837,6 +17848,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "ZE6CHJNRG86CCRUK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002700",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "JM_nH7CYSLNwiu2vSr-ik2He5UqAljSqtsQW5jrWj0k": {
                 "rateCode": "R2RVMNWDWPCBJVFN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1200000000",
@@ -17973,6 +17990,11 @@
                 "price": "8.7090000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "ZE6CHJNRG86CCRUK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002700",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Storage Rate": {
                 "rateCode": "R2RVMNWDWPCBJVFN.JRTCKXETXF.6YS6EN2CT7",
@@ -19029,6 +19051,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "X2QSZE5CE86K3JCW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002100",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "HZ-HjIQTKHSe8gyI7-vEy3TL45YClRzpFq3wjF3-ggY": {
                 "rateCode": "MZA5H6KM5JKC6FHG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "34.5600000000",
@@ -19752,6 +19780,11 @@
                 "price": "7.7760000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "X2QSZE5CE86K3JCW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002100",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "UXY3ZZP8F3EKEERC.JRTCKXETXF.6YS6EN2CT7",
@@ -22950,6 +22983,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "E2X5X8NSXWSQ9B8W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "HZ-HjIQTKHSe8gyI7-vEy3TL45YClRzpFq3wjF3-ggY": {
                 "rateCode": "8MFU9W9QUBFJNMTA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "38.5920000000",
@@ -23481,6 +23520,11 @@
                 "price": "8.7150000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "E2X5X8NSXWSQ9B8W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "MG4NFYPUA98XWVTE.JRTCKXETXF.6YS6EN2CT7",
@@ -29516,6 +29560,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "HGNJ3SSKXRE5ZTX3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "HZ-HjIQTKHSe8gyI7-vEy3TL45YClRzpFq3wjF3-ggY": {
                 "rateCode": "ZQVDHNNK63X2UR46.JRTCKXETXF.6YS6EN2CT7",
                 "price": "40.3200000000",
@@ -30329,6 +30379,11 @@
                 "price": "9.0720000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "HGNJ3SSKXRE5ZTX3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "QHR62TKCM7PRWFKK.JRTCKXETXF.6YS6EN2CT7",
@@ -39236,6 +39291,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "QQMMFDBR7XRFXMX4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "HZ-HjIQTKHSe8gyI7-vEy3TL45YClRzpFq3wjF3-ggY": {
                 "rateCode": "2WYPFUMVYJK86RUV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "40.3200000000",
@@ -39965,6 +40026,11 @@
                 "price": "9.0720000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "QQMMFDBR7XRFXMX4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "ZPD59WR4B7Y8DWVA.JRTCKXETXF.6YS6EN2CT7",
@@ -41307,6 +41373,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "VADW79MPYUUF3FNU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002400",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "HZ-HjIQTKHSe8gyI7-vEy3TL45YClRzpFq3wjF3-ggY": {
                 "rateCode": "A49EKW2C9QRVDPZ9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "40.3200000000",
@@ -42048,6 +42120,11 @@
                 "price": "9.0720000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "VADW79MPYUUF3FNU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002400",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "HHEENQRGA6JRV8ME.JRTCKXETXF.6YS6EN2CT7",
@@ -45236,6 +45313,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "TKM5TJAKCEK46GJU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "HZ-HjIQTKHSe8gyI7-vEy3TL45YClRzpFq3wjF3-ggY": {
                 "rateCode": "S467AC9AM2SZGSHS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "38.0160000000",
@@ -46019,6 +46102,11 @@
                 "price": "8.5530000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "TKM5TJAKCEK46GJU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "MG5EHM6MM5KMHNVM.JRTCKXETXF.6YS6EN2CT7",
@@ -54239,6 +54327,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "7YFPDURADSGP94E5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002600",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "Imt8AkG_oGPdENa2tgQDfyY0F8cvWVyqbiafDXqmi6U": {
                 "rateCode": "2XJQWS77N2MGD5S8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "17.2191150000",
@@ -54675,6 +54769,11 @@
                 "price": "9.0720000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "7YFPDURADSGP94E5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002600",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "2XJQWS77N2MGD5S8.JRTCKXETXF.6YS6EN2CT7",
@@ -55712,6 +55811,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "9KNS6JTYCREHNYU5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002600",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "Imt8AkG_oGPdENa2tgQDfyY0F8cvWVyqbiafDXqmi6U": {
                 "rateCode": "YGUTUDJRXBUNMX4R.JRTCKXETXF.6YS6EN2CT7",
                 "price": "17.2191150000",
@@ -56286,6 +56391,11 @@
                 "price": "9.0720000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "9KNS6JTYCREHNYU5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002600",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "YGUTUDJRXBUNMX4R.JRTCKXETXF.6YS6EN2CT7",

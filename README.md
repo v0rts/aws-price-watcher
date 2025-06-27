@@ -1,3 +1,23 @@
+## 2025-06-27 20:27
+
+**Modified services:**
+
+- [neptune](processed/neptune.json)
+  - Region added for metric Neptune ReplicatedWrite: South America (Sao Paulo) 🌎
+  - Region added for metric Neptune ReplicatedWrite: Israel (Tel Aviv) 🌎
+  - Region added for metric Neptune ReplicatedWrite: EU (Stockholm) 🌎
+  - Region added for metric Neptune ReplicatedWrite: EU (Paris) 🌎
+  - Region added for metric Neptune ReplicatedWrite: EU (Frankfurt) 🌎
+  - Region added for metric Neptune ReplicatedWrite: Asia Pacific (Singapore) 🌎
+  - Region added for metric Neptune ReplicatedWrite: Asia Pacific (Seoul) 🌎
+  - Region added for metric Neptune ReplicatedWrite: Asia Pacific (Mumbai) 🌎
+  - Region added for metric Neptune ReplicatedWrite: AWS GovCloud (US-East) 🌎
+  - Region added for metric Neptune ReplicatedWrite: AWS GovCloud (US) 🌎
+
+- [sns](processed/sns.json)
+  - Region added for metric SMS Notifications: Mexico (Central) 🌎
+
+
 ## 2025-06-27 19:23
 
 **Modified services:**

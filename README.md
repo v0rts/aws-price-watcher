@@ -1,3 +1,172 @@
+## 2025-06-27 19:23
+
+**Modified services:**
+
+- [inspectorv2](processed/inspectorv2.json)
+  - Region added for metric Agentless vulnerability scans Instance hrs: Middle East (UAE) 🌎
+  - Region added for metric Agentless vulnerability scans Instance hrs: Mexico (Central) 🌎
+  - Region added for metric Agentless vulnerability scans Instance hrs: Israel (Tel Aviv) 🌎
+  - Region added for metric Agentless vulnerability scans Instance hrs: EU (Spain) 🌎
+  - Region added for metric Agentless vulnerability scans Instance hrs: Canada West (Calgary) 🌎
+  - Region added for metric Agentless vulnerability scans Instance hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Agentless vulnerability scans Instance hrs: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Agentless vulnerability scans Instance hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Agentless vulnerability scans Instance hrs: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs: Middle East (UAE) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs: Mexico (Central) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs: EU (Spain) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs: Canada West (Calgary) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment: Middle East (UAE) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment: Mexico (Central) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment: EU (Spain) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment: Canada West (Calgary) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE Free metering free-metering Resource-assessment: Middle East (UAE) 🌎
+  - Region added for metric FREE Free metering free-metering Resource-assessment: Mexico (Central) 🌎
+  - Region added for metric FREE Free metering free-metering Resource-assessment: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE Free metering free-metering Resource-assessment: EU (Spain) 🌎
+  - Region added for metric FREE Free metering free-metering Resource-assessment: Canada West (Calgary) 🌎
+  - Region added for metric FREE Free metering free-metering Resource-assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE Free metering free-metering Resource-assessment: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE Free metering free-metering Resource-assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE Free metering free-metering Resource-assessment: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Automated re-scan Resource-assessment: Middle East (UAE) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Automated re-scan Resource-assessment: Mexico (Central) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Automated re-scan Resource-assessment: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Automated re-scan Resource-assessment: EU (Spain) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Automated re-scan Resource-assessment: Canada West (Calgary) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Automated re-scan Resource-assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Automated re-scan Resource-assessment: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Automated re-scan Resource-assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Automated re-scan Resource-assessment: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric CI CD scan resource assessment: Middle East (UAE) 🌎
+  - Region added for metric CI CD scan resource assessment: Mexico (Central) 🌎
+  - Region added for metric CI CD scan resource assessment: Israel (Tel Aviv) 🌎
+  - Region added for metric CI CD scan resource assessment: EU (Spain) 🌎
+  - Region added for metric CI CD scan resource assessment: Canada West (Calgary) 🌎
+  - Region added for metric CI CD scan resource assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric CI CD scan resource assessment: Asia Pacific (Melbourne) 🌎
+  - Region added for metric CI CD scan resource assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric CI CD scan resource assessment: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Continuous EC2 scans Instance hrs: Middle East (UAE) 🌎
+  - Region added for metric Continuous EC2 scans Instance hrs: Mexico (Central) 🌎
+  - Region added for metric Continuous EC2 scans Instance hrs: Israel (Tel Aviv) 🌎
+  - Region added for metric Continuous EC2 scans Instance hrs: EU (Spain) 🌎
+  - Region added for metric Continuous EC2 scans Instance hrs: Canada West (Calgary) 🌎
+  - Region added for metric Continuous EC2 scans Instance hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Continuous EC2 scans Instance hrs: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Continuous EC2 scans Instance hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Continuous EC2 scans Instance hrs: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Initial Scan on push to ECR Resource-assessment: Middle East (UAE) 🌎
+  - Region added for metric Initial Scan on push to ECR Resource-assessment: Mexico (Central) 🌎
+  - Region added for metric Initial Scan on push to ECR Resource-assessment: Israel (Tel Aviv) 🌎
+  - Region added for metric Initial Scan on push to ECR Resource-assessment: EU (Spain) 🌎
+  - Region added for metric Initial Scan on push to ECR Resource-assessment: Canada West (Calgary) 🌎
+  - Region added for metric Initial Scan on push to ECR Resource-assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric Initial Scan on push to ECR Resource-assessment: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Initial Scan on push to ECR Resource-assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Initial Scan on push to ECR Resource-assessment: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE Free CI CD scan resource assessment: Middle East (UAE) 🌎
+  - Region added for metric FREE Free CI CD scan resource assessment: Mexico (Central) 🌎
+  - Region added for metric FREE Free CI CD scan resource assessment: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE Free CI CD scan resource assessment: EU (Spain) 🌎
+  - Region added for metric FREE Free CI CD scan resource assessment: Canada West (Calgary) 🌎
+  - Region added for metric FREE Free CI CD scan resource assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE Free CI CD scan resource assessment: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE Free CI CD scan resource assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE Free CI CD scan resource assessment: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs: Middle East (UAE) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs: Mexico (Central) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs: EU (Spain) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs: Canada West (Calgary) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Standard Scanning Hourly: Middle East (UAE) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Standard Scanning Hourly: Mexico (Central) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Standard Scanning Hourly: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Standard Scanning Hourly: EU (Spain) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Standard Scanning Hourly: Canada West (Calgary) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Standard Scanning Hourly: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Standard Scanning Hourly: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Standard Scanning Hourly: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE 15 Days unlimited free trial Standard Scanning Hourly: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Standard Scanning Hourly: Middle East (UAE) 🌎
+  - Region added for metric Standard Scanning Hourly: Mexico (Central) 🌎
+  - Region added for metric Standard Scanning Hourly: Israel (Tel Aviv) 🌎
+  - Region added for metric Standard Scanning Hourly: EU (Spain) 🌎
+  - Region added for metric Standard Scanning Hourly: Canada West (Calgary) 🌎
+  - Region added for metric Standard Scanning Hourly: Asia Pacific (Thailand) 🌎
+  - Region added for metric Standard Scanning Hourly: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Standard Scanning Hourly: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Standard Scanning Hourly: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE Free metering Continuous EC2 scans Instance-hrs: Middle East (UAE) 🌎
+  - Region added for metric FREE Free metering Continuous EC2 scans Instance-hrs: Mexico (Central) 🌎
+  - Region added for metric FREE Free metering Continuous EC2 scans Instance-hrs: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE Free metering Continuous EC2 scans Instance-hrs: EU (Spain) 🌎
+  - Region added for metric FREE Free metering Continuous EC2 scans Instance-hrs: Canada West (Calgary) 🌎
+  - Region added for metric FREE Free metering Continuous EC2 scans Instance-hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE Free metering Continuous EC2 scans Instance-hrs: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE Free metering Continuous EC2 scans Instance-hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE Free metering Continuous EC2 scans Instance-hrs: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric CIS checks Resource assessment: Middle East (UAE) 🌎
+  - Region added for metric CIS checks Resource assessment: Mexico (Central) 🌎
+  - Region added for metric CIS checks Resource assessment: Israel (Tel Aviv) 🌎
+  - Region added for metric CIS checks Resource assessment: EU (Spain) 🌎
+  - Region added for metric CIS checks Resource assessment: Canada West (Calgary) 🌎
+  - Region added for metric CIS checks Resource assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric CIS checks Resource assessment: Asia Pacific (Melbourne) 🌎
+  - Region added for metric CIS checks Resource assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric CIS checks Resource assessment: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE Free metering Standard Scanning Hourly: Middle East (UAE) 🌎
+  - Region added for metric FREE Free metering Standard Scanning Hourly: Mexico (Central) 🌎
+  - Region added for metric FREE Free metering Standard Scanning Hourly: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE Free metering Standard Scanning Hourly: EU (Spain) 🌎
+  - Region added for metric FREE Free metering Standard Scanning Hourly: Canada West (Calgary) 🌎
+  - Region added for metric FREE Free metering Standard Scanning Hourly: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE Free metering Standard Scanning Hourly: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE Free metering Standard Scanning Hourly: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE Free metering Standard Scanning Hourly: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Automated re scan Resource-assessment: Middle East (UAE) 🌎
+  - Region added for metric Automated re scan Resource-assessment: Mexico (Central) 🌎
+  - Region added for metric Automated re scan Resource-assessment: Israel (Tel Aviv) 🌎
+  - Region added for metric Automated re scan Resource-assessment: EU (Spain) 🌎
+  - Region added for metric Automated re scan Resource-assessment: Canada West (Calgary) 🌎
+  - Region added for metric Automated re scan Resource-assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric Automated re scan Resource-assessment: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Automated re scan Resource-assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Automated re scan Resource-assessment: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE Free metering free-metering Hourly: Middle East (UAE) 🌎
+  - Region added for metric FREE Free metering free-metering Hourly: Mexico (Central) 🌎
+  - Region added for metric FREE Free metering free-metering Hourly: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE Free metering free-metering Hourly: EU (Spain) 🌎
+  - Region added for metric FREE Free metering free-metering Hourly: Canada West (Calgary) 🌎
+  - Region added for metric FREE Free metering free-metering Hourly: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE Free metering free-metering Hourly: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE Free metering free-metering Hourly: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE Free metering free-metering Hourly: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FREE Free metering Initial Scan on-push to ECR Resource-assessment: Middle East (UAE) 🌎
+  - Region added for metric FREE Free metering Initial Scan on-push to ECR Resource-assessment: Mexico (Central) 🌎
+  - Region added for metric FREE Free metering Initial Scan on-push to ECR Resource-assessment: Israel (Tel Aviv) 🌎
+  - Region added for metric FREE Free metering Initial Scan on-push to ECR Resource-assessment: EU (Spain) 🌎
+  - Region added for metric FREE Free metering Initial Scan on-push to ECR Resource-assessment: Canada West (Calgary) 🌎
+  - Region added for metric FREE Free metering Initial Scan on-push to ECR Resource-assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric FREE Free metering Initial Scan on-push to ECR Resource-assessment: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FREE Free metering Initial Scan on-push to ECR Resource-assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FREE Free metering Initial Scan on-push to ECR Resource-assessment: Asia Pacific (Hyderabad) 🌎
+
+
 ## 2025-06-27 18:28
 
 **Modified services:**

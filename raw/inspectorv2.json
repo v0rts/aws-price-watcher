@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "inspectorv2",
         "accessType": "publish",
-        "esIndex": "plc-inspectorv2-usd-20250625182244",
-        "hawkFilePublicationDate": "2025-06-25T18:22:44Z",
-        "ETLIngestionTriggerDate": "2025-06-25T18:22:44Z",
+        "esIndex": "plc-inspectorv2-usd-20250627184829",
+        "hawkFilePublicationDate": "2025-06-27T18:48:29Z",
+        "ETLIngestionTriggerDate": "2025-06-27T18:48:29Z",
         "currencyCode": "USD",
         "source": "inspectorv2",
         "isMapped": "true"
@@ -986,6 +986,178 @@
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
             }
         },
+        "Middle East (UAE)": {
+            "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
+                "rateCode": "UP3NYRNCJMPC4MNR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
+                "rateCode": "7NXBETNMXVH5VNM3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
+                "rateCode": "YX36EHNNERXR5TR3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM": {
+                "rateCode": "AKN98J9YV7HJ33ZH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU": {
+                "rateCode": "GX5EPXND84N8YZK6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ": {
+                "rateCode": "UADAEUUEQZ58DWX5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI": {
+                "rateCode": "7BYHZB5Z6ASUY4KT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo": {
+                "rateCode": "H53X37FA7Z7F274D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220": {
+                "rateCode": "9UFJ7DD5FJ95F6PG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU": {
+                "rateCode": "AT4R2MQSX2CZ2TFX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A": {
+                "rateCode": "GG9PJ3FM79B8R87A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU": {
+                "rateCode": "JGACT3V8FWYH5EYA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k": {
+                "rateCode": "2RRBRK4JJ74WPZPJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g": {
+                "rateCode": "UYDNUTQV95HU69XF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
+                "rateCode": "X9N27DD6J9FTBCKG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU": {
+                "rateCode": "36XM2ACVPPEBMDUD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "Agentless vulnerability scans Instance hrs": {
+                "rateCode": "UP3NYRNCJMPC4MNR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+                "rateCode": "7NXBETNMXVH5VNM3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "YX36EHNNERXR5TR3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "FREE Free metering free-metering Resource-assessment": {
+                "rateCode": "AKN98J9YV7HJ33ZH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "AKN98J9YV7HJ33ZH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+                "rateCode": "GX5EPXND84N8YZK6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "CI CD scan resource assessment": {
+                "rateCode": "UADAEUUEQZ58DWX5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "Continuous EC2 scans Instance hrs": {
+                "rateCode": "7BYHZB5Z6ASUY4KT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "Initial Scan on push to ECR Resource-assessment": {
+                "rateCode": "H53X37FA7Z7F274D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "FREE Free CI CD scan resource assessment": {
+                "rateCode": "9UFJ7DD5FJ95F6PG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+                "rateCode": "AT4R2MQSX2CZ2TFX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+                "rateCode": "GG9PJ3FM79B8R87A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "Standard Scanning Hourly": {
+                "rateCode": "JGACT3V8FWYH5EYA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "FREE Free metering Continuous EC2 scans Instance-hrs": {
+                "rateCode": "2RRBRK4JJ74WPZPJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "CIS checks Resource assessment": {
+                "rateCode": "UYDNUTQV95HU69XF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "FREE Free metering Standard Scanning Hourly": {
+                "rateCode": "X9N27DD6J9FTBCKG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "FREE Free metering free-metering Hourly": {
+                "rateCode": "X9N27DD6J9FTBCKG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "Automated re scan Resource-assessment": {
+                "rateCode": "36XM2ACVPPEBMDUD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            }
+        },
         "Middle East (Bahrain)": {
             "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
                 "rateCode": "TGRZ8XFA45XJHG3A.JRTCKXETXF.6YS6EN2CT7",
@@ -1144,6 +1316,350 @@
             },
             "Automated re scan Resource-assessment": {
                 "rateCode": "95A3R6A8JW8QHCUW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            }
+        },
+        "Mexico (Central)": {
+            "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
+                "rateCode": "AX4APY4CZVK7YP2B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
+                "rateCode": "C98MJWT9DZ235JEW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
+                "rateCode": "U3NZ75NVSYQKNDVQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM": {
+                "rateCode": "BH6FZEZBEMHWARA4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU": {
+                "rateCode": "CPY6P553FWDCR5Z8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ": {
+                "rateCode": "874EWCKRRG3MT4FD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI": {
+                "rateCode": "2ZYVBA3MGG8BF4SS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo": {
+                "rateCode": "GVXBMUWJX2ZXEV3J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220": {
+                "rateCode": "QJE2PVJXBCH9N2FJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU": {
+                "rateCode": "NAEWJA5JFYHMDZ56.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A": {
+                "rateCode": "N76YPAPYPUH9EKFG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU": {
+                "rateCode": "5QVJAV8XTANXWRRD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k": {
+                "rateCode": "HCHW7ZCDV99YXSFF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g": {
+                "rateCode": "7QSDDHU44RPFQ7G5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
+                "rateCode": "S4JZZMSRXYAM95AT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU": {
+                "rateCode": "RE4E3DRZAEFJ5NF9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "Agentless vulnerability scans Instance hrs": {
+                "rateCode": "AX4APY4CZVK7YP2B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+                "rateCode": "C98MJWT9DZ235JEW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "U3NZ75NVSYQKNDVQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "FREE Free metering free-metering Resource-assessment": {
+                "rateCode": "BH6FZEZBEMHWARA4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "BH6FZEZBEMHWARA4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+                "rateCode": "CPY6P553FWDCR5Z8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "CI CD scan resource assessment": {
+                "rateCode": "874EWCKRRG3MT4FD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "Continuous EC2 scans Instance hrs": {
+                "rateCode": "2ZYVBA3MGG8BF4SS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "Initial Scan on push to ECR Resource-assessment": {
+                "rateCode": "GVXBMUWJX2ZXEV3J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "FREE Free CI CD scan resource assessment": {
+                "rateCode": "QJE2PVJXBCH9N2FJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+                "rateCode": "NAEWJA5JFYHMDZ56.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+                "rateCode": "N76YPAPYPUH9EKFG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "Standard Scanning Hourly": {
+                "rateCode": "5QVJAV8XTANXWRRD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "FREE Free metering Continuous EC2 scans Instance-hrs": {
+                "rateCode": "HCHW7ZCDV99YXSFF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "CIS checks Resource assessment": {
+                "rateCode": "7QSDDHU44RPFQ7G5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "FREE Free metering Standard Scanning Hourly": {
+                "rateCode": "S4JZZMSRXYAM95AT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "FREE Free metering free-metering Hourly": {
+                "rateCode": "S4JZZMSRXYAM95AT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "Automated re scan Resource-assessment": {
+                "rateCode": "RE4E3DRZAEFJ5NF9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            }
+        },
+        "Israel (Tel Aviv)": {
+            "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
+                "rateCode": "YA7RH5NYYEBND8S7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
+                "rateCode": "AK69GK7GGEGECRPA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
+                "rateCode": "J4T5GPETRWJHD6EX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM": {
+                "rateCode": "KYRTN6K7F67GPM74.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU": {
+                "rateCode": "NUZNKY9PJUMBQNBV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ": {
+                "rateCode": "2TS5TA6S6KFCC2AJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI": {
+                "rateCode": "38Q93CDRV329MEC8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo": {
+                "rateCode": "7GFU97VAW2RGPUX5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220": {
+                "rateCode": "33VS2MJ6BBNBUYHH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU": {
+                "rateCode": "5MT9QVJY7PXKTTWE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A": {
+                "rateCode": "7VDQNMMN8Z2DQ9CE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU": {
+                "rateCode": "6Y8MTZPH3Z7UDSKX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k": {
+                "rateCode": "8TBSHXWBZDUTV4AK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g": {
+                "rateCode": "CQ9TGE86SFAXU5F6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
+                "rateCode": "2A4ZRDUM5CDCY2XF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU": {
+                "rateCode": "4M3C23K78PNWDT4S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "Agentless vulnerability scans Instance hrs": {
+                "rateCode": "YA7RH5NYYEBND8S7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+                "rateCode": "AK69GK7GGEGECRPA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "J4T5GPETRWJHD6EX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "FREE Free metering free-metering Resource-assessment": {
+                "rateCode": "KYRTN6K7F67GPM74.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "KYRTN6K7F67GPM74.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+                "rateCode": "NUZNKY9PJUMBQNBV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "CI CD scan resource assessment": {
+                "rateCode": "2TS5TA6S6KFCC2AJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "Continuous EC2 scans Instance hrs": {
+                "rateCode": "38Q93CDRV329MEC8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "Initial Scan on push to ECR Resource-assessment": {
+                "rateCode": "7GFU97VAW2RGPUX5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "FREE Free CI CD scan resource assessment": {
+                "rateCode": "33VS2MJ6BBNBUYHH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+                "rateCode": "5MT9QVJY7PXKTTWE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+                "rateCode": "7VDQNMMN8Z2DQ9CE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "Standard Scanning Hourly": {
+                "rateCode": "6Y8MTZPH3Z7UDSKX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "FREE Free metering Continuous EC2 scans Instance-hrs": {
+                "rateCode": "8TBSHXWBZDUTV4AK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "CIS checks Resource assessment": {
+                "rateCode": "CQ9TGE86SFAXU5F6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "FREE Free metering Standard Scanning Hourly": {
+                "rateCode": "2A4ZRDUM5CDCY2XF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "FREE Free metering free-metering Hourly": {
+                "rateCode": "2A4ZRDUM5CDCY2XF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "Automated re scan Resource-assessment": {
+                "rateCode": "4M3C23K78PNWDT4S.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
             }
@@ -1523,6 +2039,178 @@
             },
             "Automated re scan Resource-assessment": {
                 "rateCode": "X5HE5KFUW4GV2XCE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            }
+        },
+        "EU (Spain)": {
+            "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
+                "rateCode": "4YNPJS3B25GSURC8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
+                "rateCode": "D5SA65HTREVNPS8M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
+                "rateCode": "QED7RJ8BJF8RNHKQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM": {
+                "rateCode": "SKJX9U3PZSNZ9B2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU": {
+                "rateCode": "NNNF3YN2U66F269S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ": {
+                "rateCode": "9B3YQ5WHGEDP42C4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI": {
+                "rateCode": "PKMQDGJ4SSQWU8V7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo": {
+                "rateCode": "DV77KPW248WWW4C5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220": {
+                "rateCode": "M84GQXAUW34C3EHR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU": {
+                "rateCode": "HDME9PBEJMN6E6HJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A": {
+                "rateCode": "59P5SGMTDPFVXFQ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU": {
+                "rateCode": "HWS37S5Q7QXMYWPG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k": {
+                "rateCode": "2VBP384UBUN42G2E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g": {
+                "rateCode": "W6Q7C2AC9WHBKWPS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
+                "rateCode": "6MNP57589GGH7M57.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU": {
+                "rateCode": "ASC989P7DPCMF884.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "Agentless vulnerability scans Instance hrs": {
+                "rateCode": "4YNPJS3B25GSURC8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+                "rateCode": "D5SA65HTREVNPS8M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "QED7RJ8BJF8RNHKQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "FREE Free metering free-metering Resource-assessment": {
+                "rateCode": "SKJX9U3PZSNZ9B2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "SKJX9U3PZSNZ9B2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+                "rateCode": "NNNF3YN2U66F269S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "CI CD scan resource assessment": {
+                "rateCode": "9B3YQ5WHGEDP42C4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "Continuous EC2 scans Instance hrs": {
+                "rateCode": "PKMQDGJ4SSQWU8V7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "Initial Scan on push to ECR Resource-assessment": {
+                "rateCode": "DV77KPW248WWW4C5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "FREE Free CI CD scan resource assessment": {
+                "rateCode": "M84GQXAUW34C3EHR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+                "rateCode": "HDME9PBEJMN6E6HJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+                "rateCode": "59P5SGMTDPFVXFQ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "Standard Scanning Hourly": {
+                "rateCode": "HWS37S5Q7QXMYWPG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "FREE Free metering Continuous EC2 scans Instance-hrs": {
+                "rateCode": "2VBP384UBUN42G2E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "CIS checks Resource assessment": {
+                "rateCode": "W6Q7C2AC9WHBKWPS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "FREE Free metering Standard Scanning Hourly": {
+                "rateCode": "6MNP57589GGH7M57.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "FREE Free metering free-metering Hourly": {
+                "rateCode": "6MNP57589GGH7M57.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "Automated re scan Resource-assessment": {
+                "rateCode": "ASC989P7DPCMF884.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
             }
@@ -2502,6 +3190,178 @@
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
             }
         },
+        "Canada West (Calgary)": {
+            "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
+                "rateCode": "MXYV49DDSMNQQXSY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
+                "rateCode": "2FJBMEDTM8ZH64XQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
+                "rateCode": "A629R93VDSJ7D3TM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM": {
+                "rateCode": "5NFJQUZTPBWPMEH9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU": {
+                "rateCode": "5565XCEBH7KW359U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ": {
+                "rateCode": "Y66XF6Y2P6YSNA93.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI": {
+                "rateCode": "2TD39ANTJ7DCDJVV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo": {
+                "rateCode": "K9AHM3C4T4WZNKD7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220": {
+                "rateCode": "TET4WQT6ZVYUDB7J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU": {
+                "rateCode": "V6XPPPCH9CY3VMAK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A": {
+                "rateCode": "YFWNA2JMW52B8VDX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU": {
+                "rateCode": "AW4WTZ6ZSJDPYYVV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k": {
+                "rateCode": "TBC7AVS82KN9HKN7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g": {
+                "rateCode": "CSECJD2URPRKDZ4W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
+                "rateCode": "PCS9WUTRZRZVEXMK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU": {
+                "rateCode": "M2XU3QPCMCNNFAK5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "Agentless vulnerability scans Instance hrs": {
+                "rateCode": "MXYV49DDSMNQQXSY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+                "rateCode": "2FJBMEDTM8ZH64XQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "A629R93VDSJ7D3TM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "FREE Free metering free-metering Resource-assessment": {
+                "rateCode": "5NFJQUZTPBWPMEH9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "5NFJQUZTPBWPMEH9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+                "rateCode": "5565XCEBH7KW359U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "CI CD scan resource assessment": {
+                "rateCode": "Y66XF6Y2P6YSNA93.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "Continuous EC2 scans Instance hrs": {
+                "rateCode": "2TD39ANTJ7DCDJVV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "Initial Scan on push to ECR Resource-assessment": {
+                "rateCode": "K9AHM3C4T4WZNKD7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "FREE Free CI CD scan resource assessment": {
+                "rateCode": "TET4WQT6ZVYUDB7J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+                "rateCode": "V6XPPPCH9CY3VMAK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+                "rateCode": "YFWNA2JMW52B8VDX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "Standard Scanning Hourly": {
+                "rateCode": "AW4WTZ6ZSJDPYYVV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "FREE Free metering Continuous EC2 scans Instance-hrs": {
+                "rateCode": "TBC7AVS82KN9HKN7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "CIS checks Resource assessment": {
+                "rateCode": "CSECJD2URPRKDZ4W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "FREE Free metering Standard Scanning Hourly": {
+                "rateCode": "PCS9WUTRZRZVEXMK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "FREE Free metering free-metering Hourly": {
+                "rateCode": "PCS9WUTRZRZVEXMK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "Automated re scan Resource-assessment": {
+                "rateCode": "M2XU3QPCMCNNFAK5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            }
+        },
         "Canada (Central)": {
             "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
                 "rateCode": "JXHX49DTUV2UGPY6.JRTCKXETXF.6YS6EN2CT7",
@@ -2877,6 +3737,178 @@
             },
             "Automated re scan Resource-assessment": {
                 "rateCode": "BSKUQR36ETBDFUZN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            }
+        },
+        "Asia Pacific (Thailand)": {
+            "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
+                "rateCode": "4SGEUV9MHXXP8JPS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
+                "rateCode": "4J7FFSCJQ37XRP4M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
+                "rateCode": "X3TBRGMG9FCB4DHH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM": {
+                "rateCode": "8FQ2YRRYY4258NZX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU": {
+                "rateCode": "V8QC3DDYHM3CWHMT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ": {
+                "rateCode": "BTRDVMNZXBY378AZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI": {
+                "rateCode": "87H2N8HAYTQMXGU3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo": {
+                "rateCode": "RPAP7JEQM3QV7SEX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220": {
+                "rateCode": "QM2EUATF4CVK2QG8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU": {
+                "rateCode": "E7QSPVJW6D7WWPCA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A": {
+                "rateCode": "ACRT62CQTPJG75J3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU": {
+                "rateCode": "PVXKPY9TT97TN372.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k": {
+                "rateCode": "HNJDBKP7MBQN7XE8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g": {
+                "rateCode": "FGTFJRSB57654T8Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
+                "rateCode": "M2BBV4G6JD5VWGXG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU": {
+                "rateCode": "UB4NP6386HH85XKQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "Agentless vulnerability scans Instance hrs": {
+                "rateCode": "4SGEUV9MHXXP8JPS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+                "rateCode": "4J7FFSCJQ37XRP4M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "X3TBRGMG9FCB4DHH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "FREE Free metering free-metering Resource-assessment": {
+                "rateCode": "8FQ2YRRYY4258NZX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "8FQ2YRRYY4258NZX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+                "rateCode": "V8QC3DDYHM3CWHMT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "CI CD scan resource assessment": {
+                "rateCode": "BTRDVMNZXBY378AZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "Continuous EC2 scans Instance hrs": {
+                "rateCode": "87H2N8HAYTQMXGU3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "Initial Scan on push to ECR Resource-assessment": {
+                "rateCode": "RPAP7JEQM3QV7SEX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "FREE Free CI CD scan resource assessment": {
+                "rateCode": "QM2EUATF4CVK2QG8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+                "rateCode": "E7QSPVJW6D7WWPCA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+                "rateCode": "ACRT62CQTPJG75J3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "Standard Scanning Hourly": {
+                "rateCode": "PVXKPY9TT97TN372.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "FREE Free metering Continuous EC2 scans Instance-hrs": {
+                "rateCode": "HNJDBKP7MBQN7XE8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "CIS checks Resource assessment": {
+                "rateCode": "FGTFJRSB57654T8Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "FREE Free metering Standard Scanning Hourly": {
+                "rateCode": "M2BBV4G6JD5VWGXG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "FREE Free metering free-metering Hourly": {
+                "rateCode": "M2BBV4G6JD5VWGXG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "Automated re scan Resource-assessment": {
+                "rateCode": "UB4NP6386HH85XKQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
             }
@@ -3801,6 +4833,350 @@
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
             }
         },
+        "Asia Pacific (Melbourne)": {
+            "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
+                "rateCode": "J3AMAMHNPCQPRC4S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
+                "rateCode": "YCMM64K57TQQ2XN2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
+                "rateCode": "8YP637CH283UNYDC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM": {
+                "rateCode": "C59UMFT5Q4CWXWTG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU": {
+                "rateCode": "CGRTEU3YSUH3PQ4S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ": {
+                "rateCode": "8UJH84J6UM9JSN68.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI": {
+                "rateCode": "5KMYMXVTH4F3J56R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo": {
+                "rateCode": "5CJRAKXFW3PWXN7E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220": {
+                "rateCode": "PX3YCQ8BH9KZKNA5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU": {
+                "rateCode": "FT47M3S2DWMZRRHY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A": {
+                "rateCode": "GYXJX5ZTHNWYHU8E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU": {
+                "rateCode": "96V7T8UY9STMTA3H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k": {
+                "rateCode": "5SSPM978R7QE8XCR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g": {
+                "rateCode": "K6U8GNBDYF7A24XN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
+                "rateCode": "DWHGD5FA2QGUQ9MN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU": {
+                "rateCode": "Y8CH94964EJ3RKZG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "Agentless vulnerability scans Instance hrs": {
+                "rateCode": "J3AMAMHNPCQPRC4S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+                "rateCode": "YCMM64K57TQQ2XN2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "8YP637CH283UNYDC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "FREE Free metering free-metering Resource-assessment": {
+                "rateCode": "C59UMFT5Q4CWXWTG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "C59UMFT5Q4CWXWTG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+                "rateCode": "CGRTEU3YSUH3PQ4S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "CI CD scan resource assessment": {
+                "rateCode": "8UJH84J6UM9JSN68.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "Continuous EC2 scans Instance hrs": {
+                "rateCode": "5KMYMXVTH4F3J56R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "Initial Scan on push to ECR Resource-assessment": {
+                "rateCode": "5CJRAKXFW3PWXN7E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "FREE Free CI CD scan resource assessment": {
+                "rateCode": "PX3YCQ8BH9KZKNA5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+                "rateCode": "FT47M3S2DWMZRRHY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+                "rateCode": "GYXJX5ZTHNWYHU8E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "Standard Scanning Hourly": {
+                "rateCode": "96V7T8UY9STMTA3H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "FREE Free metering Continuous EC2 scans Instance-hrs": {
+                "rateCode": "5SSPM978R7QE8XCR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "CIS checks Resource assessment": {
+                "rateCode": "K6U8GNBDYF7A24XN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "FREE Free metering Standard Scanning Hourly": {
+                "rateCode": "DWHGD5FA2QGUQ9MN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "FREE Free metering free-metering Hourly": {
+                "rateCode": "DWHGD5FA2QGUQ9MN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "Automated re scan Resource-assessment": {
+                "rateCode": "Y8CH94964EJ3RKZG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            }
+        },
+        "Asia Pacific (Malaysia)": {
+            "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
+                "rateCode": "ANR5ENG9FJ28CR7A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
+                "rateCode": "6WZBW553N6VGD2TF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
+                "rateCode": "8MPMCX3MKVBYY3MB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM": {
+                "rateCode": "AWP6P5MJWZD9SABZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU": {
+                "rateCode": "JGKCD5SN8KW2MS4U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ": {
+                "rateCode": "PDZVCHY7KCWN2B3V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI": {
+                "rateCode": "MSNF56JM4AUS8VWH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo": {
+                "rateCode": "H9APGBTKRZ8NPRYS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220": {
+                "rateCode": "QVU9496DMA2R95Z7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU": {
+                "rateCode": "HSW67839BVXE7Q9B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A": {
+                "rateCode": "E4YFDQ6VFA2SW5YW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU": {
+                "rateCode": "NZ7B9GYJZC3B6VD4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k": {
+                "rateCode": "MQ8KMXYJZT4JDVQY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g": {
+                "rateCode": "YXRRMR3K8SMHDCAE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
+                "rateCode": "ENT58A3XU9M3JNV4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU": {
+                "rateCode": "E7E2SHDSU4RPPJBP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "Agentless vulnerability scans Instance hrs": {
+                "rateCode": "ANR5ENG9FJ28CR7A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+                "rateCode": "6WZBW553N6VGD2TF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "8MPMCX3MKVBYY3MB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "FREE Free metering free-metering Resource-assessment": {
+                "rateCode": "AWP6P5MJWZD9SABZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "AWP6P5MJWZD9SABZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+                "rateCode": "JGKCD5SN8KW2MS4U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "CI CD scan resource assessment": {
+                "rateCode": "PDZVCHY7KCWN2B3V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "Continuous EC2 scans Instance hrs": {
+                "rateCode": "MSNF56JM4AUS8VWH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "Initial Scan on push to ECR Resource-assessment": {
+                "rateCode": "H9APGBTKRZ8NPRYS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "FREE Free CI CD scan resource assessment": {
+                "rateCode": "QVU9496DMA2R95Z7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+                "rateCode": "HSW67839BVXE7Q9B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+                "rateCode": "E4YFDQ6VFA2SW5YW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "Standard Scanning Hourly": {
+                "rateCode": "NZ7B9GYJZC3B6VD4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "FREE Free metering Continuous EC2 scans Instance-hrs": {
+                "rateCode": "MQ8KMXYJZT4JDVQY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "CIS checks Resource assessment": {
+                "rateCode": "YXRRMR3K8SMHDCAE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "FREE Free metering Standard Scanning Hourly": {
+                "rateCode": "ENT58A3XU9M3JNV4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "FREE Free metering free-metering Hourly": {
+                "rateCode": "ENT58A3XU9M3JNV4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "Automated re scan Resource-assessment": {
+                "rateCode": "E7E2SHDSU4RPPJBP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            }
+        },
         "Asia Pacific (Jakarta)": {
             "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
                 "rateCode": "CCEEBJ9FYE86R4FR.JRTCKXETXF.6YS6EN2CT7",
@@ -3959,6 +5335,178 @@
             },
             "Automated re scan Resource-assessment": {
                 "rateCode": "XX8KPNPF3XDP2696.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            }
+        },
+        "Asia Pacific (Hyderabad)": {
+            "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4": {
+                "rateCode": "DR53F6JU89CB47SW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
+                "rateCode": "EVR8GZ38NNQFRSQU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
+                "rateCode": "5UYDB2ETC4BKBQJC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM": {
+                "rateCode": "YNSJVKM23385H6A9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU": {
+                "rateCode": "YS4E3JAT3HN6K2PB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ": {
+                "rateCode": "KVBX2EX4UP2X9VGY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI": {
+                "rateCode": "6GJK4E483325D872.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo": {
+                "rateCode": "CW8Z739EXG6CBYVH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220": {
+                "rateCode": "V46P2JQZJS8YEUXR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU": {
+                "rateCode": "VDU56VNUDHQYYA6B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A": {
+                "rateCode": "2P4BAMYKKWQMFYGX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU": {
+                "rateCode": "QSV5ZSX4HXP6HBWV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k": {
+                "rateCode": "6RXVATKKAQWCZAKB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g": {
+                "rateCode": "BAH4WMC8FCX5XD75.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
+                "rateCode": "AYKRVTT2E9E5UKQ5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU": {
+                "rateCode": "Y94N5QY5HRYPKEHH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "Agentless vulnerability scans Instance hrs": {
+                "rateCode": "DR53F6JU89CB47SW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0028900000",
+                "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+                "rateCode": "EVR8GZ38NNQFRSQU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU"
+            },
+            "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "5UYDB2ETC4BKBQJC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I"
+            },
+            "FREE Free metering free-metering Resource-assessment": {
+                "rateCode": "YNSJVKM23385H6A9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+                "rateCode": "YNSJVKM23385H6A9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JQCWWk4z1rD2plF8gsBMYJmHxvJhsQUaUxiLQfZMYFM"
+            },
+            "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+                "rateCode": "YS4E3JAT3HN6K2PB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "Sw5wtdvWji-Smxhk6hwgTomzglJdsEej3EXdHLouShU"
+            },
+            "CI CD scan resource assessment": {
+                "rateCode": "KVBX2EX4UP2X9VGY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "d0kLePv7_pZ9aO04mb7a3ZFe0zHTXYB37nEIZNIH_ZQ"
+            },
+            "Continuous EC2 scans Instance hrs": {
+                "rateCode": "6GJK4E483325D872.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0021000000",
+                "RegionlessRateCode": "e_8I2HCKlhP13Ov1SOMCgaqpNQZpDdceuT_nThe5NdI"
+            },
+            "Initial Scan on push to ECR Resource-assessment": {
+                "rateCode": "CW8Z739EXG6CBYVH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1100000000",
+                "RegionlessRateCode": "f0ZGLIT_UE_sj5XBeCTGKHM-PD_xK8gYVsvtcKhfcwo"
+            },
+            "FREE Free CI CD scan resource assessment": {
+                "rateCode": "V46P2JQZJS8YEUXR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "k_ZBZsPltCjG97-e34Fwl9K7Xr0OCshddevlk-oy220"
+            },
+            "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+                "rateCode": "VDU56VNUDHQYYA6B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lAaMMyCwibAJAbZf0rlabRRwqFnDymzH0RkxwcZQkBU"
+            },
+            "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+                "rateCode": "2P4BAMYKKWQMFYGX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ldyYoHfWzcZ93Mfj_IAR831jcyrICoRvKZYfQUDfQ7A"
+            },
+            "Standard Scanning Hourly": {
+                "rateCode": "QSV5ZSX4HXP6HBWV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "mhhXLlb8BV7cdoa-Knn4kpUrYakfijQNVHu3uKpGgNU"
+            },
+            "FREE Free metering Continuous EC2 scans Instance-hrs": {
+                "rateCode": "6RXVATKKAQWCZAKB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "orBvNvcwjbAp2UjGvQ9YOWMzMLCCFLXjMTFm3S5Y71k"
+            },
+            "CIS checks Resource assessment": {
+                "rateCode": "BAH4WMC8FCX5XD75.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
+            },
+            "FREE Free metering Standard Scanning Hourly": {
+                "rateCode": "AYKRVTT2E9E5UKQ5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "FREE Free metering free-metering Hourly": {
+                "rateCode": "AYKRVTT2E9E5UKQ5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po"
+            },
+            "Automated re scan Resource-assessment": {
+                "rateCode": "Y94N5QY5HRYPKEHH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
             }

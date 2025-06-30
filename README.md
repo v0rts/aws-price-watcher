@@ -1,3 +1,922 @@
+## 2025-06-30 23:26
+
+**Modified services:**
+
+- [rds-flex-ondemand](processed/rds-flex-ondemand.json)
+  - Billing metric added: -_lYwp-TY2choo29clEefJE2a8corTWGRgJ8TQN3mJg V2 💡
+  - Billing metric added: 04hh8CaUaolTbSJtDbk7Y88CYBGxhvEacIQM5tYLjz4 V2 💡
+  - Billing metric added: 8I6YXZDUm9vqYT7-2dDAm84bTrct0DpjfG9lyxzuUwo V2 💡
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: US West (Oregon) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: US East (Ohio) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: US East (N. Virginia) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: South America (Sao Paulo) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: Middle East (Bahrain) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: EU (Stockholm) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: EU (Paris) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: EU (Milan) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: EU (London) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: EU (Ireland) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: EU (Frankfurt) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: Canada (Central) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: Asia Pacific (Tokyo) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: Asia Pacific (Sydney) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: Asia Pacific (Singapore) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: Asia Pacific (Seoul) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: AWS GovCloud (US-East) 🌎
+  - Region added for metric LI4CL16aX-Is5wJ7nDVLUyJyJMv9oED0EoeRAtFSIpI V2: AWS GovCloud (US) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: US West (Oregon) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: US East (Ohio) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: US East (N. Virginia) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: South America (Sao Paulo) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: Middle East (Bahrain) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: EU (Stockholm) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: EU (Paris) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: EU (Milan) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: EU (London) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: EU (Ireland) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: EU (Frankfurt) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: Canada (Central) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: Asia Pacific (Tokyo) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: Asia Pacific (Sydney) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: Asia Pacific (Singapore) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: Asia Pacific (Seoul) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: Asia Pacific (Mumbai) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: AWS GovCloud (US-East) 🌎
+  - Region added for metric Lt5EjDw8mRO2ByJMzOj6maUNfPmmt-x5PoAq0bdZ4wQ V2: AWS GovCloud (US) 🌎
+  - Billing metric added: Qu3Wwstlm9-EcADK_vn9gKRfqp1bpouHkW84S8lFocc V2 💡
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: US West (Oregon) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: US East (Ohio) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: US East (N. Virginia) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: South America (Sao Paulo) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: Middle East (Bahrain) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: EU (Stockholm) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: EU (Paris) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: EU (Milan) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: EU (London) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: EU (Ireland) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: EU (Frankfurt) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: Canada (Central) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: Asia Pacific (Tokyo) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: Asia Pacific (Sydney) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: Asia Pacific (Singapore) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: Asia Pacific (Seoul) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: AWS GovCloud (US-East) 🌎
+  - Region added for metric f2EslZHArr_Es31sVOMMLYkc2n0Ta0O9ROmRRsvMZdE V2: AWS GovCloud (US) 🌎
+  - Billing metric added: h9P-2FAR4Z43PMlP7gmCPR9zjrhL3BJU7xaj_SyCgMQ V2 💡
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: US West (Oregon) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: US East (Ohio) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: US East (N. Virginia) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: South America (Sao Paulo) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: Middle East (Bahrain) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: EU (Zurich) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: EU (Stockholm) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: EU (Paris) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: EU (Milan) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: EU (London) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: EU (Ireland) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: EU (Frankfurt) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: Canada (Central) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: Asia Pacific (Tokyo) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: Asia Pacific (Sydney) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: Asia Pacific (Singapore) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: Asia Pacific (Seoul) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: Asia Pacific (Mumbai) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: AWS GovCloud (US-East) 🌎
+  - Region added for metric iHAEpElgJyLK6RjrS4ApfMY6zcau0bkVsgtzuH-aBlU V2: AWS GovCloud (US) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: US West (Oregon) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: US East (Ohio) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: US East (N. Virginia) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: South America (Sao Paulo) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: Middle East (Bahrain) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: EU (Stockholm) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: EU (Paris) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: EU (Milan) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: EU (London) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: EU (Ireland) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: EU (Frankfurt) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: Canada (Central) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: Asia Pacific (Tokyo) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: Asia Pacific (Sydney) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: Asia Pacific (Singapore) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: Asia Pacific (Seoul) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: Asia Pacific (Mumbai) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: AWS GovCloud (US-East) 🌎
+  - Region added for metric jH9VPNq03M5kSzOwI8XF0eEK2eEmuh83wborTaJbmYg V2: AWS GovCloud (US) 🌎
+  - Billing metric added: qKYULla7zDSe3u-iglYOoW5TYMa0lhn-X3zKCE-o8hQ V2 💡
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: US West (Oregon) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: US East (Ohio) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: US East (N. Virginia) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: South America (Sao Paulo) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: Middle East (Bahrain) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: EU (Stockholm) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: EU (Paris) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: EU (Milan) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: EU (London) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: EU (Ireland) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: EU (Frankfurt) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: Canada (Central) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: Asia Pacific (Tokyo) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: Asia Pacific (Sydney) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: Asia Pacific (Singapore) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: Asia Pacific (Seoul) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: Asia Pacific (Mumbai) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: AWS GovCloud (US-East) 🌎
+  - Region added for metric zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2: AWS GovCloud (US) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.2xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.m6i.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.32xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.m6i.32xlarge, vCPU: 128, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.2xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.r6i.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.large Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.r6i.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r5b.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.m6i.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.24xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.x2iedn.xlarge, vCPU: 4, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.12xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.m6i.12xlarge, vCPU: 48, Memory: 192 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.12xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.r6i.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.8xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.x2iedn.8xlarge, vCPU: 32, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.medium Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.t3.medium, vCPU: 2, Memory: 4 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.16xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.m6i.16xlarge, vCPU: 64, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r5b.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.32xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.r6i.32xlarge, vCPU: 128, Memory: 1024 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.4xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.r6i.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r5b.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.8xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.m6i.8xlarge, vCPU: 32, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.large Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.16xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.x2iedn.16xlarge, vCPU: 64, Memory: 2048 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r5b.2xlarge, vCPU: 8, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.24xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.m6i.24xlarge, vCPU: 96, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.32xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.x2iedn.32xlarge, vCPU: 128, Memory: 4096 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.12xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r5b.12xlarge, vCPU: 48, Memory: 384 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.24xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.r6i.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.t3.xlarge, vCPU: 4, Memory: 16 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.large Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.m6i.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.large Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.t3.large, vCPU: 2, Memory: 8 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.4xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.x2iedn.4xlarge, vCPU: 16, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db t3.2xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.t3.2xlarge, vCPU: 8, Memory: 32 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db x2iedn.2xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.x2iedn.2xlarge, vCPU: 8, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.16xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.r6i.16xlarge, vCPU: 64, Memory: 512 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Jakarta) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise General purpose db m6i.4xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.m6i.4xlarge, vCPU: 16, Memory: 64 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: Middle East (UAE) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: EU (Paris) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Osaka) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Mumbai) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US-East) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r6i.8xlarge Custom Multi-AZ Customer-provided: AWS GovCloud (US) (Instance Type: db.r6i.8xlarge, vCPU: 32, Memory: 256 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.24xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r5b.24xlarge, vCPU: 96, Memory: 768 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: US West (Oregon) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: US East (Ohio) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: US East (N. Virginia) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: South America (Sao Paulo) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: EU (Stockholm) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: EU (London) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: EU (Ireland) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: EU (Frankfurt) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: Canada (Central) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Tokyo) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Sydney) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Singapore) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Memory optimized db r5b.4xlarge Custom Multi-AZ Customer-provided: Asia Pacific (Seoul) (Instance Type: db.r5b.4xlarge, vCPU: 16, Memory: 128 GiB, Storage: EBS Only) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: US West (Oregon) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: US East (Ohio) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: US East (N. Virginia) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: Middle East (Bahrain) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: EU (Stockholm) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: EU (London) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: EU (Ireland) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: EU (Frankfurt) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: Canada (Central) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: Asia Pacific (Tokyo) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: Asia Pacific (Sydney) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: Asia Pacific (Singapore) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: Asia Pacific (Seoul) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: AWS GovCloud (US-East) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise Multi-AZ: AWS GovCloud (US) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: US West (Oregon) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: US East (Ohio) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: US East (N. Virginia) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: South America (Sao Paulo) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: Middle East (Bahrain) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: EU (Stockholm) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: EU (Paris) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: EU (Milan) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: EU (London) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: EU (Ireland) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: EU (Frankfurt) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: Canada (Central) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: Asia Pacific (Tokyo) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: Asia Pacific (Sydney) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: Asia Pacific (Singapore) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: Asia Pacific (Seoul) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: Asia Pacific (Osaka) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: Asia Pacific (Mumbai) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: AWS GovCloud (US-East) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose SSD GB-Mo: AWS GovCloud (US) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: US West (Oregon) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: US East (Ohio) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: US East (N. Virginia) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: Middle East (Bahrain) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: EU (Stockholm) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: EU (London) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: EU (Ireland) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: EU (Frankfurt) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: Canada (Central) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: Asia Pacific (Tokyo) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: Asia Pacific (Sydney) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: Asia Pacific (Singapore) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: Asia Pacific (Seoul) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: AWS GovCloud (US-East) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Multi-AZ: AWS GovCloud (US) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: US West (Oregon) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: US East (Ohio) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: US East (N. Virginia) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: Middle East (Bahrain) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: EU (Stockholm) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: EU (London) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: EU (Ireland) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: EU (Frankfurt) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: Canada (Central) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: Asia Pacific (Tokyo) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: Asia Pacific (Sydney) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: Asia Pacific (Singapore) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: Asia Pacific (Seoul) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: Asia Pacific (Mumbai) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: AWS GovCloud (US-East) 🌎
+  - Region added for metric Provisioned Throughput Oracle Enterprise RDS Provisioned Throughput Multi-AZ: AWS GovCloud (US) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: US West (Oregon) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: US East (Ohio) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: US East (N. Virginia) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: South America (Sao Paulo) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: Middle East (Bahrain) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: EU (Stockholm) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: EU (Paris) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: EU (Milan) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: EU (London) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: EU (Ireland) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: EU (Frankfurt) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: Canada (Central) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: Asia Pacific (Tokyo) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: Asia Pacific (Sydney) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: Asia Pacific (Singapore) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: Asia Pacific (Seoul) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: Asia Pacific (Osaka) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: Asia Pacific (Mumbai) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: AWS GovCloud (US-East) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ General Purpose-GP3 GB-Mo: AWS GovCloud (US) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: US West (Oregon) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: US East (Ohio) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: US East (N. Virginia) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: South America (Sao Paulo) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: Middle East (Bahrain) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: EU (Stockholm) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: EU (Paris) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: EU (Milan) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: EU (London) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: EU (Ireland) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: EU (Frankfurt) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: Canada (Central) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: Asia Pacific (Tokyo) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: Asia Pacific (Sydney) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: Asia Pacific (Singapore) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: Asia Pacific (Seoul) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: Asia Pacific (Osaka) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: Asia Pacific (Mumbai) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: AWS GovCloud (US-East) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo: AWS GovCloud (US) 🌎
+
+
 ## 2025-06-30 19:24
 
 **Modified services:**

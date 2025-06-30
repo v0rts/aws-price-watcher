@@ -1,3 +1,14 @@
+## 2025-06-30 19:24
+
+**Modified services:**
+
+- [events](processed/events.json)
+  - Region added for metric Scheduled Invocation for 0 to 14000000 Invocations: AWS GovCloud (US-East) 🌎
+  - Region added for metric Scheduled Invocation for 0 to 14000000 Invocations: AWS GovCloud (US) 🌎
+  - Region added for metric Scheduled Invocation for 14000000 to Inf Invocations: AWS GovCloud (US-East) 🌎
+  - Region added for metric Scheduled Invocation for 14000000 to Inf Invocations: AWS GovCloud (US) 🌎
+
+
 ## 2025-06-27 20:27
 
 **Modified services:**

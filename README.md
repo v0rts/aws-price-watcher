@@ -1,3 +1,12 @@
+## 2025-07-01 19:24
+
+**Modified services:**
+
+- [neptune](processed/neptune.json)
+  - Region added for metric Neptune ReplicatedWrite: EU (Frankfurt) 🌎
+  - Region added for metric Neptune ReplicatedWrite: Asia Pacific (Jakarta) 🌎
+
+
 ## 2025-07-01 18:28
 
 **Modified services:**

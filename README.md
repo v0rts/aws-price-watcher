@@ -1,3 +1,17 @@
+## 2025-07-01 18:28
+
+**Modified services:**
+
+- [neptune](processed/neptune.json)
+  - Region removed for metric Neptune ReplicatedWrite: South America (Sao Paulo) 💥
+  - Region removed for metric Neptune ReplicatedWrite: EU (Stockholm) 💥
+  - Region removed for metric Neptune ReplicatedWrite: EU (Paris) 💥
+  - Region removed for metric Neptune ReplicatedWrite: EU (Frankfurt) 💥
+  - Region removed for metric Neptune ReplicatedWrite: Asia Pacific (Seoul) 💥
+  - Region removed for metric Neptune ReplicatedWrite: AWS GovCloud (US-East) 💥
+  - Region removed for metric Neptune ReplicatedWrite: AWS GovCloud (US) 💥
+
+
 ## 2025-06-30 23:26
 
 **Modified services:**

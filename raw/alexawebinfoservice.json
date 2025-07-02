@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "alexawebinfoservice",
         "accessType": "publish",
-        "esIndex": "plc-alexawebinfoservice-usd-20241002192630",
-        "hawkFilePublicationDate": "2024-08-26T15:37:12Z",
-        "ETLIngestionTriggerDate": "2024-10-02T19:26:30Z",
+        "esIndex": "plc-alexawebinfoservice-usd-20250702172401",
+        "hawkFilePublicationDate": "2025-07-02T17:24:02Z",
+        "ETLIngestionTriggerDate": "2025-07-02T17:24:01Z",
         "currencyCode": "USD",
         "source": "alexawebinfoservice",
         "isMapped": "true"

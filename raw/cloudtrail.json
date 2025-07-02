@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudtrail",
         "accessType": "publish",
-        "esIndex": "plc-cloudtrail-usd-20250605175526",
+        "esIndex": "plc-cloudtrail-usd-20250702194131",
         "hawkFilePublicationDate": "2025-06-05T17:55:26Z",
-        "ETLIngestionTriggerDate": "2025-06-05T17:55:26Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:41:31Z",
         "currencyCode": "USD",
         "source": "cloudtrail",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudhsm",
         "accessType": "publish",
-        "esIndex": "plc-cloudhsm-usd-20250626173203",
+        "esIndex": "plc-cloudhsm-usd-20250702193930",
         "hawkFilePublicationDate": "2025-06-26T17:32:03Z",
-        "ETLIngestionTriggerDate": "2025-06-26T17:32:03Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:39:30Z",
         "currencyCode": "USD",
         "source": "cloudhsm",
         "isMapped": "true"

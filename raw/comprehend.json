@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "comprehend",
         "accessType": "publish",
-        "esIndex": "plc-comprehend-usd-20250702171752",
+        "esIndex": "plc-comprehend-usd-20250702195026",
         "hawkFilePublicationDate": "2025-07-02T17:17:54Z",
-        "ETLIngestionTriggerDate": "2025-07-02T17:17:52Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:50:26Z",
         "currencyCode": "USD",
         "source": "comprehend",
         "isMapped": "true"

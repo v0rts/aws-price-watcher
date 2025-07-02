@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "codepipeline",
         "accessType": "publish",
-        "esIndex": "plc-codepipeline-usd-20250702171719",
+        "esIndex": "plc-codepipeline-usd-20250702194803",
         "hawkFilePublicationDate": "2025-07-02T17:17:21Z",
-        "ETLIngestionTriggerDate": "2025-07-02T17:17:19Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:48:03Z",
         "currencyCode": "USD",
         "source": "codepipeline",
         "isMapped": "true"

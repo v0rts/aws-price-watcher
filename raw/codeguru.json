@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "codeguru",
         "accessType": "publish",
-        "esIndex": "plc-codeguru-usd-20241002195348",
+        "esIndex": "plc-codeguru-usd-20250702194737",
         "hawkFilePublicationDate": "2024-08-26T15:57:51Z",
-        "ETLIngestionTriggerDate": "2024-10-02T19:53:48Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:47:37Z",
         "currencyCode": "USD",
         "source": "codeguru",
         "isMapped": "true"

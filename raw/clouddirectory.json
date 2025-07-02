@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "clouddirectory",
         "accessType": "publish",
-        "esIndex": "plc-clouddirectory-usd-20241029171915",
+        "esIndex": "plc-clouddirectory-usd-20250702193724",
         "hawkFilePublicationDate": "2024-10-29T17:19:15Z",
-        "ETLIngestionTriggerDate": "2024-10-29T17:19:15Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:37:24Z",
         "currencyCode": "USD",
         "source": "clouddirectory",
         "isMapped": "true"

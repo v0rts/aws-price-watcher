@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "codewhisperer",
         "accessType": "publish",
-        "esIndex": "plc-codewhisperer-usd-20241002195502",
+        "esIndex": "plc-codewhisperer-usd-20250702194848",
         "hawkFilePublicationDate": "2024-08-26T15:58:26Z",
-        "ETLIngestionTriggerDate": "2024-10-02T19:55:02Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:48:48Z",
         "currencyCode": "USD",
         "source": "codewhisperer",
         "isMapped": "true"

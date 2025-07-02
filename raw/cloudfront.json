@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudfront",
         "accessType": "publish",
-        "esIndex": "plc-cloudfront-usd-20250701211647",
+        "esIndex": "plc-cloudfront-usd-20250702193822",
         "hawkFilePublicationDate": "2025-07-01T21:16:47Z",
-        "ETLIngestionTriggerDate": "2025-07-01T21:16:47Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:38:22Z",
         "currencyCode": "USD",
         "source": "cloudfront",
         "isMapped": "true"

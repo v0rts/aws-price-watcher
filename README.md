@@ -1,3 +1,18 @@
+## 2025-07-02 16:27
+
+**Modified services:**
+
+- [acm](processed/acm.json)
+  - Region added for metric kP1tCsqxkzAwp8GlXykVtd_G6gco7uW2We6MB_8jws0: EU (Milan) 🌎
+  - Region added for metric kP1tCsqxkzAwp8GlXykVtd_G6gco7uW2We6MB_8jws0: EU (Ireland) 🌎
+  - Region removed for metric kP1tCsqxkzAwp8GlXykVtd_G6gco7uW2We6MB_8jws0: EU (Frankfurt) 💥
+  - Region removed for metric kP1tCsqxkzAwp8GlXykVtd_G6gco7uW2We6MB_8jws0: Asia Pacific (Tokyo) 💥
+  - Region added for metric -VSpzeYEDVnZJ0IBtNwVbYpzI_hGoxzDKc9lw6-r994: EU (Frankfurt) 🌎
+  - Region added for metric -VSpzeYEDVnZJ0IBtNwVbYpzI_hGoxzDKc9lw6-r994: Asia Pacific (Tokyo) 🌎
+  - Region removed for metric -VSpzeYEDVnZJ0IBtNwVbYpzI_hGoxzDKc9lw6-r994: EU (Milan) 💥
+  - Region removed for metric -VSpzeYEDVnZJ0IBtNwVbYpzI_hGoxzDKc9lw6-r994: EU (Ireland) 💥
+
+
 ## 2025-07-01 19:24
 
 **Modified services:**

@@ -13,11 +13,11 @@
         "EU (Stockholm)": "0.0000000000",
         "EU (Spain)": "0.0000000000",
         "EU (Paris)": "0.0000000000",
+        "EU (Milan)": "0.0000000000",
         "EU (London)": "0.0000000000",
-        "EU (Frankfurt)": "0.0000000000",
+        "EU (Ireland)": "0.0000000000",
         "Canada West (Calgary)": "0.0000000000",
         "Canada (Central)": "0.0000000000",
-        "Asia Pacific (Tokyo)": "0.0000000000",
         "Asia Pacific (Thailand)": "0.0000000000",
         "Asia Pacific (Sydney)": "0.0000000000",
         "Asia Pacific (Singapore)": "0.0000000000",
@@ -34,7 +34,7 @@
         "AWS GovCloud (US)": "0.0000000000"
     },
     "-VSpzeYEDVnZJ0IBtNwVbYpzI_hGoxzDKc9lw6-r994": {
-        "EU (Milan)": "0.0000500000",
-        "EU (Ireland)": "0.0000500000"
+        "EU (Frankfurt)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000"
     }
 }

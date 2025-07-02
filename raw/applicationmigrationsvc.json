@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "applicationmigrationsvc",
         "accessType": "publish",
-        "esIndex": "plc-applicationmigrationsvc-usd-20241002193647",
-        "hawkFilePublicationDate": "2024-08-26T15:41:52Z",
-        "ETLIngestionTriggerDate": "2024-10-02T19:36:47Z",
+        "esIndex": "plc-applicationmigrationsvc-usd-20250702173330",
+        "hawkFilePublicationDate": "2025-07-02T17:33:32Z",
+        "ETLIngestionTriggerDate": "2025-07-02T17:33:30Z",
         "currencyCode": "USD",
         "source": "applicationmigrationsvc",
         "isMapped": "true"

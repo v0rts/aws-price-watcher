@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "apprunner",
         "accessType": "publish",
-        "esIndex": "plc-apprunner-usd-20241002193729",
-        "hawkFilePublicationDate": "2024-08-26T15:42:49Z",
-        "ETLIngestionTriggerDate": "2024-10-02T19:37:29Z",
+        "esIndex": "plc-apprunner-usd-20250702173402",
+        "hawkFilePublicationDate": "2025-07-02T17:34:03Z",
+        "ETLIngestionTriggerDate": "2025-07-02T17:34:02Z",
         "currencyCode": "USD",
         "source": "apprunner",
         "isMapped": "true"

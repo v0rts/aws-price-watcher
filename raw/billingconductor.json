@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "billingconductor",
         "accessType": "publish",
-        "esIndex": "plc-billingconductor-usd-20241002194115",
+        "esIndex": "plc-billingconductor-usd-20250702191547",
         "hawkFilePublicationDate": "2024-08-26T15:47:37Z",
-        "ETLIngestionTriggerDate": "2024-10-02T19:41:15Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:15:47Z",
         "currencyCode": "USD",
         "source": "billingconductor",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "budgets",
         "accessType": "publish",
-        "esIndex": "plc-budgets-usd-20241002194148",
+        "esIndex": "plc-budgets-usd-20250702191650",
         "hawkFilePublicationDate": "2024-08-26T15:49:00Z",
-        "ETLIngestionTriggerDate": "2024-10-02T19:41:48Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:16:50Z",
         "currencyCode": "USD",
         "source": "budgets",
         "isMapped": "true"

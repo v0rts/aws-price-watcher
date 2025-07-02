@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "chimefeatures",
         "accessType": "publish",
-        "esIndex": "plc-chimefeatures-usd-20241002194433",
+        "esIndex": "plc-chimefeatures-usd-20250702192019",
         "hawkFilePublicationDate": "2024-09-18T15:06:03Z",
-        "ETLIngestionTriggerDate": "2024-10-02T19:44:33Z",
+        "ETLIngestionTriggerDate": "2025-07-02T19:20:19Z",
         "currencyCode": "USD",
         "source": "chimefeatures",
         "isMapped": "true"

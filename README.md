@@ -1,3 +1,15 @@
+## 2025-07-03 15:26
+
+**Modified services:**
+
+- [pcs](processed/pcs.json)
+  - Region added for metric AWSParallelComputingService Small Running Slurm: EU (London) 🌎
+  - Region added for metric AWSParallelComputingService SlurmStd: EU (London) 🌎
+  - Region added for metric AWSParallelComputingService Large Running Slurm: EU (London) 🌎
+  - Region added for metric AWSParallelComputingService SlurmAdv: EU (London) 🌎
+  - Region added for metric AWSParallelComputingService Medium Running Slurm: EU (London) 🌎
+
+
 ## 2025-07-02 17:26
 
 **Modified services:**

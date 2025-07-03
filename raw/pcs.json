@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "pcs",
         "accessType": "publish",
-        "esIndex": "plc-pcs-usd-20250703135150",
-        "hawkFilePublicationDate": "2025-07-03T13:51:50Z",
-        "ETLIngestionTriggerDate": "2025-07-03T13:51:50Z",
+        "esIndex": "plc-pcs-usd-20250703151513",
+        "hawkFilePublicationDate": "2025-07-03T15:15:13Z",
+        "ETLIngestionTriggerDate": "2025-07-03T15:15:13Z",
         "currencyCode": "USD",
         "source": "pcs",
         "isMapped": "true"
@@ -296,6 +296,78 @@
             "AWSParallelComputingService Medium Running Slurm": {
                 "rateCode": "SNMAHZC686JSSWUV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "4.0146000000",
+                "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            }
+        },
+        "EU (London)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "5D6SPF4NGXXTH37P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2642000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "U9TUEUWATGGF9SB8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2193000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
+            "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
+                "rateCode": "2JFSCSNT57R7PEBP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7514000000",
+                "RegionlessRateCode": "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw"
+            },
+            "XUVWJu1wzY_as24gTjlcRYrR7ubyE0jeCz14vjHjPdA": {
+                "rateCode": "PXVY2UBVP6K94VYB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1032000000",
+                "RegionlessRateCode": "XUVWJu1wzY_as24gTjlcRYrR7ubyE0jeCz14vjHjPdA"
+            },
+            "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig": {
+                "rateCode": "WFZ8XHWFYY82TX2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.4400000000",
+                "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
+            },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "HTHSFAXNF92JNUDF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0449000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
+            "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
+                "rateCode": "66U5CMW6UT2HYUK5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8256000000",
+                "RegionlessRateCode": "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM"
+            },
+            "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo": {
+                "rateCode": "U3YQSKEMG8PHGS6Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.2027000000",
+                "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "YF2ARFN8HHTTPZ4D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5284000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
+            },
+            "AWSParallelComputingService Small Running Slurm": {
+                "rateCode": "2JFSCSNT57R7PEBP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7514000000",
+                "RegionlessRateCode": "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw"
+            },
+            "AWSParallelComputingService SlurmStd": {
+                "rateCode": "PXVY2UBVP6K94VYB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1032000000",
+                "RegionlessRateCode": "XUVWJu1wzY_as24gTjlcRYrR7ubyE0jeCz14vjHjPdA"
+            },
+            "AWSParallelComputingService Large Running Slurm": {
+                "rateCode": "WFZ8XHWFYY82TX2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.4400000000",
+                "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
+            },
+            "AWSParallelComputingService SlurmAdv": {
+                "rateCode": "66U5CMW6UT2HYUK5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8256000000",
+                "RegionlessRateCode": "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM"
+            },
+            "AWSParallelComputingService Medium Running Slurm": {
+                "rateCode": "U3YQSKEMG8PHGS6Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.2027000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
             }
         },

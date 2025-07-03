@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "docdb",
         "accessType": "publish",
-        "esIndex": "plc-docdb-usd-20250620204657",
-        "hawkFilePublicationDate": "2025-06-19T02:09:31Z",
-        "ETLIngestionTriggerDate": "2025-06-20T20:46:57Z",
+        "esIndex": "plc-docdb-usd-20250703161105",
+        "hawkFilePublicationDate": "2025-07-03T16:11:05Z",
+        "ETLIngestionTriggerDate": "2025-07-03T16:11:05Z",
         "currencyCode": "USD",
         "source": "docdb",
         "isMapped": "true"
@@ -886,13 +886,11 @@
             "6PYKH395VKKND8KY.JRTCKXETXF.6YS6EN2CT7 0",
             "7YT7JY7ECHUXJB5U.JRTCKXETXF.6YS6EN2CT7 0",
             "BDZBWXMMRUPQGSM4.JRTCKXETXF.6YS6EN2CT7 0",
-            "DY982NG5FPHWGCCX.JRTCKXETXF.6YS6EN2CT7 0",
             "GJNQWTGJS5FGSTFB.JRTCKXETXF.6YS6EN2CT7 0",
             "GK7JVS8P6NESSAW2.JRTCKXETXF.6YS6EN2CT7 0",
             "GRAR3QMB2TD6S8FN.JRTCKXETXF.6YS6EN2CT7 0",
             "KHB829KZ49H445D4.JRTCKXETXF.6YS6EN2CT7 0",
             "M56P3VUD2VARMGU3.JRTCKXETXF.6YS6EN2CT7 0",
-            "RW3R9BHY9H9UM79G.JRTCKXETXF.6YS6EN2CT7 0",
             "TZJEA9D8GNJ3CR4B.JRTCKXETXF.6YS6EN2CT7 0",
             "VVYCX667ASRKEV5J.JRTCKXETXF.6YS6EN2CT7 0",
             "WZJTVJZXNRVTHT9Y.JRTCKXETXF.6YS6EN2CT7 0",
@@ -905,12 +903,10 @@
             "3KRTC8T9GCRRUUDG.JRTCKXETXF.6YS6EN2CT7 0",
             "3WUYGDGTW78ZP7F6.JRTCKXETXF.6YS6EN2CT7 0",
             "5SGXQ3XW3X9U2WV8.JRTCKXETXF.6YS6EN2CT7 0",
-            "7WXJ3DNDR2DCC49G.JRTCKXETXF.6YS6EN2CT7 0",
             "95ZNBR8843DUAP4M.JRTCKXETXF.6YS6EN2CT7 0",
             "A6STC2MER2CSRM3E.JRTCKXETXF.6YS6EN2CT7 0",
             "BX6Y8DWNCPFPRBFM.JRTCKXETXF.6YS6EN2CT7 0",
             "CAPTE2ZHNMSZEZ7N.JRTCKXETXF.6YS6EN2CT7 0",
-            "EJHR78XD7Q5QEBQH.JRTCKXETXF.6YS6EN2CT7 0",
             "GAWXAP6YCNXBN26S.JRTCKXETXF.6YS6EN2CT7 0",
             "HESBXX53HG56VS65.JRTCKXETXF.6YS6EN2CT7 0",
             "HQEVZC928Q5XCBVX.JRTCKXETXF.6YS6EN2CT7 0",
@@ -925,8 +921,6 @@
             "4A62FK8FH33BDPW5.JRTCKXETXF.6YS6EN2CT7 0",
             "4UD6DJCV96K84HXD.JRTCKXETXF.6YS6EN2CT7 0",
             "DUHS2T8EKWWYMTBD.JRTCKXETXF.6YS6EN2CT7 0",
-            "FJ66ADW7MAS3WWDD.JRTCKXETXF.6YS6EN2CT7 0",
-            "JBHBZ46QGFTVVZBX.JRTCKXETXF.6YS6EN2CT7 0",
             "MGFVXB29R5VHZF5T.JRTCKXETXF.6YS6EN2CT7 0",
             "NBEYFD6ASM7XFHZY.JRTCKXETXF.6YS6EN2CT7 0",
             "QR5BWNRS5KC2F3XP.JRTCKXETXF.6YS6EN2CT7 0",
@@ -941,7 +935,6 @@
             "4WDYF6MTJHBZ9X3S.JRTCKXETXF.6YS6EN2CT7 0",
             "562B4BD8Y26FDNP3.JRTCKXETXF.6YS6EN2CT7 0",
             "6QZ8JXBQGEURYFVJ.JRTCKXETXF.6YS6EN2CT7 0",
-            "7AA4SVFCYV3TQHY8.JRTCKXETXF.6YS6EN2CT7 0",
             "8W3GNZRFT3SNU2PN.JRTCKXETXF.6YS6EN2CT7 0",
             "AFGJ3NXHKMWE4F3G.JRTCKXETXF.6YS6EN2CT7 0",
             "AJNVR3QVU4FY5U62.JRTCKXETXF.6YS6EN2CT7 0",
@@ -949,7 +942,6 @@
             "FF3HKDQWE2P8ZR55.JRTCKXETXF.6YS6EN2CT7 0",
             "J8HC8K4B745YJZ3R.JRTCKXETXF.6YS6EN2CT7 0",
             "KB83UAH43X9TSCMR.JRTCKXETXF.6YS6EN2CT7 0",
-            "PZJZCJS6PBMK796R.JRTCKXETXF.6YS6EN2CT7 0",
             "TX7WYP6GVV8G7WNR.JRTCKXETXF.6YS6EN2CT7 0",
             "VXJSNMW8VW9WQNAV.JRTCKXETXF.6YS6EN2CT7 0",
             "WH8AN88QFS9CP2XZ.JRTCKXETXF.6YS6EN2CT7 0",
@@ -963,11 +955,9 @@
             "8DBB9473T9HYWZAD.JRTCKXETXF.6YS6EN2CT7 0",
             "CRPPSWG98PRA2KKS.JRTCKXETXF.6YS6EN2CT7 0",
             "DKP2NGJTTHXXAE3X.JRTCKXETXF.6YS6EN2CT7 0",
-            "EKXPCZ3C3VTNM2XP.JRTCKXETXF.6YS6EN2CT7 0",
             "FXB3V2PQQWD6FJ5V.JRTCKXETXF.6YS6EN2CT7 0",
             "GRZQF4D3WWZ3FN25.JRTCKXETXF.6YS6EN2CT7 0",
             "MG5F5Z7HUZJZFX44.JRTCKXETXF.6YS6EN2CT7 0",
-            "TN5D3HQ8BCJ3AFC8.JRTCKXETXF.6YS6EN2CT7 0",
             "UKQMGS5UARFCQN9A.JRTCKXETXF.6YS6EN2CT7 0",
             "WKN2465HXFDVPK4Q.JRTCKXETXF.6YS6EN2CT7 0",
             "WNPJUAG5HDZFZHP9.JRTCKXETXF.6YS6EN2CT7 0",
@@ -986,13 +976,10 @@
             "VEJ8JHKGDX34AKJH.JRTCKXETXF.6YS6EN2CT7 0",
             "VSNDZCXA5VFR8VYT.JRTCKXETXF.6YS6EN2CT7 0",
             "W5ACWCJ4MPPJ35K7.JRTCKXETXF.6YS6EN2CT7 0",
-            "WCTFZDQ9795KP6YA.JRTCKXETXF.6YS6EN2CT7 0",
-            "YGP6CZGM789X2URN.JRTCKXETXF.6YS6EN2CT7 0",
             "YJ56CWSNSBNH68TV.JRTCKXETXF.6YS6EN2CT7 0",
             "YMWS3E3FD9APY4BB.JRTCKXETXF.6YS6EN2CT7 0"
         ],
         "Memory optimized OnDemand NVMe SSD IO-Optimized": [
-            "36JBQNYYQNQAWFA3.JRTCKXETXF.6YS6EN2CT7 0",
             "48XQU4263MZUKEPY.JRTCKXETXF.6YS6EN2CT7 0",
             "A3B38YGNXT4VQRCF.JRTCKXETXF.6YS6EN2CT7 0",
             "BJMWHVW97MBKMEA8.JRTCKXETXF.6YS6EN2CT7 0",
@@ -1008,7 +995,6 @@
             "ST2TASXHJD9F5B8A.JRTCKXETXF.6YS6EN2CT7 0",
             "TS4ZZ872BWYRKVB9.JRTCKXETXF.6YS6EN2CT7 0",
             "UENJY8WR74C8YVDU.JRTCKXETXF.6YS6EN2CT7 0",
-            "URCNKJY4X76FBPV9.JRTCKXETXF.6YS6EN2CT7 0",
             "YDVTWN9EBVTWVHDF.JRTCKXETXF.6YS6EN2CT7 0",
             "27NNA69BBA54EPKK.JRTCKXETXF.6YS6EN2CT7 0",
             "2KDNRQAXR5CDM3H5.JRTCKXETXF.6YS6EN2CT7 0",
@@ -1023,14 +1009,11 @@
             "HCJD294KSCEXNF76.JRTCKXETXF.6YS6EN2CT7 0",
             "JY2AVZ5EWV2RCU4F.JRTCKXETXF.6YS6EN2CT7 0",
             "K6YSBJ7656BMNPCZ.JRTCKXETXF.6YS6EN2CT7 0",
-            "QREM73SFZRV9JVBF.JRTCKXETXF.6YS6EN2CT7 0",
-            "SFKPMHTTNMMD6DCQ.JRTCKXETXF.6YS6EN2CT7 0",
             "SP64CVMK383A7TPV.JRTCKXETXF.6YS6EN2CT7 0",
             "SPGWBXDBC5ERUXUV.JRTCKXETXF.6YS6EN2CT7 0",
             "SX7J8DBCZXUBDG2W.JRTCKXETXF.6YS6EN2CT7 0",
             "8HSKMWH8S3UAKM5V.JRTCKXETXF.6YS6EN2CT7 0",
             "9VM7PK2PYRTWPGWR.JRTCKXETXF.6YS6EN2CT7 0",
-            "A3PBKJYCZWDQGKHP.JRTCKXETXF.6YS6EN2CT7 0",
             "ABN9ZZ5FPCVUGHD4.JRTCKXETXF.6YS6EN2CT7 0",
             "AG36FZT77SBKDQMW.JRTCKXETXF.6YS6EN2CT7 0",
             "AZ4YWKF5DJM23WQR.JRTCKXETXF.6YS6EN2CT7 0",
@@ -1045,12 +1028,10 @@
             "J2C883VYYAQFD7S7.JRTCKXETXF.6YS6EN2CT7 0",
             "UV6SWHSS2NKXY9N5.JRTCKXETXF.6YS6EN2CT7 0",
             "VDXCRUF5A436FB8E.JRTCKXETXF.6YS6EN2CT7 0",
-            "Z62BCTXYCGBQZR3P.JRTCKXETXF.6YS6EN2CT7 0",
             "23HURZZEYZ9FTH3X.JRTCKXETXF.6YS6EN2CT7 0",
             "2TD5SK2TX8KB4YFP.JRTCKXETXF.6YS6EN2CT7 0",
             "4GU4PPVZCSW9RAVJ.JRTCKXETXF.6YS6EN2CT7 0",
             "4QGN7G264Y7KPTBT.JRTCKXETXF.6YS6EN2CT7 0",
-            "4XCNZBBFQY8V552A.JRTCKXETXF.6YS6EN2CT7 0",
             "B344CS5NAS2CRHTS.JRTCKXETXF.6YS6EN2CT7 0",
             "DGF9SFCWNPM987Z2.JRTCKXETXF.6YS6EN2CT7 0",
             "HTEJXTW6B4ZWTHA4.JRTCKXETXF.6YS6EN2CT7 0",
@@ -1058,7 +1039,6 @@
             "PC2Z5A5E52SG5EDD.JRTCKXETXF.6YS6EN2CT7 0",
             "QUNPP8ZSX9J3VD2A.JRTCKXETXF.6YS6EN2CT7 0",
             "S3MSCUA37QV8CDBU.JRTCKXETXF.6YS6EN2CT7 0",
-            "TVGYDBRNPB3X2S9C.JRTCKXETXF.6YS6EN2CT7 0",
             "U4FZDK3STTCK65NU.JRTCKXETXF.6YS6EN2CT7 0",
             "WDADYAHDZDWN3SKF.JRTCKXETXF.6YS6EN2CT7 0",
             "WKTAH4PPBJ4FECMY.JRTCKXETXF.6YS6EN2CT7 0",
@@ -1074,19 +1054,16 @@
             "AFZCH559Z8EAY7U6.JRTCKXETXF.6YS6EN2CT7 0",
             "HVDD6GTCJMK8MHXG.JRTCKXETXF.6YS6EN2CT7 0",
             "JXGQDHF85NND2HTA.JRTCKXETXF.6YS6EN2CT7 0",
-            "NAXQCUMTYA7NWND2.JRTCKXETXF.6YS6EN2CT7 0",
             "PY4PPAWYKFG4KBUZ.JRTCKXETXF.6YS6EN2CT7 0",
             "QG2F2NQ8BRRNKJC5.JRTCKXETXF.6YS6EN2CT7 0",
             "T2GXE75JTFYHB86U.JRTCKXETXF.6YS6EN2CT7 0",
             "UAH6JKQBH4R7M94S.JRTCKXETXF.6YS6EN2CT7 0",
             "USVKFNJXCKKEY8QQ.JRTCKXETXF.6YS6EN2CT7 0",
-            "V57N6UUHFVS56Q5E.JRTCKXETXF.6YS6EN2CT7 0",
             "Y7W6UEJYKKBF438C.JRTCKXETXF.6YS6EN2CT7 0",
             "294787HCXR5ZSZW4.JRTCKXETXF.6YS6EN2CT7 0",
             "3R3WZ7FVRDQZWXAV.JRTCKXETXF.6YS6EN2CT7 0",
             "4BPTCRESVH757399.JRTCKXETXF.6YS6EN2CT7 0",
             "7K4D2Q2G5XTAVUXR.JRTCKXETXF.6YS6EN2CT7 0",
-            "8XK54966XMK6RM3G.JRTCKXETXF.6YS6EN2CT7 0",
             "9S22ABGWV24HD9YU.JRTCKXETXF.6YS6EN2CT7 0",
             "B6JPESYCUJPJVESR.JRTCKXETXF.6YS6EN2CT7 0",
             "CYKCPTCZUCCZM3VU.JRTCKXETXF.6YS6EN2CT7 0",
@@ -1094,7 +1071,6 @@
             "F77VEYBH96AHGD2H.JRTCKXETXF.6YS6EN2CT7 0",
             "JJZAGEXRBGYWJVAW.JRTCKXETXF.6YS6EN2CT7 0",
             "JNSN8A6ZAF8YY443.JRTCKXETXF.6YS6EN2CT7 0",
-            "RJQZ5QZE4AJC4JWF.JRTCKXETXF.6YS6EN2CT7 0",
             "TCWUEUYBXDH7VUNH.JRTCKXETXF.6YS6EN2CT7 0",
             "V352YS2FM7AXH447.JRTCKXETXF.6YS6EN2CT7 0",
             "VKZEYUXCEMQ7U85E.JRTCKXETXF.6YS6EN2CT7 0",
@@ -11285,150 +11261,6 @@
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
             },
-            "DY982NG5FPHWGCCX.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "DY982NG5FPHWGCCX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.9372850000",
-                "RegionlessRateCode": "cfATYdX6uGN35l2PUitV2AsUhcrew8LmA9vU_dg29DA",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
-            },
-            "7WXJ3DNDR2DCC49G.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "7WXJ3DNDR2DCC49G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "11.9008050000",
-                "RegionlessRateCode": "vGBZVao8WOrtX3nkhxDcHAwor5ZAk4fvdTaQ0tu7yBQ",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
-            },
-            "JBHBZ46QGFTVVZBX.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "JBHBZ46QGFTVVZBX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.4895300000",
-                "RegionlessRateCode": "yNAvwwhhNT8qR48aEXsWlQj-zvLY26bmbgYW36ENfX4",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
-            },
-            "PZJZCJS6PBMK796R.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "PZJZCJS6PBMK796R.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.9790600000",
-                "RegionlessRateCode": "jtPdnIKpJkX61ND-GyiTGttuaSrQFm-YnWNdBIg73HE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
-            },
-            "TN5D3HQ8BCJ3AFC8.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "TN5D3HQ8BCJ3AFC8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.9503500000",
-                "RegionlessRateCode": "tYbgxQfSkU2PPq3r-5IGvZHBFSlWnl2GWZXp1rVs7OM",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
-            "WCTFZDQ9795KP6YA.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "WCTFZDQ9795KP6YA.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.7447650000",
-                "RegionlessRateCode": "HxcCH0ygOSppc6Oqwr8FhCX5mCuZd8RMDTgTu_k4A1g",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
-            },
-            "URCNKJY4X76FBPV9.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "URCNKJY4X76FBPV9.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.9372850000",
-                "RegionlessRateCode": "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
-            },
-            "SFKPMHTTNMMD6DCQ.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "SFKPMHTTNMMD6DCQ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "11.9008050000",
-                "RegionlessRateCode": "vX0Dr-drE8hlAWbzwfOpoagPGgwcoDUXFF-CUikJric",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
-            },
-            "Z62BCTXYCGBQZR3P.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "Z62BCTXYCGBQZR3P.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.4895300000",
-                "RegionlessRateCode": "Pyf6WwUGbh2ccKrbXqSrE7zRKfgNf6I4ZGe-6U3gbkc",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
-            },
-            "4XCNZBBFQY8V552A.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "4XCNZBBFQY8V552A.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.9790600000",
-                "RegionlessRateCode": "0DLScgMA-Z0eZekqFFMf4mS-ZeW1_pE_tJgR5KCuVjE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
-            },
-            "NAXQCUMTYA7NWND2.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "NAXQCUMTYA7NWND2.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.9503500000",
-                "RegionlessRateCode": "_gVSQlIjHK7S8AuMvnUz9KTdg3Evs83lx5p1EqfZwog",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
-            "RJQZ5QZE4AJC4JWF.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "RJQZ5QZE4AJC4JWF.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.7447650000",
-                "RegionlessRateCode": "Rvs6jLKGiV6bc9y-mT6q8xVJnlDh6rfCJmxl3EFyGS4",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
-            },
             "-1I1buBR-JFyF-ZjY8HOhi-G5TA_eDviz4WAog0FovM": {
                 "rateCode": "MT5NYXUPM2SQBT8M.JRTCKXETXF.6YS6EN2CT7",
                 "price": "5.6475300000",
@@ -11452,18 +11284,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.large",
                 "Instance Storage": ""
-            },
-            "0DLScgMA-Z0eZekqFFMf4mS-ZeW1_pE_tJgR5KCuVjE": {
-                "rateCode": "4XCNZBBFQY8V552A.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.9790600000",
-                "RegionlessRateCode": "0DLScgMA-Z0eZekqFFMf4mS-ZeW1_pE_tJgR5KCuVjE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
             },
             "0IZgYUpXBWv6JZ9w-j2tIg_7WsUAXxOp9UPtaLwEZwE": {
                 "rateCode": "Z5CWMMA7WZFV95AX.JRTCKXETXF.6YS6EN2CT7",
@@ -11621,18 +11441,6 @@
                 "Instance Type": "db.r6g.16xlarge",
                 "Instance Storage": ""
             },
-            "HxcCH0ygOSppc6Oqwr8FhCX5mCuZd8RMDTgTu_k4A1g": {
-                "rateCode": "WCTFZDQ9795KP6YA.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.7447650000",
-                "RegionlessRateCode": "HxcCH0ygOSppc6Oqwr8FhCX5mCuZd8RMDTgTu_k4A1g",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
-            },
             "J4sXNIrbLO4Bd7x6jFrg0nmktRcejEqCRniFmRA0hHg": {
                 "rateCode": "2CEEFPY9QRGJKRDS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "15.4224000000",
@@ -11657,18 +11465,6 @@
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
             },
-            "Pyf6WwUGbh2ccKrbXqSrE7zRKfgNf6I4ZGe-6U3gbkc": {
-                "rateCode": "Z62BCTXYCGBQZR3P.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.4895300000",
-                "RegionlessRateCode": "Pyf6WwUGbh2ccKrbXqSrE7zRKfgNf6I4ZGe-6U3gbkc",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
-            },
             "RKIEQl5ejoc5r0I5nmlqO8AhS23hWoInwkuRLDfDrRM": {
                 "rateCode": "HKTH8X4V87H2E32Z.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3052350000",
@@ -11680,18 +11476,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r6g.large",
                 "Instance Storage": ""
-            },
-            "Rvs6jLKGiV6bc9y-mT6q8xVJnlDh6rfCJmxl3EFyGS4": {
-                "rateCode": "RJQZ5QZE4AJC4JWF.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.7447650000",
-                "RegionlessRateCode": "Rvs6jLKGiV6bc9y-mT6q8xVJnlDh6rfCJmxl3EFyGS4",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
             },
             "Sp-YTKuipAb8M-w62teEgBncPDYUNrUOvX6Qkl9SsOI": {
                 "rateCode": "R5QXHJS2CTTZHA9D.JRTCKXETXF.6YS6EN2CT7",
@@ -11777,18 +11561,6 @@
                 "Instance Type": "db.r6g.4xlarge",
                 "Instance Storage": ""
             },
-            "_gVSQlIjHK7S8AuMvnUz9KTdg3Evs83lx5p1EqfZwog": {
-                "rateCode": "NAXQCUMTYA7NWND2.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.9503500000",
-                "RegionlessRateCode": "_gVSQlIjHK7S8AuMvnUz9KTdg3Evs83lx5p1EqfZwog",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
             "aZcf7j6oxJ_nOeu6DVe7n8B7pMuT6TSwgkhD-aACNF8": {
                 "rateCode": "KN6DM3EVSDBRG9S4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3213000000",
@@ -11812,18 +11584,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.t3.medium",
                 "Instance Storage": ""
-            },
-            "cfATYdX6uGN35l2PUitV2AsUhcrew8LmA9vU_dg29DA": {
-                "rateCode": "DY982NG5FPHWGCCX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.9372850000",
-                "RegionlessRateCode": "cfATYdX6uGN35l2PUitV2AsUhcrew8LmA9vU_dg29DA",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
             },
             "d4EtiuMAF-9i8SRB9geB2hoxpxsUs8oJRqTZ8DT2yGw": {
                 "rateCode": "JYJCAQ7DXABZ5WZ9.JRTCKXETXF.6YS6EN2CT7",
@@ -11885,18 +11645,6 @@
                 "Instance Type": "",
                 "Instance Storage": ""
             },
-            "jtPdnIKpJkX61ND-GyiTGttuaSrQFm-YnWNdBIg73HE": {
-                "rateCode": "PZJZCJS6PBMK796R.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.9790600000",
-                "RegionlessRateCode": "jtPdnIKpJkX61ND-GyiTGttuaSrQFm-YnWNdBIg73HE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
-            },
             "kEZAO_ttmyw_yW78vHUPb-uHjXt3D7qoWbkenHz-DEQ": {
                 "rateCode": "4CGQT7MHES59968S.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6426000000",
@@ -11908,18 +11656,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
-            },
-            "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
-                "rateCode": "URCNKJY4X76FBPV9.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.9372850000",
-                "RegionlessRateCode": "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
             },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
                 "rateCode": "5Q2Z7KTCKXRMHVJY.JRTCKXETXF.6YS6EN2CT7",
@@ -11969,18 +11705,6 @@
                 "Instance Type": "db.r6g.2xlarge",
                 "Instance Storage": ""
             },
-            "tYbgxQfSkU2PPq3r-5IGvZHBFSlWnl2GWZXp1rVs7OM": {
-                "rateCode": "TN5D3HQ8BCJ3AFC8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.9503500000",
-                "RegionlessRateCode": "tYbgxQfSkU2PPq3r-5IGvZHBFSlWnl2GWZXp1rVs7OM",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
             "uCitMFL1G0Kzhx1DGhk2J2kmyvx9N-UFupuoDISDiEE": {
                 "rateCode": "F4RC2H9NRH2SSJRZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0855540000",
@@ -11992,30 +11716,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
-            },
-            "vGBZVao8WOrtX3nkhxDcHAwor5ZAk4fvdTaQ0tu7yBQ": {
-                "rateCode": "7WXJ3DNDR2DCC49G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "11.9008050000",
-                "RegionlessRateCode": "vGBZVao8WOrtX3nkhxDcHAwor5ZAk4fvdTaQ0tu7yBQ",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
-            },
-            "vX0Dr-drE8hlAWbzwfOpoagPGgwcoDUXFF-CUikJric": {
-                "rateCode": "SFKPMHTTNMMD6DCQ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "11.9008050000",
-                "RegionlessRateCode": "vX0Dr-drE8hlAWbzwfOpoagPGgwcoDUXFF-CUikJric",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
             },
             "vc5VQwbsI7yuyOZITRlH-ZUbrRYbXWGP8xwFFVK6RTY": {
                 "rateCode": "JTEJMCSWYZ78SAAA.JRTCKXETXF.6YS6EN2CT7",
@@ -12040,18 +11740,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r6g.12xlarge",
                 "Instance Storage": ""
-            },
-            "yNAvwwhhNT8qR48aEXsWlQj-zvLY26bmbgYW36ENfX4": {
-                "rateCode": "JBHBZ46QGFTVVZBX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.4895300000",
-                "RegionlessRateCode": "yNAvwwhhNT8qR48aEXsWlQj-zvLY26bmbgYW36ENfX4",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
             },
             "yf-lHqiubA6ZsoDuigYPEi4F52iEfpIMey8ttAUvk8I": {
                 "rateCode": "CMFFXA68R83XTAUB.JRTCKXETXF.6YS6EN2CT7",
@@ -12088,18 +11776,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.large",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.4xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "4XCNZBBFQY8V552A.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.9790600000",
-                "RegionlessRateCode": "0DLScgMA-Z0eZekqFFMf4mS-ZeW1_pE_tJgR5KCuVjE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
             },
             "OnDemand-instancetype-db.r5.16xlarge": {
                 "rateCode": "Z5CWMMA7WZFV95AX.JRTCKXETXF.6YS6EN2CT7",
@@ -12233,18 +11909,6 @@
                 "Instance Type": "db.r6g.16xlarge",
                 "Instance Storage": ""
             },
-            "OnDemand-instancetype-db.r6gd.xlarge NVMe SSD": {
-                "rateCode": "WCTFZDQ9795KP6YA.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.7447650000",
-                "RegionlessRateCode": "HxcCH0ygOSppc6Oqwr8FhCX5mCuZd8RMDTgTu_k4A1g",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
-            },
             "OnDemand-instancetype-db.r5.24xlarge": {
                 "rateCode": "2CEEFPY9QRGJKRDS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "15.4224000000",
@@ -12269,18 +11933,6 @@
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
             },
-            "OnDemand-instancetype-db.r6gd.2xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "Z62BCTXYCGBQZR3P.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.4895300000",
-                "RegionlessRateCode": "Pyf6WwUGbh2ccKrbXqSrE7zRKfgNf6I4ZGe-6U3gbkc",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
-            },
             "OnDemand-instancetype-db.r6g.large": {
                 "rateCode": "HKTH8X4V87H2E32Z.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3052350000",
@@ -12292,18 +11944,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r6g.large",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "RJQZ5QZE4AJC4JWF.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.7447650000",
-                "RegionlessRateCode": "Rvs6jLKGiV6bc9y-mT6q8xVJnlDh6rfCJmxl3EFyGS4",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
             },
             "OnDemand-instancetype-db.r6g.4xlarge IO-Optimized-DocDB": {
                 "rateCode": "R5QXHJS2CTTZHA9D.JRTCKXETXF.6YS6EN2CT7",
@@ -12382,18 +12022,6 @@
                 "Instance Type": "db.r6g.4xlarge",
                 "Instance Storage": ""
             },
-            "OnDemand-instancetype-db.r6gd.8xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "NAXQCUMTYA7NWND2.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.9503500000",
-                "RegionlessRateCode": "_gVSQlIjHK7S8AuMvnUz9KTdg3Evs83lx5p1EqfZwog",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
             "OnDemand-instancetype-db.r5.large": {
                 "rateCode": "KN6DM3EVSDBRG9S4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3213000000",
@@ -12417,18 +12045,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.t3.medium",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.12xlarge NVMe SSD": {
-                "rateCode": "DY982NG5FPHWGCCX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.9372850000",
-                "RegionlessRateCode": "cfATYdX6uGN35l2PUitV2AsUhcrew8LmA9vU_dg29DA",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
             },
             "OnDemand-instancetype-db.r5.2xlarge IO-Optimized-DocDB": {
                 "rateCode": "JYJCAQ7DXABZ5WZ9.JRTCKXETXF.6YS6EN2CT7",
@@ -12472,18 +12088,6 @@
                 "RegionlessRateCode": "i-_kqpbsdlyMwh3Iq3KJ_pHYyKW9wUhJIuddSnQfiIY",
                 "Instance Type": ""
             },
-            "OnDemand-instancetype-db.r6gd.4xlarge NVMe SSD": {
-                "rateCode": "PZJZCJS6PBMK796R.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.9790600000",
-                "RegionlessRateCode": "jtPdnIKpJkX61ND-GyiTGttuaSrQFm-YnWNdBIg73HE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
-            },
             "OnDemand-instancetype-db.r5.xlarge": {
                 "rateCode": "4CGQT7MHES59968S.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6426000000",
@@ -12495,18 +12099,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.12xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "URCNKJY4X76FBPV9.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.9372850000",
-                "RegionlessRateCode": "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
             },
             "OnDemand-instancetype-db.r5.4xlarge": {
                 "rateCode": "5Q2Z7KTCKXRMHVJY.JRTCKXETXF.6YS6EN2CT7",
@@ -12550,18 +12142,6 @@
                 "Instance Type": "db.r6g.2xlarge",
                 "Instance Storage": ""
             },
-            "OnDemand-instancetype-db.r6gd.8xlarge NVMe SSD": {
-                "rateCode": "TN5D3HQ8BCJ3AFC8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.9503500000",
-                "RegionlessRateCode": "tYbgxQfSkU2PPq3r-5IGvZHBFSlWnl2GWZXp1rVs7OM",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
             "OnDemand-instancetype-db.t4g.medium": {
                 "rateCode": "F4RC2H9NRH2SSJRZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0855540000",
@@ -12573,30 +12153,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.16xlarge NVMe SSD": {
-                "rateCode": "7WXJ3DNDR2DCC49G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "11.9008050000",
-                "RegionlessRateCode": "vGBZVao8WOrtX3nkhxDcHAwor5ZAk4fvdTaQ0tu7yBQ",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
-            },
-            "OnDemand-instancetype-db.r6gd.16xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "SFKPMHTTNMMD6DCQ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "11.9008050000",
-                "RegionlessRateCode": "vX0Dr-drE8hlAWbzwfOpoagPGgwcoDUXFF-CUikJric",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
             },
             "OnDemand-instancetype-db.r5.2xlarge": {
                 "rateCode": "JTEJMCSWYZ78SAAA.JRTCKXETXF.6YS6EN2CT7",
@@ -12621,18 +12177,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r6g.12xlarge",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.2xlarge NVMe SSD": {
-                "rateCode": "JBHBZ46QGFTVVZBX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.4895300000",
-                "RegionlessRateCode": "yNAvwwhhNT8qR48aEXsWlQj-zvLY26bmbgYW36ENfX4",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
             },
             "OnDemand-instancetype-db.r6g.8xlarge": {
                 "rateCode": "CMFFXA68R83XTAUB.JRTCKXETXF.6YS6EN2CT7",
@@ -13056,150 +12600,6 @@
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
             },
-            "RW3R9BHY9H9UM79G.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "RW3R9BHY9H9UM79G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.0861150000",
-                "RegionlessRateCode": "cfATYdX6uGN35l2PUitV2AsUhcrew8LmA9vU_dg29DA",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
-            },
-            "EJHR78XD7Q5QEBQH.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "EJHR78XD7Q5QEBQH.JRTCKXETXF.6YS6EN2CT7",
-                "price": "10.7673950000",
-                "RegionlessRateCode": "vGBZVao8WOrtX3nkhxDcHAwor5ZAk4fvdTaQ0tu7yBQ",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
-            },
-            "FJ66ADW7MAS3WWDD.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "FJ66ADW7MAS3WWDD.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.3476700000",
-                "RegionlessRateCode": "yNAvwwhhNT8qR48aEXsWlQj-zvLY26bmbgYW36ENfX4",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
-            },
-            "7AA4SVFCYV3TQHY8.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "7AA4SVFCYV3TQHY8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.6953400000",
-                "RegionlessRateCode": "jtPdnIKpJkX61ND-GyiTGttuaSrQFm-YnWNdBIg73HE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
-            },
-            "EKXPCZ3C3VTNM2XP.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "EKXPCZ3C3VTNM2XP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.3836500000",
-                "RegionlessRateCode": "tYbgxQfSkU2PPq3r-5IGvZHBFSlWnl2GWZXp1rVs7OM",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
-            "YGP6CZGM789X2URN.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "YGP6CZGM789X2URN.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.6738350000",
-                "RegionlessRateCode": "HxcCH0ygOSppc6Oqwr8FhCX5mCuZd8RMDTgTu_k4A1g",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
-            },
-            "36JBQNYYQNQAWFA3.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "36JBQNYYQNQAWFA3.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.0861150000",
-                "RegionlessRateCode": "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
-            },
-            "QREM73SFZRV9JVBF.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "QREM73SFZRV9JVBF.JRTCKXETXF.6YS6EN2CT7",
-                "price": "10.7673950000",
-                "RegionlessRateCode": "vX0Dr-drE8hlAWbzwfOpoagPGgwcoDUXFF-CUikJric",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
-            },
-            "A3PBKJYCZWDQGKHP.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "A3PBKJYCZWDQGKHP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.3476700000",
-                "RegionlessRateCode": "Pyf6WwUGbh2ccKrbXqSrE7zRKfgNf6I4ZGe-6U3gbkc",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
-            },
-            "TVGYDBRNPB3X2S9C.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "TVGYDBRNPB3X2S9C.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.6953400000",
-                "RegionlessRateCode": "0DLScgMA-Z0eZekqFFMf4mS-ZeW1_pE_tJgR5KCuVjE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
-            },
-            "V57N6UUHFVS56Q5E.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "V57N6UUHFVS56Q5E.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.3836500000",
-                "RegionlessRateCode": "_gVSQlIjHK7S8AuMvnUz9KTdg3Evs83lx5p1EqfZwog",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
-            "8XK54966XMK6RM3G.JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "8XK54966XMK6RM3G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.6738350000",
-                "RegionlessRateCode": "Rvs6jLKGiV6bc9y-mT6q8xVJnlDh6rfCJmxl3EFyGS4",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
-            },
             "-1I1buBR-JFyF-ZjY8HOhi-G5TA_eDviz4WAog0FovM": {
                 "rateCode": "H9JSZHYQCGMTJVYS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "5.1096700000",
@@ -13223,18 +12623,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.large",
                 "Instance Storage": ""
-            },
-            "0DLScgMA-Z0eZekqFFMf4mS-ZeW1_pE_tJgR5KCuVjE": {
-                "rateCode": "TVGYDBRNPB3X2S9C.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.6953400000",
-                "RegionlessRateCode": "0DLScgMA-Z0eZekqFFMf4mS-ZeW1_pE_tJgR5KCuVjE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
             },
             "0IZgYUpXBWv6JZ9w-j2tIg_7WsUAXxOp9UPtaLwEZwE": {
                 "rateCode": "8APMRZS5KWG78EYN.JRTCKXETXF.6YS6EN2CT7",
@@ -13392,18 +12780,6 @@
                 "Instance Type": "db.r6g.16xlarge",
                 "Instance Storage": ""
             },
-            "HxcCH0ygOSppc6Oqwr8FhCX5mCuZd8RMDTgTu_k4A1g": {
-                "rateCode": "YGP6CZGM789X2URN.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.6738350000",
-                "RegionlessRateCode": "HxcCH0ygOSppc6Oqwr8FhCX5mCuZd8RMDTgTu_k4A1g",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
-            },
             "J4sXNIrbLO4Bd7x6jFrg0nmktRcejEqCRniFmRA0hHg": {
                 "rateCode": "FVPKNGFSDA4SZ282.JRTCKXETXF.6YS6EN2CT7",
                 "price": "13.9536000000",
@@ -13428,18 +12804,6 @@
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
             },
-            "Pyf6WwUGbh2ccKrbXqSrE7zRKfgNf6I4ZGe-6U3gbkc": {
-                "rateCode": "A3PBKJYCZWDQGKHP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.3476700000",
-                "RegionlessRateCode": "Pyf6WwUGbh2ccKrbXqSrE7zRKfgNf6I4ZGe-6U3gbkc",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
-            },
             "RKIEQl5ejoc5r0I5nmlqO8AhS23hWoInwkuRLDfDrRM": {
                 "rateCode": "H8A6HZF7PXN84BQA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2761650000",
@@ -13451,18 +12815,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r6g.large",
                 "Instance Storage": ""
-            },
-            "Rvs6jLKGiV6bc9y-mT6q8xVJnlDh6rfCJmxl3EFyGS4": {
-                "rateCode": "8XK54966XMK6RM3G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.6738350000",
-                "RegionlessRateCode": "Rvs6jLKGiV6bc9y-mT6q8xVJnlDh6rfCJmxl3EFyGS4",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
             },
             "Sp-YTKuipAb8M-w62teEgBncPDYUNrUOvX6Qkl9SsOI": {
                 "rateCode": "PJVWTQ5AV3NMDV2Y.JRTCKXETXF.6YS6EN2CT7",
@@ -13548,18 +12900,6 @@
                 "Instance Type": "db.r6g.4xlarge",
                 "Instance Storage": ""
             },
-            "_gVSQlIjHK7S8AuMvnUz9KTdg3Evs83lx5p1EqfZwog": {
-                "rateCode": "V57N6UUHFVS56Q5E.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.3836500000",
-                "RegionlessRateCode": "_gVSQlIjHK7S8AuMvnUz9KTdg3Evs83lx5p1EqfZwog",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
             "aZcf7j6oxJ_nOeu6DVe7n8B7pMuT6TSwgkhD-aACNF8": {
                 "rateCode": "5TTZCF93ZBFXSDDZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2907000000",
@@ -13583,18 +12923,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.t3.medium",
                 "Instance Storage": ""
-            },
-            "cfATYdX6uGN35l2PUitV2AsUhcrew8LmA9vU_dg29DA": {
-                "rateCode": "RW3R9BHY9H9UM79G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.0861150000",
-                "RegionlessRateCode": "cfATYdX6uGN35l2PUitV2AsUhcrew8LmA9vU_dg29DA",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
             },
             "d4EtiuMAF-9i8SRB9geB2hoxpxsUs8oJRqTZ8DT2yGw": {
                 "rateCode": "4YW9S66FDMQWNW8B.JRTCKXETXF.6YS6EN2CT7",
@@ -13656,18 +12984,6 @@
                 "Instance Type": "",
                 "Instance Storage": ""
             },
-            "jtPdnIKpJkX61ND-GyiTGttuaSrQFm-YnWNdBIg73HE": {
-                "rateCode": "7AA4SVFCYV3TQHY8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.6953400000",
-                "RegionlessRateCode": "jtPdnIKpJkX61ND-GyiTGttuaSrQFm-YnWNdBIg73HE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
-            },
             "kEZAO_ttmyw_yW78vHUPb-uHjXt3D7qoWbkenHz-DEQ": {
                 "rateCode": "74FUME8PQUV9JGJR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5814000000",
@@ -13679,18 +12995,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
-            },
-            "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
-                "rateCode": "36JBQNYYQNQAWFA3.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.0861150000",
-                "RegionlessRateCode": "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
             },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
                 "rateCode": "9VUGYQW8YKNYX8YS.JRTCKXETXF.6YS6EN2CT7",
@@ -13740,18 +13044,6 @@
                 "Instance Type": "db.r6g.2xlarge",
                 "Instance Storage": ""
             },
-            "tYbgxQfSkU2PPq3r-5IGvZHBFSlWnl2GWZXp1rVs7OM": {
-                "rateCode": "EKXPCZ3C3VTNM2XP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.3836500000",
-                "RegionlessRateCode": "tYbgxQfSkU2PPq3r-5IGvZHBFSlWnl2GWZXp1rVs7OM",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
             "uCitMFL1G0Kzhx1DGhk2J2kmyvx9N-UFupuoDISDiEE": {
                 "rateCode": "GR4BTGMRX47MVBY9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0774060000",
@@ -13763,30 +13055,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
-            },
-            "vGBZVao8WOrtX3nkhxDcHAwor5ZAk4fvdTaQ0tu7yBQ": {
-                "rateCode": "EJHR78XD7Q5QEBQH.JRTCKXETXF.6YS6EN2CT7",
-                "price": "10.7673950000",
-                "RegionlessRateCode": "vGBZVao8WOrtX3nkhxDcHAwor5ZAk4fvdTaQ0tu7yBQ",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
-            },
-            "vX0Dr-drE8hlAWbzwfOpoagPGgwcoDUXFF-CUikJric": {
-                "rateCode": "QREM73SFZRV9JVBF.JRTCKXETXF.6YS6EN2CT7",
-                "price": "10.7673950000",
-                "RegionlessRateCode": "vX0Dr-drE8hlAWbzwfOpoagPGgwcoDUXFF-CUikJric",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
             },
             "vc5VQwbsI7yuyOZITRlH-ZUbrRYbXWGP8xwFFVK6RTY": {
                 "rateCode": "CPB7Z4Q8KFJ9FRBP.JRTCKXETXF.6YS6EN2CT7",
@@ -13811,18 +13079,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r6g.12xlarge",
                 "Instance Storage": ""
-            },
-            "yNAvwwhhNT8qR48aEXsWlQj-zvLY26bmbgYW36ENfX4": {
-                "rateCode": "FJ66ADW7MAS3WWDD.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.3476700000",
-                "RegionlessRateCode": "yNAvwwhhNT8qR48aEXsWlQj-zvLY26bmbgYW36ENfX4",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
             },
             "yf-lHqiubA6ZsoDuigYPEi4F52iEfpIMey8ttAUvk8I": {
                 "rateCode": "8VUJ2GUYEN52DSTA.JRTCKXETXF.6YS6EN2CT7",
@@ -13859,18 +13115,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.large",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.4xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "TVGYDBRNPB3X2S9C.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.6953400000",
-                "RegionlessRateCode": "0DLScgMA-Z0eZekqFFMf4mS-ZeW1_pE_tJgR5KCuVjE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
             },
             "OnDemand-instancetype-db.r5.16xlarge": {
                 "rateCode": "8APMRZS5KWG78EYN.JRTCKXETXF.6YS6EN2CT7",
@@ -14004,18 +13248,6 @@
                 "Instance Type": "db.r6g.16xlarge",
                 "Instance Storage": ""
             },
-            "OnDemand-instancetype-db.r6gd.xlarge NVMe SSD": {
-                "rateCode": "YGP6CZGM789X2URN.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.6738350000",
-                "RegionlessRateCode": "HxcCH0ygOSppc6Oqwr8FhCX5mCuZd8RMDTgTu_k4A1g",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
-            },
             "OnDemand-instancetype-db.r5.24xlarge": {
                 "rateCode": "FVPKNGFSDA4SZ282.JRTCKXETXF.6YS6EN2CT7",
                 "price": "13.9536000000",
@@ -14040,18 +13272,6 @@
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
             },
-            "OnDemand-instancetype-db.r6gd.2xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "A3PBKJYCZWDQGKHP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.3476700000",
-                "RegionlessRateCode": "Pyf6WwUGbh2ccKrbXqSrE7zRKfgNf6I4ZGe-6U3gbkc",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
-            },
             "OnDemand-instancetype-db.r6g.large": {
                 "rateCode": "H8A6HZF7PXN84BQA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2761650000",
@@ -14063,18 +13283,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r6g.large",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "8XK54966XMK6RM3G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.6738350000",
-                "RegionlessRateCode": "Rvs6jLKGiV6bc9y-mT6q8xVJnlDh6rfCJmxl3EFyGS4",
-                "Memory": "32 GiB",
-                "CPU": "4",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.xlarge",
-                "Instance Storage": "1 x 237 NVMe SSD"
             },
             "OnDemand-instancetype-db.r6g.4xlarge IO-Optimized-DocDB": {
                 "rateCode": "PJVWTQ5AV3NMDV2Y.JRTCKXETXF.6YS6EN2CT7",
@@ -14153,18 +13361,6 @@
                 "Instance Type": "db.r6g.4xlarge",
                 "Instance Storage": ""
             },
-            "OnDemand-instancetype-db.r6gd.8xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "V57N6UUHFVS56Q5E.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.3836500000",
-                "RegionlessRateCode": "_gVSQlIjHK7S8AuMvnUz9KTdg3Evs83lx5p1EqfZwog",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
             "OnDemand-instancetype-db.r5.large": {
                 "rateCode": "5TTZCF93ZBFXSDDZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2907000000",
@@ -14188,18 +13384,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.t3.medium",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.12xlarge NVMe SSD": {
-                "rateCode": "RW3R9BHY9H9UM79G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.0861150000",
-                "RegionlessRateCode": "cfATYdX6uGN35l2PUitV2AsUhcrew8LmA9vU_dg29DA",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
             },
             "OnDemand-instancetype-db.r5.2xlarge IO-Optimized-DocDB": {
                 "rateCode": "4YW9S66FDMQWNW8B.JRTCKXETXF.6YS6EN2CT7",
@@ -14243,18 +13427,6 @@
                 "RegionlessRateCode": "i-_kqpbsdlyMwh3Iq3KJ_pHYyKW9wUhJIuddSnQfiIY",
                 "Instance Type": ""
             },
-            "OnDemand-instancetype-db.r6gd.4xlarge NVMe SSD": {
-                "rateCode": "7AA4SVFCYV3TQHY8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.6953400000",
-                "RegionlessRateCode": "jtPdnIKpJkX61ND-GyiTGttuaSrQFm-YnWNdBIg73HE",
-                "Memory": "128 GiB",
-                "CPU": "16",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.4xlarge",
-                "Instance Storage": "1 x 950 NVMe SSD"
-            },
             "OnDemand-instancetype-db.r5.xlarge": {
                 "rateCode": "74FUME8PQUV9JGJR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5814000000",
@@ -14266,18 +13438,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.12xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "36JBQNYYQNQAWFA3.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.0861150000",
-                "RegionlessRateCode": "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY",
-                "Memory": "384 GiB",
-                "CPU": "48",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.12xlarge",
-                "Instance Storage": "2 x 1425 NVMe SSD"
             },
             "OnDemand-instancetype-db.r5.4xlarge": {
                 "rateCode": "9VUGYQW8YKNYX8YS.JRTCKXETXF.6YS6EN2CT7",
@@ -14321,18 +13481,6 @@
                 "Instance Type": "db.r6g.2xlarge",
                 "Instance Storage": ""
             },
-            "OnDemand-instancetype-db.r6gd.8xlarge NVMe SSD": {
-                "rateCode": "EKXPCZ3C3VTNM2XP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.3836500000",
-                "RegionlessRateCode": "tYbgxQfSkU2PPq3r-5IGvZHBFSlWnl2GWZXp1rVs7OM",
-                "Memory": "256 GiB",
-                "CPU": "32",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.8xlarge",
-                "Instance Storage": "1 x 1900 NVMe SSD"
-            },
             "OnDemand-instancetype-db.t4g.medium": {
                 "rateCode": "GR4BTGMRX47MVBY9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0774060000",
@@ -14344,30 +13492,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.t4g.medium",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.16xlarge NVMe SSD": {
-                "rateCode": "EJHR78XD7Q5QEBQH.JRTCKXETXF.6YS6EN2CT7",
-                "price": "10.7673950000",
-                "RegionlessRateCode": "vGBZVao8WOrtX3nkhxDcHAwor5ZAk4fvdTaQ0tu7yBQ",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
-            },
-            "OnDemand-instancetype-db.r6gd.16xlarge NVMe SSD IO-Optimized": {
-                "rateCode": "QREM73SFZRV9JVBF.JRTCKXETXF.6YS6EN2CT7",
-                "price": "10.7673950000",
-                "RegionlessRateCode": "vX0Dr-drE8hlAWbzwfOpoagPGgwcoDUXFF-CUikJric",
-                "Memory": "512 GiB",
-                "CPU": "64",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.16xlarge",
-                "Instance Storage": "2 x 1900 NVMe SSD"
             },
             "OnDemand-instancetype-db.r5.2xlarge": {
                 "rateCode": "CPB7Z4Q8KFJ9FRBP.JRTCKXETXF.6YS6EN2CT7",
@@ -14392,18 +13516,6 @@
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r6g.12xlarge",
                 "Instance Storage": ""
-            },
-            "OnDemand-instancetype-db.r6gd.2xlarge NVMe SSD": {
-                "rateCode": "FJ66ADW7MAS3WWDD.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.3476700000",
-                "RegionlessRateCode": "yNAvwwhhNT8qR48aEXsWlQj-zvLY26bmbgYW36ENfX4",
-                "Memory": "64 GiB",
-                "CPU": "8",
-                "Term": "OnDemand",
-                "Unit": "Hrs",
-                "Term Type": "OnDemand",
-                "Instance Type": "db.r6gd.2xlarge",
-                "Instance Storage": "1 x 474 NVMe SSD"
             },
             "OnDemand-instancetype-db.r6g.8xlarge": {
                 "rateCode": "8VUJ2GUYEN52DSTA.JRTCKXETXF.6YS6EN2CT7",

@@ -6367,6 +6367,7 @@
         "EU (Frankfurt)": "2.2739200000",
         "Asia Pacific (Tokyo)": "2.2739200000",
         "Asia Pacific (Sydney)": "2.2592000000",
+        "Asia Pacific (Singapore)": "2.2739200000",
         "Asia Pacific (Seoul)": "2.2739200000",
         "Asia Pacific (Mumbai)": "1.3212800000",
         "Asia Pacific (Malaysia)": "1.9328000000",
@@ -6501,6 +6502,7 @@
         "Canada (Central)": "0.0434800000",
         "Asia Pacific (Tokyo)": "0.0500300000",
         "Asia Pacific (Sydney)": "0.0519000000",
+        "Asia Pacific (Singapore)": "0.0458200000",
         "Asia Pacific (Mumbai)": "0.0269900000",
         "Asia Pacific (Malaysia)": "0.0389400000"
     },
@@ -7561,6 +7563,7 @@
         "EU (Frankfurt)": "4.5478400000",
         "Asia Pacific (Tokyo)": "4.5478400000",
         "Asia Pacific (Sydney)": "4.5184000000",
+        "Asia Pacific (Singapore)": "4.5478400000",
         "Asia Pacific (Seoul)": "4.5478400000",
         "Asia Pacific (Mumbai)": "2.6425600000",
         "Asia Pacific (Malaysia)": "3.8656000000",
@@ -8232,6 +8235,7 @@
         "Canada (Central)": "0.0869600000",
         "Asia Pacific (Tokyo)": "0.1000600000",
         "Asia Pacific (Sydney)": "0.1038000000",
+        "Asia Pacific (Singapore)": "0.0916400000",
         "Asia Pacific (Mumbai)": "0.0539800000",
         "Asia Pacific (Malaysia)": "0.0778800000"
     },
@@ -10108,6 +10112,7 @@
         "EU (Frankfurt)": "0.1075400000",
         "Asia Pacific (Tokyo)": "0.1159400000",
         "Asia Pacific (Sydney)": "0.1122000000",
+        "Asia Pacific (Singapore)": "0.1122000000",
         "Asia Pacific (Mumbai)": "0.0641600000",
         "Asia Pacific (Hyderabad)": "0.0641600000"
     },
@@ -11497,6 +11502,7 @@
         "EU (Frankfurt)": "6.8217600000",
         "Asia Pacific (Tokyo)": "6.8217600000",
         "Asia Pacific (Sydney)": "6.7776000000",
+        "Asia Pacific (Singapore)": "6.8217600000",
         "Asia Pacific (Seoul)": "6.8217600000",
         "Asia Pacific (Mumbai)": "3.9638400000",
         "Asia Pacific (Malaysia)": "5.7984000000",
@@ -12472,6 +12478,7 @@
         "EU (Frankfurt)": "1.7206400000",
         "Asia Pacific (Tokyo)": "1.8550400000",
         "Asia Pacific (Sydney)": "1.7952000000",
+        "Asia Pacific (Singapore)": "1.7952000000",
         "Asia Pacific (Mumbai)": "1.0265600000",
         "Asia Pacific (Hyderabad)": "1.0265600000"
     },
@@ -14744,6 +14751,7 @@
         "EU (Frankfurt)": "2.5809600000",
         "Asia Pacific (Tokyo)": "2.7825600000",
         "Asia Pacific (Sydney)": "2.6928000000",
+        "Asia Pacific (Singapore)": "2.6928000000",
         "Asia Pacific (Mumbai)": "1.5398400000",
         "Asia Pacific (Hyderabad)": "1.5398400000"
     },
@@ -15201,6 +15209,7 @@
         "Canada (Central)": "0.1739200000",
         "Asia Pacific (Tokyo)": "0.2001200000",
         "Asia Pacific (Sydney)": "0.2076000000",
+        "Asia Pacific (Singapore)": "0.1832800000",
         "Asia Pacific (Mumbai)": "0.1079600000",
         "Asia Pacific (Malaysia)": "0.1557600000"
     },
@@ -15844,6 +15853,7 @@
         "EU (Frankfurt)": "0.0537700000",
         "Asia Pacific (Tokyo)": "0.0579700000",
         "Asia Pacific (Sydney)": "0.0561000000",
+        "Asia Pacific (Singapore)": "0.0561000000",
         "Asia Pacific (Mumbai)": "0.0320800000",
         "Asia Pacific (Hyderabad)": "0.0320800000"
     },

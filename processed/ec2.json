@@ -2496,6 +2496,7 @@
         "Canada (Central)": "4.1740800000",
         "Asia Pacific (Tokyo)": "4.8028800000",
         "Asia Pacific (Sydney)": "4.9824000000",
+        "Asia Pacific (Singapore)": "4.3987200000",
         "Asia Pacific (Mumbai)": "2.5910400000",
         "Asia Pacific (Malaysia)": "3.7382400000"
     },
@@ -2968,6 +2969,7 @@
         "Canada (Central)": "0.3478400000",
         "Asia Pacific (Tokyo)": "0.4002400000",
         "Asia Pacific (Sydney)": "0.4152000000",
+        "Asia Pacific (Singapore)": "0.3665600000",
         "Asia Pacific (Mumbai)": "0.2159200000",
         "Asia Pacific (Malaysia)": "0.3115200000"
     },
@@ -3295,7 +3297,10 @@
         "EU (Frankfurt)": "0.0710600000",
         "Asia Pacific (Tokyo)": "0.0710600000",
         "Asia Pacific (Sydney)": "0.0706000000",
+        "Asia Pacific (Singapore)": "0.0710600000",
+        "Asia Pacific (Seoul)": "0.0710600000",
         "Asia Pacific (Mumbai)": "0.0412900000",
+        "Asia Pacific (Malaysia)": "0.0604000000",
         "AWS GovCloud (US)": "0.0705900000"
     },
     "OnDemand Linux-instancetype-t4g.micro": {
@@ -3645,6 +3650,7 @@
         "Asia Pacific (Melbourne)": "0.1585500000",
         "Asia Pacific (Malaysia)": "0.1356600000",
         "Asia Pacific (Jakarta)": "0.1596000000",
+        "Asia Pacific (Hyderabad)": "0.1365000000",
         "AWS GovCloud (US-East)": "0.1585500000",
         "AWS GovCloud (US)": "0.1585500000"
     },
@@ -3659,7 +3665,10 @@
         "EU (Frankfurt)": "0.1421200000",
         "Asia Pacific (Tokyo)": "0.1421200000",
         "Asia Pacific (Sydney)": "0.1412000000",
+        "Asia Pacific (Singapore)": "0.1421200000",
+        "Asia Pacific (Seoul)": "0.1421200000",
         "Asia Pacific (Mumbai)": "0.0825800000",
+        "Asia Pacific (Malaysia)": "0.1208000000",
         "AWS GovCloud (US)": "0.1411900000"
     },
     "OnDemand Linux-instancetype-m6idn.16xlarge": {
@@ -5089,6 +5098,7 @@
         "Canada (Central)": "2.7827200000",
         "Asia Pacific (Tokyo)": "3.2019200000",
         "Asia Pacific (Sydney)": "3.3216000000",
+        "Asia Pacific (Singapore)": "2.9324800000",
         "Asia Pacific (Mumbai)": "1.7273600000",
         "Asia Pacific (Malaysia)": "2.4921600000"
     },
@@ -5130,6 +5140,7 @@
         "Canada (Central)": "2.0870400000",
         "Asia Pacific (Tokyo)": "2.4014400000",
         "Asia Pacific (Sydney)": "2.4912000000",
+        "Asia Pacific (Singapore)": "2.1993600000",
         "Asia Pacific (Mumbai)": "1.2955200000",
         "Asia Pacific (Malaysia)": "1.8691200000"
     },
@@ -5263,6 +5274,7 @@
         "EU (Frankfurt)": "0.4301600000",
         "Asia Pacific (Tokyo)": "0.4637600000",
         "Asia Pacific (Sydney)": "0.4488000000",
+        "Asia Pacific (Singapore)": "0.4488000000",
         "Asia Pacific (Mumbai)": "0.2566400000",
         "Asia Pacific (Hyderabad)": "0.2566400000"
     },
@@ -5948,7 +5960,10 @@
         "EU (Frankfurt)": "0.2842400000",
         "Asia Pacific (Tokyo)": "0.2842400000",
         "Asia Pacific (Sydney)": "0.2824000000",
+        "Asia Pacific (Singapore)": "0.2842400000",
+        "Asia Pacific (Seoul)": "0.2842400000",
         "Asia Pacific (Mumbai)": "0.1651600000",
+        "Asia Pacific (Malaysia)": "0.2416000000",
         "AWS GovCloud (US)": "0.2823700000"
     },
     "OnDemand Linux-instancetype-g5.2xlarge": {
@@ -6320,6 +6335,7 @@
         "EU (Frankfurt)": "5.1619200000",
         "Asia Pacific (Tokyo)": "5.5651200000",
         "Asia Pacific (Sydney)": "5.3856000000",
+        "Asia Pacific (Singapore)": "5.3856000000",
         "Asia Pacific (Mumbai)": "3.0796800000",
         "Asia Pacific (Hyderabad)": "3.0796800000"
     },
@@ -6334,7 +6350,10 @@
         "EU (Frankfurt)": "13.6435200000",
         "Asia Pacific (Tokyo)": "13.6435200000",
         "Asia Pacific (Sydney)": "13.5552000000",
+        "Asia Pacific (Singapore)": "13.6435200000",
+        "Asia Pacific (Seoul)": "13.6435200000",
         "Asia Pacific (Mumbai)": "7.9276800000",
+        "Asia Pacific (Malaysia)": "11.5968000000",
         "AWS GovCloud (US)": "13.5537600000"
     },
     "OnDemand Linux-instancetype-r8g.8xlarge": {
@@ -6348,7 +6367,9 @@
         "EU (Frankfurt)": "2.2739200000",
         "Asia Pacific (Tokyo)": "2.2739200000",
         "Asia Pacific (Sydney)": "2.2592000000",
+        "Asia Pacific (Seoul)": "2.2739200000",
         "Asia Pacific (Mumbai)": "1.3212800000",
+        "Asia Pacific (Malaysia)": "1.9328000000",
         "AWS GovCloud (US)": "2.2589600000"
     },
     "OnDemand Linux-instancetype-im4gn.16xlarge": {
@@ -6497,6 +6518,7 @@
         "EU (Frankfurt)": "10.3238400000",
         "Asia Pacific (Tokyo)": "11.1302400000",
         "Asia Pacific (Sydney)": "10.7712000000",
+        "Asia Pacific (Singapore)": "10.7712000000",
         "Asia Pacific (Mumbai)": "6.1593600000",
         "Asia Pacific (Hyderabad)": "6.1593600000"
     },
@@ -6688,7 +6710,10 @@
         "EU (Frankfurt)": "3.4108800000",
         "Asia Pacific (Tokyo)": "3.4108800000",
         "Asia Pacific (Sydney)": "3.3888000000",
+        "Asia Pacific (Singapore)": "3.4108800000",
+        "Asia Pacific (Seoul)": "3.4108800000",
         "Asia Pacific (Mumbai)": "1.9819200000",
+        "Asia Pacific (Malaysia)": "2.8992000000",
         "AWS GovCloud (US)": "3.3884400000"
     },
     "OnDemand Linux-instancetype-r6g.metal": {
@@ -7402,6 +7427,7 @@
         "Asia Pacific (Melbourne)": "0.3171000000",
         "Asia Pacific (Malaysia)": "0.2713200000",
         "Asia Pacific (Jakarta)": "0.3192000000",
+        "Asia Pacific (Hyderabad)": "0.2730000000",
         "AWS GovCloud (US-East)": "0.3171000000",
         "AWS GovCloud (US)": "0.3171000000"
     },
@@ -7535,7 +7561,9 @@
         "EU (Frankfurt)": "4.5478400000",
         "Asia Pacific (Tokyo)": "4.5478400000",
         "Asia Pacific (Sydney)": "4.5184000000",
+        "Asia Pacific (Seoul)": "4.5478400000",
         "Asia Pacific (Mumbai)": "2.6425600000",
+        "Asia Pacific (Malaysia)": "3.8656000000",
         "AWS GovCloud (US)": "4.5179200000"
     },
     "OnDemand Linux-instancetype-x2gd.2xlarge": {
@@ -7962,6 +7990,7 @@
         "EU (Frankfurt)": "5.1619200000",
         "Asia Pacific (Tokyo)": "5.5651200000",
         "Asia Pacific (Sydney)": "5.3856000000",
+        "Asia Pacific (Singapore)": "5.3856000000",
         "Asia Pacific (Mumbai)": "3.0796800000",
         "Asia Pacific (Hyderabad)": "3.0796800000"
     },
@@ -8118,6 +8147,7 @@
         "Asia Pacific (Melbourne)": "15.2208000000",
         "Asia Pacific (Malaysia)": "13.0233600000",
         "Asia Pacific (Jakarta)": "15.3216000000",
+        "Asia Pacific (Hyderabad)": "13.1040000000",
         "AWS GovCloud (US-East)": "15.2208000000",
         "AWS GovCloud (US)": "15.2208000000"
     },
@@ -8135,6 +8165,7 @@
         "Canada (Central)": "4.1740800000",
         "Asia Pacific (Tokyo)": "4.8028800000",
         "Asia Pacific (Sydney)": "4.9824000000",
+        "Asia Pacific (Singapore)": "4.3987200000",
         "Asia Pacific (Mumbai)": "2.5910400000",
         "Asia Pacific (Malaysia)": "3.7382400000"
     },
@@ -8690,6 +8721,7 @@
         "EU (Frankfurt)": "0.8603200000",
         "Asia Pacific (Tokyo)": "0.9275200000",
         "Asia Pacific (Sydney)": "0.8976000000",
+        "Asia Pacific (Singapore)": "0.8976000000",
         "Asia Pacific (Mumbai)": "0.5132800000",
         "Asia Pacific (Hyderabad)": "0.5132800000"
     },
@@ -8976,6 +9008,7 @@
         "EU (Frankfurt)": "0.2150800000",
         "Asia Pacific (Tokyo)": "0.2318800000",
         "Asia Pacific (Sydney)": "0.2244000000",
+        "Asia Pacific (Singapore)": "0.2244000000",
         "Asia Pacific (Mumbai)": "0.1283200000",
         "Asia Pacific (Hyderabad)": "0.1283200000"
     },
@@ -9531,6 +9564,7 @@
         "Asia Pacific (Melbourne)": "3.8052000000",
         "Asia Pacific (Malaysia)": "3.2558400000",
         "Asia Pacific (Jakarta)": "3.8304000000",
+        "Asia Pacific (Hyderabad)": "3.2760000000",
         "AWS GovCloud (US-East)": "3.8052000000",
         "AWS GovCloud (US)": "3.8052000000"
     },
@@ -10392,7 +10426,10 @@
         "EU (Frankfurt)": "0.5684800000",
         "Asia Pacific (Tokyo)": "0.5684800000",
         "Asia Pacific (Sydney)": "0.5648000000",
+        "Asia Pacific (Singapore)": "0.5684800000",
+        "Asia Pacific (Seoul)": "0.5684800000",
         "Asia Pacific (Mumbai)": "0.3303200000",
+        "Asia Pacific (Malaysia)": "0.4832000000",
         "AWS GovCloud (US)": "0.5647400000"
     },
     "OnDemand Linux-instancetype-r3.2xlarge": {
@@ -10506,6 +10543,7 @@
         "Asia Pacific (Melbourne)": "5.0736000000",
         "Asia Pacific (Malaysia)": "4.3411200000",
         "Asia Pacific (Jakarta)": "5.1072000000",
+        "Asia Pacific (Hyderabad)": "4.3680000000",
         "AWS GovCloud (US-East)": "5.0736000000",
         "AWS GovCloud (US)": "5.0736000000"
     },
@@ -10824,6 +10862,7 @@
         "Asia Pacific (Melbourne)": "2.5368000000",
         "Asia Pacific (Malaysia)": "2.1705600000",
         "Asia Pacific (Jakarta)": "2.5536000000",
+        "Asia Pacific (Hyderabad)": "2.1840000000",
         "AWS GovCloud (US-East)": "2.5368000000",
         "AWS GovCloud (US)": "2.5368000000"
     },
@@ -10974,6 +11013,7 @@
         "Canada (Central)": "0.6956800000",
         "Asia Pacific (Tokyo)": "0.8004800000",
         "Asia Pacific (Sydney)": "0.8304000000",
+        "Asia Pacific (Singapore)": "0.7331200000",
         "Asia Pacific (Mumbai)": "0.4318400000",
         "Asia Pacific (Malaysia)": "0.6230400000"
     },
@@ -11202,6 +11242,7 @@
         "EU (Frankfurt)": "10.3238400000",
         "Asia Pacific (Tokyo)": "11.1302400000",
         "Asia Pacific (Sydney)": "10.7712000000",
+        "Asia Pacific (Singapore)": "10.7712000000",
         "Asia Pacific (Mumbai)": "6.1593600000",
         "Asia Pacific (Hyderabad)": "6.1593600000"
     },
@@ -11456,7 +11497,9 @@
         "EU (Frankfurt)": "6.8217600000",
         "Asia Pacific (Tokyo)": "6.8217600000",
         "Asia Pacific (Sydney)": "6.7776000000",
+        "Asia Pacific (Seoul)": "6.8217600000",
         "Asia Pacific (Mumbai)": "3.9638400000",
+        "Asia Pacific (Malaysia)": "5.7984000000",
         "AWS GovCloud (US)": "6.7768800000"
     },
     "OnDemand Linux-instancetype-r6g.16xlarge": {
@@ -11903,6 +11946,7 @@
         "Canada (Central)": "1.3913600000",
         "Asia Pacific (Tokyo)": "1.6009600000",
         "Asia Pacific (Sydney)": "1.6608000000",
+        "Asia Pacific (Singapore)": "1.4662400000",
         "Asia Pacific (Mumbai)": "0.8636800000",
         "Asia Pacific (Malaysia)": "1.2460800000"
     },
@@ -12041,6 +12085,7 @@
         "Canada (Central)": "8.3481600000",
         "Asia Pacific (Tokyo)": "9.6057600000",
         "Asia Pacific (Sydney)": "9.9648000000",
+        "Asia Pacific (Singapore)": "8.7974400000",
         "Asia Pacific (Mumbai)": "5.1820800000",
         "Asia Pacific (Malaysia)": "7.4764800000"
     },
@@ -12253,6 +12298,7 @@
         "Canada (Central)": "8.3481600000",
         "Asia Pacific (Tokyo)": "9.6057600000",
         "Asia Pacific (Sydney)": "9.9648000000",
+        "Asia Pacific (Singapore)": "8.7974400000",
         "Asia Pacific (Mumbai)": "5.1820800000",
         "Asia Pacific (Malaysia)": "7.4764800000"
     },
@@ -12582,6 +12628,7 @@
         "Asia Pacific (Melbourne)": "7.6104000000",
         "Asia Pacific (Malaysia)": "6.5116800000",
         "Asia Pacific (Jakarta)": "7.6608000000",
+        "Asia Pacific (Hyderabad)": "6.5520000000",
         "AWS GovCloud (US-East)": "7.6104000000",
         "AWS GovCloud (US)": "7.6104000000"
     },
@@ -12826,6 +12873,7 @@
         "Asia Pacific (Melbourne)": "1.2684000000",
         "Asia Pacific (Malaysia)": "1.0852800000",
         "Asia Pacific (Jakarta)": "1.2768000000",
+        "Asia Pacific (Hyderabad)": "1.0920000000",
         "AWS GovCloud (US-East)": "1.2684000000",
         "AWS GovCloud (US)": "1.2684000000"
     },
@@ -13931,6 +13979,7 @@
         "Asia Pacific (Melbourne)": "7.6104000000",
         "Asia Pacific (Malaysia)": "6.5116800000",
         "Asia Pacific (Jakarta)": "7.6608000000",
+        "Asia Pacific (Hyderabad)": "6.5520000000",
         "AWS GovCloud (US-East)": "7.6104000000",
         "AWS GovCloud (US)": "7.6104000000"
     },
@@ -13945,7 +13994,10 @@
         "EU (Frankfurt)": "1.1369600000",
         "Asia Pacific (Tokyo)": "1.1369600000",
         "Asia Pacific (Sydney)": "1.1296000000",
+        "Asia Pacific (Singapore)": "1.1369600000",
+        "Asia Pacific (Seoul)": "1.1369600000",
         "Asia Pacific (Mumbai)": "0.6606400000",
+        "Asia Pacific (Malaysia)": "0.9664000000",
         "AWS GovCloud (US)": "1.1294800000"
     },
     "OnDemand Linux-instancetype-c5d.24xlarge": {
@@ -15233,6 +15285,7 @@
         "EU (Frankfurt)": "3.4412800000",
         "Asia Pacific (Tokyo)": "3.7100800000",
         "Asia Pacific (Sydney)": "3.5904000000",
+        "Asia Pacific (Singapore)": "3.5904000000",
         "Asia Pacific (Mumbai)": "2.0531200000",
         "Asia Pacific (Hyderabad)": "2.0531200000"
     },
@@ -15425,6 +15478,7 @@
         "Asia Pacific (Melbourne)": "0.6342000000",
         "Asia Pacific (Malaysia)": "0.5426400000",
         "Asia Pacific (Jakarta)": "0.6384000000",
+        "Asia Pacific (Hyderabad)": "0.5460000000",
         "AWS GovCloud (US-East)": "0.6342000000",
         "AWS GovCloud (US)": "0.6342000000"
     },
@@ -16826,7 +16880,10 @@
         "EU (Frankfurt)": "13.6435200000",
         "Asia Pacific (Tokyo)": "13.6435200000",
         "Asia Pacific (Sydney)": "13.5552000000",
+        "Asia Pacific (Singapore)": "13.6435200000",
+        "Asia Pacific (Seoul)": "13.6435200000",
         "Asia Pacific (Mumbai)": "7.9276800000",
+        "Asia Pacific (Malaysia)": "11.5968000000",
         "AWS GovCloud (US)": "13.5537600000"
     },
     "OnDemand Linux-instancetype-g4ad.2xlarge": {
@@ -17394,7 +17451,10 @@
         "EU (Frankfurt)": "6.8217600000",
         "Asia Pacific (Tokyo)": "6.8217600000",
         "Asia Pacific (Sydney)": "6.7776000000",
+        "Asia Pacific (Singapore)": "6.8217600000",
+        "Asia Pacific (Seoul)": "6.8217600000",
         "Asia Pacific (Mumbai)": "3.9638400000",
+        "Asia Pacific (Malaysia)": "5.7984000000",
         "AWS GovCloud (US)": "6.7768800000"
     },
     "OnDemand Linux-instancetype-d3en.12xlarge": {
@@ -18140,6 +18200,7 @@
         "Asia Pacific (Melbourne)": "15.2208000000",
         "Asia Pacific (Malaysia)": "13.0233600000",
         "Asia Pacific (Jakarta)": "15.3216000000",
+        "Asia Pacific (Hyderabad)": "13.1040000000",
         "AWS GovCloud (US-East)": "15.2208000000",
         "AWS GovCloud (US)": "15.2208000000"
     },

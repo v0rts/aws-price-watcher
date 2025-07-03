@@ -1,3 +1,12 @@
+## 2025-07-03 17:26
+
+**Modified services:**
+
+- [acm](processed/acm.json)
+  - Billing metric removed: kP1tCsqxkzAwp8GlXykVtd_G6gco7uW2We6MB_8jws0 💥
+  - Billing metric removed: -VSpzeYEDVnZJ0IBtNwVbYpzI_hGoxzDKc9lw6-r994 💥
+
+
 ## 2025-07-03 16:27
 
 **Modified services:**

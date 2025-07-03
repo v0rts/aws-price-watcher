@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250630184337",
-        "hawkFilePublicationDate": "2025-06-30T18:43:37Z",
-        "ETLIngestionTriggerDate": "2025-06-30T18:43:37Z",
+        "esIndex": "plc-sagemaker-usd-20250703183338",
+        "hawkFilePublicationDate": "2025-07-03T18:33:38Z",
+        "ETLIngestionTriggerDate": "2025-07-03T18:33:38Z",
         "currencyCode": "USD",
         "source": "sagemaker-training-plan"
     },
@@ -67,7 +67,7 @@
                 "RegionlessRateCode": "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo",
                 "Memory": "2 TiB",
                 "VCPU": "192",
-                "Instance": "p6-b200.48xlarge"
+                "Instance": "ml.p6-b200.48xlarge"
             }
         },
         "US West (N. California)": {

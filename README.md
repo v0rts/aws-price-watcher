@@ -1,3 +1,16 @@
+## 2025-07-07 20:27
+
+**Modified services:**
+
+- [vpc](processed/vpc.json)
+  - Region removed for metric Hourly charge for AWS Gateway Load Balancer VPC Endpoint per Hrs: New Zealand (Auckland) 💥
+  - Region removed for metric Hourly charge for VPC Endpoints per Hrs: New Zealand (Auckland) 💥
+  - Region removed for metric Charge for per GB data processed by VPC Endpoints per GB from 1048576 to 5242880: New Zealand (Auckland) 💥
+  - Region removed for metric Charge for per GB data processed by VPC Endpoints per GB from 5242880 to Inf: New Zealand (Auckland) 💥
+  - Region removed for metric Charge for per GB data processed by VPC Endpoints per GB from 0 to 1048576: New Zealand (Auckland) 💥
+  - Region removed for metric Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint per GB: New Zealand (Auckland) 💥
+
+
 ## 2025-07-07 17:26
 
 **Modified services:**

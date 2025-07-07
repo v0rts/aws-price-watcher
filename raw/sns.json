@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sns",
         "accessType": "publish",
-        "esIndex": "plc-sns-usd-20250627192747",
-        "hawkFilePublicationDate": "2025-06-27T19:27:47Z",
-        "ETLIngestionTriggerDate": "2025-06-27T19:27:47Z",
+        "esIndex": "plc-sns-usd-20250707162934",
+        "hawkFilePublicationDate": "2025-07-07T16:29:34Z",
+        "ETLIngestionTriggerDate": "2025-07-07T16:29:34Z",
         "currencyCode": "USD",
         "source": "sns",
         "isMapped": "true"

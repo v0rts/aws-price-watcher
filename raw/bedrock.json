@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "bedrock",
         "accessType": "publish",
-        "esIndex": "plc-bedrock-usd-20250709181120",
-        "hawkFilePublicationDate": "2025-07-09T18:11:20Z",
-        "ETLIngestionTriggerDate": "2025-07-09T18:11:20Z",
+        "esIndex": "plc-bedrock-usd-20250709182828",
+        "hawkFilePublicationDate": "2025-07-09T18:28:28Z",
+        "ETLIngestionTriggerDate": "2025-07-09T18:28:28Z",
         "currencyCode": "USD",
         "source": "bedrock",
         "isMapped": "true"
@@ -1152,6 +1152,11 @@
                 "price": "0.0040000000",
                 "RegionlessRateCode": "yR_39-Bua_yj0h9zLouhJXGnt1ofxOtyGJGy3gyHNhc"
             },
+            "zenvAne01XFFeUfyhxcm22y3oIEW3nrxooC9e284OyU": {
+                "rateCode": "DDHFUBND9FU4TWPM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0006250000",
+                "RegionlessRateCode": "zenvAne01XFFeUfyhxcm22y3oIEW3nrxooC9e284OyU"
+            },
             "zxASuKfiS10Q8x0GCdAzQHTKy9hrHdTiQU2blK9SsKQ": {
                 "rateCode": "FX6VM3XGS7QQCZS4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0045000000",
@@ -1565,6 +1570,11 @@
                 "rateCode": "6W63G3P2DTCZBUVB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0001000000",
                 "RegionlessRateCode": "y3ysuI6dAWvDkWMQc5HXmPAm6SgxT1t6ZJm0ud9zb2o"
+            },
+            "zenvAne01XFFeUfyhxcm22y3oIEW3nrxooC9e284OyU": {
+                "rateCode": "EVBWZ78HKY7KC8U6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0006250000",
+                "RegionlessRateCode": "zenvAne01XFFeUfyhxcm22y3oIEW3nrxooC9e284OyU"
             }
         },
         "US East (N. Virginia)": {
@@ -2712,6 +2722,11 @@
                 "rateCode": "4JGB54U6JUKURPCS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0040000000",
                 "RegionlessRateCode": "yR_39-Bua_yj0h9zLouhJXGnt1ofxOtyGJGy3gyHNhc"
+            },
+            "zenvAne01XFFeUfyhxcm22y3oIEW3nrxooC9e284OyU": {
+                "rateCode": "93V2PABDV3FAKNQP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0006250000",
+                "RegionlessRateCode": "zenvAne01XFFeUfyhxcm22y3oIEW3nrxooC9e284OyU"
             }
         },
         "South America (Sao Paulo)": {

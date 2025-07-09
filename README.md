@@ -1,3 +1,14 @@
+## 2025-07-09 08:28
+
+**Modified services:**
+
+- [kinesisanalytics](processed/kinesisanalytics.json)
+  - Region added for metric Kinesis Processing Unit KPU: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB month of durable application backups: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB month of running application storage: Asia Pacific (Taipei) 🌎
+  - Region added for metric Kinesis Processing Unit KPU for Java applications: Asia Pacific (Taipei) 🌎
+
+
 ## 2025-07-07 20:27
 
 **Modified services:**

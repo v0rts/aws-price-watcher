@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesisanalytics",
         "accessType": "publish",
-        "esIndex": "plc-kinesisanalytics-usd-20250509163107",
-        "hawkFilePublicationDate": "2025-04-09T16:18:01Z",
-        "ETLIngestionTriggerDate": "2025-05-09T16:31:07Z",
+        "esIndex": "plc-kinesisanalytics-usd-20250709074242",
+        "hawkFilePublicationDate": "2025-07-09T07:42:42Z",
+        "ETLIngestionTriggerDate": "2025-07-09T07:42:42Z",
         "currencyCode": "USD",
         "source": "kinesisanalytics",
         "isMapped": "true"
@@ -1250,6 +1250,48 @@
             "Kinesis Processing Unit KPU for Java applications": {
                 "rateCode": "GJCP5G73XP9JEXFS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1227600000",
+                "RegionlessRateCode": "kOoOTdtEWUA0LeJzuopSxcih2rKy1fKCua35elM_mbY"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "K6-72oiuYvVPorAlclgi5Metmj78vGzcW8eUwqoQYDY": {
+                "rateCode": "7V3ZCS6A4UKFM74A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1340000000",
+                "RegionlessRateCode": "K6-72oiuYvVPorAlclgi5Metmj78vGzcW8eUwqoQYDY"
+            },
+            "YRj-JnchBTSz8b24w97hCChvEwUnBJoCre4hiOSOM9A": {
+                "rateCode": "Q7BBDUFHRTN3Q2YP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "YRj-JnchBTSz8b24w97hCChvEwUnBJoCre4hiOSOM9A"
+            },
+            "_MShAmc-MQtHN5IJmrflsSVuK-Qw_PY5XbLCXxzBb4Y": {
+                "rateCode": "9ZBW4QBRCJAQ9D9E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1080000000",
+                "RegionlessRateCode": "_MShAmc-MQtHN5IJmrflsSVuK-Qw_PY5XbLCXxzBb4Y"
+            },
+            "kOoOTdtEWUA0LeJzuopSxcih2rKy1fKCua35elM_mbY": {
+                "rateCode": "QYBJ2GE9BQNC6VTW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1340000000",
+                "RegionlessRateCode": "kOoOTdtEWUA0LeJzuopSxcih2rKy1fKCua35elM_mbY"
+            },
+            "Kinesis Processing Unit KPU": {
+                "rateCode": "7V3ZCS6A4UKFM74A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1340000000",
+                "RegionlessRateCode": "K6-72oiuYvVPorAlclgi5Metmj78vGzcW8eUwqoQYDY"
+            },
+            "Per GB month of durable application backups": {
+                "rateCode": "Q7BBDUFHRTN3Q2YP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "YRj-JnchBTSz8b24w97hCChvEwUnBJoCre4hiOSOM9A"
+            },
+            "Per GB month of running application storage": {
+                "rateCode": "9ZBW4QBRCJAQ9D9E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1080000000",
+                "RegionlessRateCode": "_MShAmc-MQtHN5IJmrflsSVuK-Qw_PY5XbLCXxzBb4Y"
+            },
+            "Kinesis Processing Unit KPU for Java applications": {
+                "rateCode": "QYBJ2GE9BQNC6VTW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1340000000",
                 "RegionlessRateCode": "kOoOTdtEWUA0LeJzuopSxcih2rKy1fKCua35elM_mbY"
             }
         },

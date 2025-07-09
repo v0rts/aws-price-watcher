@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "bedrock",
         "accessType": "publish",
-        "esIndex": "plc-bedrock-usd-20250708233738",
-        "hawkFilePublicationDate": "2025-07-08T23:37:38Z",
-        "ETLIngestionTriggerDate": "2025-07-08T23:37:38Z",
+        "esIndex": "plc-bedrock-usd-20250709181120",
+        "hawkFilePublicationDate": "2025-07-09T18:11:20Z",
+        "ETLIngestionTriggerDate": "2025-07-09T18:11:20Z",
         "currencyCode": "USD",
         "source": "bedrock",
         "isMapped": "true"
@@ -3642,6 +3642,11 @@
                 "price": "0.0020000000",
                 "RegionlessRateCode": "8YdzMT9JSMx-Gvsh0l1-UsC5AAqZRaKPb2bX28RTcYc"
             },
+            "BV6s9turwwiLxkSLLRVWD1edY41U1702rBTG0DorbCc": {
+                "rateCode": "K5BAS8SYK2HKB7EN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000490000",
+                "RegionlessRateCode": "BV6s9turwwiLxkSLLRVWD1edY41U1702rBTG0DorbCc"
+            },
             "EQhx2VEa7C5qkitBoZBqeLWbP_vLr3Rnx-iEkYl1-xY": {
                 "rateCode": "YCSBCAEC7DGKA8UJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "10.8082000000",
@@ -3671,6 +3676,11 @@
                 "rateCode": "3SKZSWZ6YY2X9FWB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0001500000",
                 "RegionlessRateCode": "MdqeWOoZ0wAZEYXi3zDsF2bzijN2rpwp-2rlPR7zddc"
+            },
+            "PHF5wVRqgGpg_KsGiK2hLZWH8U98CjxcClifD6NE5Ng": {
+                "rateCode": "ZHDPSCVEDSFBUJ58.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001960000",
+                "RegionlessRateCode": "PHF5wVRqgGpg_KsGiK2hLZWH8U98CjxcClifD6NE5Ng"
             },
             "QMZDygFiAwAMttOHLa8FxMf8z8Sd2sie605PD0wzIFU": {
                 "rateCode": "ZTYRSN79VUC486BY.JRTCKXETXF.6YS6EN2CT7",
@@ -3727,15 +3737,30 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "eiPjRyfkFiv7h_1WeuAAWzzU_Ofz0c3WeKbf6GX--x4"
             },
+            "hOVX6YV0nc7dJsBt_QBM3iHB3scS6hhBba9iJNP2DHY": {
+                "rateCode": "HJSC646XWXFZFK44.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0011300000",
+                "RegionlessRateCode": "hOVX6YV0nc7dJsBt_QBM3iHB3scS6hhBba9iJNP2DHY"
+            },
             "iY7ydouRdIY6udr3NXFUtiJHeR4fM2GoS3Phk8-SmOs": {
                 "rateCode": "BFUMMMPKRA2PGGW5.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0002000000",
                 "RegionlessRateCode": "iY7ydouRdIY6udr3NXFUtiJHeR4fM2GoS3Phk8-SmOs"
             },
+            "jqpXyMWar6dZCgJ4nRTHic6D040daCa-N81Kh52Jlac": {
+                "rateCode": "4CPYTPT92NT3NMZ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000840000",
+                "RegionlessRateCode": "jqpXyMWar6dZCgJ4nRTHic6D040daCa-N81Kh52Jlac"
+            },
             "kK7mkjvyptGc4B_IqV1XXdSmow9NdBTBFjinq82XM-Y": {
                 "rateCode": "YAFJ2BKK8W6Y83AM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000350000",
                 "RegionlessRateCode": "kK7mkjvyptGc4B_IqV1XXdSmow9NdBTBFjinq82XM-Y"
+            },
+            "kjVw7dlbJL48mU4qYDcahYJBfCnjHLY6HU2KN7fLzj4": {
+                "rateCode": "76NFU8EY675Z8W6S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0045200000",
+                "RegionlessRateCode": "kjVw7dlbJL48mU4qYDcahYJBfCnjHLY6HU2KN7fLzj4"
             },
             "luKqq1cbaQYQiZu-sv9ldj8Z8xe99-Vs8ZEXko1Xhko": {
                 "rateCode": "T7QYQTXD6HKEPUVB.JRTCKXETXF.6YS6EN2CT7",
@@ -3781,6 +3806,11 @@
                 "rateCode": "5G43DCY5F7UZEJ2J.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0001000000",
                 "RegionlessRateCode": "uEpMUywweTkL1Dpj-Vdp4s2fxLIjXlRAUFpRLGI6H70"
+            },
+            "urNDBArH5pV5njuTwm41YJmDyeIrg_gD9kCMIHcQdLI": {
+                "rateCode": "EHED2B768K5MXKTH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0003360000",
+                "RegionlessRateCode": "urNDBArH5pV5njuTwm41YJmDyeIrg_gD9kCMIHcQdLI"
             },
             "vtz4mSx8qeVJHsWrxENHc1SKQPqgv-dfxqKjKJZu7g4": {
                 "rateCode": "YKQ9EPVDJ5RFNRGS.JRTCKXETXF.6YS6EN2CT7",

@@ -1,3 +1,22 @@
+## 2025-07-10 19:25
+
+**Modified services:**
+
+- [databasemigrationsvc](processed/databasemigrationsvc.json)
+  - Billing metric added: [DMS Replication Server Multiple AZ] 💡
+  - Billing metric added: [DMS Replication Server Single AZ] 💡
+
+- [events](processed/events.json)
+  - Region added for metric Scheduled Invocation for 0 to 14000000 Invocations: Mexico (Central) 🌎
+  - Region added for metric Scheduled Invocation for 0 to 14000000 Invocations: Asia Pacific (Thailand) 🌎
+  - Region added for metric Scheduled Invocation for 0 to 14000000 Invocations: Asia Pacific (Taipei) 🌎
+  - Region added for metric Scheduled Invocation for 0 to 14000000 Invocations: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Scheduled Invocation for 14000000 to Inf Invocations: Mexico (Central) 🌎
+  - Region added for metric Scheduled Invocation for 14000000 to Inf Invocations: Asia Pacific (Thailand) 🌎
+  - Region added for metric Scheduled Invocation for 14000000 to Inf Invocations: Asia Pacific (Taipei) 🌎
+  - Region added for metric Scheduled Invocation for 14000000 to Inf Invocations: Asia Pacific (Malaysia) 🌎
+
+
 ## 2025-07-09 20:27
 
 **Modified services:**

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "fis",
         "accessType": "publish",
-        "esIndex": "plc-fis-usd-20241112203339",
+        "esIndex": "plc-fis-usd-20250711165405",
         "hawkFilePublicationDate": "2024-11-12T20:33:39Z",
-        "ETLIngestionTriggerDate": "2024-11-12T20:33:39Z",
+        "ETLIngestionTriggerDate": "2025-07-11T16:54:05Z",
         "currencyCode": "USD",
         "source": "fis",
         "isMapped": "true"

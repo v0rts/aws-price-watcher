@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "elb",
         "accessType": "publish",
-        "esIndex": "plc-elb-usd-20250709204954",
+        "esIndex": "plc-elb-usd-20250711164409",
         "hawkFilePublicationDate": "2025-07-09T20:49:54Z",
-        "ETLIngestionTriggerDate": "2025-07-09T20:49:54Z",
+        "ETLIngestionTriggerDate": "2025-07-11T16:44:09Z",
         "currencyCode": "USD",
         "source": "elb",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "frauddetector",
         "accessType": "publish",
-        "esIndex": "plc-frauddetector-usd-20241002230404",
+        "esIndex": "plc-frauddetector-usd-20250711165541",
         "hawkFilePublicationDate": "2024-08-26T16:32:07Z",
-        "ETLIngestionTriggerDate": "2024-10-02T23:04:04Z",
+        "ETLIngestionTriggerDate": "2025-07-11T16:55:41Z",
         "currencyCode": "USD",
         "source": "frauddetector",
         "isMapped": "true"

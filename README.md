@@ -1,3 +1,22 @@
+## 2025-07-11 21:26
+
+**Modified services:**
+
+- [msk](processed/msk.json)
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.12xlarge;RunBroker m7g.12xlarge: Asia Pacific (Taipei) (Compute Family: m7g.12xlarge, usageType: APE2-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.16xlarge;RunBroker m7g.16xlarge: Asia Pacific (Taipei) (Compute Family: m7g.16xlarge, usageType: APE2-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.2xlarge;RunBroker m7g.2xlarge: Asia Pacific (Taipei) (Compute Family: m7g.2xlarge, usageType: APE2-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.4xlarge;RunBroker m7g.4xlarge: Asia Pacific (Taipei) (Compute Family: m7g.4xlarge, usageType: APE2-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.8xlarge;RunBroker m7g.8xlarge: Asia Pacific (Taipei) (Compute Family: m7g.8xlarge, usageType: APE2-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.large;RunBroker m7g.large: Asia Pacific (Taipei) (Compute Family: m7g.large, usageType: APE2-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.xlarge;RunBroker m7g.xlarge: Asia Pacific (Taipei) (Compute Family: m7g.xlarge, usageType: APE2-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker) 🌎
+  - Region added for metric RunVolume: Asia Pacific (Taipei) 🌎
+  - Region added for metric RunVolume GP2: Asia Pacific (Taipei) 🌎
+  - Region added for metric TieredStorage Tiered storage-DataRetrieval: Asia Pacific (Taipei) 🌎
+  - Region added for metric TieredStorage Tiered storage: Asia Pacific (Taipei) 🌎
+  - Region added for metric RunVolume General: Asia Pacific (Taipei) 🌎
+
+
 ## 2025-07-11 00:42
 
 **Modified services:**

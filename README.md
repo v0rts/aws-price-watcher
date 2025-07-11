@@ -1,3 +1,12 @@
+## 2025-07-11 00:42
+
+**Modified services:**
+
+- [fsx](processed/fsx.json)
+  - Region added for metric zgFPJ0cUYXdd2jLTiOuDcSYRtdFhYRqCjCbYd49h1Y8 SSD new: Asia Pacific (Taipei) 🌎
+  - Region added for metric yMXUnsAV3uitn3E4G7Z25YOoTEwD6fTeQCq0JdEjw-0 SSD new: Asia Pacific (Taipei) 🌎
+
+
 ## 2025-07-10 19:25
 
 **Modified services:**

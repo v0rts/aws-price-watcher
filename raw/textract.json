@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "textract",
         "accessType": "publish",
-        "esIndex": "plc-textract-usd-20241029164050",
+        "esIndex": "plc-textract-usd-20250711194643",
         "hawkFilePublicationDate": "2024-10-29T16:40:50Z",
-        "ETLIngestionTriggerDate": "2024-10-29T16:40:50Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:46:43Z",
         "currencyCode": "USD",
         "source": "textract",
         "isMapped": "true"

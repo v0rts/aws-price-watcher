@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "supportbusiness",
         "accessType": "publish",
-        "esIndex": "plc-supportbusiness-usd-20250116160454",
+        "esIndex": "plc-supportbusiness-usd-20250711194230",
         "hawkFilePublicationDate": "2025-01-16T16:04:54Z",
-        "ETLIngestionTriggerDate": "2025-01-16T16:04:54Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:42:30Z",
         "currencyCode": "USD",
         "source": "supportbusiness",
         "isMapped": "true"

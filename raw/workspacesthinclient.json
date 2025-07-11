@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "workspacesthinclient",
         "accessType": "publish",
-        "esIndex": "plc-workspacesthinclient-usd-20241003041930",
+        "esIndex": "plc-workspacesthinclient-usd-20250711195624",
         "hawkFilePublicationDate": "2024-08-26T20:53:05Z",
-        "ETLIngestionTriggerDate": "2024-10-03T04:19:30Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:56:24Z",
         "currencyCode": "USD",
         "source": "workspacesthinclient",
         "isMapped": "true"

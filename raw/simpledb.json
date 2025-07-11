@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "simpledb",
         "accessType": "publish",
-        "esIndex": "plc-simpledb-usd-20250711191132",
+        "esIndex": "plc-simpledb-usd-20250711193723",
         "hawkFilePublicationDate": "2024-08-26T20:17:04Z",
-        "ETLIngestionTriggerDate": "2025-07-11T19:11:32Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:37:23Z",
         "currencyCode": "USD",
         "source": "simpledb",
         "isMapped": "true"

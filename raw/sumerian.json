@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sumerian",
         "accessType": "publish",
-        "esIndex": "plc-sumerian-usd-20241003033730",
+        "esIndex": "plc-sumerian-usd-20250711194139",
         "hawkFilePublicationDate": "2024-08-26T20:20:17Z",
-        "ETLIngestionTriggerDate": "2024-10-03T03:37:30Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:41:39Z",
         "currencyCode": "USD",
         "source": "sumerian",
         "isMapped": "true"

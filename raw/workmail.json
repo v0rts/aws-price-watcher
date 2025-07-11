@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "workmail",
         "accessType": "publish",
-        "esIndex": "plc-workmail-usd-20241002184221",
+        "esIndex": "plc-workmail-usd-20250711195418",
         "hawkFilePublicationDate": "2024-08-26T20:50:30Z",
-        "ETLIngestionTriggerDate": "2024-10-02T18:42:21Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:54:18Z",
         "currencyCode": "USD",
         "source": "workmail",
         "isMapped": "true"

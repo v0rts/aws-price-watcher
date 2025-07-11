@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "supplychain",
         "accessType": "publish",
-        "esIndex": "plc-supplychain-usd-20250403214945",
+        "esIndex": "plc-supplychain-usd-20250711194205",
         "hawkFilePublicationDate": "2025-04-03T21:49:45Z",
-        "ETLIngestionTriggerDate": "2025-04-03T21:49:45Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:42:05Z",
         "currencyCode": "USD",
         "source": "supplychain",
         "isMapped": "true"

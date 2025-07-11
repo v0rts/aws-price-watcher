@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "simspaceweaver",
         "accessType": "publish",
-        "esIndex": "plc-simspaceweaver-usd-20241002183855",
+        "esIndex": "plc-simspaceweaver-usd-20250711193749",
         "hawkFilePublicationDate": "2024-08-26T20:17:39Z",
-        "ETLIngestionTriggerDate": "2024-10-02T18:38:55Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:37:49Z",
         "currencyCode": "USD",
         "source": "simspaceweaver-instances",
         "isMapped": "true"

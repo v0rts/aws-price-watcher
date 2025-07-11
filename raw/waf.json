@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "waf",
         "accessType": "publish",
-        "esIndex": "plc-waf-usd-20250612211024",
+        "esIndex": "plc-waf-usd-20250711195132",
         "hawkFilePublicationDate": "2025-06-12T01:27:41Z",
-        "ETLIngestionTriggerDate": "2025-06-12T21:10:24Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:51:32Z",
         "currencyCode": "USD",
         "source": "waf",
         "isMapped": "true"

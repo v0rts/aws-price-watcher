@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "snowballextradays",
         "accessType": "publish",
-        "esIndex": "plc-snowballextradays-usd-20241227192335",
+        "esIndex": "plc-snowballextradays-usd-20250711193818",
         "hawkFilePublicationDate": "2024-12-27T19:23:35Z",
-        "ETLIngestionTriggerDate": "2024-12-27T19:23:35Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:38:18Z",
         "currencyCode": "USD",
         "source": "snowballextradays",
         "isMapped": "true"

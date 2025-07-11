@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "timestream",
         "accessType": "publish",
-        "esIndex": "plc-timestream-usd-20250408175750",
+        "esIndex": "plc-timestream-usd-20250711194709",
         "hawkFilePublicationDate": "2025-04-08T17:57:50Z",
-        "ETLIngestionTriggerDate": "2025-04-08T17:57:50Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:47:09Z",
         "currencyCode": "USD",
         "source": "timestream",
         "isMapped": "true"

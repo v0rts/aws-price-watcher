@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iottwinmaker",
         "accessType": "publish",
-        "esIndex": "plc-iottwinmaker-usd-20241003004816",
+        "esIndex": "plc-iottwinmaker-usd-20250711181804",
         "hawkFilePublicationDate": "2024-08-26T17:29:13Z",
-        "ETLIngestionTriggerDate": "2024-10-03T00:48:16Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:18:04Z",
         "currencyCode": "USD",
         "source": "iottwinmaker",
         "isMapped": "true"

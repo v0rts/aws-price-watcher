@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iot",
         "accessType": "publish",
-        "esIndex": "plc-iot-usd-20241003004256",
+        "esIndex": "plc-iot-usd-20250711181335",
         "hawkFilePublicationDate": "2024-08-26T17:47:49Z",
-        "ETLIngestionTriggerDate": "2024-10-03T00:42:56Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:13:35Z",
         "currencyCode": "USD",
         "source": "iot",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ingestionservice",
         "accessType": "publish",
-        "esIndex": "plc-ingestionservice-usd-20241003004025",
+        "esIndex": "plc-ingestionservice-usd-20250711181101",
         "hawkFilePublicationDate": "2024-08-26T17:44:34Z",
-        "ETLIngestionTriggerDate": "2024-10-03T00:40:25Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:11:01Z",
         "currencyCode": "USD",
         "source": "ingestionservice",
         "isMapped": "true"

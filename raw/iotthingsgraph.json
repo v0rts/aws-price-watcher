@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iotthingsgraph",
         "accessType": "publish",
-        "esIndex": "plc-iotthingsgraph-usd-20241003004742",
+        "esIndex": "plc-iotthingsgraph-usd-20250711181738",
         "hawkFilePublicationDate": "2024-08-26T17:28:21Z",
-        "ETLIngestionTriggerDate": "2024-10-03T00:47:42Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:17:38Z",
         "currencyCode": "USD",
         "source": "iotthingsgraph",
         "isMapped": "true"

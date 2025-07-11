@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "inspector",
         "accessType": "publish",
-        "esIndex": "plc-inspector-usd-20250116160645",
+        "esIndex": "plc-inspector-usd-20250711181225",
         "hawkFilePublicationDate": "2025-01-16T16:06:45Z",
-        "ETLIngestionTriggerDate": "2025-01-16T16:06:45Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:12:25Z",
         "currencyCode": "USD",
         "source": "inspector",
         "isMapped": "true"

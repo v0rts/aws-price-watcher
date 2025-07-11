@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iot1click",
         "accessType": "publish",
-        "esIndex": "plc-iot1click-usd-20241003004403",
+        "esIndex": "plc-iot1click-usd-20250711181415",
         "hawkFilePublicationDate": "2024-08-26T17:48:24Z",
-        "ETLIngestionTriggerDate": "2024-10-03T00:44:03Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:14:15Z",
         "currencyCode": "USD",
         "source": "iot1click",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "glueelasticviews",
         "accessType": "publish",
-        "esIndex": "plc-glueelasticviews-usd-20241002230654",
+        "esIndex": "plc-glueelasticviews-usd-20250711175230",
         "hawkFilePublicationDate": "2024-08-26T16:58:58Z",
-        "ETLIngestionTriggerDate": "2024-10-02T23:06:54Z",
+        "ETLIngestionTriggerDate": "2025-07-11T17:52:30Z",
         "currencyCode": "USD",
         "source": "glueelasticviews",
         "isMapped": "true"

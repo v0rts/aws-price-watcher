@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesisanalytics",
         "accessType": "publish",
-        "esIndex": "plc-kinesisanalytics-usd-20250709074242",
+        "esIndex": "plc-kinesisanalytics-usd-20250711182016",
         "hawkFilePublicationDate": "2025-07-09T07:42:42Z",
-        "ETLIngestionTriggerDate": "2025-07-09T07:42:42Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:20:16Z",
         "currencyCode": "USD",
         "source": "kinesisanalytics",
         "isMapped": "true"

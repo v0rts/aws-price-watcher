@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesisfirehose",
         "accessType": "publish",
-        "esIndex": "plc-kinesisfirehose-usd-20250605175644",
+        "esIndex": "plc-kinesisfirehose-usd-20250711182101",
         "hawkFilePublicationDate": "2025-06-05T17:56:44Z",
-        "ETLIngestionTriggerDate": "2025-06-05T17:56:44Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:21:01Z",
         "currencyCode": "USD",
         "source": "kinesisfirehose",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "gameliftstreams",
         "accessType": "publish",
-        "esIndex": "plc-gameliftstreams-usd-20250703221729",
+        "esIndex": "plc-gameliftstreams-usd-20250711175016",
         "hawkFilePublicationDate": "2025-07-03T22:17:29Z",
-        "ETLIngestionTriggerDate": "2025-07-03T22:17:29Z",
+        "ETLIngestionTriggerDate": "2025-07-11T17:50:16Z",
         "currencyCode": "USD",
         "source": "gameliftstreams"
     },

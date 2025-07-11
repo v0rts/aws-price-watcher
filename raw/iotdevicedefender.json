@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iotdevicedefender",
         "accessType": "publish",
-        "esIndex": "plc-iotdevicedefender-usd-20241003004510",
+        "esIndex": "plc-iotdevicedefender-usd-20250711181507",
         "hawkFilePublicationDate": "2024-08-26T17:02:30Z",
-        "ETLIngestionTriggerDate": "2024-10-03T00:45:10Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:15:07Z",
         "currencyCode": "USD",
         "source": "iotdevicedefender",
         "isMapped": "true"

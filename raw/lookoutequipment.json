@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lookoutequipment",
         "accessType": "publish",
-        "esIndex": "plc-lookoutequipment-usd-20241003010609",
+        "esIndex": "plc-lookoutequipment-usd-20250711182610",
         "hawkFilePublicationDate": "2024-08-26T17:34:38Z",
-        "ETLIngestionTriggerDate": "2024-10-03T01:06:09Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:26:10Z",
         "currencyCode": "USD",
         "source": "lookoutequipment",
         "isMapped": "true"

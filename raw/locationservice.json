@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "locationservice",
         "accessType": "publish",
-        "esIndex": "plc-locationservice-usd-20241228142520",
+        "esIndex": "plc-locationservice-usd-20250711182545",
         "hawkFilePublicationDate": "2024-12-28T14:25:20Z",
-        "ETLIngestionTriggerDate": "2024-12-28T14:25:20Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:25:45Z",
         "currencyCode": "USD",
         "source": "locationservice",
         "isMapped": "true"

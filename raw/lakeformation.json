@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lakeformation",
         "accessType": "publish",
-        "esIndex": "plc-lakeformation-usd-20250116153341",
+        "esIndex": "plc-lakeformation-usd-20250711182250",
         "hawkFilePublicationDate": "2025-01-16T15:33:41Z",
-        "ETLIngestionTriggerDate": "2025-01-16T15:33:41Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:22:50Z",
         "currencyCode": "USD",
         "source": "lakeformation",
         "isMapped": "true"

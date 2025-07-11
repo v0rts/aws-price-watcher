@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "glacier",
         "accessType": "publish",
-        "esIndex": "plc-glacier-usd-20241002230529",
+        "esIndex": "plc-glacier-usd-20250711175048",
         "hawkFilePublicationDate": "2024-08-26T16:57:08Z",
-        "ETLIngestionTriggerDate": "2024-10-02T23:05:29Z",
+        "ETLIngestionTriggerDate": "2025-07-11T17:50:48Z",
         "currencyCode": "USD",
         "source": "glacier",
         "isMapped": "true"

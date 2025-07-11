@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iotfleetwise",
         "accessType": "publish",
-        "esIndex": "plc-iotfleetwise-usd-20250107210134",
+        "esIndex": "plc-iotfleetwise-usd-20250711181643",
         "hawkFilePublicationDate": "2025-01-07T21:01:34Z",
-        "ETLIngestionTriggerDate": "2025-01-07T21:01:34Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:16:43Z",
         "currencyCode": "USD",
         "source": "iotfleetwise",
         "isMapped": "true"

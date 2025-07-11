@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "codecommit",
         "accessType": "publish",
-        "esIndex": "plc-codecommit-usd-20250702194626",
+        "esIndex": "plc-codecommit-usd-20250711153101",
         "hawkFilePublicationDate": "2024-08-26T15:57:16Z",
-        "ETLIngestionTriggerDate": "2025-07-02T19:46:26Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:31:01Z",
         "currencyCode": "USD",
         "source": "codecommit",
         "isMapped": "true"

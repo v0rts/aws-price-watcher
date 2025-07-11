@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "datapipeline",
         "accessType": "publish",
-        "esIndex": "plc-datapipeline-usd-20241002211557",
+        "esIndex": "plc-datapipeline-usd-20250711160212",
         "hawkFilePublicationDate": "2024-08-26T16:04:15Z",
-        "ETLIngestionTriggerDate": "2024-10-02T21:15:57Z",
+        "ETLIngestionTriggerDate": "2025-07-11T16:02:12Z",
         "currencyCode": "USD",
         "source": "datapipeline",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cognitosync",
         "accessType": "publish",
-        "esIndex": "plc-cognitosync-usd-20250702194959",
+        "esIndex": "plc-cognitosync-usd-20250711153414",
         "hawkFilePublicationDate": "2024-08-26T15:59:58Z",
-        "ETLIngestionTriggerDate": "2025-07-02T19:49:59Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:34:14Z",
         "currencyCode": "USD",
         "source": "cognitosync",
         "isMapped": "true"

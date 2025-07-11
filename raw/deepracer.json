@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "deepracer",
         "accessType": "publish",
-        "esIndex": "plc-deepracer-usd-20241002211722",
+        "esIndex": "plc-deepracer-usd-20250711160959",
         "hawkFilePublicationDate": "2024-08-26T16:08:15Z",
-        "ETLIngestionTriggerDate": "2024-10-02T21:17:22Z",
+        "ETLIngestionTriggerDate": "2025-07-11T16:09:59Z",
         "currencyCode": "USD",
         "source": "deepracer",
         "isMapped": "true"

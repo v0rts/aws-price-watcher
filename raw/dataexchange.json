@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "dataexchange",
         "accessType": "publish",
-        "esIndex": "plc-dataexchange-usd-20241002211523",
+        "esIndex": "plc-dataexchange-usd-20250711160140",
         "hawkFilePublicationDate": "2024-08-26T16:03:39Z",
-        "ETLIngestionTriggerDate": "2024-10-02T21:15:23Z",
+        "ETLIngestionTriggerDate": "2025-07-11T16:01:40Z",
         "currencyCode": "USD",
         "source": "dataexchange",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "detective",
         "accessType": "publish",
-        "esIndex": "plc-detective-usd-20241002211755",
+        "esIndex": "plc-detective-usd-20250711161029",
         "hawkFilePublicationDate": "2024-08-26T16:08:50Z",
-        "ETLIngestionTriggerDate": "2024-10-02T21:17:55Z",
+        "ETLIngestionTriggerDate": "2025-07-11T16:10:29Z",
         "currencyCode": "USD",
         "source": "detective",
         "isMapped": "true"

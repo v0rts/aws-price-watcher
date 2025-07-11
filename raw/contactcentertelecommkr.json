@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "contactcentertelecommkr",
         "accessType": "publish",
-        "esIndex": "plc-contactcentertelecommkr-usd-20241010202552",
+        "esIndex": "plc-contactcentertelecommkr-usd-20250711155600",
         "hawkFilePublicationDate": "2024-08-26T16:01:52Z",
-        "ETLIngestionTriggerDate": "2024-10-10T20:25:52Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:56:00Z",
         "currencyCode": "USD",
         "source": "contactcentertelecommkr",
         "isMapped": "true"

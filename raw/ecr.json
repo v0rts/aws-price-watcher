@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ecr",
         "accessType": "publish",
-        "esIndex": "plc-ecr-usd-20250605175623",
+        "esIndex": "plc-ecr-usd-20250711162526",
         "hawkFilePublicationDate": "2025-06-05T17:56:23Z",
-        "ETLIngestionTriggerDate": "2025-06-05T17:56:23Z",
+        "ETLIngestionTriggerDate": "2025-07-11T16:25:26Z",
         "currencyCode": "USD",
         "source": "ecr",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "chimedialin",
         "accessType": "publish",
-        "esIndex": "plc-chimedialin-usd-20250702191935",
+        "esIndex": "plc-chimedialin-usd-20250711151954",
         "hawkFilePublicationDate": "2024-08-26T16:12:37Z",
-        "ETLIngestionTriggerDate": "2025-07-02T19:19:35Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:19:54Z",
         "currencyCode": "USD",
         "source": "chimedialin",
         "isMapped": "true"

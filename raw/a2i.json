@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "a2i",
         "accessType": "publish",
-        "esIndex": "plc-a2i-usd-20250702171137",
+        "esIndex": "plc-a2i-usd-20250711145635",
         "hawkFilePublicationDate": "2024-08-26T15:35:48Z",
-        "ETLIngestionTriggerDate": "2025-07-02T17:11:37Z",
+        "ETLIngestionTriggerDate": "2025-07-11T14:56:35Z",
         "currencyCode": "USD",
         "source": "a2i",
         "isMapped": "true"

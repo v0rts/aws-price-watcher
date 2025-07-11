@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudsearch",
         "accessType": "publish",
-        "esIndex": "plc-cloudsearch-usd-20250702194052",
+        "esIndex": "plc-cloudsearch-usd-20250711152554",
         "hawkFilePublicationDate": "2024-08-26T15:55:30Z",
-        "ETLIngestionTriggerDate": "2025-07-02T19:40:52Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:25:54Z",
         "currencyCode": "USD",
         "source": "cloudsearch",
         "isMapped": "true"

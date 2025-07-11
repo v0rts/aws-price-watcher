@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "b2bi",
         "accessType": "publish",
-        "esIndex": "plc-b2bi-usd-20250702184121",
+        "esIndex": "plc-b2bi-usd-20250711150620",
         "hawkFilePublicationDate": "2025-07-02T18:41:23Z",
-        "ETLIngestionTriggerDate": "2025-07-02T18:41:21Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:06:20Z",
         "currencyCode": "USD",
         "source": "b2bi",
         "isMapped": "true"

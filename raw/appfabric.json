@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "appfabric",
         "accessType": "publish",
-        "esIndex": "plc-appfabric-usd-20250702173228",
+        "esIndex": "plc-appfabric-usd-20250711150029",
         "hawkFilePublicationDate": "2025-07-02T17:32:29Z",
-        "ETLIngestionTriggerDate": "2025-07-02T17:32:28Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:00:29Z",
         "currencyCode": "USD",
         "source": "appfabric",
         "isMapped": "true"

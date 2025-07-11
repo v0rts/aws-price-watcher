@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "chimecallme",
         "accessType": "publish",
-        "esIndex": "plc-chimecallme-usd-20250702191846",
+        "esIndex": "plc-chimecallme-usd-20250711151900",
         "hawkFilePublicationDate": "2024-08-26T15:50:10Z",
-        "ETLIngestionTriggerDate": "2025-07-02T19:18:46Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:19:00Z",
         "currencyCode": "USD",
         "source": "chimecallme",
         "isMapped": "true"

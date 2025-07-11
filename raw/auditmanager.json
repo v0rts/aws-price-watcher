@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "auditmanager",
         "accessType": "publish",
-        "esIndex": "plc-auditmanager-usd-20250702183926",
+        "esIndex": "plc-auditmanager-usd-20250711150528",
         "hawkFilePublicationDate": "2025-07-02T18:39:29Z",
-        "ETLIngestionTriggerDate": "2025-07-02T18:39:26Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:05:28Z",
         "currencyCode": "USD",
         "source": "auditmanager",
         "isMapped": "true"

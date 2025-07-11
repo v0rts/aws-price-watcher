@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "acm",
         "accessType": "publish",
-        "esIndex": "plc-acm-usd-20250703165403",
+        "esIndex": "plc-acm-usd-20250711145721",
         "hawkFilePublicationDate": "2025-07-02T17:22:58Z",
-        "ETLIngestionTriggerDate": "2025-07-03T16:54:03Z",
+        "ETLIngestionTriggerDate": "2025-07-11T14:57:21Z",
         "currencyCode": "USD",
         "source": "acm"
     },

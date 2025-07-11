@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "auroradsql",
         "accessType": "publish",
-        "esIndex": "plc-auroradsql-usd-20250702184030",
+        "esIndex": "plc-auroradsql-usd-20250711150554",
         "hawkFilePublicationDate": "2025-07-02T18:40:32Z",
-        "ETLIngestionTriggerDate": "2025-07-02T18:40:30Z",
+        "ETLIngestionTriggerDate": "2025-07-11T15:05:54Z",
         "currencyCode": "USD",
         "source": "auroradsql"
     },

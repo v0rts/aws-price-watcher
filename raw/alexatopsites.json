@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "alexatopsites",
         "accessType": "publish",
-        "esIndex": "plc-alexatopsites-usd-20250702172335",
+        "esIndex": "plc-alexatopsites-usd-20250711145800",
         "hawkFilePublicationDate": "2025-07-02T17:23:37Z",
-        "ETLIngestionTriggerDate": "2025-07-02T17:23:35Z",
+        "ETLIngestionTriggerDate": "2025-07-11T14:58:00Z",
         "currencyCode": "USD",
         "source": "alexatopsites",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "databasemigrationsvc",
         "accessType": "publish",
-        "esIndex": "plc-databasemigrationsvc-usd-20250711155808",
+        "esIndex": "plc-databasemigrationsvc-usd-20250711215424",
         "hawkFilePublicationDate": "2025-07-10T19:00:13Z",
-        "ETLIngestionTriggerDate": "2025-07-11T15:58:08Z",
+        "ETLIngestionTriggerDate": "2025-07-11T21:54:24Z",
         "currencyCode": "USD",
         "source": "databasemigrationsvc",
         "isMapped": "true"

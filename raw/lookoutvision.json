@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lookoutvision",
         "accessType": "publish",
-        "esIndex": "plc-lookoutvision-usd-20241003010716",
+        "esIndex": "plc-lookoutvision-usd-20250711182945",
         "hawkFilePublicationDate": "2024-08-26T17:35:56Z",
-        "ETLIngestionTriggerDate": "2024-10-03T01:07:16Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:29:45Z",
         "currencyCode": "USD",
         "source": "lookoutvision",
         "isMapped": "true"

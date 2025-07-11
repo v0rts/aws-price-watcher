@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "mediaconnect",
         "accessType": "publish",
-        "esIndex": "plc-mediaconnect-usd-20250324194926",
+        "esIndex": "plc-mediaconnect-usd-20250711183649",
         "hawkFilePublicationDate": "2025-03-24T18:36:43Z",
-        "ETLIngestionTriggerDate": "2025-03-24T19:49:26Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:36:49Z",
         "currencyCode": "USD",
         "source": "mediaconnect",
         "isMapped": "true"

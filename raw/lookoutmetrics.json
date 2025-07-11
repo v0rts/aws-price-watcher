@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lookoutmetrics",
         "accessType": "publish",
-        "esIndex": "plc-lookoutmetrics-usd-20241003010643",
+        "esIndex": "plc-lookoutmetrics-usd-20250711182920",
         "hawkFilePublicationDate": "2024-08-26T17:35:13Z",
-        "ETLIngestionTriggerDate": "2024-10-03T01:06:43Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:29:20Z",
         "currencyCode": "USD",
         "source": "lookoutmetrics",
         "isMapped": "true"

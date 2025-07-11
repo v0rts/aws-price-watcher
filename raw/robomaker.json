@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "robomaker",
         "accessType": "publish",
-        "esIndex": "plc-robomaker-usd-20241003032526",
+        "esIndex": "plc-robomaker-usd-20250711185532",
         "hawkFilePublicationDate": "2024-08-26T19:40:30Z",
-        "ETLIngestionTriggerDate": "2024-10-03T03:25:26Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:55:32Z",
         "currencyCode": "USD",
         "source": "robomaker",
         "isMapped": "true"

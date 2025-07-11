@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "rekognition",
         "accessType": "publish",
-        "esIndex": "plc-rekognition-usd-20241218174328",
+        "esIndex": "plc-rekognition-usd-20250711185408",
         "hawkFilePublicationDate": "2024-12-18T17:43:28Z",
-        "ETLIngestionTriggerDate": "2024-12-18T17:43:28Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:54:08Z",
         "currencyCode": "USD",
         "source": "rekognition",
         "isMapped": "true"

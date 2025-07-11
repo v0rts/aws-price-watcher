@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "macie",
         "accessType": "publish",
-        "esIndex": "plc-macie-usd-20241003011056",
+        "esIndex": "plc-macie-usd-20250711183410",
         "hawkFilePublicationDate": "2024-08-26T17:49:35Z",
-        "ETLIngestionTriggerDate": "2024-10-03T01:10:56Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:34:10Z",
         "currencyCode": "USD",
         "source": "macie",
         "isMapped": "true"

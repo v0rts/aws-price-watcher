@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "s3",
         "accessType": "publish",
-        "esIndex": "plc-s3-usd-20250626230115",
+        "esIndex": "plc-s3-usd-20250711190354",
         "hawkFilePublicationDate": "2025-06-26T23:01:15Z",
-        "ETLIngestionTriggerDate": "2025-06-26T23:01:15Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:03:54Z",
         "currencyCode": "USD",
         "source": "s3",
         "isMapped": "true"

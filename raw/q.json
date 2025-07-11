@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "q",
         "accessType": "publish",
-        "esIndex": "plc-q-usd-20250330150322",
+        "esIndex": "plc-q-usd-20250711184942",
         "hawkFilePublicationDate": "2025-03-29T00:43:49Z",
-        "ETLIngestionTriggerDate": "2025-03-30T15:03:22Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:49:42Z",
         "currencyCode": "USD",
         "source": "q",
         "isMapped": "true"

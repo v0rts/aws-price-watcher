@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "securitylake",
         "accessType": "publish",
-        "esIndex": "plc-securitylake-usd-20241002185444",
+        "esIndex": "plc-securitylake-usd-20250711190930",
         "hawkFilePublicationDate": "2024-08-26T19:41:49Z",
-        "ETLIngestionTriggerDate": "2024-10-02T18:54:44Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:09:30Z",
         "currencyCode": "USD",
         "source": "securitylake",
         "isMapped": "true"

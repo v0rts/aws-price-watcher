@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "mdc",
         "accessType": "publish",
-        "esIndex": "plc-mdc-usd-20241216220824",
+        "esIndex": "plc-mdc-usd-20250711183611",
         "hawkFilePublicationDate": "2024-12-16T22:08:24Z",
-        "ETLIngestionTriggerDate": "2024-12-16T22:08:24Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:36:11Z",
         "currencyCode": "USD",
         "source": "mdc",
         "isMapped": "true"

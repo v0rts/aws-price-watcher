@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ml",
         "accessType": "publish",
-        "esIndex": "plc-ml-usd-20241003011345",
+        "esIndex": "plc-ml-usd-20250711183903",
         "hawkFilePublicationDate": "2024-08-26T17:55:12Z",
-        "ETLIngestionTriggerDate": "2024-10-03T01:13:45Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:39:03Z",
         "currencyCode": "USD",
         "source": "ml",
         "isMapped": "true"

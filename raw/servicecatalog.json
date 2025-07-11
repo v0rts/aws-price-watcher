@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "servicecatalog",
         "accessType": "publish",
-        "esIndex": "plc-servicecatalog-usd-20250606115232",
+        "esIndex": "plc-servicecatalog-usd-20250711191002",
         "hawkFilePublicationDate": "2025-06-06T11:52:32Z",
-        "ETLIngestionTriggerDate": "2025-06-06T11:52:32Z",
+        "ETLIngestionTriggerDate": "2025-07-11T19:10:02Z",
         "currencyCode": "USD",
         "source": "servicecatalog",
         "isMapped": "true"

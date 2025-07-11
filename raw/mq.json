@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "mq",
         "accessType": "publish",
-        "esIndex": "plc-mq-usd-20250407204031",
+        "esIndex": "plc-mq-usd-20250711184015",
         "hawkFilePublicationDate": "2025-04-07T20:40:31Z",
-        "ETLIngestionTriggerDate": "2025-04-07T20:40:31Z",
+        "ETLIngestionTriggerDate": "2025-07-11T18:40:15Z",
         "currencyCode": "USD",
         "source": "mq",
         "isMapped": "true"

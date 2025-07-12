@@ -1,3 +1,15 @@
+## 2025-07-12 00:43
+
+**Modified services:**
+
+- [glue](processed/glue.json)
+  - Region added for metric Data catalog crawler run: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Data catalog storage: South America (Sao Paulo) 🌎
+  - Region added for metric Data catalog storage: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Data catalog requests: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Data lake optimization job run: Asia Pacific (Malaysia) 🌎
+
+
 ## 2025-07-11 21:26
 
 **Modified services:**

@@ -1,3 +1,14 @@
+## 2025-07-14 20:27
+
+**Modified services:**
+
+- [applicationmigrationsvc](processed/applicationmigrationsvc.json)
+  - Region added for metric Free Server Migration: Asia Pacific (Thailand) 🌎
+  - Region added for metric Free Server Migration: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Normal Server Migration: Asia Pacific (Thailand) 🌎
+  - Region added for metric Normal Server Migration: Asia Pacific (Malaysia) 🌎
+
+
 ## 2025-07-14 19:25
 
 **Modified services:**

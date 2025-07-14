@@ -1,3 +1,12 @@
+## 2025-07-14 19:25
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-m6id.12xlarge: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.2xlarge: EU (Spain) 🌎
+
+
 ## 2025-07-14 17:26
 
 **Modified services:**

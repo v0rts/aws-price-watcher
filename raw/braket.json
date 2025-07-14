@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "braket",
         "accessType": "publish",
-        "esIndex": "plc-braket-usd-20250711151418",
-        "hawkFilePublicationDate": "2025-03-17T22:53:16Z",
-        "ETLIngestionTriggerDate": "2025-07-11T15:14:18Z",
+        "esIndex": "plc-braket-usd-20250714230529",
+        "hawkFilePublicationDate": "2025-07-14T23:05:29Z",
+        "ETLIngestionTriggerDate": "2025-07-14T23:05:29Z",
         "currencyCode": "USD",
         "source": "braket",
         "isMapped": "true"

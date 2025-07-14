@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "rds",
         "accessType": "publish",
-        "esIndex": "plc-rds-usd-20250711093348",
-        "hawkFilePublicationDate": "2025-07-11T09:33:48Z",
-        "ETLIngestionTriggerDate": "2025-07-11T09:33:48Z",
+        "esIndex": "plc-rds-usd-20250714123713",
+        "hawkFilePublicationDate": "2025-07-14T12:37:13Z",
+        "ETLIngestionTriggerDate": "2025-07-14T12:37:13Z",
         "currencyCode": "USD",
         "source": "rds-aurora-ondemand",
         "isMapped": "true"
@@ -43911,30 +43911,6 @@
                 "RegionlessRateCode": "ytMQyO-MvLynTI-MWyx3quUrrktELZBGvGUk5DJveA4",
                 "Instance Type": "db.t3.large"
             },
-            "UKpzc9LnRU0qBrEf2r9wowzs82fe9z6uGDe6sUmn62g V4": {
-                "rateCode": "ZRJ34CH43QBJM2SA.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.4080000000",
-                "RegionlessRateCode": "UKpzc9LnRU0qBrEf2r9wowzs82fe9z6uGDe6sUmn62g",
-                "Instance Type": "db.r6gd.8xlarge"
-            },
-            "Uw6o2INNEZ3H137eK-RceLRhQg6xdrNb9Uqi-g_Lqg4 V4": {
-                "rateCode": "7MWPJAGH7949T5GG.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.3520000000",
-                "RegionlessRateCode": "Uw6o2INNEZ3H137eK-RceLRhQg6xdrNb9Uqi-g_Lqg4",
-                "Instance Type": "db.r6gd.2xlarge"
-            },
-            "T4HrmJJqOqO_LXLfszInrfvt4jzk_DUol0Qa-UZ3zLA V4": {
-                "rateCode": "QVWJFHJW3F7W7PTU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.7040000000",
-                "RegionlessRateCode": "T4HrmJJqOqO_LXLfszInrfvt4jzk_DUol0Qa-UZ3zLA",
-                "Instance Type": "db.r6gd.4xlarge"
-            },
-            "E9IsotOD9-r8aoeDBUS9SS_TQcKW9rwmKqC6odf9gQs V4": {
-                "rateCode": "ADXBY6Y787TUYW6S.JRTCKXETXF.6YS6EN2CT7",
-                "price": "24.1920000000",
-                "RegionlessRateCode": "E9IsotOD9-r8aoeDBUS9SS_TQcKW9rwmKqC6odf9gQs",
-                "Instance Type": "db.r6id.32xlarge"
-            },
             "0r3uDFmrmYw7T7RgW2HB-6Gww5VF_NsQ6Ka9zj9l3lI V7": {
                 "rateCode": "GDNNQSAWWDTVBDMP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "9.8400000000",
@@ -44540,30 +44516,6 @@
                 "price": "0.2250000000",
                 "RegionlessRateCode": "ytMQyO-MvLynTI-MWyx3quUrrktELZBGvGUk5DJveA4",
                 "Instance Type": "db.t3.large"
-            },
-            "Database Instance Aurora PostgreSQL No license required db r6gd.8xlarge Memory optimized R6GD Single-AZ Current Generation": {
-                "rateCode": "ZRJ34CH43QBJM2SA.JRTCKXETXF.6YS6EN2CT7",
-                "price": "5.4080000000",
-                "RegionlessRateCode": "UKpzc9LnRU0qBrEf2r9wowzs82fe9z6uGDe6sUmn62g",
-                "Instance Type": "db.r6gd.8xlarge"
-            },
-            "Database Instance Aurora PostgreSQL No license required db r6gd.2xlarge Memory optimized R6GD Single-AZ Current Generation": {
-                "rateCode": "7MWPJAGH7949T5GG.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.3520000000",
-                "RegionlessRateCode": "Uw6o2INNEZ3H137eK-RceLRhQg6xdrNb9Uqi-g_Lqg4",
-                "Instance Type": "db.r6gd.2xlarge"
-            },
-            "Database Instance Aurora PostgreSQL No license required db r6gd.4xlarge Memory optimized R6GD Single-AZ Current Generation": {
-                "rateCode": "QVWJFHJW3F7W7PTU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.7040000000",
-                "RegionlessRateCode": "T4HrmJJqOqO_LXLfszInrfvt4jzk_DUol0Qa-UZ3zLA",
-                "Instance Type": "db.r6gd.4xlarge"
-            },
-            "Database Instance Aurora PostgreSQL No license required db r6id.32xlarge Memory optimized R6id Single-AZ Current Generation": {
-                "rateCode": "ADXBY6Y787TUYW6S.JRTCKXETXF.6YS6EN2CT7",
-                "price": "24.1920000000",
-                "RegionlessRateCode": "E9IsotOD9-r8aoeDBUS9SS_TQcKW9rwmKqC6odf9gQs",
-                "Instance Type": "db.r6id.32xlarge"
             },
             "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.16xlarge Memory optimized Single-AZ Current Generation": {
                 "rateCode": "FCQ9NRWTYYP6NSTD.JRTCKXETXF.6YS6EN2CT7",

@@ -1,3 +1,32 @@
+## 2025-07-15 18:28
+
+**Modified services:**
+
+- [rds-aurora-ondemand](processed/rds-aurora-ondemand.json)
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.large) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode General purpose Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t4g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.large) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.4xlarge) 🌎
+
+- [rds-postgresql-ondemand](processed/rds-postgresql-ondemand.json)
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+
+
 ## 2025-07-14 20:27
 
 **Modified services:**

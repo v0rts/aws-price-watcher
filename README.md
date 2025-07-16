@@ -1,3 +1,14 @@
+## 2025-07-16 22:26
+
+**Modified services:**
+
+- [cloudwatch](processed/cloudwatch.json)
+  - Region added for metric CW RUMCloudWatch RUM events: Canada West (Calgary) 🌎
+  - Region added for metric CW RUMCloudWatch RUM events: Asia Pacific (Malaysia) 🌎
+  - Region added for metric CW RUMCloudWatch RUM free events: Canada West (Calgary) 🌎
+  - Region added for metric CW RUMCloudWatch RUM free events: Asia Pacific (Malaysia) 🌎
+
+
 ## 2025-07-15 18:28
 
 **Modified services:**

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "events",
         "accessType": "publish",
-        "esIndex": "plc-events-usd-20250714192824",
-        "hawkFilePublicationDate": "2025-07-14T19:28:24Z",
-        "ETLIngestionTriggerDate": "2025-07-14T19:28:24Z",
+        "esIndex": "plc-events-usd-20250715235022",
+        "hawkFilePublicationDate": "2025-07-15T23:50:22Z",
+        "ETLIngestionTriggerDate": "2025-07-15T23:50:22Z",
         "currencyCode": "USD",
         "source": "events",
         "isMapped": "true"

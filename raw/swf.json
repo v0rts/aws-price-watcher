@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "swf",
         "accessType": "publish",
-        "esIndex": "plc-swf-usd-20250711194315",
-        "hawkFilePublicationDate": "2025-06-05T17:57:06Z",
-        "ETLIngestionTriggerDate": "2025-07-11T19:43:15Z",
+        "esIndex": "plc-swf-usd-20250717193252",
+        "hawkFilePublicationDate": "2025-07-17T19:32:52Z",
+        "ETLIngestionTriggerDate": "2025-07-17T19:32:52Z",
         "currencyCode": "USD",
         "source": "swf",
         "isMapped": "true"

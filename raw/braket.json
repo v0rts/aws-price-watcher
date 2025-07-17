@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "braket",
         "accessType": "publish",
-        "esIndex": "plc-braket-usd-20250714230529",
-        "hawkFilePublicationDate": "2025-07-14T23:05:29Z",
-        "ETLIngestionTriggerDate": "2025-07-14T23:05:29Z",
+        "esIndex": "plc-braket-usd-20250717203912",
+        "hawkFilePublicationDate": "2025-07-17T20:39:12Z",
+        "ETLIngestionTriggerDate": "2025-07-17T20:39:12Z",
         "currencyCode": "USD",
         "source": "braket",
         "isMapped": "true"
@@ -4270,6 +4270,16 @@
                 "vCPU": "16",
                 "Memory": "64 GiB"
             },
+            "DaIIZ7dmlXf4H85es6hpi8JGtjLib0L3VxNPmMiA6_M": {
+                "rateCode": "YW8Z7J5YM92XD3JW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4000.0000000000",
+                "RegionlessRateCode": "DaIIZ7dmlXf4H85es6hpi8JGtjLib0L3VxNPmMiA6_M",
+                "Version": "",
+                "Product Family": "Quantum Reservation",
+                "Instance Type": "",
+                "vCPU": "",
+                "Memory": ""
+            },
             "G7EhXipVDOMblIKZKpZr_l5BcOppfxPjJ5KUVTeByOI": {
                 "rateCode": "NXY3QHX6W6QCM645.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0489700000",
@@ -4314,6 +4324,36 @@
                 "rateCode": "MDXU8JXMYZTQY35B.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3000000000",
                 "RegionlessRateCode": "KVD0zjt3J8rAjqwXcipL3ufLBWdGLNU-i6enU53uWfk",
+                "Version": "",
+                "Product Family": "Braket Managed Jobs QPU Task",
+                "Instance Type": "",
+                "vCPU": "",
+                "Memory": ""
+            },
+            "N_SY7epo1nHxS2yYrIcFUU8dvjAaLBIfatmYw5iocqE": {
+                "rateCode": "XJ7NGKCBB4QM2X55.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0016000000",
+                "RegionlessRateCode": "N_SY7epo1nHxS2yYrIcFUU8dvjAaLBIfatmYw5iocqE",
+                "Version": "",
+                "Product Family": "Braket Managed Jobs QPU Task Shot",
+                "Instance Type": "",
+                "vCPU": "",
+                "Memory": ""
+            },
+            "Qk7kWI2k1uTdE0DTybiK-R1H1g7o97g8t9zr3RpD_F8": {
+                "rateCode": "SUU5S4YFCACRSD8U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3000000000",
+                "RegionlessRateCode": "Qk7kWI2k1uTdE0DTybiK-R1H1g7o97g8t9zr3RpD_F8",
+                "Version": "",
+                "Product Family": "Quantum Task",
+                "Instance Type": "",
+                "vCPU": "",
+                "Memory": ""
+            },
+            "RqecrdS-e5bW9XHAN2D2tzwmuE57yYdbMwT6s8pp-Vk": {
+                "rateCode": "Q958YZC688RGST9V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3000000000",
+                "RegionlessRateCode": "RqecrdS-e5bW9XHAN2D2tzwmuE57yYdbMwT6s8pp-Vk",
                 "Version": "",
                 "Product Family": "Braket Managed Jobs QPU Task",
                 "Instance Type": "",
@@ -4409,6 +4449,16 @@
                 "Instance Type": "ml.g4dn.2xlarge-Training",
                 "vCPU": "8",
                 "Memory": "32 GiB"
+            },
+            "qYUjT3sxMA1SkAGyyqmEvLZiLlanAz6z3CmghzpWCcY": {
+                "rateCode": "M7Q2VA83REC4ZYTT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0016000000",
+                "RegionlessRateCode": "qYUjT3sxMA1SkAGyyqmEvLZiLlanAz6z3CmghzpWCcY",
+                "Version": "",
+                "Product Family": "Quantum Task-Shot",
+                "Instance Type": "",
+                "vCPU": "",
+                "Memory": ""
             },
             "rEVC6u0z60BuGKtrjpQ41GeVTbQdyZPauqj910672BM": {
                 "rateCode": "NPHTFV798RDHF8AS.JRTCKXETXF.6YS6EN2CT7",

@@ -1,3 +1,16 @@
+## 2025-07-17 21:26
+
+**Modified services:**
+
+- [appstream](processed/appstream.json)
+  - Billing metric added: [Graphics G6 Fleet - Red Hat Enterprise Linux] 💡
+  - Billing metric added: [Graphics G6 Fleet - Rocky Linux] 💡
+  - Billing metric added: [Graphics G6 Fleet - Windows] 💡
+  - Billing metric added: [Graphics G6 ImageBuilder - Red Hat Enterprise Linux] 💡
+  - Billing metric added: [Graphics G6 ImageBuilder - Rocky Linux] 💡
+  - Billing metric added: [Graphics G6 ImageBuilder - Windows] 💡
+
+
 ## 2025-07-16 22:26
 
 **Modified services:**

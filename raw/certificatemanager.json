@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "certificatemanager",
         "accessType": "publish",
-        "esIndex": "plc-certificatemanager-usd-20250711151522",
-        "hawkFilePublicationDate": "2025-06-05T17:55:17Z",
-        "ETLIngestionTriggerDate": "2025-07-11T15:15:22Z",
+        "esIndex": "plc-certificatemanager-usd-20250721230525",
+        "hawkFilePublicationDate": "2025-07-21T23:05:25Z",
+        "ETLIngestionTriggerDate": "2025-07-21T23:05:25Z",
         "currencyCode": "USD",
         "source": "certificatemanager",
         "isMapped": "true"

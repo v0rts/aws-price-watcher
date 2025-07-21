@@ -1,3 +1,28 @@
+## 2025-07-21 18:28
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c7gd.8xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.8xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.16xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.16xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.12xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.12xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.large: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.large: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.2xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.2xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.metal: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.metal: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.medium: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.medium: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.4xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7gd.4xlarge: Asia Pacific (Seoul) 🌎
+
+
 ## 2025-07-18 20:27
 
 **Modified services:**

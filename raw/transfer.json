@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "transfer",
         "accessType": "publish",
-        "esIndex": "plc-transfer-usd-20250711194810",
-        "hawkFilePublicationDate": "2025-06-17T14:55:19Z",
-        "ETLIngestionTriggerDate": "2025-07-11T19:48:10Z",
+        "esIndex": "plc-transfer-usd-20250721134853",
+        "hawkFilePublicationDate": "2025-07-21T13:48:53Z",
+        "ETLIngestionTriggerDate": "2025-07-21T13:48:53Z",
         "currencyCode": "USD",
         "source": "transfer",
         "isMapped": "true"
@@ -9168,6 +9168,11 @@
                 "rateCode": "77GCDPW7DV46HTCN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "5HTSwWkaNRCV2Qma382kFLdnvXMvI42RQYZTUm9jX3g"
+            },
+            "5MGsxGr-Mj024mionfnazP_GkHQlqWeK3wlo4_xG3lE": {
+                "rateCode": "Y8ASNP7BXF6EN5PD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5000000000",
+                "RegionlessRateCode": "5MGsxGr-Mj024mionfnazP_GkHQlqWeK3wlo4_xG3lE"
             },
             "7e2q8X6yj6kvbnOC_qsJy080DG3TlczWmT1GlhMsinE": {
                 "rateCode": "358H6FDHJXHSJ2F7.JRTCKXETXF.6YS6EN2CT7",

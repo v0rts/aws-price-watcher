@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "vpc",
         "accessType": "publish",
-        "esIndex": "plc-vpc-usd-20250718195855",
-        "hawkFilePublicationDate": "2025-07-18T19:58:55Z",
-        "ETLIngestionTriggerDate": "2025-07-18T19:58:55Z",
+        "esIndex": "plc-vpc-usd-20250721202216",
+        "hawkFilePublicationDate": "2025-07-21T20:22:16Z",
+        "ETLIngestionTriggerDate": "2025-07-21T20:22:16Z",
         "currencyCode": "USD",
         "source": "vpc",
         "isMapped": "true"
@@ -9326,6 +9326,11 @@
             }
         },
         "Asia Pacific (Thailand)": {
+            "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs": {
+                "rateCode": "ZPA8BY62VEEJFJS2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs"
+            },
             "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ": {
                 "rateCode": "BUVX4GD33ZRYEB5C.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0180000000",
@@ -9340,6 +9345,11 @@
                 "rateCode": "5VV8V46R4B5DWAPF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0117000000",
                 "RegionlessRateCode": "B2Ei9XNOnhKWFOwpUwfGFeYp5VkKOjTniscEoAmBJ5k"
+            },
+            "CjuukKCESmvAnD6Rjy-d5vh77v8f7wjbhY7EsvCOSs4": {
+                "rateCode": "PPTKFCNTQ644A3SN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "CjuukKCESmvAnD6Rjy-d5vh77v8f7wjbhY7EsvCOSs4"
             },
             "JcAi1X35vbnmCcp8BjFekdJ35JhfVXOaqGaFgHzBRf4": {
                 "rateCode": "63DWDFZJ7JMQ2RHJ.JRTCKXETXF.6YS6EN2CT7",
@@ -9446,6 +9456,11 @@
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
             },
+            "Hourly charge for Client VPN connections per Hourly": {
+                "rateCode": "ZPA8BY62VEEJFJS2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs"
+            },
             "Hourly charge for Traffic Mirroring Source per hour": {
                 "rateCode": "BUVX4GD33ZRYEB5C.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0180000000",
@@ -9470,6 +9485,11 @@
                 "rateCode": "5VV8V46R4B5DWAPF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0117000000",
                 "RegionlessRateCode": "B2Ei9XNOnhKWFOwpUwfGFeYp5VkKOjTniscEoAmBJ5k"
+            },
+            "Hourly charge for Client VPN Endpoints per Hourly": {
+                "rateCode": "PPTKFCNTQ644A3SN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "CjuukKCESmvAnD6Rjy-d5vh77v8f7wjbhY7EsvCOSs4"
             },
             "Hourly charge for Active IP Addresses per hours": {
                 "rateCode": "63DWDFZJ7JMQ2RHJ.JRTCKXETXF.6YS6EN2CT7",
@@ -12171,6 +12191,11 @@
             }
         },
         "Asia Pacific (Malaysia)": {
+            "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs": {
+                "rateCode": "WG8NNUUD7GZEUKQK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs"
+            },
             "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ": {
                 "rateCode": "JQJ86QN88N5DZ2CZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0180000000",
@@ -12185,6 +12210,11 @@
                 "rateCode": "45TRW7TE66DF5CAR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0117000000",
                 "RegionlessRateCode": "B2Ei9XNOnhKWFOwpUwfGFeYp5VkKOjTniscEoAmBJ5k"
+            },
+            "CjuukKCESmvAnD6Rjy-d5vh77v8f7wjbhY7EsvCOSs4": {
+                "rateCode": "WT62DVJS7UT2BBTF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "CjuukKCESmvAnD6Rjy-d5vh77v8f7wjbhY7EsvCOSs4"
             },
             "JcAi1X35vbnmCcp8BjFekdJ35JhfVXOaqGaFgHzBRf4": {
                 "rateCode": "JMNVCWRQ87X62VG8.JRTCKXETXF.6YS6EN2CT7",
@@ -12291,6 +12321,11 @@
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
             },
+            "Hourly charge for Client VPN connections per Hourly": {
+                "rateCode": "WG8NNUUD7GZEUKQK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs"
+            },
             "Hourly charge for Traffic Mirroring Source per hour": {
                 "rateCode": "JQJ86QN88N5DZ2CZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0180000000",
@@ -12310,6 +12345,11 @@
                 "rateCode": "45TRW7TE66DF5CAR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0117000000",
                 "RegionlessRateCode": "B2Ei9XNOnhKWFOwpUwfGFeYp5VkKOjTniscEoAmBJ5k"
+            },
+            "Hourly charge for Client VPN Endpoints per Hourly": {
+                "rateCode": "WT62DVJS7UT2BBTF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "CjuukKCESmvAnD6Rjy-d5vh77v8f7wjbhY7EsvCOSs4"
             },
             "Hourly charge for Active IP Addresses per hours": {
                 "rateCode": "JMNVCWRQ87X62VG8.JRTCKXETXF.6YS6EN2CT7",

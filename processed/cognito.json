@@ -94,6 +94,7 @@
         "Asia Pacific (Hyderabad)": "20.0000000000",
         "Asia Pacific (Hong Kong)": "20.0000000000",
         "Africa (Cape Town)": "20.0000000000",
+        "AWS GovCloud (US-East)": "20.0000000000",
         "AWS GovCloud (US)": "20.0000000000"
     },
     "User Pool RPS UserResourceUpdate Full": {
@@ -127,6 +128,7 @@
         "Asia Pacific (Hyderabad)": "20.0000000000",
         "Asia Pacific (Hong Kong)": "20.0000000000",
         "Africa (Cape Town)": "20.0000000000",
+        "AWS GovCloud (US-East)": "20.0000000000",
         "AWS GovCloud (US)": "20.0000000000"
     },
     "ASF MAU Greater than 10000000 per Requests": {
@@ -159,7 +161,9 @@
         "Asia Pacific (Jakarta)": "0.0100000000",
         "Asia Pacific (Hyderabad)": "0.0100000000",
         "Asia Pacific (Hong Kong)": "0.0100000000",
-        "Africa (Cape Town)": "0.0100000000"
+        "Africa (Cape Town)": "0.0100000000",
+        "AWS GovCloud (US-East)": "0.0100000000",
+        "AWS GovCloud (US)": "0.0100000000"
     },
     "Enterprise MAU per Requests": {
         "US West (Oregon)": "0.0150000000",
@@ -191,7 +195,8 @@
         "Asia Pacific (Jakarta)": "0.0150000000",
         "Asia Pacific (Hyderabad)": "0.0150000000",
         "Asia Pacific (Hong Kong)": "0.0150000000",
-        "Africa (Cape Town)": "0.0150000000"
+        "Africa (Cape Town)": "0.0150000000",
+        "AWS GovCloud (US-East)": "0.0150000000"
     },
     "User Pools M2M Tokens Full 5000000 upto Inf per CognitoUserPools M2MTokens": {
         "US West (Oregon)": "0.0011250000",
@@ -224,6 +229,7 @@
         "Asia Pacific (Hyderabad)": "0.0011250000",
         "Asia Pacific (Hong Kong)": "0.0011250000",
         "Africa (Cape Town)": "0.0011250000",
+        "AWS GovCloud (US-East)": "0.0011250000",
         "AWS GovCloud (US)": "0.0011250000"
     },
     "User Pool RPS UserToken Free": {
@@ -257,6 +263,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pool RPS UserAccountRecovery Free": {
@@ -290,6 +297,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pools M2M Tokens Full 0 upto 250000 per CognitoUserPools M2MTokens": {
@@ -323,6 +331,7 @@
         "Asia Pacific (Hyderabad)": "0.0022500000",
         "Asia Pacific (Hong Kong)": "0.0022500000",
         "Africa (Cape Town)": "0.0022500000",
+        "AWS GovCloud (US-East)": "0.0022500000",
         "AWS GovCloud (US)": "0.0022500000"
     },
     "User Pool RPS UserAuthentication Partial": {
@@ -356,6 +365,7 @@
         "Asia Pacific (Hyderabad)": "45.0000000000",
         "Asia Pacific (Hong Kong)": "45.0000000000",
         "Africa (Cape Town)": "45.0000000000",
+        "AWS GovCloud (US-East)": "45.0000000000",
         "AWS GovCloud (US)": "45.0000000000"
     },
     "ASF MAU Next 9000000 per Requests": {
@@ -388,7 +398,9 @@
         "Asia Pacific (Jakarta)": "0.0150000000",
         "Asia Pacific (Hyderabad)": "0.0150000000",
         "Asia Pacific (Hong Kong)": "0.0150000000",
-        "Africa (Cape Town)": "0.0150000000"
+        "Africa (Cape Town)": "0.0150000000",
+        "AWS GovCloud (US-East)": "0.0150000000",
+        "AWS GovCloud (US)": "0.0150000000"
     },
     "User Pool RPS UserResourceUpdate Free": {
         "US West (Oregon)": "0.0000000000",
@@ -421,6 +433,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pool RPS UserAccountRecovery Full": {
@@ -454,6 +467,7 @@
         "Asia Pacific (Hyderabad)": "20.0000000000",
         "Asia Pacific (Hong Kong)": "20.0000000000",
         "Africa (Cape Town)": "20.0000000000",
+        "AWS GovCloud (US-East)": "20.0000000000",
         "AWS GovCloud (US)": "20.0000000000"
     },
     "ASF MAU Next 900000 per Requests": {
@@ -486,7 +500,9 @@
         "Asia Pacific (Jakarta)": "0.0200000000",
         "Asia Pacific (Hyderabad)": "0.0200000000",
         "Asia Pacific (Hong Kong)": "0.0200000000",
-        "Africa (Cape Town)": "0.0200000000"
+        "Africa (Cape Town)": "0.0200000000",
+        "AWS GovCloud (US-East)": "0.0200000000",
+        "AWS GovCloud (US)": "0.0200000000"
     },
     "User Pool RPS UserRead Partial": {
         "US West (Oregon)": "45.0000000000",
@@ -519,6 +535,7 @@
         "Asia Pacific (Hyderabad)": "45.0000000000",
         "Asia Pacific (Hong Kong)": "45.0000000000",
         "Africa (Cape Town)": "45.0000000000",
+        "AWS GovCloud (US-East)": "45.0000000000",
         "AWS GovCloud (US)": "45.0000000000"
     },
     "User Pool RPS UserFederation Full": {
@@ -552,6 +569,7 @@
         "Asia Pacific (Hyderabad)": "20.0000000000",
         "Asia Pacific (Hong Kong)": "20.0000000000",
         "Africa (Cape Town)": "20.0000000000",
+        "AWS GovCloud (US-East)": "20.0000000000",
         "AWS GovCloud (US)": "20.0000000000"
     },
     "User Pool RPS UserRead Free": {
@@ -585,6 +603,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "MAU Next 900000 per Requests": {
@@ -746,6 +765,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pools M2M Tokens Full 250000 upto 5000000 per CognitoUserPools M2MTokens": {
@@ -779,6 +799,7 @@
         "Asia Pacific (Hyderabad)": "0.0015000000",
         "Asia Pacific (Hong Kong)": "0.0015000000",
         "Africa (Cape Town)": "0.0015000000",
+        "AWS GovCloud (US-East)": "0.0015000000",
         "AWS GovCloud (US)": "0.0015000000"
     },
     "User Pool RPS UserCreation Partial": {
@@ -812,6 +833,7 @@
         "Asia Pacific (Hyderabad)": "45.0000000000",
         "Asia Pacific (Hong Kong)": "45.0000000000",
         "Africa (Cape Town)": "45.0000000000",
+        "AWS GovCloud (US-East)": "45.0000000000",
         "AWS GovCloud (US)": "45.0000000000"
     },
     "ASF MAU Next 50000 per Requests": {
@@ -844,7 +866,9 @@
         "Asia Pacific (Jakarta)": "0.0350000000",
         "Asia Pacific (Hyderabad)": "0.0350000000",
         "Asia Pacific (Hong Kong)": "0.0350000000",
-        "Africa (Cape Town)": "0.0350000000"
+        "Africa (Cape Town)": "0.0350000000",
+        "AWS GovCloud (US-East)": "0.0350000000",
+        "AWS GovCloud (US)": "0.0350000000"
     },
     "User Pool RPS UserCreation Free": {
         "US West (Oregon)": "0.0000000000",
@@ -877,6 +901,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pool RPS UserFederation Free": {
@@ -910,6 +935,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pools M2M Tokens Free 250000 upto 5000000 per CognitoUserPools M2MTokens": {
@@ -943,6 +969,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pool RPS UserUpdate Full": {
@@ -976,6 +1003,7 @@
         "Asia Pacific (Hyderabad)": "20.0000000000",
         "Asia Pacific (Hong Kong)": "20.0000000000",
         "Africa (Cape Town)": "20.0000000000",
+        "AWS GovCloud (US-East)": "20.0000000000",
         "AWS GovCloud (US)": "20.0000000000"
     },
     "User Pool RPS UserUpdate Partial": {
@@ -1009,6 +1037,7 @@
         "Asia Pacific (Hyderabad)": "45.0000000000",
         "Asia Pacific (Hong Kong)": "45.0000000000",
         "Africa (Cape Town)": "45.0000000000",
+        "AWS GovCloud (US-East)": "45.0000000000",
         "AWS GovCloud (US)": "45.0000000000"
     },
     "User Pool RPS UserToken Full": {
@@ -1042,6 +1071,7 @@
         "Asia Pacific (Hyderabad)": "20.0000000000",
         "Asia Pacific (Hong Kong)": "20.0000000000",
         "Africa (Cape Town)": "20.0000000000",
+        "AWS GovCloud (US-East)": "20.0000000000",
         "AWS GovCloud (US)": "20.0000000000"
     },
     "User Pools M2M AppClients Free 0 upto 100 per CognitoUserPools M2MAppClientMo": {
@@ -1075,6 +1105,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
@@ -1108,6 +1139,7 @@
         "Asia Pacific (Hyderabad)": "1.5000000000",
         "Asia Pacific (Hong Kong)": "1.5000000000",
         "Africa (Cape Town)": "1.5000000000",
+        "AWS GovCloud (US-East)": "1.5000000000",
         "AWS GovCloud (US)": "1.5000000000"
     },
     "User Pool RPS UserRead Full": {
@@ -1141,6 +1173,7 @@
         "Asia Pacific (Hyderabad)": "20.0000000000",
         "Asia Pacific (Hong Kong)": "20.0000000000",
         "Africa (Cape Town)": "20.0000000000",
+        "AWS GovCloud (US-East)": "20.0000000000",
         "AWS GovCloud (US)": "20.0000000000"
     },
     "MAU Greater than 10000000 per Requests": {
@@ -1238,6 +1271,7 @@
         "Asia Pacific (Hyderabad)": "20.0000000000",
         "Asia Pacific (Hong Kong)": "20.0000000000",
         "Africa (Cape Town)": "20.0000000000",
+        "AWS GovCloud (US-East)": "20.0000000000",
         "AWS GovCloud (US)": "20.0000000000"
     },
     "User Pools M2M AppClients Free 500 upto Inf per CognitoUserPools M2MAppClientMo": {
@@ -1271,6 +1305,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pool RPS UserResourceRead Free": {
@@ -1304,6 +1339,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pools M2M AppClients Free 100 upto 500 per CognitoUserPools M2MAppClientMo": {
@@ -1337,6 +1373,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pool RPS UserToken Partial": {
@@ -1370,6 +1407,7 @@
         "Asia Pacific (Hyderabad)": "45.0000000000",
         "Asia Pacific (Hong Kong)": "45.0000000000",
         "Africa (Cape Town)": "45.0000000000",
+        "AWS GovCloud (US-East)": "45.0000000000",
         "AWS GovCloud (US)": "45.0000000000"
     },
     "ASF MAU Frist 50000 per Requests": {
@@ -1402,7 +1440,9 @@
         "Asia Pacific (Jakarta)": "0.0500000000",
         "Asia Pacific (Hyderabad)": "0.0500000000",
         "Asia Pacific (Hong Kong)": "0.0500000000",
-        "Africa (Cape Town)": "0.0500000000"
+        "Africa (Cape Town)": "0.0500000000",
+        "AWS GovCloud (US-East)": "0.0500000000",
+        "AWS GovCloud (US)": "0.0500000000"
     },
     "User Pool RPS UserFederation Partial": {
         "US West (Oregon)": "45.0000000000",
@@ -1435,6 +1475,7 @@
         "Asia Pacific (Hyderabad)": "45.0000000000",
         "Asia Pacific (Hong Kong)": "45.0000000000",
         "Africa (Cape Town)": "45.0000000000",
+        "AWS GovCloud (US-East)": "45.0000000000",
         "AWS GovCloud (US)": "45.0000000000"
     },
     "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
@@ -1468,6 +1509,7 @@
         "Asia Pacific (Hyderabad)": "6.0000000000",
         "Asia Pacific (Hong Kong)": "6.0000000000",
         "Africa (Cape Town)": "6.0000000000",
+        "AWS GovCloud (US-East)": "6.0000000000",
         "AWS GovCloud (US)": "6.0000000000"
     },
     "User Pool RPS UserResourceUpdate Partial": {
@@ -1501,6 +1543,7 @@
         "Asia Pacific (Hyderabad)": "45.0000000000",
         "Asia Pacific (Hong Kong)": "45.0000000000",
         "Africa (Cape Town)": "45.0000000000",
+        "AWS GovCloud (US-East)": "45.0000000000",
         "AWS GovCloud (US)": "45.0000000000"
     },
     "User Pool RPS UserResourceRead Full": {
@@ -1534,6 +1577,7 @@
         "Asia Pacific (Hyderabad)": "20.0000000000",
         "Asia Pacific (Hong Kong)": "20.0000000000",
         "Africa (Cape Town)": "20.0000000000",
+        "AWS GovCloud (US-East)": "20.0000000000",
         "AWS GovCloud (US)": "20.0000000000"
     },
     "User Pools M2M Tokens Free 5000000 upto Inf per CognitoUserPools M2MTokens": {
@@ -1567,6 +1611,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pools M2M Tokens Free 0 upto 250000 per CognitoUserPools M2MTokens": {
@@ -1600,6 +1645,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pool RPS UserUpdate Free": {
@@ -1633,6 +1679,7 @@
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
     },
     "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
@@ -1666,6 +1713,7 @@
         "Asia Pacific (Hyderabad)": "3.0000000000",
         "Asia Pacific (Hong Kong)": "3.0000000000",
         "Africa (Cape Town)": "3.0000000000",
+        "AWS GovCloud (US-East)": "3.0000000000",
         "AWS GovCloud (US)": "3.0000000000"
     },
     "User Pool RPS UserAccountRecovery Partial": {
@@ -1699,6 +1747,7 @@
         "Asia Pacific (Hyderabad)": "45.0000000000",
         "Asia Pacific (Hong Kong)": "45.0000000000",
         "Africa (Cape Town)": "45.0000000000",
+        "AWS GovCloud (US-East)": "45.0000000000",
         "AWS GovCloud (US)": "45.0000000000"
     },
     "User Pool RPS UserResourceRead Partial": {
@@ -1732,22 +1781,28 @@
         "Asia Pacific (Hyderabad)": "45.0000000000",
         "Asia Pacific (Hong Kong)": "45.0000000000",
         "Africa (Cape Town)": "45.0000000000",
+        "AWS GovCloud (US-East)": "45.0000000000",
         "AWS GovCloud (US)": "45.0000000000"
     },
     "non free User Pool Enterprise MAU 0 upto Inf": {
         "Asia Pacific (Malaysia)": "0.0150000000",
+        "AWS GovCloud (US-East)": "0.0150000000",
         "AWS GovCloud (US)": "0.0150000000"
     },
     "User Pool MAU 1000000 upto 10000000 per Requests": {
+        "AWS GovCloud (US-East)": "0.0032500000",
         "AWS GovCloud (US)": "0.0032500000"
     },
     "User Pool MAU 0 upto 100000 per Requests": {
+        "AWS GovCloud (US-East)": "0.0055000000",
         "AWS GovCloud (US)": "0.0055000000"
     },
     "User Pool MAU 100000 upto 1000000 per Requests": {
+        "AWS GovCloud (US-East)": "0.0046000000",
         "AWS GovCloud (US)": "0.0046000000"
     },
     "User Pool MAU 10000000 upto Inf per Requests": {
+        "AWS GovCloud (US-East)": "0.0025000000",
         "AWS GovCloud (US)": "0.0025000000"
     }
 }

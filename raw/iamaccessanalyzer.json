@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iamaccessanalyzer",
         "accessType": "publish",
-        "esIndex": "plc-iamaccessanalyzer-usd-20250711181026",
-        "hawkFilePublicationDate": "2025-07-07T05:40:44Z",
-        "ETLIngestionTriggerDate": "2025-07-11T18:10:26Z",
+        "esIndex": "plc-iamaccessanalyzer-usd-20250722212917",
+        "hawkFilePublicationDate": "2025-07-22T21:29:17Z",
+        "ETLIngestionTriggerDate": "2025-07-22T21:29:17Z",
         "currencyCode": "USD",
         "source": "iamaccessanalyzer",
         "isMapped": "true"
@@ -905,6 +905,60 @@
             },
             "Checks-AccessCheck per API Requests": {
                 "rateCode": "TU35V5PJMW4Y57BT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "AWS GovCloud (US-East)": {
+            "PkjvPTpsCJyRaXYEK3KIgW3vyjtH71wIVLVB6Y13pk8": {
+                "rateCode": "FKD4HN6W94TC7X9S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.0000000000",
+                "RegionlessRateCode": "PkjvPTpsCJyRaXYEK3KIgW3vyjtH71wIVLVB6Y13pk8"
+            },
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "95CSFUT57GD5B6Y9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "ENWEUVAEMK53TX77.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "95CSFUT57GD5B6Y9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "ENWEUVAEMK53TX77.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "AWS GovCloud (US)": {
+            "PkjvPTpsCJyRaXYEK3KIgW3vyjtH71wIVLVB6Y13pk8": {
+                "rateCode": "9JZ7QWWWRRA8H6H3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.0000000000",
+                "RegionlessRateCode": "PkjvPTpsCJyRaXYEK3KIgW3vyjtH71wIVLVB6Y13pk8"
+            },
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "UR99DDPDV4EQJCUT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "KP2GGX59K7W5NU5D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "UR99DDPDV4EQJCUT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "KP2GGX59K7W5NU5D.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0020000000",
                 "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
             }

@@ -1,3 +1,71 @@
+## 2025-07-22 22:27
+
+**Modified services:**
+
+- [iamaccessanalyzer](processed/iamaccessanalyzer.json)
+  - Region added for metric Findings-UnusedAccessAnalysis per Number of Monitored resources: AWS GovCloud (US-East) 🌎
+  - Region added for metric Findings-UnusedAccessAnalysis per Number of Monitored resources: AWS GovCloud (US) 🌎
+  - Region added for metric Checks-AccessCheck per API Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric Checks-AccessCheck per API Requests: AWS GovCloud (US) 🌎
+
+- [cognito](processed/cognito.json)
+  - Region added for metric User Pool RPS UserCreation Full: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserResourceUpdate Full: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Greater than 10000000 per Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Greater than 10000000 per Requests: AWS GovCloud (US) 🌎
+  - Region added for metric Enterprise MAU per Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M Tokens Full 5000000 upto Inf per CognitoUserPools M2MTokens: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserToken Free: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserAccountRecovery Free: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M Tokens Full 0 upto 250000 per CognitoUserPools M2MTokens: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserAuthentication Partial: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Next 9000000 per Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Next 9000000 per Requests: AWS GovCloud (US) 🌎
+  - Region added for metric User Pool RPS UserResourceUpdate Free: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserAccountRecovery Full: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Next 900000 per Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Next 900000 per Requests: AWS GovCloud (US) 🌎
+  - Region added for metric User Pool RPS UserRead Partial: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserFederation Full: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserRead Free: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserAuthentication Free: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M Tokens Full 250000 upto 5000000 per CognitoUserPools M2MTokens: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserCreation Partial: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Next 50000 per Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Next 50000 per Requests: AWS GovCloud (US) 🌎
+  - Region added for metric User Pool RPS UserCreation Free: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserFederation Free: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M Tokens Free 250000 upto 5000000 per CognitoUserPools M2MTokens: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserUpdate Full: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserUpdate Partial: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserToken Full: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M AppClients Free 0 upto 100 per CognitoUserPools M2MAppClientMo: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserRead Full: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserAuthentication Full: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M AppClients Free 500 upto Inf per CognitoUserPools M2MAppClientMo: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserResourceRead Free: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M AppClients Free 100 upto 500 per CognitoUserPools M2MAppClientMo: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserToken Partial: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Frist 50000 per Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric ASF MAU Frist 50000 per Requests: AWS GovCloud (US) 🌎
+  - Region added for metric User Pool RPS UserFederation Partial: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserResourceUpdate Partial: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserResourceRead Full: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M Tokens Free 5000000 upto Inf per CognitoUserPools M2MTokens: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M Tokens Free 0 upto 250000 per CognitoUserPools M2MTokens: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserUpdate Free: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserAccountRecovery Partial: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool RPS UserResourceRead Partial: AWS GovCloud (US-East) 🌎
+  - Region added for metric non free User Pool Enterprise MAU 0 upto Inf: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool MAU 1000000 upto 10000000 per Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool MAU 0 upto 100000 per Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool MAU 100000 upto 1000000 per Requests: AWS GovCloud (US-East) 🌎
+  - Region added for metric User Pool MAU 10000000 upto Inf per Requests: AWS GovCloud (US-East) 🌎
+
+
 ## 2025-07-22 20:27
 
 **Modified services:**

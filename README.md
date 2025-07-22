@@ -1,3 +1,30 @@
+## 2025-07-22 19:26
+
+**Modified services:**
+
+- [mq](processed/mq.json)
+  - Billing metric removed: RabbitMQ Active Standby mq m5.large 💥
+  - Billing metric removed: RabbitMQ Active Standby mq m5.xlarge 💥
+  - Billing metric removed: RabbitMQ Single Instance mq m5.4xlarge 💥
+  - Billing metric removed: RabbitMQ Active Standby mq m5.4xlarge 💥
+  - Billing metric removed: RabbitMQ Active Standby mq m5.2xlarge 💥
+  - Billing metric removed: RabbitMQ Single Instance mq t3.micro 💥
+  - Billing metric removed: RabbitMQ Single Instance mq m5.2xlarge 💥
+  - Billing metric removed: RabbitMQ Single Instance mq m5.large 💥
+  - Billing metric removed: RabbitMQ Single Instance mq m5.xlarge 💥
+  - Billing metric added: [RabbitMQ Multi AZ per Hrs] RabbitMQ Active Standby mq m5.2xlarge 💡
+  - Billing metric added: [RabbitMQ Multi AZ per Hrs] RabbitMQ Active Standby mq m5.4xlarge 💡
+  - Billing metric added: [RabbitMQ Multi AZ per Hrs] RabbitMQ Active Standby mq m5.large 💡
+  - Billing metric added: [RabbitMQ Multi AZ per Hrs] RabbitMQ Active Standby mq m5.xlarge 💡
+  - Billing metric added: [RabbitMQ Multi AZ per Hrs] 💡
+  - Billing metric added: [RabbitMQ Single AZ per Hrs] RabbitMQ Single Instance mq m5.2xlarge 💡
+  - Billing metric added: [RabbitMQ Single AZ per Hrs] RabbitMQ Single Instance mq m5.4xlarge 💡
+  - Billing metric added: [RabbitMQ Single AZ per Hrs] RabbitMQ Single Instance mq m5.large 💡
+  - Billing metric added: [RabbitMQ Single AZ per Hrs] RabbitMQ Single Instance mq m5.xlarge 💡
+  - Billing metric added: [RabbitMQ Single AZ per Hrs] 💡
+  - Billing metric added: [RabbitMQ Single AZ per Hrs] RabbitMQ Single Instance mq t3.micro 💡
+
+
 ## 2025-07-22 18:28
 
 **Modified services:**

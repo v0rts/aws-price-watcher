@@ -1,3 +1,41 @@
+## 2025-07-22 18:28
+
+**Modified services:**
+
+- [timestream](processed/timestream.json)
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: US West (Oregon) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: US East (Ohio) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: US East (N. Virginia) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: Middle East (UAE) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: EU (Stockholm) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: EU (Spain) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: EU (Paris) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: EU (Milan) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: EU (London) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: EU (Ireland) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: EU (Frankfurt) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: Canada (Central) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: Asia Pacific (Tokyo) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: Asia Pacific (Sydney) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: Asia Pacific (Singapore) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: Asia Pacific (Mumbai) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Region added for metric [Database Instance InfluxDB No license required Cluster]: Asia Pacific (Jakarta) (Instance Type: db.influx.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: Up to 40 Gigabit) 🌎
+  - Billing metric added: [Database Instance InfluxDB No license required Multi-AZ] 💡
+  - Billing metric added: [Database Instance InfluxDB No license required Single-AZ] 💡
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c6in.16xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6in.8xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6in.metal: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6in.large: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6in.4xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6in.xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6in.2xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6in.32xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6in.24xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6in.12xlarge: Canada West (Calgary) 🌎
+
+
 ## 2025-07-21 20:27
 
 **Modified services:**

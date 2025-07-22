@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "queueservice",
         "accessType": "publish",
-        "esIndex": "plc-queueservice-usd-20250722180308",
-        "hawkFilePublicationDate": "2025-07-22T18:03:08Z",
-        "ETLIngestionTriggerDate": "2025-07-22T18:03:08Z",
+        "esIndex": "plc-queueservice-usd-20250722222824",
+        "hawkFilePublicationDate": "2025-07-22T22:28:27Z",
+        "ETLIngestionTriggerDate": "2025-07-22T22:28:24Z",
         "currencyCode": "USD",
         "source": "queueservice",
         "isMapped": "true"

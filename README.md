@@ -1,3 +1,16 @@
+## 2025-07-22 20:27
+
+**Modified services:**
+
+- [sagemaker-instances-studionotebook](processed/sagemaker-instances-studionotebook.json)
+  - Region added for metric [Accelerated Computing Instances - ML Instance - Studio-Notebook]: EU (Ireland) (Instance: ml.p4d.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB) 🌎
+  - Region added for metric [Accelerated Computing Instances - ML Instance - Studio-Notebook]: Asia Pacific (Tokyo) (Instance: ml.p4d.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB) 🌎
+  - Region added for metric [Accelerated Computing Instances - ML Instance - Studio-Notebook]: Asia Pacific (Seoul) (Instance: ml.p4d.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB) 🌎
+  - Region removed for metric [Accelerated Computing Instances - ML Instance - Studio-Notebook]: EU (Ireland) (Instance: ml.p4de.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB) 💥
+  - Region removed for metric [Accelerated Computing Instances - ML Instance - Studio-Notebook]: Asia Pacific (Tokyo) (Instance: ml.p4de.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB) 💥
+  - Region removed for metric [Accelerated Computing Instances - ML Instance - Studio-Notebook]: Asia Pacific (Seoul) (Instance: ml.p4de.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB) 💥
+
+
 ## 2025-07-22 19:26
 
 **Modified services:**

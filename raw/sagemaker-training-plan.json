@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250721203240",
-        "hawkFilePublicationDate": "2025-07-14T22:02:31Z",
-        "ETLIngestionTriggerDate": "2025-07-21T20:32:40Z",
+        "esIndex": "plc-sagemaker-usd-20250722201135",
+        "hawkFilePublicationDate": "2025-07-22T20:11:35Z",
+        "ETLIngestionTriggerDate": "2025-07-22T20:11:35Z",
         "currencyCode": "USD",
         "source": "sagemaker-training-plan"
     },
@@ -16,6 +16,7 @@
             "OC5Xj-H0GJULdCn1J91LiMbxJ89C0S7EiOM9c7qPJ6o",
             "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0",
             "ghQvFMPrBWdugjdm6B2fGkTmhQugEondlio8TQUkeDY",
+            "qf8jY-z8HHSJ9306z2udpdPuffNQhciwnrJlUQKDyv0",
             "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo"
         ]
     },
@@ -60,6 +61,14 @@
                 "Memory": "2 TiB",
                 "VCPU": "192",
                 "Instance": "ml.p5e.48xlarge"
+            },
+            "qf8jY-z8HHSJ9306z2udpdPuffNQhciwnrJlUQKDyv0": {
+                "rateCode": "96CKHGQUUTWYV3SP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "16.9812450000",
+                "RegionlessRateCode": "qf8jY-z8HHSJ9306z2udpdPuffNQhciwnrJlUQKDyv0",
+                "Memory": "1152 GiB",
+                "VCPU": "96",
+                "Instance": "ml.p4de.24xlarge"
             },
             "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo": {
                 "rateCode": "GQWZE9ZJFGWWR38R.JRTCKXETXF.6YS6EN2CT7",
@@ -186,6 +195,14 @@
                 "Memory": "2 TiB",
                 "VCPU": "192",
                 "Instance": "ml.p5e.48xlarge"
+            },
+            "qf8jY-z8HHSJ9306z2udpdPuffNQhciwnrJlUQKDyv0": {
+                "rateCode": "EVTZ9DRNXBTK33GW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "16.9812450000",
+                "RegionlessRateCode": "qf8jY-z8HHSJ9306z2udpdPuffNQhciwnrJlUQKDyv0",
+                "Memory": "1152 GiB",
+                "VCPU": "96",
+                "Instance": "ml.p4de.24xlarge"
             }
         },
         "South America (Sao Paulo)": {

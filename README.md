@@ -1,3 +1,25 @@
+## 2025-07-23 17:27
+
+**Modified services:**
+
+- [rds-mysql-ondemand](processed/rds-mysql-ondemand.json)
+  - Billing metric added: vs7qnAztzy7q0MgnAB4E6_KJWzwijISqXdZu6KVtHf4 V1 💡
+
+- [rds-postgresql-ondemand](processed/rds-postgresql-ondemand.json)
+  - Billing metric added: vs7qnAztzy7q0MgnAB4E6_KJWzwijISqXdZu6KVtHf4 V1 💡
+
+- [rds-oracle-ondemand](processed/rds-oracle-ondemand.json)
+  - Billing metric added: 7oLHBV_aHBTcfN1m-mSapEOu_MzsL6rw7gK2dwKASQM V1 💡
+  - Billing metric added: DJB04qlSwZYBiccVtqUxTk_0xFg2xKUaHCtaqlNoLf4 V1 💡
+  - Billing metric added: h7Z56oodTnXktj9sx-dCs7i-Zze4Q8h_egaWyfXPojY V1 💡
+  - Billing metric added: mkXTKEzkh15pSNJcoPzP7sVH6Qr54MgPHSCBa-hIqeI V1 💡
+  - Billing metric added: n4oiFt-nGUwK74SlGItmguabqUldI5NbUMfa1isDALA V1 💡
+  - Billing metric added: r5Rd07x2YFjzgy2O7E5CTmq7SCSk8GtSf-owpxcf9gI V1 💡
+
+- [rds-mariadb-ondemand](processed/rds-mariadb-ondemand.json)
+  - Billing metric added: vs7qnAztzy7q0MgnAB4E6_KJWzwijISqXdZu6KVtHf4 V2 💡
+
+
 ## 2025-07-23 05:27
 
 **Modified services:**

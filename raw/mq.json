@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "mq",
         "accessType": "publish",
-        "esIndex": "plc-mq-usd-20250722185912",
-        "hawkFilePublicationDate": "2025-07-22T18:56:49Z",
-        "ETLIngestionTriggerDate": "2025-07-22T18:59:12Z",
+        "esIndex": "plc-mq-usd-20250723183555",
+        "hawkFilePublicationDate": "2025-07-23T18:35:55Z",
+        "ETLIngestionTriggerDate": "2025-07-23T18:35:55Z",
         "currencyCode": "USD",
         "source": "mq",
         "isMapped": "true"
@@ -152,15 +152,18 @@
             "HDQDN2U83SD7UYMT JRTCKXETXF.6YS6EN2CT7 0",
             "HJSFEMMHYN86P22C JRTCKXETXF.6YS6EN2CT7 0",
             "JW5M4AA32VQ7JF66 JRTCKXETXF.6YS6EN2CT7 0",
+            "K4RYC9299MNNAB2M JRTCKXETXF.6YS6EN2CT7 0",
             "MCQ7H3NEA4ACCWEC JRTCKXETXF.6YS6EN2CT7 0",
             "NBJRPCYMS2DAJ48E JRTCKXETXF.6YS6EN2CT7 0",
             "NTU22Y4KJFSJU5CY JRTCKXETXF.6YS6EN2CT7 0",
             "PDV5P8HBRYM948ZD JRTCKXETXF.6YS6EN2CT7 0",
             "S6WQPJKSJYY9XGAK JRTCKXETXF.6YS6EN2CT7 0",
             "SS34RJJQREC3NVDB JRTCKXETXF.6YS6EN2CT7 0",
+            "T5ZDQUE95CER9WMN JRTCKXETXF.6YS6EN2CT7 0",
             "TFTBZYFNMUMH4W7J JRTCKXETXF.6YS6EN2CT7 0",
             "V385V7NAEAF93CTW JRTCKXETXF.6YS6EN2CT7 0",
             "VPFXMTHJJ4KH9Q82 JRTCKXETXF.6YS6EN2CT7 0",
+            "WKJ4G3EGDNSGRXTK JRTCKXETXF.6YS6EN2CT7 0",
             "WSPZY9NHXJ2EHDZH JRTCKXETXF.6YS6EN2CT7 0",
             "X3GHA739E68Q4FET JRTCKXETXF.6YS6EN2CT7 0",
             "YWADMC57HWD72BKK JRTCKXETXF.6YS6EN2CT7 0",
@@ -184,15 +187,18 @@
             "HBYBHMWRH4HKMKV8 JRTCKXETXF.6YS6EN2CT7 0",
             "JME3EJTUFXSAECG7 JRTCKXETXF.6YS6EN2CT7 0",
             "JSMGU49QMDYACFD9 JRTCKXETXF.6YS6EN2CT7 0",
+            "KM6F4S8TX6AP4FGP JRTCKXETXF.6YS6EN2CT7 0",
             "KUMNNFJC6U88SDEV JRTCKXETXF.6YS6EN2CT7 0",
             "MWDCYJ86ZWNGES4K JRTCKXETXF.6YS6EN2CT7 0",
             "RM5J4FPMDR9YZUQJ JRTCKXETXF.6YS6EN2CT7 0",
             "TJ4RXZ8P6DV3TD4B JRTCKXETXF.6YS6EN2CT7 0",
             "U56F6J6S6Y2WA8FR JRTCKXETXF.6YS6EN2CT7 0",
             "UHGD472EQSM6RAVC JRTCKXETXF.6YS6EN2CT7 0",
+            "UT5AR3YH6XFUXETM JRTCKXETXF.6YS6EN2CT7 0",
             "UVJR8BGQN6DN2NYB JRTCKXETXF.6YS6EN2CT7 0",
             "XHRFCNYHXW4D8G6A JRTCKXETXF.6YS6EN2CT7 0",
             "YN59PM7NPVZWADXU JRTCKXETXF.6YS6EN2CT7 0",
+            "YP8SZNFBSCF7M43H JRTCKXETXF.6YS6EN2CT7 0",
             "3Y5CUW4JZ62YWMB5 JRTCKXETXF.6YS6EN2CT7 0",
             "553MR6EJGNJHQYBY JRTCKXETXF.6YS6EN2CT7 0",
             "7FBA52UY99R2UNSF JRTCKXETXF.6YS6EN2CT7 0",
@@ -275,8 +281,11 @@
             "JCAJK9R6GQTETN3P JRTCKXETXF.6YS6EN2CT7 0",
             "K35N2CKV2Z99C34B JRTCKXETXF.6YS6EN2CT7 0",
             "K8PN2JRCQX78QBUQ JRTCKXETXF.6YS6EN2CT7 0",
+            "KACNU2N8NYCBAJFH JRTCKXETXF.6YS6EN2CT7 0",
             "MRMHVC7RBHDKURZM JRTCKXETXF.6YS6EN2CT7 0",
+            "NZQF7A7NM79FRTHY JRTCKXETXF.6YS6EN2CT7 0",
             "PS449HDFSGSE83TK JRTCKXETXF.6YS6EN2CT7 0",
+            "RAM8AJXQAK3ZVXS4 JRTCKXETXF.6YS6EN2CT7 0",
             "SSQDVE84N7KYSM36 JRTCKXETXF.6YS6EN2CT7 0",
             "TDRD8TVWQSZFNETF JRTCKXETXF.6YS6EN2CT7 0",
             "TS3ZCGYPNVN4VD9D JRTCKXETXF.6YS6EN2CT7 0",
@@ -522,6 +531,7 @@
             "HFTPRS7QW9BY2TUH JRTCKXETXF.6YS6EN2CT7 0",
             "J4ZFG39FF24PQRWN JRTCKXETXF.6YS6EN2CT7 0",
             "J5KGXW6FUN66ETUA JRTCKXETXF.6YS6EN2CT7 0",
+            "JJ9UV4XBQZJ4AKXJ JRTCKXETXF.6YS6EN2CT7 0",
             "KPPQQ9HG6YGW4WAW JRTCKXETXF.6YS6EN2CT7 0",
             "KZST9QD552S2QQ73 JRTCKXETXF.6YS6EN2CT7 0",
             "MABJNZAVMA5QMWAB JRTCKXETXF.6YS6EN2CT7 0",
@@ -531,9 +541,11 @@
             "PW5WGT9WJXT7JVD5 JRTCKXETXF.6YS6EN2CT7 0",
             "QWPJWQ2WNM7SHADG JRTCKXETXF.6YS6EN2CT7 0",
             "RPKE57TVH6YVZQ43 JRTCKXETXF.6YS6EN2CT7 0",
+            "UJVCE2KN4X9U9TDP JRTCKXETXF.6YS6EN2CT7 0",
             "WCYBNGUFYMFWGSWY JRTCKXETXF.6YS6EN2CT7 0",
             "WVQ35RDV4YKFQVF3 JRTCKXETXF.6YS6EN2CT7 0",
             "Z6P5EHSRJGWY84CV JRTCKXETXF.6YS6EN2CT7 0",
+            "Z9XAC4ZQ58Q6JVX6 JRTCKXETXF.6YS6EN2CT7 0",
             "ZF773G3QZY4P32K6 JRTCKXETXF.6YS6EN2CT7 0",
             "ZHYK2AZB45B84UWW JRTCKXETXF.6YS6EN2CT7 0",
             "ZV8XE7B8FKVR4TKU JRTCKXETXF.6YS6EN2CT7 0",
@@ -543,6 +555,7 @@
             "3ZFU7GX76Q2GJYZJ JRTCKXETXF.6YS6EN2CT7 0",
             "6SJ76GX5S7TFR793 JRTCKXETXF.6YS6EN2CT7 0",
             "7DEE3MKTQE4C6A6S JRTCKXETXF.6YS6EN2CT7 0",
+            "7DH4XMUACSHQG6Z9 JRTCKXETXF.6YS6EN2CT7 0",
             "7XUU79MFB8R2A38J JRTCKXETXF.6YS6EN2CT7 0",
             "8UDWE8C3AEZ8ZAW7 JRTCKXETXF.6YS6EN2CT7 0",
             "8WT6N2AN2MT9SW7T JRTCKXETXF.6YS6EN2CT7 0",
@@ -551,6 +564,8 @@
             "BPZPCCEUYPDEKATN JRTCKXETXF.6YS6EN2CT7 0",
             "ERD7Y73X6YKF4BQD JRTCKXETXF.6YS6EN2CT7 0",
             "F6GXD9BRVVWHVAQQ JRTCKXETXF.6YS6EN2CT7 0",
+            "GKQEM8QXKA62S77H JRTCKXETXF.6YS6EN2CT7 0",
+            "HMM5T8N979M7YB9R JRTCKXETXF.6YS6EN2CT7 0",
             "J7C9E4NYA8SZGZ5F JRTCKXETXF.6YS6EN2CT7 0",
             "KQVVM99Z6URU3SVE JRTCKXETXF.6YS6EN2CT7 0",
             "MPD783J97MQN6WTU JRTCKXETXF.6YS6EN2CT7 0",
@@ -633,12 +648,14 @@
             "2SEZK238X43BP3TJ JRTCKXETXF.6YS6EN2CT7 0",
             "2ZZYYYJ5ZCFBJWGD JRTCKXETXF.6YS6EN2CT7 0",
             "3S2MJECS7J3XSWRS JRTCKXETXF.6YS6EN2CT7 0",
+            "5H723NWPE6QQHFFY JRTCKXETXF.6YS6EN2CT7 0",
             "73JQ47AXRFTXC6AC JRTCKXETXF.6YS6EN2CT7 0",
             "7J37AB7RBAPZJ9R6 JRTCKXETXF.6YS6EN2CT7 0",
             "7NPQXQY27B6JTFVH JRTCKXETXF.6YS6EN2CT7 0",
             "8PSPE3QTVHS7DJNA JRTCKXETXF.6YS6EN2CT7 0",
             "969YGER93WA5BY26 JRTCKXETXF.6YS6EN2CT7 0",
             "A38APWTDST4ZDE79 JRTCKXETXF.6YS6EN2CT7 0",
+            "CHPME5CSTS5NX4QF JRTCKXETXF.6YS6EN2CT7 0",
             "DT48A5HJZJ8V8APS JRTCKXETXF.6YS6EN2CT7 0",
             "DUCJVPZXQDY532T7 JRTCKXETXF.6YS6EN2CT7 0",
             "DYM7TRFWENCN25G6 JRTCKXETXF.6YS6EN2CT7 0",
@@ -654,6 +671,7 @@
             "TUKWDP77N4ZFUYCT JRTCKXETXF.6YS6EN2CT7 0",
             "TZSV9MCJ34JHE9UZ JRTCKXETXF.6YS6EN2CT7 0",
             "UEKFHJNPTMW2GZYN JRTCKXETXF.6YS6EN2CT7 0",
+            "VC3YNV4W5BZEK8E7 JRTCKXETXF.6YS6EN2CT7 0",
             "WQTRTD4ZJKEXKZJG JRTCKXETXF.6YS6EN2CT7 0",
             "YCJD2VC2NRGGXZ32 JRTCKXETXF.6YS6EN2CT7 0",
             "YCX6XQGWGKM9QE8N JRTCKXETXF.6YS6EN2CT7 0",
@@ -15942,6 +15960,22 @@
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
             },
+            "T5ZDQUE95CER9WMN JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "T5ZDQUE95CER9WMN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "25.4224800000",
+                "RegionlessRateCode": "KYQBxCcd8dgZw6Jts01NB_OnCMib9o5Fzi1N40JJ_HQ",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
+            },
+            "YP8SZNFBSCF7M43H JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "YP8SZNFBSCF7M43H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "33.8966400000",
+                "RegionlessRateCode": "DJp6hHldnBUdqlMUk8fWC5dElaeoWqtwpmecHHyCiFM",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
+            },
             "3Y5CUW4JZ62YWMB5 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "3Y5CUW4JZ62YWMB5.JRTCKXETXF.6YS6EN2CT7",
                 "price": "4.2371000000",
@@ -15957,6 +15991,14 @@
                 "vCPU": "16",
                 "Memory": "64 GiB",
                 "Instance Type": "m7g.4xlarge"
+            },
+            "RAM8AJXQAK3ZVXS4 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "RAM8AJXQAK3ZVXS4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "16.9483200000",
+                "RegionlessRateCode": "G9dHJJG1OHNHi4ewg506amFb5HHW7HmGt9a54eraYcs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
             },
             "CFQBGYW8GFVBUD4V JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "CFQBGYW8GFVBUD4V.JRTCKXETXF.6YS6EN2CT7",
@@ -16014,6 +16056,22 @@
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
             },
+            "JJ9UV4XBQZJ4AKXJ JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "JJ9UV4XBQZJ4AKXJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.4741600000",
+                "RegionlessRateCode": "09-caZ2gCZr0SJ0AnplczCsmUWL1C-ddjleiJN5afcA",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
+            },
+            "HMM5T8N979M7YB9R JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "HMM5T8N979M7YB9R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "11.2988800000",
+                "RegionlessRateCode": "aJ6CIhj5_uQ_DQjt4wWIPhwR-9Sk0Z0yXr56ngWHVQs",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
+            },
             "ZNNZ5YUKFPYD8KDE JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "ZNNZ5YUKFPYD8KDE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.4124000000",
@@ -16029,6 +16087,14 @@
                 "vCPU": "16",
                 "Memory": "64 GiB",
                 "Instance Type": "m7g.4xlarge"
+            },
+            "5H723NWPE6QQHFFY JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "5H723NWPE6QQHFFY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.6494400000",
+                "RegionlessRateCode": "E2jGnVFEUjHxfK69rgHl03csVUBFrKG8qWV-NkVcTPs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
             },
             "TSTC4TTV6U4X34PC JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "TSTC4TTV6U4X34PC.JRTCKXETXF.6YS6EN2CT7",
@@ -16061,6 +16127,14 @@
                 "vCPU": "2",
                 "Memory": "1 GiB",
                 "Instance Type": "t3.micro"
+            },
+            "09-caZ2gCZr0SJ0AnplczCsmUWL1C-ddjleiJN5afcA": {
+                "rateCode": "JJ9UV4XBQZJ4AKXJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.4741600000",
+                "RegionlessRateCode": "09-caZ2gCZr0SJ0AnplczCsmUWL1C-ddjleiJN5afcA",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
             },
             "4yECRDLprMhFz4DNKwkPnhiB7MJsdz2F353VdKBw0HI": {
                 "rateCode": "SJKHHHZM475638B9.JRTCKXETXF.6YS6EN2CT7",
@@ -16110,6 +16184,22 @@
                 "Memory": "64 GiB",
                 "Instance Type": "m5.4xlarge"
             },
+            "DJp6hHldnBUdqlMUk8fWC5dElaeoWqtwpmecHHyCiFM": {
+                "rateCode": "YP8SZNFBSCF7M43H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "33.8966400000",
+                "RegionlessRateCode": "DJp6hHldnBUdqlMUk8fWC5dElaeoWqtwpmecHHyCiFM",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
+            },
+            "E2jGnVFEUjHxfK69rgHl03csVUBFrKG8qWV-NkVcTPs": {
+                "rateCode": "5H723NWPE6QQHFFY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.6494400000",
+                "RegionlessRateCode": "E2jGnVFEUjHxfK69rgHl03csVUBFrKG8qWV-NkVcTPs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
+            },
             "F1D3T-lULzwnvKU5U3ET6dQZ0kIG_1ny0ipxTu_KnNQ": {
                 "rateCode": "DE6GC7TVSQM4694S.JRTCKXETXF.6YS6EN2CT7",
                 "price": "8.4742000000",
@@ -16117,6 +16207,14 @@
                 "vCPU": "16",
                 "Memory": "64 GiB",
                 "Instance Type": "m7g.4xlarge"
+            },
+            "G9dHJJG1OHNHi4ewg506amFb5HHW7HmGt9a54eraYcs": {
+                "rateCode": "RAM8AJXQAK3ZVXS4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "16.9483200000",
+                "RegionlessRateCode": "G9dHJJG1OHNHi4ewg506amFb5HHW7HmGt9a54eraYcs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
             },
             "HLZazhwFlWQWVAP40yLRU_mnrAAqfbFXoEnUQ8vO2E0": {
                 "rateCode": "PYR88QARVDEF5QMR.JRTCKXETXF.6YS6EN2CT7",
@@ -16149,6 +16247,14 @@
                 "vCPU": "4",
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
+            },
+            "KYQBxCcd8dgZw6Jts01NB_OnCMib9o5Fzi1N40JJ_HQ": {
+                "rateCode": "T5ZDQUE95CER9WMN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "25.4224800000",
+                "RegionlessRateCode": "KYQBxCcd8dgZw6Jts01NB_OnCMib9o5Fzi1N40JJ_HQ",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
             },
             "Mia2MSx0ScKMm_v1zHeRpcePE_htkbFLlXRkbnRIug0": {
                 "rateCode": "63QG2KCF83Z8WTB7.JRTCKXETXF.6YS6EN2CT7",
@@ -16213,6 +16319,14 @@
                 "vCPU": "4",
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
+            },
+            "aJ6CIhj5_uQ_DQjt4wWIPhwR-9Sk0Z0yXr56ngWHVQs": {
+                "rateCode": "HMM5T8N979M7YB9R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "11.2988800000",
+                "RegionlessRateCode": "aJ6CIhj5_uQ_DQjt4wWIPhwR-9Sk0Z0yXr56ngWHVQs",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
             },
             "avUaVtodKfdIrt83yUrbRnlaOFydLtxyaUc_qSgP5jU": {
                 "rateCode": "2AGDJA5HXN6JWQF4.JRTCKXETXF.6YS6EN2CT7",
@@ -18174,6 +18288,22 @@
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
             },
+            "K4RYC9299MNNAB2M JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "K4RYC9299MNNAB2M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "24.6024000000",
+                "RegionlessRateCode": "KYQBxCcd8dgZw6Jts01NB_OnCMib9o5Fzi1N40JJ_HQ",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
+            },
+            "KM6F4S8TX6AP4FGP JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "KM6F4S8TX6AP4FGP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "32.8032000000",
+                "RegionlessRateCode": "DJp6hHldnBUdqlMUk8fWC5dElaeoWqtwpmecHHyCiFM",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
+            },
             "ZNB8RNG3MXKFJZVX JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "ZNB8RNG3MXKFJZVX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "4.1004000000",
@@ -18189,6 +18319,14 @@
                 "vCPU": "16",
                 "Memory": "64 GiB",
                 "Instance Type": "m7g.4xlarge"
+            },
+            "NZQF7A7NM79FRTHY JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "NZQF7A7NM79FRTHY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "16.4016000000",
+                "RegionlessRateCode": "G9dHJJG1OHNHi4ewg506amFb5HHW7HmGt9a54eraYcs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
             },
             "KNMZAQ434H3Y4HQP JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "KNMZAQ434H3Y4HQP.JRTCKXETXF.6YS6EN2CT7",
@@ -18246,6 +18384,22 @@
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
             },
+            "UJVCE2KN4X9U9TDP JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "UJVCE2KN4X9U9TDP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.2008000000",
+                "RegionlessRateCode": "09-caZ2gCZr0SJ0AnplczCsmUWL1C-ddjleiJN5afcA",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
+            },
+            "7DH4XMUACSHQG6Z9 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "7DH4XMUACSHQG6Z9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "10.9344000000",
+                "RegionlessRateCode": "aJ6CIhj5_uQ_DQjt4wWIPhwR-9Sk0Z0yXr56ngWHVQs",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
+            },
             "VFQ4U5WRA837FXMJ JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "VFQ4U5WRA837FXMJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.3668000000",
@@ -18261,6 +18415,14 @@
                 "vCPU": "16",
                 "Memory": "64 GiB",
                 "Instance Type": "m7g.4xlarge"
+            },
+            "VC3YNV4W5BZEK8E7 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "VC3YNV4W5BZEK8E7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.4672000000",
+                "RegionlessRateCode": "E2jGnVFEUjHxfK69rgHl03csVUBFrKG8qWV-NkVcTPs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
             },
             "AGG3MDCZBKKF65E5 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "AGG3MDCZBKKF65E5.JRTCKXETXF.6YS6EN2CT7",
@@ -18293,6 +18455,14 @@
                 "vCPU": "2",
                 "Memory": "1 GiB",
                 "Instance Type": "t3.micro"
+            },
+            "09-caZ2gCZr0SJ0AnplczCsmUWL1C-ddjleiJN5afcA": {
+                "rateCode": "UJVCE2KN4X9U9TDP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.2008000000",
+                "RegionlessRateCode": "09-caZ2gCZr0SJ0AnplczCsmUWL1C-ddjleiJN5afcA",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
             },
             "4yECRDLprMhFz4DNKwkPnhiB7MJsdz2F353VdKBw0HI": {
                 "rateCode": "3ZSXS7YX7QEVSU63.JRTCKXETXF.6YS6EN2CT7",
@@ -18342,6 +18512,22 @@
                 "Memory": "64 GiB",
                 "Instance Type": "m5.4xlarge"
             },
+            "DJp6hHldnBUdqlMUk8fWC5dElaeoWqtwpmecHHyCiFM": {
+                "rateCode": "KM6F4S8TX6AP4FGP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "32.8032000000",
+                "RegionlessRateCode": "DJp6hHldnBUdqlMUk8fWC5dElaeoWqtwpmecHHyCiFM",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
+            },
+            "E2jGnVFEUjHxfK69rgHl03csVUBFrKG8qWV-NkVcTPs": {
+                "rateCode": "VC3YNV4W5BZEK8E7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.4672000000",
+                "RegionlessRateCode": "E2jGnVFEUjHxfK69rgHl03csVUBFrKG8qWV-NkVcTPs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
+            },
             "F1D3T-lULzwnvKU5U3ET6dQZ0kIG_1ny0ipxTu_KnNQ": {
                 "rateCode": "ZMXV3WDP8BRWD9KX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "8.2008000000",
@@ -18349,6 +18535,14 @@
                 "vCPU": "16",
                 "Memory": "64 GiB",
                 "Instance Type": "m7g.4xlarge"
+            },
+            "G9dHJJG1OHNHi4ewg506amFb5HHW7HmGt9a54eraYcs": {
+                "rateCode": "NZQF7A7NM79FRTHY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "16.4016000000",
+                "RegionlessRateCode": "G9dHJJG1OHNHi4ewg506amFb5HHW7HmGt9a54eraYcs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
             },
             "HLZazhwFlWQWVAP40yLRU_mnrAAqfbFXoEnUQ8vO2E0": {
                 "rateCode": "R5VH56Z74RR63D7A.JRTCKXETXF.6YS6EN2CT7",
@@ -18381,6 +18575,14 @@
                 "vCPU": "4",
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
+            },
+            "KYQBxCcd8dgZw6Jts01NB_OnCMib9o5Fzi1N40JJ_HQ": {
+                "rateCode": "K4RYC9299MNNAB2M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "24.6024000000",
+                "RegionlessRateCode": "KYQBxCcd8dgZw6Jts01NB_OnCMib9o5Fzi1N40JJ_HQ",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
             },
             "Mia2MSx0ScKMm_v1zHeRpcePE_htkbFLlXRkbnRIug0": {
                 "rateCode": "HZH9CSJKWSQK3NQ5.JRTCKXETXF.6YS6EN2CT7",
@@ -18445,6 +18647,14 @@
                 "vCPU": "4",
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
+            },
+            "aJ6CIhj5_uQ_DQjt4wWIPhwR-9Sk0Z0yXr56ngWHVQs": {
+                "rateCode": "7DH4XMUACSHQG6Z9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "10.9344000000",
+                "RegionlessRateCode": "aJ6CIhj5_uQ_DQjt4wWIPhwR-9Sk0Z0yXr56ngWHVQs",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
             },
             "avUaVtodKfdIrt83yUrbRnlaOFydLtxyaUc_qSgP5jU": {
                 "rateCode": "UK89YJC84VBWKUGZ.JRTCKXETXF.6YS6EN2CT7",
@@ -20281,6 +20491,22 @@
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
             },
+            "WKJ4G3EGDNSGRXTK JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "WKJ4G3EGDNSGRXTK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "24.7953600000",
+                "RegionlessRateCode": "KYQBxCcd8dgZw6Jts01NB_OnCMib9o5Fzi1N40JJ_HQ",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
+            },
+            "UT5AR3YH6XFUXETM JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "UT5AR3YH6XFUXETM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "33.0604800000",
+                "RegionlessRateCode": "DJp6hHldnBUdqlMUk8fWC5dElaeoWqtwpmecHHyCiFM",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
+            },
             "RSR76P4BVF5JEEWZ JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "RSR76P4BVF5JEEWZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "4.1326000000",
@@ -20296,6 +20522,14 @@
                 "vCPU": "16",
                 "Memory": "64 GiB",
                 "Instance Type": "m7g.4xlarge"
+            },
+            "KACNU2N8NYCBAJFH JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "KACNU2N8NYCBAJFH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "16.5302400000",
+                "RegionlessRateCode": "G9dHJJG1OHNHi4ewg506amFb5HHW7HmGt9a54eraYcs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
             },
             "867EDGWTPJSJCQ4G JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "867EDGWTPJSJCQ4G.JRTCKXETXF.6YS6EN2CT7",
@@ -20353,6 +20587,22 @@
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
             },
+            "Z9XAC4ZQ58Q6JVX6 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "Z9XAC4ZQ58Q6JVX6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.2651200000",
+                "RegionlessRateCode": "09-caZ2gCZr0SJ0AnplczCsmUWL1C-ddjleiJN5afcA",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
+            },
+            "GKQEM8QXKA62S77H JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "GKQEM8QXKA62S77H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "11.0201600000",
+                "RegionlessRateCode": "aJ6CIhj5_uQ_DQjt4wWIPhwR-9Sk0Z0yXr56ngWHVQs",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
+            },
             "B7XPGT6D5KMVB483 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "B7XPGT6D5KMVB483.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.3775000000",
@@ -20368,6 +20618,14 @@
                 "vCPU": "16",
                 "Memory": "64 GiB",
                 "Instance Type": "m7g.4xlarge"
+            },
+            "CHPME5CSTS5NX4QF JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "CHPME5CSTS5NX4QF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.5100800000",
+                "RegionlessRateCode": "E2jGnVFEUjHxfK69rgHl03csVUBFrKG8qWV-NkVcTPs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
             },
             "AWU9G6QDYK5J5A5U JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "AWU9G6QDYK5J5A5U.JRTCKXETXF.6YS6EN2CT7",
@@ -20400,6 +20658,14 @@
                 "vCPU": "2",
                 "Memory": "1 GiB",
                 "Instance Type": "t3.micro"
+            },
+            "09-caZ2gCZr0SJ0AnplczCsmUWL1C-ddjleiJN5afcA": {
+                "rateCode": "Z9XAC4ZQ58Q6JVX6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.2651200000",
+                "RegionlessRateCode": "09-caZ2gCZr0SJ0AnplczCsmUWL1C-ddjleiJN5afcA",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
             },
             "4yECRDLprMhFz4DNKwkPnhiB7MJsdz2F353VdKBw0HI": {
                 "rateCode": "NPPVAKUM8FYDJT6Y.JRTCKXETXF.6YS6EN2CT7",
@@ -20449,6 +20715,22 @@
                 "Memory": "64 GiB",
                 "Instance Type": "m5.4xlarge"
             },
+            "DJp6hHldnBUdqlMUk8fWC5dElaeoWqtwpmecHHyCiFM": {
+                "rateCode": "UT5AR3YH6XFUXETM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "33.0604800000",
+                "RegionlessRateCode": "DJp6hHldnBUdqlMUk8fWC5dElaeoWqtwpmecHHyCiFM",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
+            },
+            "E2jGnVFEUjHxfK69rgHl03csVUBFrKG8qWV-NkVcTPs": {
+                "rateCode": "CHPME5CSTS5NX4QF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.5100800000",
+                "RegionlessRateCode": "E2jGnVFEUjHxfK69rgHl03csVUBFrKG8qWV-NkVcTPs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
+            },
             "F1D3T-lULzwnvKU5U3ET6dQZ0kIG_1ny0ipxTu_KnNQ": {
                 "rateCode": "FRZ9B8CUZDANP3G6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "8.2651000000",
@@ -20456,6 +20738,14 @@
                 "vCPU": "16",
                 "Memory": "64 GiB",
                 "Instance Type": "m7g.4xlarge"
+            },
+            "G9dHJJG1OHNHi4ewg506amFb5HHW7HmGt9a54eraYcs": {
+                "rateCode": "KACNU2N8NYCBAJFH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "16.5302400000",
+                "RegionlessRateCode": "G9dHJJG1OHNHi4ewg506amFb5HHW7HmGt9a54eraYcs",
+                "vCPU": "32",
+                "Memory": "128 GiB",
+                "Instance Type": "m7g.8xlarge"
             },
             "HLZazhwFlWQWVAP40yLRU_mnrAAqfbFXoEnUQ8vO2E0": {
                 "rateCode": "UE92R24HXHKXK7MX.JRTCKXETXF.6YS6EN2CT7",
@@ -20488,6 +20778,14 @@
                 "vCPU": "4",
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
+            },
+            "KYQBxCcd8dgZw6Jts01NB_OnCMib9o5Fzi1N40JJ_HQ": {
+                "rateCode": "WKJ4G3EGDNSGRXTK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "24.7953600000",
+                "RegionlessRateCode": "KYQBxCcd8dgZw6Jts01NB_OnCMib9o5Fzi1N40JJ_HQ",
+                "vCPU": "48",
+                "Memory": "192 GiB",
+                "Instance Type": "m7g.12xlarge"
             },
             "Mia2MSx0ScKMm_v1zHeRpcePE_htkbFLlXRkbnRIug0": {
                 "rateCode": "9FPTNRPRXGAGZC2B.JRTCKXETXF.6YS6EN2CT7",
@@ -20552,6 +20850,14 @@
                 "vCPU": "4",
                 "Memory": "16 GiB",
                 "Instance Type": "m5.xlarge"
+            },
+            "aJ6CIhj5_uQ_DQjt4wWIPhwR-9Sk0Z0yXr56ngWHVQs": {
+                "rateCode": "GKQEM8QXKA62S77H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "11.0201600000",
+                "RegionlessRateCode": "aJ6CIhj5_uQ_DQjt4wWIPhwR-9Sk0Z0yXr56ngWHVQs",
+                "vCPU": "64",
+                "Memory": "256 GiB",
+                "Instance Type": "m7g.16xlarge"
             },
             "avUaVtodKfdIrt83yUrbRnlaOFydLtxyaUc_qSgP5jU": {
                 "rateCode": "TQDN2SNW4G8WRDYH.JRTCKXETXF.6YS6EN2CT7",

@@ -1,3 +1,28 @@
+## 2025-07-23 19:26
+
+**Modified services:**
+
+- [mq](processed/mq.json)
+  - Region added for metric [RabbitMQ Multi AZ per Hrs]: Asia Pacific (Osaka) (vCPU: 48, Memory: 192 GiB, Instance Type: m7g.12xlarge) 🌎
+  - Region added for metric [RabbitMQ Multi AZ per Hrs]: Asia Pacific (Osaka) (vCPU: 64, Memory: 256 GiB, Instance Type: m7g.16xlarge) 🌎
+  - Region added for metric [RabbitMQ Multi AZ per Hrs]: Asia Pacific (Osaka) (vCPU: 32, Memory: 128 GiB, Instance Type: m7g.8xlarge) 🌎
+  - Region added for metric [RabbitMQ Multi AZ per Hrs]: Asia Pacific (Jakarta) (vCPU: 48, Memory: 192 GiB, Instance Type: m7g.12xlarge) 🌎
+  - Region added for metric [RabbitMQ Multi AZ per Hrs]: Asia Pacific (Jakarta) (vCPU: 64, Memory: 256 GiB, Instance Type: m7g.16xlarge) 🌎
+  - Region added for metric [RabbitMQ Multi AZ per Hrs]: Asia Pacific (Jakarta) (vCPU: 32, Memory: 128 GiB, Instance Type: m7g.8xlarge) 🌎
+  - Region added for metric [RabbitMQ Multi AZ per Hrs]: AWS GovCloud (US-East) (vCPU: 48, Memory: 192 GiB, Instance Type: m7g.12xlarge) 🌎
+  - Region added for metric [RabbitMQ Multi AZ per Hrs]: AWS GovCloud (US-East) (vCPU: 64, Memory: 256 GiB, Instance Type: m7g.16xlarge) 🌎
+  - Region added for metric [RabbitMQ Multi AZ per Hrs]: AWS GovCloud (US-East) (vCPU: 32, Memory: 128 GiB, Instance Type: m7g.8xlarge) 🌎
+  - Region added for metric [RabbitMQ Single AZ per Hrs]: Asia Pacific (Osaka) (vCPU: 48, Memory: 192 GiB, Instance Type: m7g.12xlarge) 🌎
+  - Region added for metric [RabbitMQ Single AZ per Hrs]: Asia Pacific (Osaka) (vCPU: 64, Memory: 256 GiB, Instance Type: m7g.16xlarge) 🌎
+  - Region added for metric [RabbitMQ Single AZ per Hrs]: Asia Pacific (Osaka) (vCPU: 32, Memory: 128 GiB, Instance Type: m7g.8xlarge) 🌎
+  - Region added for metric [RabbitMQ Single AZ per Hrs]: Asia Pacific (Jakarta) (vCPU: 48, Memory: 192 GiB, Instance Type: m7g.12xlarge) 🌎
+  - Region added for metric [RabbitMQ Single AZ per Hrs]: Asia Pacific (Jakarta) (vCPU: 64, Memory: 256 GiB, Instance Type: m7g.16xlarge) 🌎
+  - Region added for metric [RabbitMQ Single AZ per Hrs]: Asia Pacific (Jakarta) (vCPU: 32, Memory: 128 GiB, Instance Type: m7g.8xlarge) 🌎
+  - Region added for metric [RabbitMQ Single AZ per Hrs]: AWS GovCloud (US-East) (vCPU: 48, Memory: 192 GiB, Instance Type: m7g.12xlarge) 🌎
+  - Region added for metric [RabbitMQ Single AZ per Hrs]: AWS GovCloud (US-East) (vCPU: 64, Memory: 256 GiB, Instance Type: m7g.16xlarge) 🌎
+  - Region added for metric [RabbitMQ Single AZ per Hrs]: AWS GovCloud (US-East) (vCPU: 32, Memory: 128 GiB, Instance Type: m7g.8xlarge) 🌎
+
+
 ## 2025-07-23 17:27
 
 **Modified services:**

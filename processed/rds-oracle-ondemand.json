@@ -10051,7 +10051,9 @@
         "Asia Pacific (Sydney) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "16.2560000000",
         "Asia Pacific (Singapore) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "16.2430000000",
         "Asia Pacific (Seoul) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "16.2560000000",
-        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "11.5600000000"
+        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "11.5600000000",
+        "AWS GovCloud (US-East) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "13.3810000000",
+        "AWS GovCloud (US) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "13.3810000000"
     },
     "Database Instance Oracle Enterprise Bring your own license db r5b.8xlarge.tpc2.mem3x Memory optimized Single-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r5b.8xlarge.tpc2.mem3x, Memory: 768 GiB, vCPU: 32, Network Performance: 25 Gigabit)": "13.2310000000",
@@ -12880,7 +12882,9 @@
         "Asia Pacific (Sydney) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "65.0240000000",
         "Asia Pacific (Singapore) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "64.9730000000",
         "Asia Pacific (Seoul) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "65.0240000000",
-        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "46.2400000000"
+        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "46.2400000000",
+        "AWS GovCloud (US-East) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "80.2860000000",
+        "AWS GovCloud (US) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "80.2860000000"
     },
     "Database Instance Oracle Standard Two License included db r5.2xlarge Memory optimized Multi-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r5.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "3.8560000000",
@@ -13986,7 +13990,9 @@
         "Asia Pacific (Sydney) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "32.5120000000",
         "Asia Pacific (Singapore) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "32.4860000000",
         "Asia Pacific (Seoul) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "32.5120000000",
-        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "23.1200000000"
+        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "23.1200000000",
+        "AWS GovCloud (US-East) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "26.7620000000",
+        "AWS GovCloud (US) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps)": "26.7620000000"
     },
     "Database Instance Oracle Standard Two License included db r3.4xlarge Memory optimized Single-AZ Previous Generation": {
         "US West (Oregon) (Instance Type: db.r3.4xlarge, Memory: 122 GiB, vCPU: 16, Network Performance: High)": "3.9130000000",
@@ -14413,7 +14419,9 @@
         "Asia Pacific (Sydney) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "48.7680000000",
         "Asia Pacific (Singapore) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "48.7300000000",
         "Asia Pacific (Seoul) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "48.7680000000",
-        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "34.6800000000"
+        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "34.6800000000",
+        "AWS GovCloud (US-East) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "40.1430000000",
+        "AWS GovCloud (US) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "40.1430000000"
     },
     "Database Instance Oracle Standard Two Bring your own license db r6i.4xlarge.tpc2.mem4x Memory optimized Multi-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r6i.4xlarge.tpc2.mem4x, Memory: 512 GiB, vCPU: 16, Network Performance: 25 Gbps)": "14.9120000000",
@@ -15211,7 +15219,9 @@
         "Asia Pacific (Sydney) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "32.5120000000",
         "Asia Pacific (Singapore) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "32.4860000000",
         "Asia Pacific (Seoul) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "32.5120000000",
-        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "23.1200000000"
+        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "23.1200000000",
+        "AWS GovCloud (US-East) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "26.7620000000",
+        "AWS GovCloud (US) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps)": "26.7620000000"
     },
     "Database Instance Oracle Enterprise Bring your own license db r4.8xlarge Memory optimized Multi-AZ Previous Generation": {
         "US West (Oregon) (Instance Type: db.r4.8xlarge, Memory: 244 GiB, vCPU: 32, Network Performance: 10 Gigabit)": "7.6800000000",
@@ -16922,7 +16932,9 @@
         "Asia Pacific (Sydney) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "24.3840000000",
         "Asia Pacific (Singapore) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "24.3650000000",
         "Asia Pacific (Seoul) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "24.3840000000",
-        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "17.3400000000"
+        "Asia Pacific (Mumbai) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "17.3400000000",
+        "AWS GovCloud (US-East) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "20.0720000000",
+        "AWS GovCloud (US) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps)": "20.0720000000"
     },
     "Database Instance Oracle Standard Two Bring your own license db t2.2xlarge General purpose Single-AZ Previous Generation": {
         "US West (Oregon) (Instance Type: db.t2.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate)": "0.5440000000",

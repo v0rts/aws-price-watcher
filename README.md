@@ -1,3 +1,22 @@
+## 2025-07-23 05:27
+
+**Modified services:**
+
+- [rds-oracle-ondemand](processed/rds-oracle-ondemand.json)
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.16xlarge Memory optimized Single-AZ Current Generation: AWS GovCloud (US-East) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.16xlarge Memory optimized Single-AZ Current Generation: AWS GovCloud (US) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.32xlarge Memory optimized Multi-AZ Current Generation: AWS GovCloud (US-East) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.32xlarge Memory optimized Multi-AZ Current Generation: AWS GovCloud (US) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.32xlarge Memory optimized Single-AZ Current Generation: AWS GovCloud (US-East) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.32xlarge Memory optimized Single-AZ Current Generation: AWS GovCloud (US) (Instance Type: db.x2idn.32xlarge, Memory: 2048 GiB, vCPU: 128, Network Performance: 100 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.24xlarge Memory optimized Multi-AZ Current Generation: AWS GovCloud (US-East) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.24xlarge Memory optimized Multi-AZ Current Generation: AWS GovCloud (US) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.16xlarge Memory optimized Multi-AZ Current Generation: AWS GovCloud (US-East) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.16xlarge Memory optimized Multi-AZ Current Generation: AWS GovCloud (US) (Instance Type: db.x2idn.16xlarge, Memory: 1024 GiB, vCPU: 64, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.24xlarge Memory optimized Single-AZ Current Generation: AWS GovCloud (US-East) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db x2idn.24xlarge Memory optimized Single-AZ Current Generation: AWS GovCloud (US) (Instance Type: db.x2idn.24xlarge, Memory: 1536 GiB, vCPU: 96, Network Performance: 75 Gbps) 🌎
+
+
 ## 2025-07-22 23:26
 
 **Modified services:**

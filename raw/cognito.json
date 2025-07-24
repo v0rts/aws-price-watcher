@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cognito",
         "accessType": "publish",
-        "esIndex": "plc-cognito-usd-20250722220241",
-        "hawkFilePublicationDate": "2025-07-22T22:02:41Z",
-        "ETLIngestionTriggerDate": "2025-07-22T22:02:41Z",
+        "esIndex": "plc-cognito-usd-20250724213012",
+        "hawkFilePublicationDate": "2025-07-24T21:30:12Z",
+        "ETLIngestionTriggerDate": "2025-07-24T21:30:12Z",
         "currencyCode": "USD",
         "source": "cognito",
         "isMapped": "true"

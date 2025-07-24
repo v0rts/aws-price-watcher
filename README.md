@@ -1,3 +1,34 @@
+## 2025-07-24 19:26
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-r8g.medium: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.large: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.2xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.24xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.metal-48xl: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.8xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.metal-48xl: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.12xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.16xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.metal-24xl: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.4xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.large: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.2xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.48xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.24xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.8xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.4xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.12xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.16xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.medium: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.48xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.metal-24xl: Asia Pacific (Hong Kong) 🌎
+
+
 ## 2025-07-24 15:27
 
 **Modified services:**

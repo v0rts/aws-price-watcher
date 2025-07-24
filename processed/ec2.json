@@ -3303,6 +3303,7 @@
         "Asia Pacific (Seoul)": "0.0710600000",
         "Asia Pacific (Mumbai)": "0.0412900000",
         "Asia Pacific (Malaysia)": "0.0604000000",
+        "Asia Pacific (Hong Kong)": "0.0781000000",
         "AWS GovCloud (US)": "0.0705900000"
     },
     "OnDemand Linux-instancetype-t4g.micro": {
@@ -3673,6 +3674,7 @@
         "Asia Pacific (Seoul)": "0.1421200000",
         "Asia Pacific (Mumbai)": "0.0825800000",
         "Asia Pacific (Malaysia)": "0.1208000000",
+        "Asia Pacific (Hong Kong)": "0.1562000000",
         "AWS GovCloud (US)": "0.1411900000"
     },
     "OnDemand Linux-instancetype-m6idn.16xlarge": {
@@ -5283,7 +5285,8 @@
         "Asia Pacific (Sydney)": "0.4488000000",
         "Asia Pacific (Singapore)": "0.4488000000",
         "Asia Pacific (Mumbai)": "0.2566400000",
-        "Asia Pacific (Hyderabad)": "0.2566400000"
+        "Asia Pacific (Hyderabad)": "0.2566400000",
+        "Asia Pacific (Hong Kong)": "0.4936800000"
     },
     "OnDemand Linux-instancetype-m5zn.xlarge": {
         "US West (Oregon)": "0.3303000000",
@@ -5976,6 +5979,7 @@
         "Asia Pacific (Seoul)": "0.2842400000",
         "Asia Pacific (Mumbai)": "0.1651600000",
         "Asia Pacific (Malaysia)": "0.2416000000",
+        "Asia Pacific (Hong Kong)": "0.3124000000",
         "AWS GovCloud (US)": "0.2823700000"
     },
     "OnDemand Linux-instancetype-g5.2xlarge": {
@@ -6353,7 +6357,8 @@
         "Asia Pacific (Sydney)": "5.3856000000",
         "Asia Pacific (Singapore)": "5.3856000000",
         "Asia Pacific (Mumbai)": "3.0796800000",
-        "Asia Pacific (Hyderabad)": "3.0796800000"
+        "Asia Pacific (Hyderabad)": "3.0796800000",
+        "Asia Pacific (Hong Kong)": "5.9241600000"
     },
     "OnDemand Linux-instancetype-r8g.metal-48xl": {
         "US West (Oregon)": "11.3107200000",
@@ -6370,6 +6375,7 @@
         "Asia Pacific (Seoul)": "13.6435200000",
         "Asia Pacific (Mumbai)": "7.9276800000",
         "Asia Pacific (Malaysia)": "11.5968000000",
+        "Asia Pacific (Hong Kong)": "14.9952000000",
         "AWS GovCloud (US)": "13.5537600000"
     },
     "OnDemand Linux-instancetype-r8g.8xlarge": {
@@ -6387,6 +6393,7 @@
         "Asia Pacific (Seoul)": "2.2739200000",
         "Asia Pacific (Mumbai)": "1.3212800000",
         "Asia Pacific (Malaysia)": "1.9328000000",
+        "Asia Pacific (Hong Kong)": "2.4992000000",
         "AWS GovCloud (US)": "2.2589600000"
     },
     "OnDemand Linux-instancetype-im4gn.16xlarge": {
@@ -6538,7 +6545,8 @@
         "Asia Pacific (Sydney)": "10.7712000000",
         "Asia Pacific (Singapore)": "10.7712000000",
         "Asia Pacific (Mumbai)": "6.1593600000",
-        "Asia Pacific (Hyderabad)": "6.1593600000"
+        "Asia Pacific (Hyderabad)": "6.1593600000",
+        "Asia Pacific (Hong Kong)": "11.8483200000"
     },
     "OnDemand Linux-instancetype-a1.4xlarge": {
         "US West (Oregon)": "0.4080000000",
@@ -6732,6 +6740,7 @@
         "Asia Pacific (Seoul)": "3.4108800000",
         "Asia Pacific (Mumbai)": "1.9819200000",
         "Asia Pacific (Malaysia)": "2.8992000000",
+        "Asia Pacific (Hong Kong)": "3.7488000000",
         "AWS GovCloud (US)": "3.3884400000"
     },
     "OnDemand Linux-instancetype-r6g.metal": {
@@ -7585,6 +7594,7 @@
         "Asia Pacific (Seoul)": "4.5478400000",
         "Asia Pacific (Mumbai)": "2.6425600000",
         "Asia Pacific (Malaysia)": "3.8656000000",
+        "Asia Pacific (Hong Kong)": "4.9984000000",
         "AWS GovCloud (US)": "4.5179200000"
     },
     "OnDemand Linux-instancetype-x2gd.2xlarge": {
@@ -8015,7 +8025,8 @@
         "Asia Pacific (Sydney)": "5.3856000000",
         "Asia Pacific (Singapore)": "5.3856000000",
         "Asia Pacific (Mumbai)": "3.0796800000",
-        "Asia Pacific (Hyderabad)": "3.0796800000"
+        "Asia Pacific (Hyderabad)": "3.0796800000",
+        "Asia Pacific (Hong Kong)": "5.9241600000"
     },
     "OnDemand Linux-instancetype-r7g.8xlarge": {
         "US West (Oregon)": "1.7136000000",
@@ -8747,7 +8758,8 @@
         "Asia Pacific (Sydney)": "0.8976000000",
         "Asia Pacific (Singapore)": "0.8976000000",
         "Asia Pacific (Mumbai)": "0.5132800000",
-        "Asia Pacific (Hyderabad)": "0.5132800000"
+        "Asia Pacific (Hyderabad)": "0.5132800000",
+        "Asia Pacific (Hong Kong)": "0.9873600000"
     },
     "OnDemand Linux-instancetype-x8g.4xlarge": {
         "US West (Oregon)": "1.5632000000",
@@ -9035,7 +9047,8 @@
         "Asia Pacific (Sydney)": "0.2244000000",
         "Asia Pacific (Singapore)": "0.2244000000",
         "Asia Pacific (Mumbai)": "0.1283200000",
-        "Asia Pacific (Hyderabad)": "0.1283200000"
+        "Asia Pacific (Hyderabad)": "0.1283200000",
+        "Asia Pacific (Hong Kong)": "0.2468400000"
     },
     "OnDemand Linux-instancetype-g5.4xlarge": {
         "US West (Oregon)": "1.6240000000",
@@ -10138,7 +10151,8 @@
         "Asia Pacific (Sydney)": "0.1122000000",
         "Asia Pacific (Singapore)": "0.1122000000",
         "Asia Pacific (Mumbai)": "0.0641600000",
-        "Asia Pacific (Hyderabad)": "0.0641600000"
+        "Asia Pacific (Hyderabad)": "0.0641600000",
+        "Asia Pacific (Hong Kong)": "0.1234200000"
     },
     "OnDemand Linux-instancetype-x2gd.medium": {
         "US West (Oregon)": "0.0835000000",
@@ -10460,6 +10474,7 @@
         "Asia Pacific (Seoul)": "0.5684800000",
         "Asia Pacific (Mumbai)": "0.3303200000",
         "Asia Pacific (Malaysia)": "0.4832000000",
+        "Asia Pacific (Hong Kong)": "0.6248000000",
         "AWS GovCloud (US)": "0.5647400000"
     },
     "OnDemand Linux-instancetype-r3.2xlarge": {
@@ -11275,7 +11290,8 @@
         "Asia Pacific (Sydney)": "10.7712000000",
         "Asia Pacific (Singapore)": "10.7712000000",
         "Asia Pacific (Mumbai)": "6.1593600000",
-        "Asia Pacific (Hyderabad)": "6.1593600000"
+        "Asia Pacific (Hyderabad)": "6.1593600000",
+        "Asia Pacific (Hong Kong)": "11.8483200000"
     },
     "OnDemand Linux-instancetype-x2iedn.8xlarge": {
         "US West (Oregon)": "6.6690000000",
@@ -11532,6 +11548,7 @@
         "Asia Pacific (Seoul)": "6.8217600000",
         "Asia Pacific (Mumbai)": "3.9638400000",
         "Asia Pacific (Malaysia)": "5.7984000000",
+        "Asia Pacific (Hong Kong)": "7.4976000000",
         "AWS GovCloud (US)": "6.7768800000"
     },
     "OnDemand Linux-instancetype-r6g.16xlarge": {
@@ -12506,7 +12523,8 @@
         "Asia Pacific (Sydney)": "1.7952000000",
         "Asia Pacific (Singapore)": "1.7952000000",
         "Asia Pacific (Mumbai)": "1.0265600000",
-        "Asia Pacific (Hyderabad)": "1.0265600000"
+        "Asia Pacific (Hyderabad)": "1.0265600000",
+        "Asia Pacific (Hong Kong)": "1.9747200000"
     },
     "OnDemand Linux-instancetype-i4i.24xlarge": {
         "US West (Oregon)": "8.2368000000",
@@ -14036,6 +14054,7 @@
         "Asia Pacific (Seoul)": "1.1369600000",
         "Asia Pacific (Mumbai)": "0.6606400000",
         "Asia Pacific (Malaysia)": "0.9664000000",
+        "Asia Pacific (Hong Kong)": "1.2496000000",
         "AWS GovCloud (US)": "1.1294800000"
     },
     "OnDemand Linux-instancetype-c5d.24xlarge": {
@@ -14787,7 +14806,8 @@
         "Asia Pacific (Sydney)": "2.6928000000",
         "Asia Pacific (Singapore)": "2.6928000000",
         "Asia Pacific (Mumbai)": "1.5398400000",
-        "Asia Pacific (Hyderabad)": "1.5398400000"
+        "Asia Pacific (Hyderabad)": "1.5398400000",
+        "Asia Pacific (Hong Kong)": "2.9620800000"
     },
     "OnDemand Linux-instancetype-r5n.4xlarge": {
         "US West (Oregon)": "1.1920000000",
@@ -15332,7 +15352,8 @@
         "Asia Pacific (Sydney)": "3.5904000000",
         "Asia Pacific (Singapore)": "3.5904000000",
         "Asia Pacific (Mumbai)": "2.0531200000",
-        "Asia Pacific (Hyderabad)": "2.0531200000"
+        "Asia Pacific (Hyderabad)": "2.0531200000",
+        "Asia Pacific (Hong Kong)": "3.9494400000"
     },
     "OnDemand Linux-instancetype-m5dn.metal": {
         "US West (Oregon)": "6.5280000000",
@@ -15891,7 +15912,8 @@
         "Asia Pacific (Sydney)": "0.0561000000",
         "Asia Pacific (Singapore)": "0.0561000000",
         "Asia Pacific (Mumbai)": "0.0320800000",
-        "Asia Pacific (Hyderabad)": "0.0320800000"
+        "Asia Pacific (Hyderabad)": "0.0320800000",
+        "Asia Pacific (Hong Kong)": "0.0617100000"
     },
     "OnDemand Linux-instancetype-r3.large": {
         "US West (Oregon)": "0.1660000000",
@@ -16936,6 +16958,7 @@
         "Asia Pacific (Seoul)": "13.6435200000",
         "Asia Pacific (Mumbai)": "7.9276800000",
         "Asia Pacific (Malaysia)": "11.5968000000",
+        "Asia Pacific (Hong Kong)": "14.9952000000",
         "AWS GovCloud (US)": "13.5537600000"
     },
     "OnDemand Linux-instancetype-g4ad.2xlarge": {
@@ -17511,6 +17534,7 @@
         "Asia Pacific (Seoul)": "6.8217600000",
         "Asia Pacific (Mumbai)": "3.9638400000",
         "Asia Pacific (Malaysia)": "5.7984000000",
+        "Asia Pacific (Hong Kong)": "7.4976000000",
         "AWS GovCloud (US)": "6.7768800000"
     },
     "OnDemand Linux-instancetype-d3en.12xlarge": {

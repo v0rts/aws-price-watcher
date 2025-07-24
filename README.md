@@ -1,3 +1,22 @@
+## 2025-07-24 00:44
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-x8g.medium: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.metal-24xl: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.24xlarge: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.4xlarge: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.16xlarge: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.48xlarge: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.2xlarge: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.12xlarge: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.large: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.8xlarge: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.metal-48xl: US East (Ohio) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x8g.xlarge: US East (Ohio) 🌎
+
+
 ## 2025-07-23 19:26
 
 **Modified services:**

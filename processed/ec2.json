@@ -2679,6 +2679,7 @@
     },
     "OnDemand Linux-instancetype-x8g.medium": {
         "US West (Oregon)": "0.0977000000",
+        "US East (Ohio)": "0.0977000000",
         "US East (N. Virginia)": "0.0977000000",
         "EU (Frankfurt)": "0.1365500000"
     },
@@ -5849,6 +5850,7 @@
     },
     "OnDemand Linux-instancetype-x8g.metal-24xl": {
         "US West (Oregon)": "9.3792000000",
+        "US East (Ohio)": "9.3792000000",
         "US East (N. Virginia)": "9.3792000000",
         "EU (Frankfurt)": "13.1088000000"
     },
@@ -7815,6 +7817,7 @@
     },
     "OnDemand Linux-instancetype-x8g.24xlarge": {
         "US West (Oregon)": "9.3792000000",
+        "US East (Ohio)": "9.3792000000",
         "US East (N. Virginia)": "9.3792000000",
         "EU (Frankfurt)": "13.1088000000"
     },
@@ -8748,6 +8751,7 @@
     },
     "OnDemand Linux-instancetype-x8g.4xlarge": {
         "US West (Oregon)": "1.5632000000",
+        "US East (Ohio)": "1.5632000000",
         "US East (N. Virginia)": "1.5632000000",
         "EU (Frankfurt)": "2.1848000000"
     },
@@ -12917,6 +12921,7 @@
     },
     "OnDemand Linux-instancetype-x8g.16xlarge": {
         "US West (Oregon)": "6.2528000000",
+        "US East (Ohio)": "6.2528000000",
         "US East (N. Virginia)": "6.2528000000",
         "EU (Frankfurt)": "8.7392000000"
     },
@@ -13240,6 +13245,7 @@
     },
     "OnDemand Linux-instancetype-x8g.48xlarge": {
         "US West (Oregon)": "18.7584000000",
+        "US East (Ohio)": "18.7584000000",
         "US East (N. Virginia)": "18.7584000000",
         "EU (Frankfurt)": "26.2176000000"
     },
@@ -13550,6 +13556,7 @@
     },
     "OnDemand Linux-instancetype-x8g.2xlarge": {
         "US West (Oregon)": "0.7816000000",
+        "US East (Ohio)": "0.7816000000",
         "US East (N. Virginia)": "0.7816000000",
         "EU (Frankfurt)": "1.0924000000"
     },
@@ -14523,6 +14530,7 @@
     },
     "OnDemand Linux-instancetype-x8g.12xlarge": {
         "US West (Oregon)": "4.6896000000",
+        "US East (Ohio)": "4.6896000000",
         "US East (N. Virginia)": "4.6896000000",
         "EU (Frankfurt)": "6.5544000000"
     },
@@ -17070,6 +17078,7 @@
     },
     "OnDemand Linux-instancetype-x8g.large": {
         "US West (Oregon)": "0.1954000000",
+        "US East (Ohio)": "0.1954000000",
         "US East (N. Virginia)": "0.1954000000",
         "EU (Frankfurt)": "0.2731000000"
     },
@@ -17126,6 +17135,7 @@
     },
     "OnDemand Linux-instancetype-x8g.8xlarge": {
         "US West (Oregon)": "3.1264000000",
+        "US East (Ohio)": "3.1264000000",
         "US East (N. Virginia)": "3.1264000000",
         "EU (Frankfurt)": "4.3696000000"
     },
@@ -17889,6 +17899,7 @@
     },
     "OnDemand Linux-instancetype-x8g.metal-48xl": {
         "US West (Oregon)": "18.7584000000",
+        "US East (Ohio)": "18.7584000000",
         "US East (N. Virginia)": "18.7584000000",
         "EU (Frankfurt)": "26.2176000000"
     },
@@ -18004,6 +18015,7 @@
     },
     "OnDemand Linux-instancetype-x8g.xlarge": {
         "US West (Oregon)": "0.3908000000",
+        "US East (Ohio)": "0.3908000000",
         "US East (N. Virginia)": "0.3908000000",
         "EU (Frankfurt)": "0.5462000000"
     },

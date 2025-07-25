@@ -1,3 +1,14 @@
+## 2025-07-25 23:26
+
+**Modified services:**
+
+- [networkfirewall](processed/networkfirewall.json)
+  - Region removed for metric AWS Firewall per Throughput: Asia Pacific (Taipei) 💥
+  - Region removed for metric AWS Firewall per Endpoint: Asia Pacific (Taipei) 💥
+  - Region removed for metric AWS Firewall per Endpoint-Advanced: Asia Pacific (Taipei) 💥
+  - Region removed for metric AWS Firewall per Throughput-Advanced: Asia Pacific (Taipei) 💥
+
+
 ## 2025-07-25 20:27
 
 **Modified services:**

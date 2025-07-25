@@ -1,3 +1,21 @@
+## 2025-07-25 02:57
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c7i.large: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.48xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.8xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.16xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-48xl: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-24xl: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.4xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.12xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.2xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.24xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.xlarge: Asia Pacific (Jakarta) 🌎
+
+
 ## 2025-07-24 21:27
 
 **Modified services:**

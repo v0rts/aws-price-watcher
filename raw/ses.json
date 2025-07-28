@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ses",
         "accessType": "publish",
-        "esIndex": "plc-ses-usd-20250711193536",
-        "hawkFilePublicationDate": "2025-06-27T14:20:27Z",
-        "ETLIngestionTriggerDate": "2025-07-11T19:35:36Z",
+        "esIndex": "plc-ses-usd-20250728224436",
+        "hawkFilePublicationDate": "2025-07-28T22:44:36Z",
+        "ETLIngestionTriggerDate": "2025-07-28T22:44:36Z",
         "currencyCode": "USD",
         "source": "ses",
         "isMapped": "true"

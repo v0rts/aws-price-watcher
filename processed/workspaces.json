@@ -9438,6 +9438,7 @@
         "Asia Pacific (Mumbai) (RootVolume: 80 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro-0, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 10 GB, Operating System: Amazon Linux, Storage: Root:80 GB,User:10 GB)": "167.0000000000",
         "Asia Pacific (Mumbai) (RootVolume: 80 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro-2, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Amazon Linux, Storage: Root:80 GB,User:100 GB)": "175.0000000000",
         "Asia Pacific (Mumbai) (RootVolume: 175 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Amazon Linux, Storage: Root:175 GB,User:100 GB)": "182.0000000000",
+        "Africa (Cape Town) (RootVolume: 175 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Amazon Linux, Storage: Root:175 GB,User:100 GB)": "137.0000000000",
         "AWS GovCloud (US-East) (RootVolume: 80 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro-1, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 50 GB, Operating System: Amazon Linux, Storage: Root:80 GB,User:50 GB)": "132.0000000000",
         "AWS GovCloud (US-East) (RootVolume: 80 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro-0, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 10 GB, Operating System: Amazon Linux, Storage: Root:80 GB,User:10 GB)": "128.4000000000",
         "AWS GovCloud (US-East) (RootVolume: 80 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro-2, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Amazon Linux, Storage: Root:80 GB,User:100 GB)": "136.8000000000",
@@ -13091,7 +13092,7 @@
         "US West (Oregon)": "21.4300000000",
         "US East (N. Virginia)": "21.4300000000",
         "South America (Sao Paulo)": "21.4300000000",
-        "Israel (Tel Aviv)": "23.5700000000",
+        "Israel (Tel Aviv)": "21.4300000000",
         "EU (Paris)": "21.4300000000",
         "EU (London)": "21.4300000000",
         "EU (Ireland)": "21.4300000000",
@@ -15796,7 +15797,7 @@
         "Africa (Cape Town) (RootVolume: 80 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro-1, Bundle Group: Power, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 50 GB, Operating System: Windows, Storage: Root:80 GB,User:50 GB)": "11.0000000000"
     },
     "[Linux PowerPro AlwaysOn Billed by the month None] Linux PowerPro 8vCPU 32 GB Memory Root and User Volume175 GB 100 GB AlwaysOn Billed by the month License None;Linux PowerPro Power 8vCPU 32 GB Memory Root and User Volume175 GB 100 GB AlwaysOn Billed by the month License None": {
-        "Africa (Cape Town) (RootVolume: 175 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro, Bundle Group: Power, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Amazon Linux, Storage: Root:175 GB,User:100 GB)": "137.0000000000"
+        "Africa (Cape Town) (RootVolume: 175 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Amazon Linux, Storage: Root:175 GB,User:100 GB)": "137.0000000000"
     },
     "[Windows PowerPro AlwaysOn Billed by the month Included] Windows PowerPro 2 8vCPU 32 GB Memory Root and User Volume80 GB 100 GB AlwaysOn Billed by the month License Included;Windows PowerPro 2 Power 8vCPU 32 GB Memory Root and User Volume80 GB 100 GB AlwaysOn Billed by the month License Included": {
         "Africa (Cape Town) (RootVolume: 80 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro-2, Bundle Group: Power, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Windows, Storage: Root:80 GB,User:100 GB)": "134.0000000000"

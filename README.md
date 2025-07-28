@@ -1,3 +1,14 @@
+## 2025-07-28 18:28
+
+**Modified services:**
+
+- [workspaces](processed/workspaces.json)
+  - Region added for metric [Linux PowerPro AlwaysOn Billed by the month None]: Africa (Cape Town) (RootVolume: 175 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Amazon Linux, Storage: Root:175 GB,User:100 GB) 🌎
+  - Price decreased: Application Bundle graphics g4dn plus License BYOL Windows Office 2021 Pro AlwaysOn Israel (Tel Aviv)  **$23.57** → **$21.43** 💸
+  - Region added for metric [Linux PowerPro AlwaysOn Billed by the month None] Linux PowerPro 8vCPU 32 GB Memory Root and User Volume175 GB 100 GB AlwaysOn Billed by the month License None;Linux PowerPro Power 8vCPU 32 GB Memory Root and User Volume175 GB 100 GB AlwaysOn Billed by the month License None: Africa (Cape Town) (RootVolume: 175 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro, Bundle Group: PowerPro, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Amazon Linux, Storage: Root:175 GB,User:100 GB) 🌎
+  - Region removed for metric [Linux PowerPro AlwaysOn Billed by the month None] Linux PowerPro 8vCPU 32 GB Memory Root and User Volume175 GB 100 GB AlwaysOn Billed by the month License None;Linux PowerPro Power 8vCPU 32 GB Memory Root and User Volume175 GB 100 GB AlwaysOn Billed by the month License None: Africa (Cape Town) (RootVolume: 175 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro, Bundle Group: Power, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 100 GB, Operating System: Amazon Linux, Storage: Root:175 GB,User:100 GB) 💥
+
+
 ## 2025-07-25 23:26
 
 **Modified services:**

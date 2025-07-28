@@ -1,3 +1,121 @@
+## 2025-07-28 20:28
+
+**Modified services:**
+
+- [cognito](processed/cognito.json)
+  - Region added for metric MAU Frist 50000 per Requests: Mexico (Central) 🌎
+  - Region added for metric MAU Frist 50000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool MAU 0 upto 50000 per Requests: Mexico (Central) 🌎
+  - Region added for metric User Pool MAU 0 upto 50000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserCreation Full: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserCreation Full: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserResourceUpdate Full: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserResourceUpdate Full: Asia Pacific (Thailand) 🌎
+  - Region added for metric ASF MAU Greater than 10000000 per Requests: Mexico (Central) 🌎
+  - Region added for metric ASF MAU Greater than 10000000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric Enterprise MAU per Requests: Mexico (Central) 🌎
+  - Region added for metric Enterprise MAU per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M Tokens Full 5000000 upto Inf per CognitoUserPools M2MTokens: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M Tokens Full 5000000 upto Inf per CognitoUserPools M2MTokens: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserToken Free: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserToken Free: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserAccountRecovery Free: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserAccountRecovery Free: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M Tokens Full 0 upto 250000 per CognitoUserPools M2MTokens: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M Tokens Full 0 upto 250000 per CognitoUserPools M2MTokens: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserAuthentication Partial: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserAuthentication Partial: Asia Pacific (Thailand) 🌎
+  - Region added for metric ASF MAU Next 9000000 per Requests: Mexico (Central) 🌎
+  - Region added for metric ASF MAU Next 9000000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserResourceUpdate Free: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserResourceUpdate Free: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserAccountRecovery Full: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserAccountRecovery Full: Asia Pacific (Thailand) 🌎
+  - Region added for metric ASF MAU Next 900000 per Requests: Mexico (Central) 🌎
+  - Region added for metric ASF MAU Next 900000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserRead Partial: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserRead Partial: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserFederation Full: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserFederation Full: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserRead Free: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserRead Free: Asia Pacific (Thailand) 🌎
+  - Region added for metric MAU Next 900000 per Requests: Mexico (Central) 🌎
+  - Region added for metric MAU Next 900000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool MAU 50000 upto 950000 per Requests: Mexico (Central) 🌎
+  - Region added for metric User Pool MAU 50000 upto 950000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric MAU Next 9000000 per Requests: Mexico (Central) 🌎
+  - Region added for metric MAU Next 9000000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool MAU 950000 upto 9950000 per Requests: Mexico (Central) 🌎
+  - Region added for metric User Pool MAU 950000 upto 9950000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserAuthentication Free: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserAuthentication Free: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M Tokens Full 250000 upto 5000000 per CognitoUserPools M2MTokens: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M Tokens Full 250000 upto 5000000 per CognitoUserPools M2MTokens: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserCreation Partial: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserCreation Partial: Asia Pacific (Thailand) 🌎
+  - Region added for metric ASF MAU Next 50000 per Requests: Mexico (Central) 🌎
+  - Region added for metric ASF MAU Next 50000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserCreation Free: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserCreation Free: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserFederation Free: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserFederation Free: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M Tokens Free 250000 upto 5000000 per CognitoUserPools M2MTokens: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M Tokens Free 250000 upto 5000000 per CognitoUserPools M2MTokens: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserUpdate Full: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserUpdate Full: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserUpdate Partial: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserUpdate Partial: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserToken Full: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserToken Full: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M AppClients Free 0 upto 100 per CognitoUserPools M2MAppClientMo: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M AppClients Free 0 upto 100 per CognitoUserPools M2MAppClientMo: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserRead Full: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserRead Full: Asia Pacific (Thailand) 🌎
+  - Region added for metric MAU Greater than 10000000 per Requests: Mexico (Central) 🌎
+  - Region added for metric MAU Greater than 10000000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool MAU 9950000 upto Inf per Requests: Mexico (Central) 🌎
+  - Region added for metric User Pool MAU 9950000 upto Inf per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserAuthentication Full: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserAuthentication Full: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M AppClients Free 500 upto Inf per CognitoUserPools M2MAppClientMo: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M AppClients Free 500 upto Inf per CognitoUserPools M2MAppClientMo: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserResourceRead Free: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserResourceRead Free: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M AppClients Free 100 upto 500 per CognitoUserPools M2MAppClientMo: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M AppClients Free 100 upto 500 per CognitoUserPools M2MAppClientMo: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserToken Partial: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserToken Partial: Asia Pacific (Thailand) 🌎
+  - Region added for metric ASF MAU Frist 50000 per Requests: Mexico (Central) 🌎
+  - Region added for metric ASF MAU Frist 50000 per Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserFederation Partial: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserFederation Partial: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserResourceUpdate Partial: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserResourceUpdate Partial: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserResourceRead Full: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserResourceRead Full: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M Tokens Free 5000000 upto Inf per CognitoUserPools M2MTokens: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M Tokens Free 5000000 upto Inf per CognitoUserPools M2MTokens: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M Tokens Free 0 upto 250000 per CognitoUserPools M2MTokens: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M Tokens Free 0 upto 250000 per CognitoUserPools M2MTokens: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserUpdate Free: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserUpdate Free: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo: Mexico (Central) 🌎
+  - Region added for metric User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserAccountRecovery Partial: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserAccountRecovery Partial: Asia Pacific (Thailand) 🌎
+  - Region added for metric User Pool RPS UserResourceRead Partial: Mexico (Central) 🌎
+  - Region added for metric User Pool RPS UserResourceRead Partial: Asia Pacific (Thailand) 🌎
+  - Region added for metric non free User Pool Enterprise MAU 0 upto Inf: Mexico (Central) 🌎
+  - Region added for metric non free User Pool Enterprise MAU 0 upto Inf: Asia Pacific (Thailand) 🌎
+
+- [contactcentertelecomm](processed/contactcentertelecomm.json)
+  - Price decreased: [Outbound Call Toll] Outbound Call Toll South Africa 0 Inf Africa (Cape Town) (Country: South Africa)  **$0.03** → **$0.02** 💸
+
+
 ## 2025-07-28 18:28
 
 **Modified services:**

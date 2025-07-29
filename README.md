@@ -1,3 +1,32 @@
+## 2025-07-29 09:28
+
+**Modified services:**
+
+- [databasemigrationsvc](processed/databasemigrationsvc.json)
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c4 2xlarge Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server c4 2xlarge Single AZ 💥
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c4 4xlarge Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server c4 4xlarge Single AZ 💥
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c4 large Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server c4 large Single AZ 💥
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c4 xlarge Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server c4 xlarge Single AZ 💥
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r4 2xlarge Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server r4 2xlarge Single AZ 💥
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r4 4xlarge Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server r4 4xlarge Single AZ 💥
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r4 8xlarge Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server r4 8xlarge Single AZ 💥
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r4 large Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server r4 large Single AZ 💥
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r4 xlarge Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server r4 xlarge Single AZ 💥
+  - Billing metric removed: [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r4 16xlarge Multiple AZ 💥
+  - Billing metric removed: [DMS Replication Server Single AZ] DMS OnDemand Replication Server r4 16xlarge Single AZ 💥
+  - Region removed for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server t2 medium Multiple AZ: Canada (Central) (Instance Type: t2.medium) 💥
+  - Region removed for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server t2 small Single AZ: Asia Pacific (Sydney) (Instance Type: t2.small) 💥
+
+
 ## 2025-07-29 01:58
 
 **Modified services:**

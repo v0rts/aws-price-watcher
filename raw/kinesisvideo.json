@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesisvideo",
         "accessType": "publish",
-        "esIndex": "plc-kinesisvideo-usd-20250711182133",
-        "hawkFilePublicationDate": "2025-05-16T19:42:06Z",
-        "ETLIngestionTriggerDate": "2025-07-11T18:21:33Z",
+        "esIndex": "plc-kinesisvideo-usd-20250729004523",
+        "hawkFilePublicationDate": "2025-07-29T00:45:23Z",
+        "ETLIngestionTriggerDate": "2025-07-29T00:45:23Z",
         "currencyCode": "USD",
         "source": "kinesisvideo",
         "isMapped": "true"
@@ -2136,6 +2136,158 @@
             "Per month for an active signaling channel per Count": {
                 "rateCode": "NVY3AV5Q63N3FSME.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0400000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
+            }
+        },
+        "Asia Pacific (Malaysia)": {
+            "8xHepzadEy41efJS3DwxbHZS6ltfNanfcAwrM9NyA8Y": {
+                "rateCode": "ERK63GYT9HXSTD3K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0141000000",
+                "RegionlessRateCode": "8xHepzadEy41efJS3DwxbHZS6ltfNanfcAwrM9NyA8Y"
+            },
+            "GP2ReZyWJbMBUMZsjHW5G_QuOU6TmtAk5D68nqLy7wg": {
+                "rateCode": "PT6623ZKH2T5U2Y7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000090000",
+                "RegionlessRateCode": "GP2ReZyWJbMBUMZsjHW5G_QuOU6TmtAk5D68nqLy7wg"
+            },
+            "JpLbizhBv4zvIdZCqC3DWPGp5CFM3gydYI3TuvN3Fjk": {
+                "rateCode": "H57P8N6XWFNJ3233.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0041000000",
+                "RegionlessRateCode": "JpLbizhBv4zvIdZCqC3DWPGp5CFM3gydYI3TuvN3Fjk"
+            },
+            "Mkq8hqNhnyCXw1_fZt54HY2v1VrRDZRBa7HgfDQU1Hg": {
+                "rateCode": "79M9HC3MTCPHDB6Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000090000",
+                "RegionlessRateCode": "Mkq8hqNhnyCXw1_fZt54HY2v1VrRDZRBa7HgfDQU1Hg"
+            },
+            "N1mhMaWqt9_FDv4ExWWmeg8Ri3v4blmb3760RKtb_YU": {
+                "rateCode": "Q8NKRFXP5UBTNPQ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "N1mhMaWqt9_FDv4ExWWmeg8Ri3v4blmb3760RKtb_YU"
+            },
+            "PIDFO-1NUBAfGjdgjopF3HMCNIjD8tSJz26JzBuqig0": {
+                "rateCode": "W8W4WPGJYKJ6EYFZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000162000",
+                "RegionlessRateCode": "PIDFO-1NUBAfGjdgjopF3HMCNIjD8tSJz26JzBuqig0"
+            },
+            "PxO_8huRL-2V3o3cbXanXK-dnxhINst8DvaeRiZeijQ": {
+                "rateCode": "UKGPB3NBB6DWPKXF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000030375",
+                "RegionlessRateCode": "PxO_8huRL-2V3o3cbXanXK-dnxhINst8DvaeRiZeijQ"
+            },
+            "RweKX_XSqeA21zcxaRvmJda_e6PFSgY4uK_BWz4TnWY": {
+                "rateCode": "ZZWTUG6C74GAZX4V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0101000000",
+                "RegionlessRateCode": "RweKX_XSqeA21zcxaRvmJda_e6PFSgY4uK_BWz4TnWY"
+            },
+            "VDjY6TzsIlRGTQwFNha7K2aDOyZi3TErdMcp8sv5RYg": {
+                "rateCode": "HM9NBZ9962E6N9JR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0101000000",
+                "RegionlessRateCode": "VDjY6TzsIlRGTQwFNha7K2aDOyZi3TErdMcp8sv5RYg"
+            },
+            "VWxp8FbDcwe0vgcW3vJSQxPOhxZJlvWDaXivxv2Vw7Q": {
+                "rateCode": "YN389GZTDJ6CU3EJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0141000000",
+                "RegionlessRateCode": "VWxp8FbDcwe0vgcW3vJSQxPOhxZJlvWDaXivxv2Vw7Q"
+            },
+            "c6IpZGD0PgVEYoP-UKhjg_Q7nLoZ6VZGdcObwiflkvw": {
+                "rateCode": "959JJSPB5YW6CY5C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0101000000",
+                "RegionlessRateCode": "c6IpZGD0PgVEYoP-UKhjg_Q7nLoZ6VZGdcObwiflkvw"
+            },
+            "dhRe9MYMCmjrw-TNyYU2yO5wPWOyLdpN02D4fvW4xh8": {
+                "rateCode": "HZWVABKVPQ36J6UJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001620000",
+                "RegionlessRateCode": "dhRe9MYMCmjrw-TNyYU2yO5wPWOyLdpN02D4fvW4xh8"
+            },
+            "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY": {
+                "rateCode": "P8NXX9SNRG2EJZ8Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000162000",
+                "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
+            },
+            "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU": {
+                "rateCode": "GR9QFRSZ5CSFEZGA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0141000000",
+                "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk": {
+                "rateCode": "R8CXB7GU548VQK4M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0360000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
+            },
+            "Data consumed from Kinesis Video Streams for HLS Fragment based per GB": {
+                "rateCode": "ERK63GYT9HXSTD3K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0141000000",
+                "RegionlessRateCode": "8xHepzadEy41efJS3DwxbHZS6ltfNanfcAwrM9NyA8Y"
+            },
+            "Per million images generated getImages 1080p or lower resolution per Images Processed": {
+                "rateCode": "PT6623ZKH2T5U2Y7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000090000",
+                "RegionlessRateCode": "GP2ReZyWJbMBUMZsjHW5G_QuOU6TmtAk5D68nqLy7wg"
+            },
+            "Per minute of media stream recorded into Kinesis Video Streams via WebRTC per Minute": {
+                "rateCode": "H57P8N6XWFNJ3233.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0041000000",
+                "RegionlessRateCode": "JpLbizhBv4zvIdZCqC3DWPGp5CFM3gydYI3TuvN3Fjk"
+            },
+            "Per million images generated S3 Delivery 1080p or lower resolution per Images Processed": {
+                "rateCode": "79M9HC3MTCPHDB6Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000090000",
+                "RegionlessRateCode": "Mkq8hqNhnyCXw1_fZt54HY2v1VrRDZRBa7HgfDQU1Hg"
+            },
+            "Per GB Month of Data stored in Kinesis Video Streams per GB-Month": {
+                "rateCode": "Q8NKRFXP5UBTNPQ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "N1mhMaWqt9_FDv4ExWWmeg8Ri3v4blmb3760RKtb_YU"
+            },
+            "Per million images generated S3 Delivery greater than 1080p resolution per Images Processed": {
+                "rateCode": "W8W4WPGJYKJ6EYFZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000162000",
+                "RegionlessRateCode": "PIDFO-1NUBAfGjdgjopF3HMCNIjD8tSJz26JzBuqig0"
+            },
+            "Per million signaling messages per Messages": {
+                "rateCode": "UKGPB3NBB6DWPKXF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000030375",
+                "RegionlessRateCode": "PxO_8huRL-2V3o3cbXanXK-dnxhINst8DvaeRiZeijQ"
+            },
+            "Data consumed from Kinesis Video Streams Fragment based per GB": {
+                "rateCode": "ZZWTUG6C74GAZX4V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0101000000",
+                "RegionlessRateCode": "RweKX_XSqeA21zcxaRvmJda_e6PFSgY4uK_BWz4TnWY"
+            },
+            "Data ingested into Kinesis Video Streams per GB": {
+                "rateCode": "HM9NBZ9962E6N9JR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0101000000",
+                "RegionlessRateCode": "VDjY6TzsIlRGTQwFNha7K2aDOyZi3TErdMcp8sv5RYg"
+            },
+            "Data consumed from Kinesis Video Streams for HLS per GB": {
+                "rateCode": "YN389GZTDJ6CU3EJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0141000000",
+                "RegionlessRateCode": "VWxp8FbDcwe0vgcW3vJSQxPOhxZJlvWDaXivxv2Vw7Q"
+            },
+            "Data consumed from Kinesis Video Streams per GB": {
+                "rateCode": "959JJSPB5YW6CY5C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0101000000",
+                "RegionlessRateCode": "c6IpZGD0PgVEYoP-UKhjg_Q7nLoZ6VZGdcObwiflkvw"
+            },
+            "Per thousand TURN streaming minutes per minutes": {
+                "rateCode": "HZWVABKVPQ36J6UJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001620000",
+                "RegionlessRateCode": "dhRe9MYMCmjrw-TNyYU2yO5wPWOyLdpN02D4fvW4xh8"
+            },
+            "Per million images generated getImages greater than 1080p resolution per Images Processed": {
+                "rateCode": "P8NXX9SNRG2EJZ8Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000162000",
+                "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
+            },
+            "GetClip per GB": {
+                "rateCode": "GR9QFRSZ5CSFEZGA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0141000000",
+                "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "Per month for an active signaling channel per Count": {
+                "rateCode": "R8CXB7GU548VQK4M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0360000000",
                 "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             }
         },

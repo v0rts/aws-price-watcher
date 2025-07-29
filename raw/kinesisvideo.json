@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesisvideo",
         "accessType": "publish",
-        "esIndex": "plc-kinesisvideo-usd-20250729005626",
-        "hawkFilePublicationDate": "2025-07-29T00:56:26Z",
-        "ETLIngestionTriggerDate": "2025-07-29T00:56:26Z",
+        "esIndex": "plc-kinesisvideo-usd-20250729174122",
+        "hawkFilePublicationDate": "2025-07-29T17:41:22Z",
+        "ETLIngestionTriggerDate": "2025-07-29T17:41:22Z",
         "currencyCode": "USD",
         "source": "kinesisvideo",
         "isMapped": "true"

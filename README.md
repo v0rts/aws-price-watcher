@@ -1,3 +1,35 @@
+## 2025-07-29 01:58
+
+**Modified services:**
+
+- [kinesisvideo](processed/kinesisvideo.json)
+  - Region added for metric Data consumed from Kinesis Video Streams for HLS Fragment based per GB: EU (Spain) 🌎
+  - Region added for metric Per million images generated getImages 1080p or lower resolution per Images Processed: EU (Spain) 🌎
+  - Region added for metric Per minute of media stream recorded into Kinesis Video Streams via WebRTC per Minute: EU (Spain) 🌎
+  - Region added for metric Per million images generated S3 Delivery 1080p or lower resolution per Images Processed: EU (Spain) 🌎
+  - Region added for metric Per GB Month of Data stored in Kinesis Video Streams per GB-Month: EU (Spain) 🌎
+  - Region added for metric Per million images generated S3 Delivery greater than 1080p resolution per Images Processed: EU (Spain) 🌎
+  - Region added for metric Per million signaling messages per Messages: EU (Spain) 🌎
+  - Region added for metric Data consumed from Kinesis Video Streams Fragment based per GB: EU (Spain) 🌎
+  - Region added for metric Data ingested into Kinesis Video Streams per GB: EU (Spain) 🌎
+  - Region added for metric Data consumed from Kinesis Video Streams for HLS per GB: EU (Spain) 🌎
+  - Region added for metric Data consumed from Kinesis Video Streams per GB: EU (Spain) 🌎
+  - Region added for metric Per thousand TURN streaming minutes per minutes: EU (Spain) 🌎
+  - Region added for metric Per million images generated getImages greater than 1080p resolution per Images Processed: EU (Spain) 🌎
+  - Region added for metric GetClip per GB: EU (Spain) 🌎
+  - Region added for metric Per month for an active signaling channel per Count: EU (Spain) 🌎
+
+- [iotdevicedefender](processed/iotdevicedefender.json)
+  - Region added for metric Audit over 100000 per Devices: EU (Spain) 🌎
+  - Region added for metric ML Detect 10000000 upto 100000000 per Metric Datapoints: EU (Spain) 🌎
+  - Region added for metric Detect Upto 10B per Metric Datapoints: EU (Spain) 🌎
+  - Region added for metric ML Detect 100000000 upto Inf per Metric Datapoints: EU (Spain) 🌎
+  - Region added for metric ML Detect 0 upto 300000 per Metric Datapoints: EU (Spain) 🌎
+  - Region added for metric Detect Over 10B per Metric Datapoints: EU (Spain) 🌎
+  - Region added for metric Audit upto 100000 per Devices: EU (Spain) 🌎
+  - Region added for metric ML Detect 300000 upto 10000000 per Metric Datapoints: EU (Spain) 🌎
+
+
 ## 2025-07-29 00:48
 
 **Modified services:**

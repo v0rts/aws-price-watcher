@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "greengrass",
         "accessType": "publish",
-        "esIndex": "plc-greengrass-usd-20250711175333",
-        "hawkFilePublicationDate": "2024-10-29T17:38:54Z",
-        "ETLIngestionTriggerDate": "2025-07-11T17:53:33Z",
+        "esIndex": "plc-greengrass-usd-20250729203248",
+        "hawkFilePublicationDate": "2025-07-29T20:32:48Z",
+        "ETLIngestionTriggerDate": "2025-07-29T20:32:48Z",
         "currencyCode": "USD",
         "source": "greengrass",
         "isMapped": "true"
@@ -44,6 +44,18 @@
             "Greengrass Pay as you go": {
                 "rateCode": "H4UXPATZVM7F6RYF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1600000000",
+                "RegionlessRateCode": "fAou4Ugv1wZ6iUvD3a54Frg3Uaf6HKQiPC3g_jDIWcQ"
+            }
+        },
+        "EU (Spain)": {
+            "fAou4Ugv1wZ6iUvD3a54Frg3Uaf6HKQiPC3g_jDIWcQ": {
+                "rateCode": "T4QMAKFBHKPY5QVN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "fAou4Ugv1wZ6iUvD3a54Frg3Uaf6HKQiPC3g_jDIWcQ"
+            },
+            "Greengrass Pay as you go": {
+                "rateCode": "T4QMAKFBHKPY5QVN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
                 "RegionlessRateCode": "fAou4Ugv1wZ6iUvD3a54Frg3Uaf6HKQiPC3g_jDIWcQ"
             }
         },
@@ -152,6 +164,18 @@
             "Greengrass Pay as you go": {
                 "rateCode": "7952KR7SXATQY4DU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1800000000",
+                "RegionlessRateCode": "fAou4Ugv1wZ6iUvD3a54Frg3Uaf6HKQiPC3g_jDIWcQ"
+            }
+        },
+        "Asia Pacific (Malaysia)": {
+            "fAou4Ugv1wZ6iUvD3a54Frg3Uaf6HKQiPC3g_jDIWcQ": {
+                "rateCode": "9U4ZZB8XD3CD6GUU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1600000000",
+                "RegionlessRateCode": "fAou4Ugv1wZ6iUvD3a54Frg3Uaf6HKQiPC3g_jDIWcQ"
+            },
+            "Greengrass Pay as you go": {
+                "rateCode": "9U4ZZB8XD3CD6GUU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1600000000",
                 "RegionlessRateCode": "fAou4Ugv1wZ6iUvD3a54Frg3Uaf6HKQiPC3g_jDIWcQ"
             }
         },

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iot",
         "accessType": "publish",
-        "esIndex": "plc-iot-usd-20250711181335",
-        "hawkFilePublicationDate": "2024-08-26T17:47:49Z",
-        "ETLIngestionTriggerDate": "2025-07-11T18:13:35Z",
+        "esIndex": "plc-iot-usd-20250729203252",
+        "hawkFilePublicationDate": "2025-07-29T20:32:52Z",
+        "ETLIngestionTriggerDate": "2025-07-29T20:32:52Z",
         "currencyCode": "USD",
         "source": "iot",
         "isMapped": "true"
@@ -1034,6 +1034,78 @@
             "Messages Over 5B": {
                 "rateCode": "UEMW6DQZPD66UZFF.JRTCKXETXF.TZN6KSERSS",
                 "price": "0.0000008400",
+                "RegionlessRateCode": "x7KdPmvZXBh30fRQutFnSO0AvRACv9wxcIygkiOwg3E"
+            }
+        },
+        "EU (Spain)": {
+            "JMlLdUjXDSrbJ0u-k1N5eSpnAlpX6wsP2XKd0QdCMqc": {
+                "rateCode": "3EERNCGV9N8S7R3C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000001500",
+                "RegionlessRateCode": "JMlLdUjXDSrbJ0u-k1N5eSpnAlpX6wsP2XKd0QdCMqc"
+            },
+            "VcbRoqLliTfuCrGHOxZ78N40tksnz83ErodUyiMK7kQ": {
+                "rateCode": "J7PFFDKT8JUUSRPA.JRTCKXETXF.9UCY5BG95Z",
+                "price": "0.0000008000",
+                "RegionlessRateCode": "VcbRoqLliTfuCrGHOxZ78N40tksnz83ErodUyiMK7kQ"
+            },
+            "aTNUauhXVRmisP6bT5WIT_p8IfFNchLmL9JpGgPm0LY": {
+                "rateCode": "NERKD5RA9ZSC3BZZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000800",
+                "RegionlessRateCode": "aTNUauhXVRmisP6bT5WIT_p8IfFNchLmL9JpGgPm0LY"
+            },
+            "dKiSGDhPPrxCsu99xW3TpYkrlEI5MgXUPO4x1L_PV_o": {
+                "rateCode": "RFHUNGJYSM8HVHQC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000001500",
+                "RegionlessRateCode": "dKiSGDhPPrxCsu99xW3TpYkrlEI5MgXUPO4x1L_PV_o"
+            },
+            "k0bcBsIvI4vXZNvKTIjilG_Yh4uMD18fPfEGO-AHJnA": {
+                "rateCode": "J7PFFDKT8JUUSRPA.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "k0bcBsIvI4vXZNvKTIjilG_Yh4uMD18fPfEGO-AHJnA"
+            },
+            "v30vS4MTv1RmrNwbRU4CfLmEtFIFdKTlhyKTGqLR8C4": {
+                "rateCode": "GHN7CSKGRQ53T6J3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000012500",
+                "RegionlessRateCode": "v30vS4MTv1RmrNwbRU4CfLmEtFIFdKTlhyKTGqLR8C4"
+            },
+            "x7KdPmvZXBh30fRQutFnSO0AvRACv9wxcIygkiOwg3E": {
+                "rateCode": "J7PFFDKT8JUUSRPA.JRTCKXETXF.TZN6KSERSS",
+                "price": "0.0000007000",
+                "RegionlessRateCode": "x7KdPmvZXBh30fRQutFnSO0AvRACv9wxcIygkiOwg3E"
+            },
+            "RulesTriggered": {
+                "rateCode": "3EERNCGV9N8S7R3C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000001500",
+                "RegionlessRateCode": "JMlLdUjXDSrbJ0u-k1N5eSpnAlpX6wsP2XKd0QdCMqc"
+            },
+            "Messages Next 4B": {
+                "rateCode": "J7PFFDKT8JUUSRPA.JRTCKXETXF.9UCY5BG95Z",
+                "price": "0.0000008000",
+                "RegionlessRateCode": "VcbRoqLliTfuCrGHOxZ78N40tksnz83ErodUyiMK7kQ"
+            },
+            "Connectivity Minutes": {
+                "rateCode": "NERKD5RA9ZSC3BZZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000800",
+                "RegionlessRateCode": "aTNUauhXVRmisP6bT5WIT_p8IfFNchLmL9JpGgPm0LY"
+            },
+            "ActionsExecuted": {
+                "rateCode": "RFHUNGJYSM8HVHQC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000001500",
+                "RegionlessRateCode": "dKiSGDhPPrxCsu99xW3TpYkrlEI5MgXUPO4x1L_PV_o"
+            },
+            "Messages Up to 1B": {
+                "rateCode": "J7PFFDKT8JUUSRPA.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "k0bcBsIvI4vXZNvKTIjilG_Yh4uMD18fPfEGO-AHJnA"
+            },
+            "Device Shadow and Registry": {
+                "rateCode": "GHN7CSKGRQ53T6J3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000012500",
+                "RegionlessRateCode": "v30vS4MTv1RmrNwbRU4CfLmEtFIFdKTlhyKTGqLR8C4"
+            },
+            "Messages Over 5B": {
+                "rateCode": "J7PFFDKT8JUUSRPA.JRTCKXETXF.TZN6KSERSS",
+                "price": "0.0000007000",
                 "RegionlessRateCode": "x7KdPmvZXBh30fRQutFnSO0AvRACv9wxcIygkiOwg3E"
             }
         },
@@ -2344,6 +2416,78 @@
             "Messages Over 5B": {
                 "rateCode": "S6CGZZJMS22Y6BYG.JRTCKXETXF.TZN6KSERSS",
                 "price": "0.0000007400",
+                "RegionlessRateCode": "x7KdPmvZXBh30fRQutFnSO0AvRACv9wxcIygkiOwg3E"
+            }
+        },
+        "Asia Pacific (Malaysia)": {
+            "JMlLdUjXDSrbJ0u-k1N5eSpnAlpX6wsP2XKd0QdCMqc": {
+                "rateCode": "YV36HQQ3VB9NBN33.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000001600",
+                "RegionlessRateCode": "JMlLdUjXDSrbJ0u-k1N5eSpnAlpX6wsP2XKd0QdCMqc"
+            },
+            "VcbRoqLliTfuCrGHOxZ78N40tksnz83ErodUyiMK7kQ": {
+                "rateCode": "P7VX78HTC7B8HJDK.JRTCKXETXF.9UCY5BG95Z",
+                "price": "0.0000008600",
+                "RegionlessRateCode": "VcbRoqLliTfuCrGHOxZ78N40tksnz83ErodUyiMK7kQ"
+            },
+            "aTNUauhXVRmisP6bT5WIT_p8IfFNchLmL9JpGgPm0LY": {
+                "rateCode": "G6TPBURXF99NCEBE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000860",
+                "RegionlessRateCode": "aTNUauhXVRmisP6bT5WIT_p8IfFNchLmL9JpGgPm0LY"
+            },
+            "dKiSGDhPPrxCsu99xW3TpYkrlEI5MgXUPO4x1L_PV_o": {
+                "rateCode": "5DHXEXS2S38V3H6X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000001600",
+                "RegionlessRateCode": "dKiSGDhPPrxCsu99xW3TpYkrlEI5MgXUPO4x1L_PV_o"
+            },
+            "k0bcBsIvI4vXZNvKTIjilG_Yh4uMD18fPfEGO-AHJnA": {
+                "rateCode": "P7VX78HTC7B8HJDK.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000010500",
+                "RegionlessRateCode": "k0bcBsIvI4vXZNvKTIjilG_Yh4uMD18fPfEGO-AHJnA"
+            },
+            "v30vS4MTv1RmrNwbRU4CfLmEtFIFdKTlhyKTGqLR8C4": {
+                "rateCode": "JCVQ2JHEPA7XUPGD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000013500",
+                "RegionlessRateCode": "v30vS4MTv1RmrNwbRU4CfLmEtFIFdKTlhyKTGqLR8C4"
+            },
+            "x7KdPmvZXBh30fRQutFnSO0AvRACv9wxcIygkiOwg3E": {
+                "rateCode": "P7VX78HTC7B8HJDK.JRTCKXETXF.TZN6KSERSS",
+                "price": "0.0000007500",
+                "RegionlessRateCode": "x7KdPmvZXBh30fRQutFnSO0AvRACv9wxcIygkiOwg3E"
+            },
+            "RulesTriggered": {
+                "rateCode": "YV36HQQ3VB9NBN33.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000001600",
+                "RegionlessRateCode": "JMlLdUjXDSrbJ0u-k1N5eSpnAlpX6wsP2XKd0QdCMqc"
+            },
+            "Messages Next 4B": {
+                "rateCode": "P7VX78HTC7B8HJDK.JRTCKXETXF.9UCY5BG95Z",
+                "price": "0.0000008600",
+                "RegionlessRateCode": "VcbRoqLliTfuCrGHOxZ78N40tksnz83ErodUyiMK7kQ"
+            },
+            "Connectivity Minutes": {
+                "rateCode": "G6TPBURXF99NCEBE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000860",
+                "RegionlessRateCode": "aTNUauhXVRmisP6bT5WIT_p8IfFNchLmL9JpGgPm0LY"
+            },
+            "ActionsExecuted": {
+                "rateCode": "5DHXEXS2S38V3H6X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000001600",
+                "RegionlessRateCode": "dKiSGDhPPrxCsu99xW3TpYkrlEI5MgXUPO4x1L_PV_o"
+            },
+            "Messages Up to 1B": {
+                "rateCode": "P7VX78HTC7B8HJDK.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000010500",
+                "RegionlessRateCode": "k0bcBsIvI4vXZNvKTIjilG_Yh4uMD18fPfEGO-AHJnA"
+            },
+            "Device Shadow and Registry": {
+                "rateCode": "JCVQ2JHEPA7XUPGD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000013500",
+                "RegionlessRateCode": "v30vS4MTv1RmrNwbRU4CfLmEtFIFdKTlhyKTGqLR8C4"
+            },
+            "Messages Over 5B": {
+                "rateCode": "P7VX78HTC7B8HJDK.JRTCKXETXF.TZN6KSERSS",
+                "price": "0.0000007500",
                 "RegionlessRateCode": "x7KdPmvZXBh30fRQutFnSO0AvRACv9wxcIygkiOwg3E"
             }
         },

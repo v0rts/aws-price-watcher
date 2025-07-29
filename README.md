@@ -1,3 +1,64 @@
+## 2025-07-29 21:26
+
+**Modified services:**
+
+- [iot](processed/iot.json)
+  - Region added for metric RulesTriggered: EU (Spain) 🌎
+  - Region added for metric RulesTriggered: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Messages Next 4B: EU (Spain) 🌎
+  - Region added for metric Messages Next 4B: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Connectivity Minutes: EU (Spain) 🌎
+  - Region added for metric Connectivity Minutes: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ActionsExecuted: EU (Spain) 🌎
+  - Region added for metric ActionsExecuted: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Messages Up to 1B: EU (Spain) 🌎
+  - Region added for metric Messages Up to 1B: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Device Shadow and Registry: EU (Spain) 🌎
+  - Region added for metric Device Shadow and Registry: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Messages Over 5B: EU (Spain) 🌎
+  - Region added for metric Messages Over 5B: Asia Pacific (Malaysia) 🌎
+
+- [networkfirewall](processed/networkfirewall.json)
+  - Region added for metric AWS Firewall per Throughput: Asia Pacific (Taipei) 🌎
+  - Region added for metric AWS Firewall per Endpoint: Asia Pacific (Taipei) 🌎
+  - Region added for metric AWS Firewall per Endpoint-Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric AWS Firewall per Throughput-Advanced: Asia Pacific (Taipei) 🌎
+
+- [greengrass](processed/greengrass.json)
+  - Region added for metric Greengrass Pay as you go: EU (Spain) 🌎
+  - Region added for metric Greengrass Pay as you go: Asia Pacific (Malaysia) 🌎
+
+- [iotdevicedefender](processed/iotdevicedefender.json)
+  - Region added for metric Audit over 100000 per Devices: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ML Detect 10000000 upto 100000000 per Metric Datapoints: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Detect Upto 10B per Metric Datapoints: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ML Detect 100000000 upto Inf per Metric Datapoints: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ML Detect 0 upto 300000 per Metric Datapoints: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Detect Over 10B per Metric Datapoints: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Audit upto 100000 per Devices: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ML Detect 300000 upto 10000000 per Metric Datapoints: Asia Pacific (Malaysia) 🌎
+
+- [iotdevicemanagement](processed/iotdevicemanagement.json)
+  - Region added for metric Things Registered: EU (Spain) 🌎
+  - Region added for metric Things Registered: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Index Updates: EU (Spain) 🌎
+  - Region added for metric Index Updates: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Remote Actions over 250000: EU (Spain) 🌎
+  - Region added for metric Remote Actions over 250000: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Executions: EU (Spain) 🌎
+  - Region added for metric Executions: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FW Executions: EU (Spain) 🌎
+  - Region added for metric FW Executions: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Tunnels per Count: EU (Spain) 🌎
+  - Region added for metric Tunnels per Count: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Queries per Queries: EU (Spain) 🌎
+  - Region added for metric Queries per Queries: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Remote Actions 0 to 250000: EU (Spain) 🌎
+  - Region added for metric Remote Actions 0 to 250000: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Remote Actions: EU (Spain) 🌎
+  - Region added for metric Remote Actions: Asia Pacific (Malaysia) 🌎
+
+
 ## 2025-07-29 09:28
 
 **Modified services:**

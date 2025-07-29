@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iotdevicedefender",
         "accessType": "publish",
-        "esIndex": "plc-iotdevicedefender-usd-20250729005232",
-        "hawkFilePublicationDate": "2025-07-29T00:52:32Z",
-        "ETLIngestionTriggerDate": "2025-07-29T00:52:32Z",
+        "esIndex": "plc-iotdevicedefender-usd-20250729202545",
+        "hawkFilePublicationDate": "2025-07-29T20:25:45Z",
+        "ETLIngestionTriggerDate": "2025-07-29T20:25:45Z",
         "currencyCode": "USD",
         "source": "iotdevicedefender",
         "isMapped": "true"
@@ -1484,6 +1484,88 @@
             "ML Detect 300000 upto 10000000 per Metric Datapoints": {
                 "rateCode": "RSWDP5C5AXQC96AU.JRTCKXETXF.WEZKRGUN5F",
                 "price": "0.0000079000",
+                "RegionlessRateCode": "yUxSlB3mHUb6b_bjZjM8e7p1SOr9z97uB52FxNYsOsQ"
+            }
+        },
+        "Asia Pacific (Malaysia)": {
+            "7pTiy4K4FYT7sOef0pNthVAP3kICMis6OljUcTcLYZg": {
+                "rateCode": "529QEADBNSEB962T.JRTCKXETXF.FF8BMSDA2R",
+                "price": "0.0012000000",
+                "RegionlessRateCode": "7pTiy4K4FYT7sOef0pNthVAP3kICMis6OljUcTcLYZg"
+            },
+            "Bfi4xw4UjaNBIL0vzFoYiyLdpWHJs-kSwOI6OW6NJ2A": {
+                "rateCode": "KKB93EPZJ9GDGHX6.JRTCKXETXF.RTKVR6ZK95",
+                "price": "0.0000018000",
+                "RegionlessRateCode": "Bfi4xw4UjaNBIL0vzFoYiyLdpWHJs-kSwOI6OW6NJ2A"
+            },
+            "FT1Z4A9QPPOzLo0orppNbqjVL9PP3ZAB6HLcUG0htbg": {
+                "rateCode": "SCKVN3K6PP4V4964.JRTCKXETXF.BZNXGJP27R",
+                "price": "0.0000003000",
+                "RegionlessRateCode": "FT1Z4A9QPPOzLo0orppNbqjVL9PP3ZAB6HLcUG0htbg"
+            },
+            "IpccL94-N3BshLcJ927WbNovL3T67defa1xmCHHwHMU": {
+                "rateCode": "KKB93EPZJ9GDGHX6.JRTCKXETXF.F83EQNDM5J",
+                "price": "0.0000012000",
+                "RegionlessRateCode": "IpccL94-N3BshLcJ927WbNovL3T67defa1xmCHHwHMU"
+            },
+            "QiG_Agm_xA9EeIsmossCmAdUakccv-5HEWQuaqAq9YU": {
+                "rateCode": "KKB93EPZJ9GDGHX6.JRTCKXETXF.M5FV5V3JHA",
+                "price": "0.0000240000",
+                "RegionlessRateCode": "QiG_Agm_xA9EeIsmossCmAdUakccv-5HEWQuaqAq9YU"
+            },
+            "W2JkU1cJ1UalT7fVH4c89jMY7a-j6nBs822UZwQgI5I": {
+                "rateCode": "SCKVN3K6PP4V4964.JRTCKXETXF.P5T423F3Q5",
+                "price": "0.0000002400",
+                "RegionlessRateCode": "W2JkU1cJ1UalT7fVH4c89jMY7a-j6nBs822UZwQgI5I"
+            },
+            "_b-oqApiFZKPmxI9_Z3L2V9ph9LLu0tQ35r6_EtL39s": {
+                "rateCode": "529QEADBNSEB962T.JRTCKXETXF.NADQ2ZJX8V",
+                "price": "0.0013000000",
+                "RegionlessRateCode": "_b-oqApiFZKPmxI9_Z3L2V9ph9LLu0tQ35r6_EtL39s"
+            },
+            "yUxSlB3mHUb6b_bjZjM8e7p1SOr9z97uB52FxNYsOsQ": {
+                "rateCode": "KKB93EPZJ9GDGHX6.JRTCKXETXF.WEZKRGUN5F",
+                "price": "0.0000090000",
+                "RegionlessRateCode": "yUxSlB3mHUb6b_bjZjM8e7p1SOr9z97uB52FxNYsOsQ"
+            },
+            "Audit over 100000 per Devices": {
+                "rateCode": "529QEADBNSEB962T.JRTCKXETXF.FF8BMSDA2R",
+                "price": "0.0012000000",
+                "RegionlessRateCode": "7pTiy4K4FYT7sOef0pNthVAP3kICMis6OljUcTcLYZg"
+            },
+            "ML Detect 10000000 upto 100000000 per Metric Datapoints": {
+                "rateCode": "KKB93EPZJ9GDGHX6.JRTCKXETXF.RTKVR6ZK95",
+                "price": "0.0000018000",
+                "RegionlessRateCode": "Bfi4xw4UjaNBIL0vzFoYiyLdpWHJs-kSwOI6OW6NJ2A"
+            },
+            "Detect Upto 10B per Metric Datapoints": {
+                "rateCode": "SCKVN3K6PP4V4964.JRTCKXETXF.BZNXGJP27R",
+                "price": "0.0000003000",
+                "RegionlessRateCode": "FT1Z4A9QPPOzLo0orppNbqjVL9PP3ZAB6HLcUG0htbg"
+            },
+            "ML Detect 100000000 upto Inf per Metric Datapoints": {
+                "rateCode": "KKB93EPZJ9GDGHX6.JRTCKXETXF.F83EQNDM5J",
+                "price": "0.0000012000",
+                "RegionlessRateCode": "IpccL94-N3BshLcJ927WbNovL3T67defa1xmCHHwHMU"
+            },
+            "ML Detect 0 upto 300000 per Metric Datapoints": {
+                "rateCode": "KKB93EPZJ9GDGHX6.JRTCKXETXF.M5FV5V3JHA",
+                "price": "0.0000240000",
+                "RegionlessRateCode": "QiG_Agm_xA9EeIsmossCmAdUakccv-5HEWQuaqAq9YU"
+            },
+            "Detect Over 10B per Metric Datapoints": {
+                "rateCode": "SCKVN3K6PP4V4964.JRTCKXETXF.P5T423F3Q5",
+                "price": "0.0000002400",
+                "RegionlessRateCode": "W2JkU1cJ1UalT7fVH4c89jMY7a-j6nBs822UZwQgI5I"
+            },
+            "Audit upto 100000 per Devices": {
+                "rateCode": "529QEADBNSEB962T.JRTCKXETXF.NADQ2ZJX8V",
+                "price": "0.0013000000",
+                "RegionlessRateCode": "_b-oqApiFZKPmxI9_Z3L2V9ph9LLu0tQ35r6_EtL39s"
+            },
+            "ML Detect 300000 upto 10000000 per Metric Datapoints": {
+                "rateCode": "KKB93EPZJ9GDGHX6.JRTCKXETXF.WEZKRGUN5F",
+                "price": "0.0000090000",
                 "RegionlessRateCode": "yUxSlB3mHUb6b_bjZjM8e7p1SOr9z97uB52FxNYsOsQ"
             }
         },

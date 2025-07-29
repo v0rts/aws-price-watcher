@@ -1,3 +1,12 @@
+## 2025-07-29 22:27
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Price decreased: OnDemand Linux-instancetype-u7i-12tb.224xlarge US West (Oregon)  **$135.23** → **$125.58** 💸
+  - Price decreased: OnDemand Linux-instancetype-u7i-12tb.224xlarge US East (N. Virginia)  **$135.23** → **$125.58** 💸
+
+
 ## 2025-07-29 21:26
 
 **Modified services:**

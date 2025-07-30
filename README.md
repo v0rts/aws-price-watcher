@@ -1,3 +1,11 @@
+## 2025-07-30 18:28
+
+**Modified services:**
+
+- [dynamodb](processed/dynamodb.json)
+  - Region removed for metric Change Data Capture Units for AWS Glue Elastic Views: Mexico (Central) 💥
+
+
 ## 2025-07-29 22:27
 
 **Modified services:**

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "docdb",
         "accessType": "publish",
-        "esIndex": "plc-docdb-usd-20250725171529",
-        "hawkFilePublicationDate": "2025-07-25T17:15:29Z",
-        "ETLIngestionTriggerDate": "2025-07-25T17:15:29Z",
+        "esIndex": "plc-docdb-usd-20250730182654",
+        "hawkFilePublicationDate": "2025-07-30T18:26:54Z",
+        "ETLIngestionTriggerDate": "2025-07-30T18:26:54Z",
         "currencyCode": "USD",
         "source": "docdb",
         "isMapped": "true"
@@ -2424,6 +2424,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "VW67HF59VNV5AX7C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0822000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "XEDB4FQQFQ3NBXJP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0905000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "YDVTWN9EBVTWVHDF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "7.7050000000",
@@ -4666,6 +4690,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "BBPX3PYSU6NST3WG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0822000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "PZGZ5U8X4FDX7TKQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0905000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "ST2TASXHJD9F5B8A.JRTCKXETXF.6YS6EN2CT7",
                 "price": "7.7050000000",
@@ -6874,6 +6922,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "YJ2N7FZA4BA6J7YH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0822000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "JQ23CTY4CD3V5AJ9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0905000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "BJMWHVW97MBKMEA8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "7.7050000000",
@@ -8782,6 +8854,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "KZDS3SU57EQNCPRQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1701000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "5XVRGGMXCNQSGUKQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1871000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "DP2SYV2ZQWKN96BJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "15.9409000000",
@@ -10337,6 +10433,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "RHTEBX7CUKD9UP58.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0999000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "AYKNW3NQGSPGQAZN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1099000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
                 "rateCode": "KFA99EJ5VB4PSA67.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.6928000000",
@@ -11655,6 +11775,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "4G8XMC4ZKZKUQCY6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0954000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "WBJRUWXPEJKSWB8Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1049000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
@@ -12996,6 +13140,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "Q3TRMGV6K7ERFQFU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0863000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "95KHUJXCUP3PPD4J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0949000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
                 "rateCode": "9VUGYQW8YKNYX8YS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.3256000000",
@@ -14333,6 +14501,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "BV8CFNWS8DD42NRX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0908000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "KC86GJB5CJ9P27G8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0999000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
@@ -15892,6 +16084,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "5F5PRYEVHMB5Z2TD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0950000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "B96732W9Y2RQKEA6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1045000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "UENJY8WR74C8YVDU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "8.9011000000",
@@ -17438,6 +17654,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "HCSNQPSGAHBKTW67.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0953000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "QGKMMD8TJ2DKCYB3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1048000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
@@ -19017,6 +19257,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "FF3BN82AY292JVSH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0965000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "BKNF2FE5FPQEMQQF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1061000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
@@ -21083,6 +21347,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "APAQRC9VWV7JQ74X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0908000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "AZ7ZQW2BPF5JSATN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0999000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "FYRHKMVYVUD9QRAT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "8.5117000000",
@@ -23015,6 +23303,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "ES84ACW9ZJJJVBTT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0992000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "9N6AXUEETCCW6EGW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1091000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "48XQU4263MZUKEPY.JRTCKXETXF.6YS6EN2CT7",
                 "price": "9.2905000000",
@@ -24801,6 +25113,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "K3JFHN9YVE3T9E5D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0908000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "KFP6MXNZC9RDADHW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0999000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
@@ -26591,6 +26927,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "BPQGQVHQY4YH63QB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0992000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "CPCRZ3J6QH8DADVV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1091000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "CKU5XCR3TRNPJ3RT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "9.2905000000",
@@ -28377,6 +28737,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "GNXWSQKYTMUU7HKH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0992000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "6QZ3AZTWUV8YVV9C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1091000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
@@ -30167,6 +30551,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "6EMKM7JWHHR442DF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0992000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "KXZJGDY8NMJBBFHM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1091000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "SEQV9NP5EZTHAXDU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "9.2905000000",
@@ -31941,6 +32349,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "8VNCSEME3S73UMBM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0992000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "5REA67NKANMP25SU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1091000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
@@ -33731,6 +34163,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "3RDZCAP5WJFHQJFP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0935000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "5RFFT9K4WRN4WBUM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1029000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
                 "rateCode": "JB764GPS6CJG62DQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "8.7620000000",
@@ -35291,6 +35747,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "5URMMZYZAX2NMHY8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0935000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "G95PJT4C9DNU59T7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1029000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
                 "rateCode": "CBV8DT9SE24BXXFG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.5200000000",
@@ -36647,6 +37127,30 @@
                 "Instance Type": "db.r5.xlarge",
                 "Instance Storage": ""
             },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "3ZMSVU79VYPJY6Z9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1094000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "ZJWCV9DDPJJSV7QK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1203000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
                 "rateCode": "CZFK25ND2C7U8P9A.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.9472800000",
@@ -37965,6 +38469,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "U8WSV9ADX49HPMNX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1081000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "TMME8TZXC7HK4URG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1189000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "p6TN1XrWaPc4OiNBSMBTuHtzXhyT4ZP_sIPNLDvLc6U": {
@@ -39498,6 +40026,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "TZ7T8QBMMK5C68CU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0992000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "XKKPKV46V6R2DF45.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1091000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {
@@ -41211,6 +41763,30 @@
                 "Unit": "Hrs",
                 "Term Type": "OnDemand",
                 "Instance Type": "db.r5.xlarge",
+                "Instance Storage": ""
+            },
+            "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE": {
+                "rateCode": "TX58VU6VC9GH6UKX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0992000000",
+                "RegionlessRateCode": "mIio_Ab9NWDZjA24EEztFQas49wW1x6kYzAfW43TORE",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
+                "Instance Storage": ""
+            },
+            "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM": {
+                "rateCode": "VDR9Q5ZWBB6QQPK6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1091000000",
+                "RegionlessRateCode": "n8f-sMatSnbtYzSkqealB4arYpQB5zcMLCwGshHHtXM",
+                "Memory": "",
+                "CPU": "",
+                "Term": "OnDemand",
+                "Unit": "DCU-Hr",
+                "Term Type": "OnDemand",
+                "Instance Type": "",
                 "Instance Storage": ""
             },
             "oJ0F2_U6XeJUc0E6FbsO0Gl46eawGdk0TdHBdsxbYxY": {

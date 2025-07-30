@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "dynamodb",
         "accessType": "publish",
-        "esIndex": "plc-dynamodb-usd-20250728223216",
-        "hawkFilePublicationDate": "2025-07-28T22:32:16Z",
-        "ETLIngestionTriggerDate": "2025-07-28T22:32:16Z",
+        "esIndex": "plc-dynamodb-usd-20250730173101",
+        "hawkFilePublicationDate": "2025-07-30T17:31:01Z",
+        "ETLIngestionTriggerDate": "2025-07-30T17:31:01Z",
         "currencyCode": "USD",
         "source": "dynamodb",
         "isMapped": "true"
@@ -2401,11 +2401,6 @@
                 "price": "0.0000006550",
                 "RegionlessRateCode": "8rn-mS6MIvx0tCMq4cpZKhmbM_Oz-r0pZftPYO7KtFs"
             },
-            "8rwwvCgHGpR4kIwOuEpNnlS1VbRmiMyf3JZ08xYUPKE": {
-                "rateCode": "YZP4AQ9WY9BYZ8PW.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0000001050",
-                "RegionlessRateCode": "8rwwvCgHGpR4kIwOuEpNnlS1VbRmiMyf3JZ08xYUPKE"
-            },
             "EyngCk5E8rOV_CWhXjUETa9RV_zc5ePnXczf7b26Xoc": {
                 "rateCode": "GUZX799RARNQ79CU.JRTCKXETXF.M9QGYPQ72M",
                 "price": "0.0000000000",
@@ -2560,11 +2555,6 @@
                 "rateCode": "48EREHW8FURVSNUZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000006550",
                 "RegionlessRateCode": "8rn-mS6MIvx0tCMq4cpZKhmbM_Oz-r0pZftPYO7KtFs"
-            },
-            "Change Data Capture Units for AWS Glue Elastic Views": {
-                "rateCode": "YZP4AQ9WY9BYZ8PW.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0000001050",
-                "RegionlessRateCode": "8rwwvCgHGpR4kIwOuEpNnlS1VbRmiMyf3JZ08xYUPKE"
             },
             "Streams Read Requests Free Tier": {
                 "rateCode": "GUZX799RARNQ79CU.JRTCKXETXF.M9QGYPQ72M",

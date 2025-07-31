@@ -1,3 +1,38 @@
+## 2025-07-31 17:27
+
+**Modified services:**
+
+- [rds-aurora-storage](processed/rds-aurora-storage.json)
+  - Region added for metric Aurora MySQL Data API requests 1000000000 Inf: EU (Spain) 🌎
+  - Region added for metric Aurora PostgreSQL Data API requests 0 1000000000: EU (Spain) 🌎
+  - Region added for metric Aurora PostgreSQL Data API requests 1000000000 Inf: EU (Spain) 🌎
+  - Region added for metric Aurora MySQL Data API requests 0 1000000000: EU (Spain) 🌎
+
+- [rds-db2-ondemand](processed/rds-db2-ondemand.json)
+  - Region added for metric 25sSLB_m3QRfEpFcPq_AFtyGZSO2BW8b-qjEh1_lDfg V1: EU (Spain) 🌎
+  - Region added for metric YC2z1H135AKG3T8HuQSui667rBkturvg0gjJTCoSG_8 V1: EU (Spain) 🌎
+
+- [rds-mysql-ondemand](processed/rds-mysql-ondemand.json)
+  - Region added for metric 25sSLB_m3QRfEpFcPq_AFtyGZSO2BW8b-qjEh1_lDfg V1: EU (Spain) 🌎
+  - Region added for metric YC2z1H135AKG3T8HuQSui667rBkturvg0gjJTCoSG_8 V1: EU (Spain) 🌎
+
+- [rds-postgresql-ondemand](processed/rds-postgresql-ondemand.json)
+  - Region added for metric 25sSLB_m3QRfEpFcPq_AFtyGZSO2BW8b-qjEh1_lDfg V1: EU (Spain) 🌎
+  - Region added for metric YC2z1H135AKG3T8HuQSui667rBkturvg0gjJTCoSG_8 V1: EU (Spain) 🌎
+
+- [rds-oracle-ondemand](processed/rds-oracle-ondemand.json)
+  - Region added for metric 25sSLB_m3QRfEpFcPq_AFtyGZSO2BW8b-qjEh1_lDfg V1: EU (Spain) 🌎
+  - Region added for metric YC2z1H135AKG3T8HuQSui667rBkturvg0gjJTCoSG_8 V1: EU (Spain) 🌎
+
+- [rds-mariadb-ondemand](processed/rds-mariadb-ondemand.json)
+  - Region added for metric 25sSLB_m3QRfEpFcPq_AFtyGZSO2BW8b-qjEh1_lDfg V2: EU (Spain) 🌎
+  - Region added for metric YC2z1H135AKG3T8HuQSui667rBkturvg0gjJTCoSG_8 V2: EU (Spain) 🌎
+
+- [rds-sqlserver-ondemand](processed/rds-sqlserver-ondemand.json)
+  - Region added for metric 25sSLB_m3QRfEpFcPq_AFtyGZSO2BW8b-qjEh1_lDfg V1: EU (Spain) 🌎
+  - Region added for metric YC2z1H135AKG3T8HuQSui667rBkturvg0gjJTCoSG_8 V1: EU (Spain) 🌎
+
+
 ## 2025-07-30 18:28
 
 **Modified services:**

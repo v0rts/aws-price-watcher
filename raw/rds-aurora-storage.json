@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "rds",
         "accessType": "publish",
-        "esIndex": "plc-rds-usd-20250728212709",
-        "hawkFilePublicationDate": "2025-07-28T21:27:09Z",
-        "ETLIngestionTriggerDate": "2025-07-28T21:27:09Z",
+        "esIndex": "plc-rds-usd-20250731164953",
+        "hawkFilePublicationDate": "2025-07-31T16:49:53Z",
+        "ETLIngestionTriggerDate": "2025-07-31T16:49:53Z",
         "currencyCode": "USD",
         "source": "rds-aurora-storage",
         "isMapped": "true"
@@ -7396,6 +7396,11 @@
                 "price": "0.1400000000",
                 "RegionlessRateCode": "1zCodd5aJWxEZWTrMnav-M1XXQrA3-JBwHQp8hwciKk"
             },
+            "25sSLB_m3QRfEpFcPq_AFtyGZSO2BW8b-qjEh1_lDfg": {
+                "rateCode": "E9P95RK4RVKYUDYP.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000003730",
+                "RegionlessRateCode": "25sSLB_m3QRfEpFcPq_AFtyGZSO2BW8b-qjEh1_lDfg"
+            },
             "2uCwpCO1at2JXMT8KwQWtltN2fXFW1lastL4ECXe6ZY": {
                 "rateCode": "KKKE36W34336P7XM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0440000000",
@@ -7465,6 +7470,11 @@
                 "rateCode": "CFYBNPVQC6C5EMVA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0173000000",
                 "RegionlessRateCode": "AV8pZjiNGWNgCVjOwL61QreClogTRMRC8DQNYlbSUU4"
+            },
+            "AfDbfU3l0MiPJcqUMTYbXGAceWwfAw5hGnT4pMsd6Oo": {
+                "rateCode": "WTW2NBM8VTJW732E.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000002130",
+                "RegionlessRateCode": "AfDbfU3l0MiPJcqUMTYbXGAceWwfAw5hGnT4pMsd6Oo"
             },
             "AmoRL6ZBcZJphnKlXLhXhCzQcrgAivuGkW9B2EW8joQ": {
                 "rateCode": "SN8FBJDKTWH7BDX3.JRTCKXETXF.6YS6EN2CT7",
@@ -7540,6 +7550,11 @@
                 "rateCode": "YRC5E8ZE6G6JU55B.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.4116000000",
                 "RegionlessRateCode": "K2uwPflyot9KqURCviUHpdUc3NtGbLnmlJ77qbG78bs"
+            },
+            "K4z8Z2l6FNkfDYtBVxB6NBf6T66b4lI2J9ITxzV1iaY": {
+                "rateCode": "ZZNZGPZY83BPJDVQ.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000003730",
+                "RegionlessRateCode": "K4z8Z2l6FNkfDYtBVxB6NBf6T66b4lI2J9ITxzV1iaY"
             },
             "L2eV3bSbbRw6JyGkWVPVaQtchvadsloyXxvgFIbnpK8": {
                 "rateCode": "YHNKJPP8MRR2TPY3.JRTCKXETXF.6YS6EN2CT7",
@@ -7630,6 +7645,11 @@
                 "rateCode": "P39RHWUDY3NXC2N6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0950000000",
                 "RegionlessRateCode": "X7WR1a03LtVoDwc99tCENDUwGte8j039A_XHteMkJRg"
+            },
+            "YC2z1H135AKG3T8HuQSui667rBkturvg0gjJTCoSG_8": {
+                "rateCode": "E9P95RK4RVKYUDYP.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000002130",
+                "RegionlessRateCode": "YC2z1H135AKG3T8HuQSui667rBkturvg0gjJTCoSG_8"
             },
             "Yf9-3KTZrqYWpQdnxq-s2_-aMOIN8ULTpNHxACDk3S4": {
                 "rateCode": "YP297SWCX6VYJW6Q.JRTCKXETXF.6YS6EN2CT7",
@@ -7731,6 +7751,11 @@
                 "price": "0.1120000000",
                 "RegionlessRateCode": "oCeym9OUuL1zCgsBxp8p8Jyy60-2qcdZ74BXPV_Df0Q"
             },
+            "oHOVMgjoC1SC3K84mUN6qb8XzVwtw18qKIoqkp2AJJY": {
+                "rateCode": "ZZNZGPZY83BPJDVQ.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000002130",
+                "RegionlessRateCode": "oHOVMgjoC1SC3K84mUN6qb8XzVwtw18qKIoqkp2AJJY"
+            },
             "p5mGUZFtg5bbzpy_cDxzf4TH-mk1gwACx2TPf2IDF30": {
                 "rateCode": "2RC47YKW7TG4R86R.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1900000000",
@@ -7755,6 +7780,11 @@
                 "rateCode": "R5RQKNCPXBA4A9EP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1380000000",
                 "RegionlessRateCode": "rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es"
+            },
+            "s6pCrQTqhLOU3Dzgv8KMEyZ4SfqCiNfXuUHKtl2FcDs": {
+                "rateCode": "WTW2NBM8VTJW732E.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000003730",
+                "RegionlessRateCode": "s6pCrQTqhLOU3Dzgv8KMEyZ4SfqCiNfXuUHKtl2FcDs"
             },
             "sK-u9vG_XISrMWZYIHHXC1-ufXdEjhBLoHORMIRA0YY": {
                 "rateCode": "DYY5PZVAWF6Y6QNX.JRTCKXETXF.6YS6EN2CT7",
@@ -7836,6 +7866,11 @@
                 "price": "0.0110000000",
                 "RegionlessRateCode": "6xf9ueo4K6LVsnNto9GmqcqnaadsCKOf2hssEnBjGuo"
             },
+            "Aurora MySQL Data API requests 1000000000 Inf": {
+                "rateCode": "WTW2NBM8VTJW732E.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000002130",
+                "RegionlessRateCode": "AfDbfU3l0MiPJcqUMTYbXGAceWwfAw5hGnT4pMsd6Oo"
+            },
             "Performance Insights Aurora MySQL ServerlessFMR ACU Months": {
                 "rateCode": "UNZT3AV27W46GMKW.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.4116000000",
@@ -7860,6 +7895,11 @@
                 "rateCode": "UCYDWAUSVX834JET.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2240000000",
                 "RegionlessRateCode": "GBHDSCKyIlx5XYwjBqtgnIP1znrd3IG95EGWXLHqZDA"
+            },
+            "Aurora PostgreSQL Data API requests 0 1000000000": {
+                "rateCode": "ZZNZGPZY83BPJDVQ.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000003730",
+                "RegionlessRateCode": "K4z8Z2l6FNkfDYtBVxB6NBf6T66b4lI2J9ITxzV1iaY"
             },
             "Storage Snapshot Aurora MySQL": {
                 "rateCode": "82KE5T3S76Z3QKFD.JRTCKXETXF.6YS6EN2CT7",
@@ -7946,6 +7986,11 @@
                 "price": "0.1120000000",
                 "RegionlessRateCode": "oCeym9OUuL1zCgsBxp8p8Jyy60-2qcdZ74BXPV_Df0Q"
             },
+            "Aurora PostgreSQL Data API requests 1000000000 Inf": {
+                "rateCode": "ZZNZGPZY83BPJDVQ.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000002130",
+                "RegionlessRateCode": "oHOVMgjoC1SC3K84mUN6qb8XzVwtw18qKIoqkp2AJJY"
+            },
             "Aurora MySQL ServerlessV2 Aurora IO Optimization Mode": {
                 "rateCode": "2RC47YKW7TG4R86R.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1900000000",
@@ -7955,6 +8000,11 @@
                 "rateCode": "CZY2YK2T3R62MEWW.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1900000000",
                 "RegionlessRateCode": "rQZjz5OLRhhuXgbrz559iOxx5O74EUj2gNCrgB3lez8"
+            },
+            "Aurora MySQL Data API requests 0 1000000000": {
+                "rateCode": "WTW2NBM8VTJW732E.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000003730",
+                "RegionlessRateCode": "s6pCrQTqhLOU3Dzgv8KMEyZ4SfqCiNfXuUHKtl2FcDs"
             },
             "Aurora PostgreSQL Year 3 12": {
                 "rateCode": "FNDU26MNCA8SB233.JRTCKXETXF.6YS6EN2CT7",

@@ -1,3 +1,25 @@
+## 2025-07-31 19:26
+
+**Modified services:**
+
+- [kinesisvideo](processed/kinesisvideo.json)
+  - Region added for metric Data consumed from Kinesis Video Streams for HLS Fragment based per GB: Middle East (Bahrain) 🌎
+  - Region added for metric Per million images generated getImages 1080p or lower resolution per Images Processed: Middle East (Bahrain) 🌎
+  - Region added for metric Per minute of media stream recorded into Kinesis Video Streams via WebRTC per Minute: Middle East (Bahrain) 🌎
+  - Region added for metric Per million images generated S3 Delivery 1080p or lower resolution per Images Processed: Middle East (Bahrain) 🌎
+  - Region added for metric Per GB Month of Data stored in Kinesis Video Streams per GB-Month: Middle East (Bahrain) 🌎
+  - Region added for metric Per million images generated S3 Delivery greater than 1080p resolution per Images Processed: Middle East (Bahrain) 🌎
+  - Region added for metric Per million signaling messages per Messages: Middle East (Bahrain) 🌎
+  - Region added for metric Data consumed from Kinesis Video Streams Fragment based per GB: Middle East (Bahrain) 🌎
+  - Region added for metric Data ingested into Kinesis Video Streams per GB: Middle East (Bahrain) 🌎
+  - Region added for metric Data consumed from Kinesis Video Streams for HLS per GB: Middle East (Bahrain) 🌎
+  - Region added for metric Data consumed from Kinesis Video Streams per GB: Middle East (Bahrain) 🌎
+  - Region added for metric Per thousand TURN streaming minutes per minutes: Middle East (Bahrain) 🌎
+  - Region added for metric Per million images generated getImages greater than 1080p resolution per Images Processed: Middle East (Bahrain) 🌎
+  - Region added for metric GetClip per GB: Middle East (Bahrain) 🌎
+  - Region added for metric Per month for an active signaling channel per Count: Middle East (Bahrain) 🌎
+
+
 ## 2025-07-31 17:27
 
 **Modified services:**

@@ -1,3 +1,166 @@
+## 2025-08-04 17:27
+
+**Modified services:**
+
+- [lightsail](processed/lightsail.json)
+  - Region added for metric [Lightsail unused static IP up to 1] Lightsail unused static IP From 0 to 1 Hrs: Asia Pacific (Jakarta) 🌎
+  - Region added for metric [Lightsail unused static IP up to Inf] Lightsail unused static IP From 1 to Inf Hrs: Asia Pacific (Jakarta) 🌎
+  - Region added for metric [Lightsail Overages Storage250GB-Storage-Overage per GB-Mo] Lightsail Overages Storage250GB-Storage-Overage per GB-Mo: Asia Pacific (Jakarta) 🌎
+  - Region added for metric [Lightsail Overages Storage100GB-Storage-Overage per GB-Mo] Lightsail Overages Storage100GB-Storage-Overage per GB-Mo: Asia Pacific (Jakarta) 🌎
+  - Region added for metric [Lightsail Overages Storage5GB-Storage-Overage per GB-Mo] Lightsail Overages Storage5GB-Storage-Overage per GB-Mo: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Jiqgtr0CODgwB1_JVuPVs0L1ldkizJ9P5WrZIS_suQs V5: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric fkAspT3lHcDWmYXSSxCKEFNP-ze0hvF42S5axk9sFL4 V5: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V5: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric wwIHQTDE9pfWg4nCt5MtjchT4EytvtDQ4-ctM5Opunc V5: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k V6: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8: Asia Pacific (Jakarta) 🌎
+  - Region added for metric AEKo_8Lj4fgynFWOn2vc3VATcC4aSaH6a5C5IqBXH_4 V8: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Hhpmp-t5l18EaP5EJD8a1YzG_Z7T6YUl8K3xgkCAFv8 V8: Asia Pacific (Jakarta) 🌎
+  - Region added for metric WxtlzEltMHqLK_bFXA7XG-HuQ9WXhnaLzOjlWZ2bye0 V8: Asia Pacific (Jakarta) 🌎
+  - Region added for metric f9zmiZgRPWxoBmi-0SBLHKuzgFTsnpkpSyfXXU7trGI V8: Asia Pacific (Jakarta) 🌎
+  - Region added for metric lR6TmxtbyJmn2D189fpQwiu3VRfp3HeHn6r2NOtBbCM V8: Asia Pacific (Jakarta) 🌎
+  - Region added for metric o_H-_xox4-6TPFpP12eEhaxj6SVG6yat6ZrB8cfrwuI V8: Asia Pacific (Jakarta) 🌎
+  - Region added for metric qqmnjSa3vJrHO1JwKX5t2dbVscwYW-nNisLMPFG7Jsw V8: Asia Pacific (Jakarta) 🌎
+  - Region added for metric -0J5gHHIegu3RKgkjysBnLpg6y1Xz3ktyBk1KvxySbo V9: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric -2SoK2mj61PNTgtUdnd6vMNMvAIi-Sl3os8kEW3yI2k V9: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric 02B--Uy9Revx01MoU9FUEdBJpsnEL33EuBCAjXG4O7M V9: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric 3dYagOSzJzsWjO5kSC9k-WgMVZ4DY7qiFL6kFUAuhy0 V9: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric 3eNOkJmbiZUjqiSeA2wCTvTjB4pbkBmHAs_IP7i_G7M V9: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 20GB, Transfer: 0.5TB) 🌎
+  - Region added for metric AgOTOM3avnmTLW7jEXzmNikPEpV5EhJcWjmSyrEog9Q V9: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric BcLWr0xUAWZ5lHzSJGxpvlhdbJnPY11bPpGwl0WHpSc V9: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric ISuqZP5HCM0J3qxBqQo2GdDbRq8LytzfcOxeiB_TPfU V9: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric _3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 20GB, Transfer: 0.5TB) 🌎
+  - Region added for metric _N62jm4YFpkYttK8gPUqFtMEKtK6lth2wUmW2_E6Wis V9: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric _kUrNyS7Tx5g4Oj-0i2EoEwdYBSThx29GOIjVci00G4 V9: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric _lGgbDkVkIYMWBT1tKx1uAnowwqaWcBv_Mha2dWU43M V9: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric _w5Wvf_S5lUiGY00IR9XrcmAvyjA4H7LG9Goo2Ca9Xg V9: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 30GB, Transfer: 0.5TB) 🌎
+  - Region added for metric dCduSbqyzlo67lZnRm7cRAQh0m9x9XQyslpIVibjKAI V9: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric e-yA6P05Dg3mrOmc9rDWjWtNmUUHTvvD3VfakCzR2W4 V9: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric i1AI3xPRNjlfW3asSeG53IRuW3EQckaJ6h2YGffAT2w V9: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric iJEC_edQGxmWdSEiXYmMQFW_O6H1XG7or3BUq8artYI V9: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric iLDvw9hVFWm6zN5hbgRYDA6yRgVD1Bt6sy6yz2oWvhQ V9: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric iszekLSDxCdnVIJ7Tdf79GKXOfZqXMLxDtZhAZSqQZE V9: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric iuGR8EIzGUxdoC5QMieVbRnM9FN2ct1mJXxdC2ABj9Q V9: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric jMBDDrop1bG9g2-WvGQLTLSmgT--mYYKLUQPjCPqL7Y V9: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 30GB, Transfer: 0.5TB) 🌎
+  - Region added for metric luW5vElNCR0Wb8zFkD_9UdAQnqcfAEGPuuChliA5JYo V9: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric p_jgu6EGYvtRX_nNNb4K-3Vmfy00k5ha0t9IqycqZRU V9: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric xNW7mRNxsTdnZkKY62ENVceWSX8Ts8wRBjPd4ULp5Mo V9: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric xgc8Bx5oGfmYAgNusTgMKzSzc8cq0IRhcEBLAucaQOo V9: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric 7p21NArSYcBZ66ZyTT0iWa7zJ1yDUON2auJTw5EOtNo V10: Asia Pacific (Jakarta) 🌎
+  - Region added for metric AESHnrUUckh6K-Cj0-vWc1R8lJdrOY0yh1VbUGBTTzQ V10: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Ts4GBKMpkhoEPVTGS7cu9vRZY_X9je4ZFLQmmEA_Res V10: Asia Pacific (Jakarta) 🌎
+  - Region added for metric XQiTZQoypduSYheOpSTH0v6IK-PfL5ZrXtYe2qJG7WM V10: Asia Pacific (Jakarta) 🌎
+  - Region added for metric bwTfjuTIaNx5bov0anT0-bKV5mR9OsObakQiV1UTa9g V10: Asia Pacific (Jakarta) 🌎
+  - Region added for metric c41EA6JbOeRRK2YP4aD5zHzSAByaafY_P0ZHHc0TWpA V10: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Load Balancer per Hrs: Asia Pacific (Jakarta) (Group: Lightsail Load Balancer) 🌎
+  - Region added for metric Lightsail Block Storage per GB-Mo: Asia Pacific (Jakarta) (Group: Lightsail Block Storage) 🌎
+  - Region added for metric Lightsail Snapshot per GB-Mo: Asia Pacific (Jakarta) (Group: Lightsail Snapshot) 🌎
+  - Region added for metric Lightsail Instance Snapshot per GB-Mo: Asia Pacific (Jakarta) (Group: Lightsail Instance Snapshot) 🌎
+  - Region added for metric Storage 250GB Data Transfer Outbound to Global: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric Storage 500GB Data Transfer Outbound to Global: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric Data Transfer Outbound to Global: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric DataTransfer Outbound: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric Storage 25GB Data Transfer Outbound to Global: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric Data Transfer Inbound to Asia Pacific Mumbai: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Data Transfer Inbound to Asia Pacific Seoul: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Data Transfer Inbound to Asia Pacific Singapore: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Data Transfer Inbound to Asia Pacific Sydney: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Data Transfer Inbound to Asia Pacific Tokyo: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Data Transfer Inbound to Canada Central: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Data Transfer Inbound to EU Frankfurt: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Data Transfer Inbound to EU Ireland: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Data Transfer Inbound to EU London: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Data Transfer Inbound to EU Paris: Asia Pacific (Jakarta) 🌎
+  - Region added for metric DataTransfer Inbound: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Database High Availability 80GB Storage 1 vCPU 2GB Memory 0 1TB Quota: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Database High Availability 40GB Storage 1 vCPU 1GB Memory 0 1TB Quota: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Database Standard Availability 40GB Storage 1 vCPU 1GB Memory 0 1TB Quota: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Database Standard Availability 80GB Storage 1 vCPU 2GB Memory 0 1TB Quota: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Database High Availability 240GB Storage 2 vCPU 8GB Memory 0 2TB Quota: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Database High Availability 120GB Storage 2 vCPU 4GB Memory 0 1TB Quota: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Database Standard Availability 120GB Storage 2 vCPU 4GB Memory 0 1TB Quota: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Database Standard Availability 240GB Storage 2 vCPU 8GB Memory 0 2TB Quota: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Instance Bundle 16GB IPv6 Windows 320GB Storage 4 vCPU 16GB Memory 6TB Quota: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 4GB Linux 80GB Storage 2 vCPU 4GB Memory 4TB Quota: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 2GB IPv6 Windows 60GB Storage 2 vCPU 2GB Memory 3TB Quota: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 32GB Windows 640GB Storage 8 vCPU 32GB Memory 7TB Quota: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 0 5GB IPv6 Linux 20GB Storage 2 vCPU 0.5GB Memory 1TB Quota: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 20GB, Transfer: 0.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 8GB Windows 160GB Storage 2 vCPU 8GB Memory 5TB Quota: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 2GB IPv6 Linux 60GB Storage 2 vCPU 2GB Memory 3TB Quota: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 2GB Windows 60GB Storage 2 vCPU 2GB Memory 3TB Quota: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 64GB Windows 1280GB Storage 16 vCPU 64GB Memory 8TB Quota: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 64GB IPv6 Linux 1280GB Storage 16 vCPU 64GB Memory 8TB Quota: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 2GB Linux 60GB Storage 2 vCPU 2GB Memory 3TB Quota: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 1GB Linux 40GB Storage 2 vCPU 1GB Memory 2TB Quota: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 0 5GB Linux 20GB Storage 2 vCPU 0.5GB Memory 1TB Quota: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 20GB, Transfer: 0.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 32GB IPv6 Windows 640GB Storage 8 vCPU 32GB Memory 7TB Quota: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 16GB IPv6 Linux 320GB Storage 4 vCPU 16GB Memory 6TB Quota: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 8GB Linux 160GB Storage 2 vCPU 8GB Memory 5TB Quota: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 0 5GB IPv6 Windows 30GB Storage 2 vCPU 0.5GB Memory 1TB Quota: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 30GB, Transfer: 0.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 4GB IPv6 Windows 80GB Storage 2 vCPU 4GB Memory 4TB Quota: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 1GB Windows 40GB Storage 2 vCPU 1GB Memory 2TB Quota: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 64GB Linux 1280GB Storage 16 vCPU 64GB Memory 8TB Quota: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 16GB Windows 320GB Storage 4 vCPU 16GB Memory 6TB Quota: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 8GB IPv6 Linux 160GB Storage 2 vCPU 8GB Memory 5TB Quota: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 8GB IPv6 Windows 160GB Storage 2 vCPU 8GB Memory 5TB Quota: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 4GB Windows 80GB Storage 2 vCPU 4GB Memory 4TB Quota: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 1GB IPv6 Windows 40GB Storage 2 vCPU 1GB Memory 2TB Quota: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 32GB Linux 640GB Storage 8 vCPU 32GB Memory 7TB Quota: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 0 5GB Windows 30GB Storage 2 vCPU 0.5GB Memory 1TB Quota: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 30GB, Transfer: 0.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 1GB IPv6 Linux 40GB Storage 2 vCPU 1GB Memory 2TB Quota: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 4GB IPv6 Linux 80GB Storage 2 vCPU 4GB Memory 4TB Quota: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 32GB IPv6 Linux 640GB Storage 8 vCPU 32GB Memory 7TB Quota: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 16GB Linux 320GB Storage 4 vCPU 16GB Memory 6TB Quota: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 64GB IPv6 Windows 1280GB Storage 16 vCPU 64GB Memory 8TB Quota: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric Lightsail Containers Linux Micro 0 25 1GB 500GB: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Containers Linux Nano 0 25 0.5GB 500GB: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Containers Linux Medium 1 2GB 500GB: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Containers Linux XLarge 4 8GB 500GB: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Containers Linux Small 0 5 1GB 500GB: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Lightsail Containers Linux Large 2 4GB 500GB: Asia Pacific (Jakarta) 🌎
+  - Region added for metric rNso4IOQXPdGmKopvUHb61yG0tuVAmJPACH3Y_dDXdc V5: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric ContainerSvc Data Transfer Outbound to Global: Asia Pacific (Jakarta) (To Location: Global, From Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric Lightsail Instance Bundle 16GB IPv6 Windows 320GB Storage 4 vCPU 16GB Memory 3TB Quota: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 4GB Linux 80GB Storage 2 vCPU 4GB Memory 2TB Quota: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 2GB IPv6 Windows 60GB Storage 2 vCPU 2GB Memory 1 5TB Quota: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 32GB Windows 640GB Storage 8 vCPU 32GB Memory 3 5TB Quota: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 0 5GB IPv6 Linux 20GB Storage 2 vCPU 0.5GB Memory 0.5TB Quota: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 20GB, Transfer: 0.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 8GB Windows 160GB Storage 2 vCPU 8GB Memory 2 5TB Quota: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 2GB IPv6 Linux 60GB Storage 2 vCPU 2GB Memory 1 5TB Quota: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 2GB Windows 60GB Storage 2 vCPU 2GB Memory 1 5TB Quota: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 64GB Windows 1280GB Storage 16 vCPU 64GB Memory 4TB Quota: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 64GB IPv6 Linux 1280GB Storage 16 vCPU 64GB Memory 4TB Quota: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 2GB Linux 60GB Storage 2 vCPU 2GB Memory 1 5TB Quota: Asia Pacific (Jakarta) (Memory: 2GB, Processor: 2, Storage: 60GB, Transfer: 1.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 1GB Linux 40GB Storage 2 vCPU 1GB Memory 1TB Quota: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 0 5GB Linux 20GB Storage 2 vCPU 0.5GB Memory 0.5TB Quota: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 20GB, Transfer: 0.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 32GB IPv6 Windows 640GB Storage 8 vCPU 32GB Memory 3 5TB Quota: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 16GB IPv6 Linux 320GB Storage 4 vCPU 16GB Memory 3TB Quota: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 8GB Linux 160GB Storage 2 vCPU 8GB Memory 2 5TB Quota: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 0 5GB IPv6 Windows 30GB Storage 2 vCPU 0.5GB Memory 0.5TB Quota: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 30GB, Transfer: 0.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 4GB IPv6 Windows 80GB Storage 2 vCPU 4GB Memory 2TB Quota: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 1GB Windows 40GB Storage 2 vCPU 1GB Memory 1TB Quota: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 64GB Linux 1280GB Storage 16 vCPU 64GB Memory 4TB Quota: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 16GB Windows 320GB Storage 4 vCPU 16GB Memory 3TB Quota: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 8GB IPv6 Linux 160GB Storage 2 vCPU 8GB Memory 2 5TB Quota: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 8GB IPv6 Windows 160GB Storage 2 vCPU 8GB Memory 2 5TB Quota: Asia Pacific (Jakarta) (Memory: 8GB, Processor: 2, Storage: 160GB, Transfer: 2.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 4GB Windows 80GB Storage 2 vCPU 4GB Memory 2TB Quota: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 1GB IPv6 Windows 40GB Storage 2 vCPU 1GB Memory 1TB Quota: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 32GB Linux 640GB Storage 8 vCPU 32GB Memory 3 5TB Quota: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 0 5GB Windows 30GB Storage 2 vCPU 0.5GB Memory 0.5TB Quota: Asia Pacific (Jakarta) (Memory: 0.5GB, Processor: 2, Storage: 30GB, Transfer: 0.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 1GB IPv6 Linux 40GB Storage 2 vCPU 1GB Memory 1TB Quota: Asia Pacific (Jakarta) (Memory: 1GB, Processor: 2, Storage: 40GB, Transfer: 1TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 4GB IPv6 Linux 80GB Storage 2 vCPU 4GB Memory 2TB Quota: Asia Pacific (Jakarta) (Memory: 4GB, Processor: 2, Storage: 80GB, Transfer: 2TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 32GB IPv6 Linux 640GB Storage 8 vCPU 32GB Memory 3 5TB Quota: Asia Pacific (Jakarta) (Memory: 32GB, Processor: 8, Storage: 640GB, Transfer: 3.5TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 16GB Linux 320GB Storage 4 vCPU 16GB Memory 3TB Quota: Asia Pacific (Jakarta) (Memory: 16GB, Processor: 4, Storage: 320GB, Transfer: 3TB) 🌎
+  - Region added for metric Lightsail Instance Bundle 64GB IPv6 Windows 1280GB Storage 16 vCPU 64GB Memory 4TB Quota: Asia Pacific (Jakarta) (Memory: 64GB, Processor: 16, Storage: 1280GB, Transfer: 4TB) 🌎
+
+
 ## 2025-08-04 15:28
 
 **Modified services:**

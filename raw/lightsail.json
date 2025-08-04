@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lightsail",
         "accessType": "publish",
-        "esIndex": "plc-lightsail-usd-20250711182457",
-        "hawkFilePublicationDate": "2025-04-15T17:18:03Z",
-        "ETLIngestionTriggerDate": "2025-07-11T18:24:57Z",
+        "esIndex": "plc-lightsail-usd-20250804171842",
+        "hawkFilePublicationDate": "2025-08-04T17:18:42Z",
+        "ETLIngestionTriggerDate": "2025-08-04T17:18:42Z",
         "currencyCode": "USD",
         "source": "lightsail",
         "isMapped": "true"
@@ -16313,6 +16313,1247 @@
             },
             "Lightsail Containers Linux Large 2 4GB 500GB": {
                 "rateCode": "BDPNF6Z7MZR7D29M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1075268820",
+                "RegionlessRateCode": "c41EA6JbOeRRK2YP4aD5zHzSAByaafY_P0ZHHc0TWpA"
+            }
+        },
+        "Asia Pacific (Jakarta)": {
+            "CabX8Hjf1w0XUslzmJCXVG3b4LnxcJWzql1T0e-YEpY": {
+                "rateCode": "D53PDK34VBWYRREH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0241935480",
+                "RegionlessRateCode": "CabX8Hjf1w0XUslzmJCXVG3b4LnxcJWzql1T0e-YEpY",
+                "Group": "Lightsail Load Balancer"
+            },
+            "SMiRAyMrLfLUAxmE9FpqMtTl3U5WXZWPnb7_LNLHoyw": {
+                "rateCode": "A94VBPGS6ZMSQ6J4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "SMiRAyMrLfLUAxmE9FpqMtTl3U5WXZWPnb7_LNLHoyw",
+                "Group": "Lightsail Block Storage"
+            },
+            "d75szBtI0nYRHXTQhn6IUURJtTbVXlx5TLw_Bto11so": {
+                "rateCode": "52APD842Q9QKYEDC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "d75szBtI0nYRHXTQhn6IUURJtTbVXlx5TLw_Bto11so",
+                "Group": "Lightsail Snapshot"
+            },
+            "lZgEi4VFXIbNqqK2LUrTVhPXctP1yN5R19Q1soV9cbU": {
+                "rateCode": "PHN2VRXS5VUESD5G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "lZgEi4VFXIbNqqK2LUrTVhPXctP1yN5R19Q1soV9cbU",
+                "Group": "Lightsail Instance Snapshot"
+            },
+            "eBPhX5La7B2nbgmnKUsRxLn-vatLUPbSfdfq_f9xsTc V2": {
+                "rateCode": "66K4TM36USNU9DQV.JRTCKXETXF.8EEUB22XNJ",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eBPhX5La7B2nbgmnKUsRxLn-vatLUPbSfdfq_f9xsTc"
+            },
+            "mNzkAinuSH6OgRl8youPA8v1NIINV_baA4rvT6wNEF4 V2": {
+                "rateCode": "66K4TM36USNU9DQV.JRTCKXETXF.JTU8TKNAMW",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "mNzkAinuSH6OgRl8youPA8v1NIINV_baA4rvT6wNEF4"
+            },
+            "4leES2DAuhfz-Mq9f6h-9jlFYVyyUm8OWSy6Pcajj-g V3": {
+                "rateCode": "QJEVKCW53SYYT9E9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000",
+                "RegionlessRateCode": "4leES2DAuhfz-Mq9f6h-9jlFYVyyUm8OWSy6Pcajj-g"
+            },
+            "O0z5xui9yTtSuXeYTKLe1FzAJpXS7IEQMu3JMv6Jpkw V3": {
+                "rateCode": "CTWJFWNQ7QRUQ34Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000",
+                "RegionlessRateCode": "O0z5xui9yTtSuXeYTKLe1FzAJpXS7IEQMu3JMv6Jpkw"
+            },
+            "O4qPyC7o6NYC-cmme1WalL9h3U0F6A81BESul2lqd2g V3": {
+                "rateCode": "RMK7CRYAREDHDW8C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000",
+                "RegionlessRateCode": "O4qPyC7o6NYC-cmme1WalL9h3U0F6A81BESul2lqd2g"
+            },
+            "Jiqgtr0CODgwB1_JVuPVs0L1ldkizJ9P5WrZIS_suQs V5": {
+                "rateCode": "GU6ED8EZ8VV7EEWQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "Jiqgtr0CODgwB1_JVuPVs0L1ldkizJ9P5WrZIS_suQs",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "fkAspT3lHcDWmYXSSxCKEFNP-ze0hvF42S5axk9sFL4 V5": {
+                "rateCode": "QPN69H682NKFKFT9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "fkAspT3lHcDWmYXSSxCKEFNP-ze0hvF42S5axk9sFL4",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V5": {
+                "rateCode": "MM3JNGP5RY4HJRUT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "rNso4IOQXPdGmKopvUHb61yG0tuVAmJPACH3Y_dDXdc V5": {
+                "rateCode": "GDEM6PJGKB8FZRD2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "rNso4IOQXPdGmKopvUHb61yG0tuVAmJPACH3Y_dDXdc",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "wwIHQTDE9pfWg4nCt5MtjchT4EytvtDQ4-ctM5Opunc V5": {
+                "rateCode": "PPEBR4AGM8HJ3GT8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "wwIHQTDE9pfWg4nCt5MtjchT4EytvtDQ4-ctM5Opunc",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k V6": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
+                "rateCode": "DMMYYRFE3K5C99SY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0806500000",
+                "RegionlessRateCode": "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE"
+            },
+            "AEKo_8Lj4fgynFWOn2vc3VATcC4aSaH6a5C5IqBXH_4 V8": {
+                "rateCode": "JMEUAVG4GHWCC45X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0403200000",
+                "RegionlessRateCode": "AEKo_8Lj4fgynFWOn2vc3VATcC4aSaH6a5C5IqBXH_4"
+            },
+            "Hhpmp-t5l18EaP5EJD8a1YzG_Z7T6YUl8K3xgkCAFv8 V8": {
+                "rateCode": "QT3MUCTYVPCWGK5G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0201600000",
+                "RegionlessRateCode": "Hhpmp-t5l18EaP5EJD8a1YzG_Z7T6YUl8K3xgkCAFv8"
+            },
+            "WxtlzEltMHqLK_bFXA7XG-HuQ9WXhnaLzOjlWZ2bye0 V8": {
+                "rateCode": "PCCD75N5ZBAVEKYW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0403200000",
+                "RegionlessRateCode": "WxtlzEltMHqLK_bFXA7XG-HuQ9WXhnaLzOjlWZ2bye0"
+            },
+            "f9zmiZgRPWxoBmi-0SBLHKuzgFTsnpkpSyfXXU7trGI V8": {
+                "rateCode": "7PTF4KSU5878T2VG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3091400000",
+                "RegionlessRateCode": "f9zmiZgRPWxoBmi-0SBLHKuzgFTsnpkpSyfXXU7trGI"
+            },
+            "lR6TmxtbyJmn2D189fpQwiu3VRfp3HeHn6r2NOtBbCM V8": {
+                "rateCode": "V442MJ4YEZTKJEM4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1612900000",
+                "RegionlessRateCode": "lR6TmxtbyJmn2D189fpQwiu3VRfp3HeHn6r2NOtBbCM"
+            },
+            "o_H-_xox4-6TPFpP12eEhaxj6SVG6yat6ZrB8cfrwuI V8": {
+                "rateCode": "VP8Y6TMWKXRB5MED.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0806500000",
+                "RegionlessRateCode": "o_H-_xox4-6TPFpP12eEhaxj6SVG6yat6ZrB8cfrwuI"
+            },
+            "qqmnjSa3vJrHO1JwKX5t2dbVscwYW-nNisLMPFG7Jsw V8": {
+                "rateCode": "HG2FJ2J26AR2CBPH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1545700000",
+                "RegionlessRateCode": "qqmnjSa3vJrHO1JwKX5t2dbVscwYW-nNisLMPFG7Jsw"
+            },
+            "-0J5gHHIegu3RKgkjysBnLpg6y1Xz3ktyBk1KvxySbo V9": {
+                "rateCode": "MUCWHN9QRTS2YWZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1612900000",
+                "RegionlessRateCode": "-0J5gHHIegu3RKgkjysBnLpg6y1Xz3ktyBk1KvxySbo",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "-2SoK2mj61PNTgtUdnd6vMNMvAIi-Sl3os8kEW3yI2k V9": {
+                "rateCode": "74JT2SFDQRYPVPUN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0322500000",
+                "RegionlessRateCode": "-2SoK2mj61PNTgtUdnd6vMNMvAIi-Sl3os8kEW3yI2k",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "02B--Uy9Revx01MoU9FUEdBJpsnEL33EuBCAjXG4O7M V9": {
+                "rateCode": "UTNZRCYS3NJHVAZD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0268800000",
+                "RegionlessRateCode": "02B--Uy9Revx01MoU9FUEdBJpsnEL33EuBCAjXG4O7M",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "3dYagOSzJzsWjO5kSC9k-WgMVZ4DY7qiFL6kFUAuhy0 V9": {
+                "rateCode": "FWDJ7JZFCEE8KEHA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3279500000",
+                "RegionlessRateCode": "3dYagOSzJzsWjO5kSC9k-WgMVZ4DY7qiFL6kFUAuhy0",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "3eNOkJmbiZUjqiSeA2wCTvTjB4pbkBmHAs_IP7i_G7M V9": {
+                "rateCode": "VYTRNXAGUA2QANYC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0047000000",
+                "RegionlessRateCode": "3eNOkJmbiZUjqiSeA2wCTvTjB4pbkBmHAs_IP7i_G7M",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "20GB",
+                "Transfer": "0.5TB"
+            },
+            "AgOTOM3avnmTLW7jEXzmNikPEpV5EhJcWjmSyrEog9Q V9": {
+                "rateCode": "Z6RT4HEAJ33UU6XP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0994600000",
+                "RegionlessRateCode": "AgOTOM3avnmTLW7jEXzmNikPEpV5EhJcWjmSyrEog9Q",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "BcLWr0xUAWZ5lHzSJGxpvlhdbJnPY11bPpGwl0WHpSc V9": {
+                "rateCode": "PTXH8TJQ4UBM64PY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0134400000",
+                "RegionlessRateCode": "BcLWr0xUAWZ5lHzSJGxpvlhdbJnPY11bPpGwl0WHpSc",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
+                "rateCode": "SHR988CU7KSD6BKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0295600000",
+                "RegionlessRateCode": "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "ISuqZP5HCM0J3qxBqQo2GdDbRq8LytzfcOxeiB_TPfU V9": {
+                "rateCode": "Q32XFJHX2F96UAJ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7715000000",
+                "RegionlessRateCode": "ISuqZP5HCM0J3qxBqQo2GdDbRq8LytzfcOxeiB_TPfU",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
+                "rateCode": "YEBHU49NPBKDEGB4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5107500000",
+                "RegionlessRateCode": "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
+                "rateCode": "E8W3AFXTTGBXRE8F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0161200000",
+                "RegionlessRateCode": "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
+                "rateCode": "KDUMC9TW37CXEFAR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0094000000",
+                "RegionlessRateCode": "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
+                "rateCode": "GBK6MH86NA8HS6W3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0067200000",
+                "RegionlessRateCode": "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "20GB",
+                "Transfer": "0.5TB"
+            },
+            "_N62jm4YFpkYttK8gPUqFtMEKtK6lth2wUmW2_E6Wis V9": {
+                "rateCode": "89PF3PXFWTQDV2QR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3225800000",
+                "RegionlessRateCode": "_N62jm4YFpkYttK8gPUqFtMEKtK6lth2wUmW2_E6Wis",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "_kUrNyS7Tx5g4Oj-0i2EoEwdYBSThx29GOIjVci00G4 V9": {
+                "rateCode": "3Y98RMDZWR7ERVGR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1075200000",
+                "RegionlessRateCode": "_kUrNyS7Tx5g4Oj-0i2EoEwdYBSThx29GOIjVci00G4",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "_lGgbDkVkIYMWBT1tKx1uAnowwqaWcBv_Mha2dWU43M V9": {
+                "rateCode": "XY2S7MT3QGFRP8RV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0591300000",
+                "RegionlessRateCode": "_lGgbDkVkIYMWBT1tKx1uAnowwqaWcBv_Mha2dWU43M",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "_w5Wvf_S5lUiGY00IR9XrcmAvyjA4H7LG9Goo2Ca9Xg V9": {
+                "rateCode": "HA6GJRG65DDNXYNK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0107500000",
+                "RegionlessRateCode": "_w5Wvf_S5lUiGY00IR9XrcmAvyjA4H7LG9Goo2Ca9Xg",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "30GB",
+                "Transfer": "0.5TB"
+            },
+            "dCduSbqyzlo67lZnRm7cRAQh0m9x9XQyslpIVibjKAI V9": {
+                "rateCode": "Y83XER76ZNSCAC2S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0537600000",
+                "RegionlessRateCode": "dCduSbqyzlo67lZnRm7cRAQh0m9x9XQyslpIVibjKAI",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "e-yA6P05Dg3mrOmc9rDWjWtNmUUHTvvD3VfakCzR2W4 V9": {
+                "rateCode": "N7PQ29M54CW9UM6F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0188100000",
+                "RegionlessRateCode": "e-yA6P05Dg3mrOmc9rDWjWtNmUUHTvvD3VfakCzR2W4",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
+                "rateCode": "PKRNX6392N75833K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5161200000",
+                "RegionlessRateCode": "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "i1AI3xPRNjlfW3asSeG53IRuW3EQckaJ6h2YGffAT2w V9": {
+                "rateCode": "849U729A8HN64SNY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1666600000",
+                "RegionlessRateCode": "i1AI3xPRNjlfW3asSeG53IRuW3EQckaJ6h2YGffAT2w",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "iJEC_edQGxmWdSEiXYmMQFW_O6H1XG7or3BUq8artYI V9": {
+                "rateCode": "777MPK9KKFH5ZFHT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0537600000",
+                "RegionlessRateCode": "iJEC_edQGxmWdSEiXYmMQFW_O6H1XG7or3BUq8artYI",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "iLDvw9hVFWm6zN5hbgRYDA6yRgVD1Bt6sy6yz2oWvhQ V9": {
+                "rateCode": "82BUYY7SS9KUSHK8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0940800000",
+                "RegionlessRateCode": "iLDvw9hVFWm6zN5hbgRYDA6yRgVD1Bt6sy6yz2oWvhQ",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "iszekLSDxCdnVIJ7Tdf79GKXOfZqXMLxDtZhAZSqQZE V9": {
+                "rateCode": "6XXBS2T2982DZ9Y9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0591300000",
+                "RegionlessRateCode": "iszekLSDxCdnVIJ7Tdf79GKXOfZqXMLxDtZhAZSqQZE",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "iuGR8EIzGUxdoC5QMieVbRnM9FN2ct1mJXxdC2ABj9Q V9": {
+                "rateCode": "ESHC65KUJYSH4AD2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0161200000",
+                "RegionlessRateCode": "iuGR8EIzGUxdoC5QMieVbRnM9FN2ct1mJXxdC2ABj9Q",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "jMBDDrop1bG9g2-WvGQLTLSmgT--mYYKLUQPjCPqL7Y V9": {
+                "rateCode": "38CN5AW4YCV7KSNF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2204300000",
+                "RegionlessRateCode": "jMBDDrop1bG9g2-WvGQLTLSmgT--mYYKLUQPjCPqL7Y",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
+                "rateCode": "3C9NMNTAB75HZSVD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0127600000",
+                "RegionlessRateCode": "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "30GB",
+                "Transfer": "0.5TB"
+            },
+            "luW5vElNCR0Wb8zFkD_9UdAQnqcfAEGPuuChliA5JYo V9": {
+                "rateCode": "TTF7JKMV4DZPVWXT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0067200000",
+                "RegionlessRateCode": "luW5vElNCR0Wb8zFkD_9UdAQnqcfAEGPuuChliA5JYo",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "p_jgu6EGYvtRX_nNNb4K-3Vmfy00k5ha0t9IqycqZRU V9": {
+                "rateCode": "ZEM976AKDN5A4ASH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0268800000",
+                "RegionlessRateCode": "p_jgu6EGYvtRX_nNNb4K-3Vmfy00k5ha0t9IqycqZRU",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
+                "rateCode": "PM74DW4KERFXEXND.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2150500000",
+                "RegionlessRateCode": "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "xNW7mRNxsTdnZkKY62ENVceWSX8Ts8wRBjPd4ULp5Mo V9": {
+                "rateCode": "8D3K7TYUDHAYY5UB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1129000000",
+                "RegionlessRateCode": "xNW7mRNxsTdnZkKY62ENVceWSX8Ts8wRBjPd4ULp5Mo",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "xgc8Bx5oGfmYAgNusTgMKzSzc8cq0IRhcEBLAucaQOo V9": {
+                "rateCode": "DAZEW87M2CFW4DZ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7661200000",
+                "RegionlessRateCode": "xgc8Bx5oGfmYAgNusTgMKzSzc8cq0IRhcEBLAucaQOo",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "7p21NArSYcBZ66ZyTT0iWa7zJ1yDUON2auJTw5EOtNo V10": {
+                "rateCode": "6WJM2KQUXUB3J3G3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0134408600",
+                "RegionlessRateCode": "7p21NArSYcBZ66ZyTT0iWa7zJ1yDUON2auJTw5EOtNo"
+            },
+            "AESHnrUUckh6K-Cj0-vWc1R8lJdrOY0yh1VbUGBTTzQ V10": {
+                "rateCode": "UB7FSY5BPJBWZXEM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0094086020",
+                "RegionlessRateCode": "AESHnrUUckh6K-Cj0-vWc1R8lJdrOY0yh1VbUGBTTzQ"
+            },
+            "Ts4GBKMpkhoEPVTGS7cu9vRZY_X9je4ZFLQmmEA_Res V10": {
+                "rateCode": "2452Z24NQ7PF8RMQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0537634410",
+                "RegionlessRateCode": "Ts4GBKMpkhoEPVTGS7cu9vRZY_X9je4ZFLQmmEA_Res"
+            },
+            "XQiTZQoypduSYheOpSTH0v6IK-PfL5ZrXtYe2qJG7WM V10": {
+                "rateCode": "RB3URV4M3VXDTEHH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2150537630",
+                "RegionlessRateCode": "XQiTZQoypduSYheOpSTH0v6IK-PfL5ZrXtYe2qJG7WM"
+            },
+            "bwTfjuTIaNx5bov0anT0-bKV5mR9OsObakQiV1UTa9g V10": {
+                "rateCode": "EY9YNE2RARYSZX76.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0201612900",
+                "RegionlessRateCode": "bwTfjuTIaNx5bov0anT0-bKV5mR9OsObakQiV1UTa9g"
+            },
+            "c41EA6JbOeRRK2YP4aD5zHzSAByaafY_P0ZHHc0TWpA V10": {
+                "rateCode": "YH3FNUTUE7QW83N2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1075268820",
+                "RegionlessRateCode": "c41EA6JbOeRRK2YP4aD5zHzSAByaafY_P0ZHHc0TWpA"
+            },
+            "Lightsail Load Balancer per Hrs": {
+                "rateCode": "D53PDK34VBWYRREH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0241935480",
+                "RegionlessRateCode": "CabX8Hjf1w0XUslzmJCXVG3b4LnxcJWzql1T0e-YEpY",
+                "Group": "Lightsail Load Balancer"
+            },
+            "Lightsail Block Storage per GB-Mo": {
+                "rateCode": "A94VBPGS6ZMSQ6J4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "SMiRAyMrLfLUAxmE9FpqMtTl3U5WXZWPnb7_LNLHoyw",
+                "Group": "Lightsail Block Storage"
+            },
+            "Lightsail Snapshot per GB-Mo": {
+                "rateCode": "52APD842Q9QKYEDC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "d75szBtI0nYRHXTQhn6IUURJtTbVXlx5TLw_Bto11so",
+                "Group": "Lightsail Snapshot"
+            },
+            "Lightsail Instance Snapshot per GB-Mo": {
+                "rateCode": "PHN2VRXS5VUESD5G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "lZgEi4VFXIbNqqK2LUrTVhPXctP1yN5R19Q1soV9cbU",
+                "Group": "Lightsail Instance Snapshot"
+            },
+            "Lightsail unused static IP From 0 to 1 Hrs": {
+                "rateCode": "66K4TM36USNU9DQV.JRTCKXETXF.8EEUB22XNJ",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eBPhX5La7B2nbgmnKUsRxLn-vatLUPbSfdfq_f9xsTc"
+            },
+            "Lightsail unused static IP From 1 to Inf Hrs": {
+                "rateCode": "66K4TM36USNU9DQV.JRTCKXETXF.JTU8TKNAMW",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "mNzkAinuSH6OgRl8youPA8v1NIINV_baA4rvT6wNEF4"
+            },
+            "Lightsail Overages Storage250GB-Storage-Overage per GB-Mo": {
+                "rateCode": "QJEVKCW53SYYT9E9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000",
+                "RegionlessRateCode": "4leES2DAuhfz-Mq9f6h-9jlFYVyyUm8OWSy6Pcajj-g"
+            },
+            "Lightsail Overages Storage100GB-Storage-Overage per GB-Mo": {
+                "rateCode": "CTWJFWNQ7QRUQ34Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000",
+                "RegionlessRateCode": "O0z5xui9yTtSuXeYTKLe1FzAJpXS7IEQMu3JMv6Jpkw"
+            },
+            "Lightsail Overages Storage5GB-Storage-Overage per GB-Mo": {
+                "rateCode": "RMK7CRYAREDHDW8C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000",
+                "RegionlessRateCode": "O4qPyC7o6NYC-cmme1WalL9h3U0F6A81BESul2lqd2g"
+            },
+            "Storage 250GB Data Transfer Outbound to Global": {
+                "rateCode": "GU6ED8EZ8VV7EEWQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "Jiqgtr0CODgwB1_JVuPVs0L1ldkizJ9P5WrZIS_suQs",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "Storage 500GB Data Transfer Outbound to Global": {
+                "rateCode": "QPN69H682NKFKFT9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "fkAspT3lHcDWmYXSSxCKEFNP-ze0hvF42S5axk9sFL4",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "Data Transfer Outbound to Global": {
+                "rateCode": "MM3JNGP5RY4HJRUT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "DataTransfer Outbound": {
+                "rateCode": "MM3JNGP5RY4HJRUT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "ContainerSvc Data Transfer Outbound to Global": {
+                "rateCode": "GDEM6PJGKB8FZRD2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "rNso4IOQXPdGmKopvUHb61yG0tuVAmJPACH3Y_dDXdc",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "Storage 25GB Data Transfer Outbound to Global": {
+                "rateCode": "PPEBR4AGM8HJ3GT8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "wwIHQTDE9pfWg4nCt5MtjchT4EytvtDQ4-ctM5Opunc",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
+            },
+            "Data Transfer Inbound to Asia Pacific Mumbai": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Data Transfer Inbound to Asia Pacific Seoul": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Data Transfer Inbound to Asia Pacific Singapore": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Data Transfer Inbound to Asia Pacific Sydney": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Data Transfer Inbound to Asia Pacific Tokyo": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Data Transfer Inbound to Canada Central": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Data Transfer Inbound to EU Frankfurt": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Data Transfer Inbound to EU Ireland": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Data Transfer Inbound to EU London": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Data Transfer Inbound to EU Paris": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "DataTransfer Inbound": {
+                "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "Lightsail Database High Availability 80GB Storage 1 vCPU 2GB Memory 0 1TB Quota": {
+                "rateCode": "DMMYYRFE3K5C99SY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0806500000",
+                "RegionlessRateCode": "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE"
+            },
+            "Lightsail Database High Availability 40GB Storage 1 vCPU 1GB Memory 0 1TB Quota": {
+                "rateCode": "JMEUAVG4GHWCC45X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0403200000",
+                "RegionlessRateCode": "AEKo_8Lj4fgynFWOn2vc3VATcC4aSaH6a5C5IqBXH_4"
+            },
+            "Lightsail Database Standard Availability 40GB Storage 1 vCPU 1GB Memory 0 1TB Quota": {
+                "rateCode": "QT3MUCTYVPCWGK5G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0201600000",
+                "RegionlessRateCode": "Hhpmp-t5l18EaP5EJD8a1YzG_Z7T6YUl8K3xgkCAFv8"
+            },
+            "Lightsail Database Standard Availability 80GB Storage 1 vCPU 2GB Memory 0 1TB Quota": {
+                "rateCode": "PCCD75N5ZBAVEKYW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0403200000",
+                "RegionlessRateCode": "WxtlzEltMHqLK_bFXA7XG-HuQ9WXhnaLzOjlWZ2bye0"
+            },
+            "Lightsail Database High Availability 240GB Storage 2 vCPU 8GB Memory 0 2TB Quota": {
+                "rateCode": "7PTF4KSU5878T2VG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3091400000",
+                "RegionlessRateCode": "f9zmiZgRPWxoBmi-0SBLHKuzgFTsnpkpSyfXXU7trGI"
+            },
+            "Lightsail Database High Availability 120GB Storage 2 vCPU 4GB Memory 0 1TB Quota": {
+                "rateCode": "V442MJ4YEZTKJEM4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1612900000",
+                "RegionlessRateCode": "lR6TmxtbyJmn2D189fpQwiu3VRfp3HeHn6r2NOtBbCM"
+            },
+            "Lightsail Database Standard Availability 120GB Storage 2 vCPU 4GB Memory 0 1TB Quota": {
+                "rateCode": "VP8Y6TMWKXRB5MED.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0806500000",
+                "RegionlessRateCode": "o_H-_xox4-6TPFpP12eEhaxj6SVG6yat6ZrB8cfrwuI"
+            },
+            "Lightsail Database Standard Availability 240GB Storage 2 vCPU 8GB Memory 0 2TB Quota": {
+                "rateCode": "HG2FJ2J26AR2CBPH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1545700000",
+                "RegionlessRateCode": "qqmnjSa3vJrHO1JwKX5t2dbVscwYW-nNisLMPFG7Jsw"
+            },
+            "Lightsail Instance Bundle 16GB IPv6 Windows 320GB Storage 4 vCPU 16GB Memory 6TB Quota": {
+                "rateCode": "MUCWHN9QRTS2YWZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1612900000",
+                "RegionlessRateCode": "-0J5gHHIegu3RKgkjysBnLpg6y1Xz3ktyBk1KvxySbo",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "Lightsail Instance Bundle 16GB IPv6 Windows 320GB Storage 4 vCPU 16GB Memory 3TB Quota": {
+                "rateCode": "MUCWHN9QRTS2YWZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1612900000",
+                "RegionlessRateCode": "-0J5gHHIegu3RKgkjysBnLpg6y1Xz3ktyBk1KvxySbo",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "Lightsail Instance Bundle 4GB Linux 80GB Storage 2 vCPU 4GB Memory 4TB Quota": {
+                "rateCode": "74JT2SFDQRYPVPUN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0322500000",
+                "RegionlessRateCode": "-2SoK2mj61PNTgtUdnd6vMNMvAIi-Sl3os8kEW3yI2k",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "Lightsail Instance Bundle 4GB Linux 80GB Storage 2 vCPU 4GB Memory 2TB Quota": {
+                "rateCode": "74JT2SFDQRYPVPUN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0322500000",
+                "RegionlessRateCode": "-2SoK2mj61PNTgtUdnd6vMNMvAIi-Sl3os8kEW3yI2k",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "Lightsail Instance Bundle 2GB IPv6 Windows 60GB Storage 2 vCPU 2GB Memory 3TB Quota": {
+                "rateCode": "UTNZRCYS3NJHVAZD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0268800000",
+                "RegionlessRateCode": "02B--Uy9Revx01MoU9FUEdBJpsnEL33EuBCAjXG4O7M",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "Lightsail Instance Bundle 2GB IPv6 Windows 60GB Storage 2 vCPU 2GB Memory 1 5TB Quota": {
+                "rateCode": "UTNZRCYS3NJHVAZD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0268800000",
+                "RegionlessRateCode": "02B--Uy9Revx01MoU9FUEdBJpsnEL33EuBCAjXG4O7M",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "Lightsail Instance Bundle 32GB Windows 640GB Storage 8 vCPU 32GB Memory 7TB Quota": {
+                "rateCode": "FWDJ7JZFCEE8KEHA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3279500000",
+                "RegionlessRateCode": "3dYagOSzJzsWjO5kSC9k-WgMVZ4DY7qiFL6kFUAuhy0",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "Lightsail Instance Bundle 32GB Windows 640GB Storage 8 vCPU 32GB Memory 3 5TB Quota": {
+                "rateCode": "FWDJ7JZFCEE8KEHA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3279500000",
+                "RegionlessRateCode": "3dYagOSzJzsWjO5kSC9k-WgMVZ4DY7qiFL6kFUAuhy0",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "Lightsail Instance Bundle 0 5GB IPv6 Linux 20GB Storage 2 vCPU 0.5GB Memory 1TB Quota": {
+                "rateCode": "VYTRNXAGUA2QANYC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0047000000",
+                "RegionlessRateCode": "3eNOkJmbiZUjqiSeA2wCTvTjB4pbkBmHAs_IP7i_G7M",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "20GB",
+                "Transfer": "0.5TB"
+            },
+            "Lightsail Instance Bundle 0 5GB IPv6 Linux 20GB Storage 2 vCPU 0.5GB Memory 0.5TB Quota": {
+                "rateCode": "VYTRNXAGUA2QANYC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0047000000",
+                "RegionlessRateCode": "3eNOkJmbiZUjqiSeA2wCTvTjB4pbkBmHAs_IP7i_G7M",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "20GB",
+                "Transfer": "0.5TB"
+            },
+            "Lightsail Instance Bundle 8GB Windows 160GB Storage 2 vCPU 8GB Memory 5TB Quota": {
+                "rateCode": "Z6RT4HEAJ33UU6XP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0994600000",
+                "RegionlessRateCode": "AgOTOM3avnmTLW7jEXzmNikPEpV5EhJcWjmSyrEog9Q",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "Lightsail Instance Bundle 8GB Windows 160GB Storage 2 vCPU 8GB Memory 2 5TB Quota": {
+                "rateCode": "Z6RT4HEAJ33UU6XP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0994600000",
+                "RegionlessRateCode": "AgOTOM3avnmTLW7jEXzmNikPEpV5EhJcWjmSyrEog9Q",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "Lightsail Instance Bundle 2GB IPv6 Linux 60GB Storage 2 vCPU 2GB Memory 3TB Quota": {
+                "rateCode": "PTXH8TJQ4UBM64PY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0134400000",
+                "RegionlessRateCode": "BcLWr0xUAWZ5lHzSJGxpvlhdbJnPY11bPpGwl0WHpSc",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "Lightsail Instance Bundle 2GB IPv6 Linux 60GB Storage 2 vCPU 2GB Memory 1 5TB Quota": {
+                "rateCode": "PTXH8TJQ4UBM64PY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0134400000",
+                "RegionlessRateCode": "BcLWr0xUAWZ5lHzSJGxpvlhdbJnPY11bPpGwl0WHpSc",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "Lightsail Instance Bundle 2GB Windows 60GB Storage 2 vCPU 2GB Memory 3TB Quota": {
+                "rateCode": "SHR988CU7KSD6BKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0295600000",
+                "RegionlessRateCode": "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "Lightsail Instance Bundle 2GB Windows 60GB Storage 2 vCPU 2GB Memory 1 5TB Quota": {
+                "rateCode": "SHR988CU7KSD6BKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0295600000",
+                "RegionlessRateCode": "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "Lightsail Instance Bundle 64GB Windows 1280GB Storage 16 vCPU 64GB Memory 8TB Quota": {
+                "rateCode": "Q32XFJHX2F96UAJ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7715000000",
+                "RegionlessRateCode": "ISuqZP5HCM0J3qxBqQo2GdDbRq8LytzfcOxeiB_TPfU",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "Lightsail Instance Bundle 64GB Windows 1280GB Storage 16 vCPU 64GB Memory 4TB Quota": {
+                "rateCode": "Q32XFJHX2F96UAJ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7715000000",
+                "RegionlessRateCode": "ISuqZP5HCM0J3qxBqQo2GdDbRq8LytzfcOxeiB_TPfU",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "Lightsail Instance Bundle 64GB IPv6 Linux 1280GB Storage 16 vCPU 64GB Memory 8TB Quota": {
+                "rateCode": "YEBHU49NPBKDEGB4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5107500000",
+                "RegionlessRateCode": "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "Lightsail Instance Bundle 64GB IPv6 Linux 1280GB Storage 16 vCPU 64GB Memory 4TB Quota": {
+                "rateCode": "YEBHU49NPBKDEGB4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5107500000",
+                "RegionlessRateCode": "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "Lightsail Instance Bundle 2GB Linux 60GB Storage 2 vCPU 2GB Memory 3TB Quota": {
+                "rateCode": "E8W3AFXTTGBXRE8F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0161200000",
+                "RegionlessRateCode": "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "Lightsail Instance Bundle 2GB Linux 60GB Storage 2 vCPU 2GB Memory 1 5TB Quota": {
+                "rateCode": "E8W3AFXTTGBXRE8F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0161200000",
+                "RegionlessRateCode": "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE",
+                "Memory": "2GB",
+                "Processor": "2",
+                "Storage": "60GB",
+                "Transfer": "1.5TB"
+            },
+            "Lightsail Instance Bundle 1GB Linux 40GB Storage 2 vCPU 1GB Memory 2TB Quota": {
+                "rateCode": "KDUMC9TW37CXEFAR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0094000000",
+                "RegionlessRateCode": "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "Lightsail Instance Bundle 1GB Linux 40GB Storage 2 vCPU 1GB Memory 1TB Quota": {
+                "rateCode": "KDUMC9TW37CXEFAR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0094000000",
+                "RegionlessRateCode": "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "Lightsail Instance Bundle 0 5GB Linux 20GB Storage 2 vCPU 0.5GB Memory 1TB Quota": {
+                "rateCode": "GBK6MH86NA8HS6W3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0067200000",
+                "RegionlessRateCode": "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "20GB",
+                "Transfer": "0.5TB"
+            },
+            "Lightsail Instance Bundle 0 5GB Linux 20GB Storage 2 vCPU 0.5GB Memory 0.5TB Quota": {
+                "rateCode": "GBK6MH86NA8HS6W3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0067200000",
+                "RegionlessRateCode": "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "20GB",
+                "Transfer": "0.5TB"
+            },
+            "Lightsail Instance Bundle 32GB IPv6 Windows 640GB Storage 8 vCPU 32GB Memory 7TB Quota": {
+                "rateCode": "89PF3PXFWTQDV2QR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3225800000",
+                "RegionlessRateCode": "_N62jm4YFpkYttK8gPUqFtMEKtK6lth2wUmW2_E6Wis",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "Lightsail Instance Bundle 32GB IPv6 Windows 640GB Storage 8 vCPU 32GB Memory 3 5TB Quota": {
+                "rateCode": "89PF3PXFWTQDV2QR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3225800000",
+                "RegionlessRateCode": "_N62jm4YFpkYttK8gPUqFtMEKtK6lth2wUmW2_E6Wis",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "Lightsail Instance Bundle 16GB IPv6 Linux 320GB Storage 4 vCPU 16GB Memory 6TB Quota": {
+                "rateCode": "3Y98RMDZWR7ERVGR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1075200000",
+                "RegionlessRateCode": "_kUrNyS7Tx5g4Oj-0i2EoEwdYBSThx29GOIjVci00G4",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "Lightsail Instance Bundle 16GB IPv6 Linux 320GB Storage 4 vCPU 16GB Memory 3TB Quota": {
+                "rateCode": "3Y98RMDZWR7ERVGR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1075200000",
+                "RegionlessRateCode": "_kUrNyS7Tx5g4Oj-0i2EoEwdYBSThx29GOIjVci00G4",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "Lightsail Instance Bundle 8GB Linux 160GB Storage 2 vCPU 8GB Memory 5TB Quota": {
+                "rateCode": "XY2S7MT3QGFRP8RV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0591300000",
+                "RegionlessRateCode": "_lGgbDkVkIYMWBT1tKx1uAnowwqaWcBv_Mha2dWU43M",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "Lightsail Instance Bundle 8GB Linux 160GB Storage 2 vCPU 8GB Memory 2 5TB Quota": {
+                "rateCode": "XY2S7MT3QGFRP8RV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0591300000",
+                "RegionlessRateCode": "_lGgbDkVkIYMWBT1tKx1uAnowwqaWcBv_Mha2dWU43M",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "Lightsail Instance Bundle 0 5GB IPv6 Windows 30GB Storage 2 vCPU 0.5GB Memory 1TB Quota": {
+                "rateCode": "HA6GJRG65DDNXYNK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0107500000",
+                "RegionlessRateCode": "_w5Wvf_S5lUiGY00IR9XrcmAvyjA4H7LG9Goo2Ca9Xg",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "30GB",
+                "Transfer": "0.5TB"
+            },
+            "Lightsail Instance Bundle 0 5GB IPv6 Windows 30GB Storage 2 vCPU 0.5GB Memory 0.5TB Quota": {
+                "rateCode": "HA6GJRG65DDNXYNK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0107500000",
+                "RegionlessRateCode": "_w5Wvf_S5lUiGY00IR9XrcmAvyjA4H7LG9Goo2Ca9Xg",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "30GB",
+                "Transfer": "0.5TB"
+            },
+            "Lightsail Instance Bundle 4GB IPv6 Windows 80GB Storage 2 vCPU 4GB Memory 4TB Quota": {
+                "rateCode": "Y83XER76ZNSCAC2S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0537600000",
+                "RegionlessRateCode": "dCduSbqyzlo67lZnRm7cRAQh0m9x9XQyslpIVibjKAI",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "Lightsail Instance Bundle 4GB IPv6 Windows 80GB Storage 2 vCPU 4GB Memory 2TB Quota": {
+                "rateCode": "Y83XER76ZNSCAC2S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0537600000",
+                "RegionlessRateCode": "dCduSbqyzlo67lZnRm7cRAQh0m9x9XQyslpIVibjKAI",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "Lightsail Instance Bundle 1GB Windows 40GB Storage 2 vCPU 1GB Memory 2TB Quota": {
+                "rateCode": "N7PQ29M54CW9UM6F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0188100000",
+                "RegionlessRateCode": "e-yA6P05Dg3mrOmc9rDWjWtNmUUHTvvD3VfakCzR2W4",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "Lightsail Instance Bundle 1GB Windows 40GB Storage 2 vCPU 1GB Memory 1TB Quota": {
+                "rateCode": "N7PQ29M54CW9UM6F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0188100000",
+                "RegionlessRateCode": "e-yA6P05Dg3mrOmc9rDWjWtNmUUHTvvD3VfakCzR2W4",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "Lightsail Instance Bundle 64GB Linux 1280GB Storage 16 vCPU 64GB Memory 8TB Quota": {
+                "rateCode": "PKRNX6392N75833K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5161200000",
+                "RegionlessRateCode": "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "Lightsail Instance Bundle 64GB Linux 1280GB Storage 16 vCPU 64GB Memory 4TB Quota": {
+                "rateCode": "PKRNX6392N75833K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5161200000",
+                "RegionlessRateCode": "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "Lightsail Instance Bundle 16GB Windows 320GB Storage 4 vCPU 16GB Memory 6TB Quota": {
+                "rateCode": "849U729A8HN64SNY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1666600000",
+                "RegionlessRateCode": "i1AI3xPRNjlfW3asSeG53IRuW3EQckaJ6h2YGffAT2w",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "Lightsail Instance Bundle 16GB Windows 320GB Storage 4 vCPU 16GB Memory 3TB Quota": {
+                "rateCode": "849U729A8HN64SNY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1666600000",
+                "RegionlessRateCode": "i1AI3xPRNjlfW3asSeG53IRuW3EQckaJ6h2YGffAT2w",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "Lightsail Instance Bundle 8GB IPv6 Linux 160GB Storage 2 vCPU 8GB Memory 5TB Quota": {
+                "rateCode": "777MPK9KKFH5ZFHT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0537600000",
+                "RegionlessRateCode": "iJEC_edQGxmWdSEiXYmMQFW_O6H1XG7or3BUq8artYI",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "Lightsail Instance Bundle 8GB IPv6 Linux 160GB Storage 2 vCPU 8GB Memory 2 5TB Quota": {
+                "rateCode": "777MPK9KKFH5ZFHT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0537600000",
+                "RegionlessRateCode": "iJEC_edQGxmWdSEiXYmMQFW_O6H1XG7or3BUq8artYI",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "Lightsail Instance Bundle 8GB IPv6 Windows 160GB Storage 2 vCPU 8GB Memory 5TB Quota": {
+                "rateCode": "82BUYY7SS9KUSHK8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0940800000",
+                "RegionlessRateCode": "iLDvw9hVFWm6zN5hbgRYDA6yRgVD1Bt6sy6yz2oWvhQ",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "Lightsail Instance Bundle 8GB IPv6 Windows 160GB Storage 2 vCPU 8GB Memory 2 5TB Quota": {
+                "rateCode": "82BUYY7SS9KUSHK8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0940800000",
+                "RegionlessRateCode": "iLDvw9hVFWm6zN5hbgRYDA6yRgVD1Bt6sy6yz2oWvhQ",
+                "Memory": "8GB",
+                "Processor": "2",
+                "Storage": "160GB",
+                "Transfer": "2.5TB"
+            },
+            "Lightsail Instance Bundle 4GB Windows 80GB Storage 2 vCPU 4GB Memory 4TB Quota": {
+                "rateCode": "6XXBS2T2982DZ9Y9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0591300000",
+                "RegionlessRateCode": "iszekLSDxCdnVIJ7Tdf79GKXOfZqXMLxDtZhAZSqQZE",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "Lightsail Instance Bundle 4GB Windows 80GB Storage 2 vCPU 4GB Memory 2TB Quota": {
+                "rateCode": "6XXBS2T2982DZ9Y9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0591300000",
+                "RegionlessRateCode": "iszekLSDxCdnVIJ7Tdf79GKXOfZqXMLxDtZhAZSqQZE",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "Lightsail Instance Bundle 1GB IPv6 Windows 40GB Storage 2 vCPU 1GB Memory 2TB Quota": {
+                "rateCode": "ESHC65KUJYSH4AD2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0161200000",
+                "RegionlessRateCode": "iuGR8EIzGUxdoC5QMieVbRnM9FN2ct1mJXxdC2ABj9Q",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "Lightsail Instance Bundle 1GB IPv6 Windows 40GB Storage 2 vCPU 1GB Memory 1TB Quota": {
+                "rateCode": "ESHC65KUJYSH4AD2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0161200000",
+                "RegionlessRateCode": "iuGR8EIzGUxdoC5QMieVbRnM9FN2ct1mJXxdC2ABj9Q",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "Lightsail Instance Bundle 32GB Linux 640GB Storage 8 vCPU 32GB Memory 7TB Quota": {
+                "rateCode": "38CN5AW4YCV7KSNF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2204300000",
+                "RegionlessRateCode": "jMBDDrop1bG9g2-WvGQLTLSmgT--mYYKLUQPjCPqL7Y",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "Lightsail Instance Bundle 32GB Linux 640GB Storage 8 vCPU 32GB Memory 3 5TB Quota": {
+                "rateCode": "38CN5AW4YCV7KSNF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2204300000",
+                "RegionlessRateCode": "jMBDDrop1bG9g2-WvGQLTLSmgT--mYYKLUQPjCPqL7Y",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "Lightsail Instance Bundle 0 5GB Windows 30GB Storage 2 vCPU 0.5GB Memory 1TB Quota": {
+                "rateCode": "3C9NMNTAB75HZSVD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0127600000",
+                "RegionlessRateCode": "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "30GB",
+                "Transfer": "0.5TB"
+            },
+            "Lightsail Instance Bundle 0 5GB Windows 30GB Storage 2 vCPU 0.5GB Memory 0.5TB Quota": {
+                "rateCode": "3C9NMNTAB75HZSVD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0127600000",
+                "RegionlessRateCode": "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so",
+                "Memory": "0.5GB",
+                "Processor": "2",
+                "Storage": "30GB",
+                "Transfer": "0.5TB"
+            },
+            "Lightsail Instance Bundle 1GB IPv6 Linux 40GB Storage 2 vCPU 1GB Memory 2TB Quota": {
+                "rateCode": "TTF7JKMV4DZPVWXT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0067200000",
+                "RegionlessRateCode": "luW5vElNCR0Wb8zFkD_9UdAQnqcfAEGPuuChliA5JYo",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "Lightsail Instance Bundle 1GB IPv6 Linux 40GB Storage 2 vCPU 1GB Memory 1TB Quota": {
+                "rateCode": "TTF7JKMV4DZPVWXT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0067200000",
+                "RegionlessRateCode": "luW5vElNCR0Wb8zFkD_9UdAQnqcfAEGPuuChliA5JYo",
+                "Memory": "1GB",
+                "Processor": "2",
+                "Storage": "40GB",
+                "Transfer": "1TB"
+            },
+            "Lightsail Instance Bundle 4GB IPv6 Linux 80GB Storage 2 vCPU 4GB Memory 4TB Quota": {
+                "rateCode": "ZEM976AKDN5A4ASH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0268800000",
+                "RegionlessRateCode": "p_jgu6EGYvtRX_nNNb4K-3Vmfy00k5ha0t9IqycqZRU",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "Lightsail Instance Bundle 4GB IPv6 Linux 80GB Storage 2 vCPU 4GB Memory 2TB Quota": {
+                "rateCode": "ZEM976AKDN5A4ASH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0268800000",
+                "RegionlessRateCode": "p_jgu6EGYvtRX_nNNb4K-3Vmfy00k5ha0t9IqycqZRU",
+                "Memory": "4GB",
+                "Processor": "2",
+                "Storage": "80GB",
+                "Transfer": "2TB"
+            },
+            "Lightsail Instance Bundle 32GB IPv6 Linux 640GB Storage 8 vCPU 32GB Memory 7TB Quota": {
+                "rateCode": "PM74DW4KERFXEXND.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2150500000",
+                "RegionlessRateCode": "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "Lightsail Instance Bundle 32GB IPv6 Linux 640GB Storage 8 vCPU 32GB Memory 3 5TB Quota": {
+                "rateCode": "PM74DW4KERFXEXND.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2150500000",
+                "RegionlessRateCode": "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk",
+                "Memory": "32GB",
+                "Processor": "8",
+                "Storage": "640GB",
+                "Transfer": "3.5TB"
+            },
+            "Lightsail Instance Bundle 16GB Linux 320GB Storage 4 vCPU 16GB Memory 6TB Quota": {
+                "rateCode": "8D3K7TYUDHAYY5UB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1129000000",
+                "RegionlessRateCode": "xNW7mRNxsTdnZkKY62ENVceWSX8Ts8wRBjPd4ULp5Mo",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "Lightsail Instance Bundle 16GB Linux 320GB Storage 4 vCPU 16GB Memory 3TB Quota": {
+                "rateCode": "8D3K7TYUDHAYY5UB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1129000000",
+                "RegionlessRateCode": "xNW7mRNxsTdnZkKY62ENVceWSX8Ts8wRBjPd4ULp5Mo",
+                "Memory": "16GB",
+                "Processor": "4",
+                "Storage": "320GB",
+                "Transfer": "3TB"
+            },
+            "Lightsail Instance Bundle 64GB IPv6 Windows 1280GB Storage 16 vCPU 64GB Memory 8TB Quota": {
+                "rateCode": "DAZEW87M2CFW4DZ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7661200000",
+                "RegionlessRateCode": "xgc8Bx5oGfmYAgNusTgMKzSzc8cq0IRhcEBLAucaQOo",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "Lightsail Instance Bundle 64GB IPv6 Windows 1280GB Storage 16 vCPU 64GB Memory 4TB Quota": {
+                "rateCode": "DAZEW87M2CFW4DZ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7661200000",
+                "RegionlessRateCode": "xgc8Bx5oGfmYAgNusTgMKzSzc8cq0IRhcEBLAucaQOo",
+                "Memory": "64GB",
+                "Processor": "16",
+                "Storage": "1280GB",
+                "Transfer": "4TB"
+            },
+            "Lightsail Containers Linux Micro 0 25 1GB 500GB": {
+                "rateCode": "6WJM2KQUXUB3J3G3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0134408600",
+                "RegionlessRateCode": "7p21NArSYcBZ66ZyTT0iWa7zJ1yDUON2auJTw5EOtNo"
+            },
+            "Lightsail Containers Linux Nano 0 25 0.5GB 500GB": {
+                "rateCode": "UB7FSY5BPJBWZXEM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0094086020",
+                "RegionlessRateCode": "AESHnrUUckh6K-Cj0-vWc1R8lJdrOY0yh1VbUGBTTzQ"
+            },
+            "Lightsail Containers Linux Medium 1 2GB 500GB": {
+                "rateCode": "2452Z24NQ7PF8RMQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0537634410",
+                "RegionlessRateCode": "Ts4GBKMpkhoEPVTGS7cu9vRZY_X9je4ZFLQmmEA_Res"
+            },
+            "Lightsail Containers Linux XLarge 4 8GB 500GB": {
+                "rateCode": "RB3URV4M3VXDTEHH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2150537630",
+                "RegionlessRateCode": "XQiTZQoypduSYheOpSTH0v6IK-PfL5ZrXtYe2qJG7WM"
+            },
+            "Lightsail Containers Linux Small 0 5 1GB 500GB": {
+                "rateCode": "EY9YNE2RARYSZX76.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0201612900",
+                "RegionlessRateCode": "bwTfjuTIaNx5bov0anT0-bKV5mR9OsObakQiV1UTa9g"
+            },
+            "Lightsail Containers Linux Large 2 4GB 500GB": {
+                "rateCode": "YH3FNUTUE7QW83N2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1075268820",
                 "RegionlessRateCode": "c41EA6JbOeRRK2YP4aD5zHzSAByaafY_P0ZHHc0TWpA"
             }

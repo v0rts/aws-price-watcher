@@ -1,3 +1,38 @@
+## 2025-08-04 15:28
+
+**Modified services:**
+
+- [transfer](processed/transfer.json)
+  - Region added for metric Transfer AS2 Outbound per Message: Asia Pacific (Thailand) 🌎
+  - Region added for metric Decrypt SFTP EFS SFTP Upload GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Decrypt FTP S3 FTP Upload GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer AS2 Inbound per Message: Asia Pacific (Thailand) 🌎
+  - Region added for metric Decrypt FTPS S3 FTPS Upload GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric External hosted server cost per GB of data transfer: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTPS per Hourly: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTP per Hourly: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer SFTP Download per GigaBytes: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer SFTP Download per GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Decrypt SFTP S3 SFTP Upload GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTP Download per GigaBytes: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTP Download per GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer AS2 Large Inbound per Message: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTP Upload per GigaBytes: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTP Upload per GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Decrypt FTP EFS FTP Upload GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTPS Download per GigaBytes: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTPS Download per GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer SFTP per Hourly: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer SFTP Upload per GigaBytes: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer SFTP Upload per GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer AS2 Large Outbound per Message: Asia Pacific (Thailand) 🌎
+  - Region added for metric Decrypt FTPS EFS FTPS Upload GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTPS Upload per GigaBytes: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer FTPS Upload per GB: Asia Pacific (Thailand) 🌎
+  - Region added for metric Cost per ConnectorCall SendFile: Asia Pacific (Thailand) 🌎
+  - Region added for metric Transfer AS2 per Hourly: Asia Pacific (Thailand) 🌎
+
+
 ## 2025-07-31 19:26
 
 **Modified services:**

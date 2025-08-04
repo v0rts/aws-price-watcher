@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "bedrock",
         "accessType": "publish",
-        "esIndex": "plc-bedrock-usd-20250729164448",
-        "hawkFilePublicationDate": "2025-07-29T16:44:48Z",
-        "ETLIngestionTriggerDate": "2025-07-29T16:44:48Z",
+        "esIndex": "plc-bedrock-usd-20250804203903",
+        "hawkFilePublicationDate": "2025-08-04T20:39:03Z",
+        "ETLIngestionTriggerDate": "2025-08-04T20:39:03Z",
         "currencyCode": "USD",
         "source": "bedrock",
         "isMapped": "true"
@@ -6094,6 +6094,68 @@
                 "rateCode": "SEW5QZ2WQ2UTHMF4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0048000000",
                 "RegionlessRateCode": "yR_39-Bua_yj0h9zLouhJXGnt1ofxOtyGJGy3gyHNhc"
+            }
+        },
+        "Asia Pacific (Melbourne)": {
+            "1tROQFiRn5nQEyCZgyMUSe0Gd0JsCJio87tRBB_YbsE": {
+                "rateCode": "MZVFMQTENNRGP8XZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000325000",
+                "RegionlessRateCode": "1tROQFiRn5nQEyCZgyMUSe0Gd0JsCJio87tRBB_YbsE"
+            },
+            "34DCrhfq4SNtYC5TLiv8Ar-J84vF7JATIzXetF8Zl3Q": {
+                "rateCode": "3ZQ6M2XDDR3M87KS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "34DCrhfq4SNtYC5TLiv8Ar-J84vF7JATIzXetF8Zl3Q"
+            },
+            "F6FOPBFlcanUrS8z_zuy5XtW2KH58AOmpgsP0NKAWHQ": {
+                "rateCode": "2ADBBXGGX5B8QAZU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001300000",
+                "RegionlessRateCode": "F6FOPBFlcanUrS8z_zuy5XtW2KH58AOmpgsP0NKAWHQ"
+            },
+            "G49-inaouQ_8SBevY9CGi1-rIcmZ2Xd2mWk-2zct9lA": {
+                "rateCode": "6YW5HHSHZDG474S5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0004350000",
+                "RegionlessRateCode": "G49-inaouQ_8SBevY9CGi1-rIcmZ2Xd2mWk-2zct9lA"
+            },
+            "GSo3pXjQ_mie1CyhQhmhZ3bTQHbmWU0YU2akHmQtX6E": {
+                "rateCode": "7UE6RBFYTXCCBRGH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0002175000",
+                "RegionlessRateCode": "GSo3pXjQ_mie1CyhQhmhZ3bTQHbmWU0YU2akHmQtX6E"
+            },
+            "PVxuDEZJeKYpMs6LxgU_WSfxO1fMNb9B0Tmj2jIDPeU": {
+                "rateCode": "WCDQSMAVXBWVNEMT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0017400000",
+                "RegionlessRateCode": "PVxuDEZJeKYpMs6LxgU_WSfxO1fMNb9B0Tmj2jIDPeU"
+            },
+            "SJQjyLkukpYE30vgf0XnKcdpI0Q1cJxmBBpDdq7HLmg": {
+                "rateCode": "HJWY5RZDHGU3GGNK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000162500",
+                "RegionlessRateCode": "SJQjyLkukpYE30vgf0XnKcdpI0Q1cJxmBBpDdq7HLmg"
+            },
+            "d_84UEyl9S4JH2aRSnc3GAC9WsejLAeNNvXP28EO-vU": {
+                "rateCode": "CRGKEEG57WPBHZCH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "d_84UEyl9S4JH2aRSnc3GAC9WsejLAeNNvXP28EO-vU"
+            },
+            "hOVX6YV0nc7dJsBt_QBM3iHB3scS6hhBba9iJNP2DHY": {
+                "rateCode": "NGMXH77EM7ERX9MZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0008700000",
+                "RegionlessRateCode": "hOVX6YV0nc7dJsBt_QBM3iHB3scS6hhBba9iJNP2DHY"
+            },
+            "jqpXyMWar6dZCgJ4nRTHic6D040daCa-N81Kh52Jlac": {
+                "rateCode": "6WN9SZ4495U6URUN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "jqpXyMWar6dZCgJ4nRTHic6D040daCa-N81Kh52Jlac"
+            },
+            "kjVw7dlbJL48mU4qYDcahYJBfCnjHLY6HU2KN7fLzj4": {
+                "rateCode": "CE6Y59B7VUACS7A8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0034800000",
+                "RegionlessRateCode": "kjVw7dlbJL48mU4qYDcahYJBfCnjHLY6HU2KN7fLzj4"
+            },
+            "urNDBArH5pV5njuTwm41YJmDyeIrg_gD9kCMIHcQdLI": {
+                "rateCode": "A28ZZ86B29KYCJGA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0002600000",
+                "RegionlessRateCode": "urNDBArH5pV5njuTwm41YJmDyeIrg_gD9kCMIHcQdLI"
             }
         },
         "Asia Pacific (Hyderabad)": {

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "datasync",
         "accessType": "publish",
-        "esIndex": "plc-datasync-usd-20250711160238",
-        "hawkFilePublicationDate": "2025-06-05T17:55:32Z",
-        "ETLIngestionTriggerDate": "2025-07-11T16:02:38Z",
+        "esIndex": "plc-datasync-usd-20250805170051",
+        "hawkFilePublicationDate": "2025-08-05T17:00:51Z",
+        "ETLIngestionTriggerDate": "2025-08-05T17:00:51Z",
         "currencyCode": "USD",
         "source": "datasync",
         "isMapped": "true"

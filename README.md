@@ -1,3 +1,59 @@
+## 2025-08-05 20:27
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-24xl: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-24xl: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-24xl: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-24xl: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.2xlarge: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.2xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.2xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.2xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.16xlarge: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.16xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.16xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.16xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.12xlarge: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.12xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.12xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.12xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.medium: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.medium: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.medium: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.medium: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.24xlarge: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.24xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.24xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.24xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.large: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.large: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.large: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.large: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.4xlarge: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.4xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.4xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.4xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.8xlarge: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.8xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.8xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.8xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-48xl: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-48xl: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-48xl: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.metal-48xl: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.48xlarge: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.48xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.48xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.48xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.xlarge: Asia Pacific (Thailand) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c8g.xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OnDemand Linux-instancetype-u7in-16tb.224xlarge: EU (Frankfurt) 🌎
+
+
 ## 2025-08-04 17:27
 
 **Modified services:**

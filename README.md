@@ -1,3 +1,53 @@
+## 2025-08-06 19:27
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-m7i.12xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.16xlarge: Middle East (Bahrain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.16xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.16xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.2xlarge: Middle East (Bahrain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.2xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.2xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.8xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.metal-48xl: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.24xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.2xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.4xlarge: Middle East (Bahrain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.4xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.4xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.metal: Middle East (Bahrain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.metal: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.metal: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.16xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.large: Middle East (Bahrain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.large: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.large: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.medium: Middle East (Bahrain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.medium: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.medium: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.4xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.8xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.4xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.large: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.48xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.metal-24xl: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.8xlarge: Middle East (Bahrain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.8xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.8xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.xlarge: Middle East (Bahrain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.large: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.12xlarge: Middle East (Bahrain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.12xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.12xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.2xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.xlarge: Asia Pacific (Osaka) 🌎
+
+
 ## 2025-08-06 18:28
 
 **Modified services:**

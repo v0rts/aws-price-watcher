@@ -1,3 +1,20 @@
+## 2025-08-06 18:28
+
+**Modified services:**
+
+- [vpc](processed/vpc.json)
+  - Region added for metric Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment: Middle East (UAE) 🌎
+  - Region added for metric Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment: EU (Zurich) 🌎
+  - Region added for metric Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment: Asia Pacific (Thailand) 🌎
+  - Region added for metric Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses: Middle East (UAE) 🌎
+  - Region added for metric Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses: EU (Zurich) 🌎
+  - Region added for metric Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses: Asia Pacific (Thailand) 🌎
+  - Region added for metric Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses: Asia Pacific (Jakarta) 🌎
+
+
 ## 2025-08-05 20:27
 
 **Modified services:**

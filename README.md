@@ -1,3 +1,59 @@
+## 2025-08-06 22:27
+
+**Modified services:**
+
+- [msk](processed/msk.json)
+  - Region added for metric PrivateConnectivity hours per authentication scheme: Asia Pacific (Taipei) 🌎
+  - Region added for metric PrivateConnectivity Bytes Processed: Asia Pacific (Taipei) 🌎
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-r7gd.xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.xlarge: EU (Milan) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.medium: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.medium: EU (Milan) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.medium: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.medium: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.large: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.large: EU (Milan) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.large: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.large: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.16xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.16xlarge: EU (Milan) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.16xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.16xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.4xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.4xlarge: EU (Milan) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.4xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.4xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.8xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.8xlarge: EU (Milan) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.8xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.8xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.2xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.2xlarge: EU (Milan) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.2xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.2xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.metal: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.metal: EU (Milan) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.metal: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.metal: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.metal: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.medium: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.4xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.12xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.12xlarge: EU (Milan) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.12xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.12xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.8xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.16xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.12xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.2xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.xlarge: Asia Pacific (Seoul) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.large: Asia Pacific (Seoul) 🌎
+
+
 ## 2025-08-06 19:27
 
 **Modified services:**

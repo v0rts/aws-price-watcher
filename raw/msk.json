@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "msk",
         "accessType": "publish",
-        "esIndex": "plc-msk-usd-20250722224601",
-        "hawkFilePublicationDate": "2025-07-22T22:46:01Z",
-        "ETLIngestionTriggerDate": "2025-07-22T22:46:01Z",
+        "esIndex": "plc-msk-usd-20250806220827",
+        "hawkFilePublicationDate": "2025-08-06T22:08:27Z",
+        "ETLIngestionTriggerDate": "2025-08-06T22:08:27Z",
         "currencyCode": "USD",
         "source": "msk",
         "isMapped": "true"
@@ -17028,6 +17028,16 @@
                 "Memory (GiB)": "16",
                 "operation": "RunBroker"
             },
+            "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k": {
+                "rateCode": "JFDCN57W24T399GB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0219000000",
+                "RegionlessRateCode": "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k",
+                "Compute Family": "",
+                "usageType": "APE2-Kafka.PrivateConnectivityHours",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "PrivateConnectivity"
+            },
             "cUK3iM2a8D_hsApDBwgkhgVvCS72puj2SPaG06iGRk8": {
                 "rateCode": "CCFTMAM7S99RZCTP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0012500000",
@@ -17037,6 +17047,16 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "TieredStorage"
+            },
+            "cz66KhW4xjZxq45mfEWxP4OWRowcm11uWHgdgqRfjhY": {
+                "rateCode": "B59MJ3P4ZBN8CKUK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "cz66KhW4xjZxq45mfEWxP4OWRowcm11uWHgdgqRfjhY",
+                "Compute Family": "",
+                "usageType": "APE2-Kafka.PrivateConnectivity.BytesProcessed",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "PrivateConnectivity"
             },
             "el8LdSZreNOrRRPRu6uxEFWkVsgLw3GNwt_5aYY1k0w": {
                 "rateCode": "HRK3A2NKRH6HXP4F.JRTCKXETXF.6YS6EN2CT7",
@@ -17158,10 +17178,20 @@
                 "Memory (GiB)": "16",
                 "operation": "RunBroker"
             },
+            "PrivateConnectivity hours per authentication scheme": {
+                "rateCode": "JFDCN57W24T399GB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0219000000",
+                "RegionlessRateCode": "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k"
+            },
             "TieredStorage Tiered storage-DataRetrieval": {
                 "rateCode": "CCFTMAM7S99RZCTP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0012500000",
                 "RegionlessRateCode": "cUK3iM2a8D_hsApDBwgkhgVvCS72puj2SPaG06iGRk8"
+            },
+            "PrivateConnectivity Bytes Processed": {
+                "rateCode": "B59MJ3P4ZBN8CKUK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "cz66KhW4xjZxq45mfEWxP4OWRowcm11uWHgdgqRfjhY"
             },
             "TieredStorage Tiered storage": {
                 "rateCode": "HRK3A2NKRH6HXP4F.JRTCKXETXF.6YS6EN2CT7",

@@ -1,3 +1,18 @@
+## 2025-08-06 23:26
+
+**Modified services:**
+
+- [quicksight](processed/quicksight.json)
+  - Region added for metric Enterprise SPICE capacity provisioned per GB Mo: Middle East (UAE) 🌎
+  - Region added for metric Enterprise SPICE capacity provisioned per GB Mo: Israel (Tel Aviv) 🌎
+  - Region added for metric Enterprise SPICE capacity provisioned per GB Mo: Asia Pacific (Osaka) 🌎
+  - Region added for metric Enterprise SPICE capacity provisioned per GB Mo: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Standard SPICE capacity provisioned per GB Mo: Middle East (UAE) 🌎
+  - Region added for metric Standard SPICE capacity provisioned per GB Mo: Israel (Tel Aviv) 🌎
+  - Region added for metric Standard SPICE capacity provisioned per GB Mo: Asia Pacific (Osaka) 🌎
+  - Region added for metric Standard SPICE capacity provisioned per GB Mo: Asia Pacific (Melbourne) 🌎
+
+
 ## 2025-08-06 22:27
 
 **Modified services:**

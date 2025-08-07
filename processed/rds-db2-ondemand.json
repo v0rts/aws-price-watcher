@@ -576,19 +576,6 @@
         "Asia Pacific (Hong Kong)": "0.3000000000",
         "Africa (Cape Town)": "0.3020000000"
     },
-    "Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1": {
-        "US West (Oregon)": "0.0950000000",
-        "US East (Ohio)": "0.0950000000",
-        "US East (N. Virginia)": "0.0950000000",
-        "EU (Stockholm)": "0.0900000000",
-        "EU (Ireland)": "0.0950000000",
-        "EU (Frankfurt)": "0.1030000000",
-        "Asia Pacific (Tokyo)": "0.0950000000",
-        "Asia Pacific (Sydney)": "0.0950000000",
-        "Asia Pacific (Singapore)": "0.0950000000",
-        "Asia Pacific (Osaka)": "0.0950000000",
-        "Asia Pacific (Melbourne)": "0.0950000000"
-    },
     "Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1": {
         "US West (Oregon)": "0.1250000000",
         "US West (N. California)": "0.1380000000",
@@ -8543,6 +8530,9 @@
     },
     "yxfnEU-U_tAe-Pg3d8z6_IH045Vz6Y2RU2eWtNb94aM V1": {
         "Asia Pacific (Taipei)": "0.0220000000"
+    },
+    "Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1": {
+        "Asia Pacific (Osaka)": "0.0950000000"
     },
     "5rBVONL-5iCgleW37G0r5dRW592jdL-ExVd0KMyiVDk V1": {
         "Any": "0.0000000000"

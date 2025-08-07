@@ -1,3 +1,68 @@
+## 2025-08-07 13:32
+
+**Modified services:**
+
+- [rds-db2-ondemand](processed/rds-db2-ondemand.json)
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: US West (Oregon) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: US East (Ohio) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: US East (N. Virginia) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: EU (Stockholm) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: EU (Ireland) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: EU (Frankfurt) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Tokyo) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Sydney) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Singapore) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Melbourne) 💥
+
+- [rds-mysql-ondemand](processed/rds-mysql-ondemand.json)
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: US West (Oregon) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: US East (Ohio) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: US East (N. Virginia) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: EU (Stockholm) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: EU (Ireland) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: EU (Frankfurt) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Tokyo) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Sydney) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Singapore) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Melbourne) 💥
+
+- [rds-postgresql-ondemand](processed/rds-postgresql-ondemand.json)
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: US West (Oregon) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: US East (Ohio) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: US East (N. Virginia) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: EU (Stockholm) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: EU (Ireland) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: EU (Frankfurt) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Tokyo) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Sydney) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Singapore) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V1: Asia Pacific (Melbourne) 💥
+
+- [rds-mariadb-ondemand](processed/rds-mariadb-ondemand.json)
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: US West (Oregon) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: US East (Ohio) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: US East (N. Virginia) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: EU (Stockholm) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: EU (Ireland) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: EU (Frankfurt) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: Asia Pacific (Tokyo) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: Asia Pacific (Sydney) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: Asia Pacific (Singapore) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: Asia Pacific (Melbourne) 💥
+
+- [rds-flex-ondemand](processed/rds-flex-ondemand.json)
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: US West (Oregon) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: US East (Ohio) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: US East (N. Virginia) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: EU (Stockholm) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: EU (Ireland) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: EU (Frankfurt) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: Asia Pacific (Tokyo) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: Asia Pacific (Sydney) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: Asia Pacific (Singapore) 💥
+  - Region removed for metric Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2: Asia Pacific (Melbourne) 💥
+
+
 ## 2025-08-07 10:27
 
 **Modified services:**

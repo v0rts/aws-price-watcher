@@ -398,19 +398,6 @@
         "Asia Pacific (Osaka)": "0.1920000000",
         "Asia Pacific (Mumbai)": "0.1820000000"
     },
-    "Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2": {
-        "US West (Oregon)": "0.0950000000",
-        "US East (Ohio)": "0.0950000000",
-        "US East (N. Virginia)": "0.0950000000",
-        "EU (Stockholm)": "0.0900000000",
-        "EU (Ireland)": "0.0950000000",
-        "EU (Frankfurt)": "0.1030000000",
-        "Asia Pacific (Tokyo)": "0.0950000000",
-        "Asia Pacific (Sydney)": "0.0950000000",
-        "Asia Pacific (Singapore)": "0.0950000000",
-        "Asia Pacific (Osaka)": "0.0950000000",
-        "Asia Pacific (Melbourne)": "0.0950000000"
-    },
     "Bb-zhWuUnfnzNW1fwj-ZnPHjukC_AfcsVbuHeWa67sQ V2": {
         "US West (Oregon)": "0.0400000000",
         "US West (N. California)": "0.0480000000",
@@ -14352,6 +14339,9 @@
         "Canada (Central) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only)": "2.2815000000",
         "Asia Pacific (Sydney) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only)": "2.3049000000",
         "Asia Pacific (Seoul) (Instance Type: db.r5b.large, vCPU: 2, Memory: 16 GiB, Storage: EBS Only)": "2.3010000000"
+    },
+    "Ba8FWiXaWYHGwyqrsjIt9sUhFPxRzgF6FO0alfKadgg V2": {
+        "Asia Pacific (Osaka)": "0.0950000000"
     },
     "M5ON1N5Ez4Yet85gINazxlELh_WBYfPKtp_YV3rR9Q8 V2": {
         "Asia Pacific (Mumbai)": "0.0680000000"

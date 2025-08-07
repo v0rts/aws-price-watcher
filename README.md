@@ -1,3 +1,2526 @@
+## 2025-08-07 18:28
+
+**Modified services:**
+
+- [rds-storage](processed/rds-storage.json)
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+
+- [rds-db2-ondemand](processed/rds-db2-ondemand.json)
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: South America (Sao Paulo) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: Middle East (UAE) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: EU (Zurich) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: EU (Spain) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: EU (Paris) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: EU (Milan) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: Africa (Cape Town) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: South America (Sao Paulo) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: Middle East (UAE) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: EU (Zurich) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: EU (Spain) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: EU (Paris) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: EU (Milan) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: Africa (Cape Town) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: South America (Sao Paulo) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: Middle East (UAE) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: Israel (Tel Aviv) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: EU (Zurich) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: EU (Spain) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: EU (Paris) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: EU (Milan) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: Africa (Cape Town) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: South America (Sao Paulo) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Middle East (UAE) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Zurich) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Spain) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Paris) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Milan) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Canada West (Calgary) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Africa (Cape Town) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: South America (Sao Paulo) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Middle East (UAE) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Israel (Tel Aviv) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Zurich) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Spain) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Paris) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Milan) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Canada West (Calgary) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Africa (Cape Town) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: South America (Sao Paulo) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: Middle East (UAE) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: Israel (Tel Aviv) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: EU (Zurich) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: EU (Spain) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: EU (Paris) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: EU (Milan) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: Africa (Cape Town) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: South America (Sao Paulo) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Middle East (UAE) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Israel (Tel Aviv) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Zurich) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Spain) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Paris) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Milan) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Canada West (Calgary) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Africa (Cape Town) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Middle East (UAE) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Zurich) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Spain) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Paris) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Milan) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Canada West (Calgary) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Africa (Cape Town) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: South America (Sao Paulo) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: Middle East (UAE) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: Israel (Tel Aviv) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: EU (Zurich) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: EU (Spain) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: EU (Paris) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: EU (Milan) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: Africa (Cape Town) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: South America (Sao Paulo) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: Middle East (UAE) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: Israel (Tel Aviv) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: EU (Zurich) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: EU (Spain) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: EU (Paris) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: EU (Milan) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: Africa (Cape Town) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: South America (Sao Paulo) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Middle East (UAE) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Israel (Tel Aviv) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Zurich) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Spain) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Paris) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Milan) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Canada West (Calgary) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Africa (Cape Town) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: South America (Sao Paulo) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: Middle East (UAE) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: Israel (Tel Aviv) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: EU (Zurich) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: EU (Spain) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: EU (Paris) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: EU (Milan) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: Africa (Cape Town) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: South America (Sao Paulo) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Middle East (UAE) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Zurich) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Spain) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Paris) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Milan) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Canada West (Calgary) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Africa (Cape Town) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: South America (Sao Paulo) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: Middle East (UAE) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: Israel (Tel Aviv) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: EU (Zurich) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: EU (Spain) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: EU (Paris) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: EU (Milan) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: EU (Zurich) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: EU (Spain) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: EU (Paris) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: EU (Milan) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: Africa (Cape Town) 🌎
+
+- [rds-mysql-ondemand](processed/rds-mysql-ondemand.json)
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: South America (Sao Paulo) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Middle East (UAE) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: EU (Zurich) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: EU (Spain) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: EU (Paris) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: EU (Milan) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Canada West (Calgary) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Africa (Cape Town) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: South America (Sao Paulo) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Middle East (UAE) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Zurich) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Spain) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Paris) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Milan) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Canada West (Calgary) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Africa (Cape Town) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: South America (Sao Paulo) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Middle East (UAE) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Israel (Tel Aviv) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: EU (Zurich) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: EU (Spain) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: EU (Paris) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: EU (Milan) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Canada West (Calgary) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Africa (Cape Town) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: South America (Sao Paulo) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Middle East (UAE) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Israel (Tel Aviv) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Zurich) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Spain) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Paris) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Milan) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Canada West (Calgary) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Africa (Cape Town) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: South America (Sao Paulo) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Middle East (UAE) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Israel (Tel Aviv) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: EU (Zurich) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: EU (Spain) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: EU (Paris) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: EU (Milan) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Canada West (Calgary) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Africa (Cape Town) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: South America (Sao Paulo) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Middle East (UAE) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Israel (Tel Aviv) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Zurich) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Spain) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Paris) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Milan) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Canada West (Calgary) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Africa (Cape Town) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Middle East (UAE) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Zurich) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Spain) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Paris) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Milan) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Canada West (Calgary) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Africa (Cape Town) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: South America (Sao Paulo) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Middle East (UAE) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Mexico (Central) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Israel (Tel Aviv) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: EU (Zurich) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: EU (Spain) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: EU (Paris) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: EU (Milan) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Canada West (Calgary) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Africa (Cape Town) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: South America (Sao Paulo) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Middle East (UAE) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Israel (Tel Aviv) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: EU (Zurich) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: EU (Spain) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: EU (Paris) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: EU (Milan) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Canada West (Calgary) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Africa (Cape Town) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: South America (Sao Paulo) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Middle East (UAE) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: EU (Zurich) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: EU (Spain) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: EU (Paris) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: EU (Milan) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Canada West (Calgary) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Africa (Cape Town) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Middle East (UAE) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Mexico (Central) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: EU (Zurich) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: EU (Spain) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: EU (Paris) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: EU (Milan) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Canada West (Calgary) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Africa (Cape Town) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: South America (Sao Paulo) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Middle East (UAE) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Israel (Tel Aviv) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Zurich) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Spain) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Paris) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Milan) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Canada West (Calgary) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Africa (Cape Town) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: South America (Sao Paulo) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Middle East (UAE) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Israel (Tel Aviv) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: EU (Zurich) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: EU (Spain) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: EU (Paris) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: EU (Milan) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Canada West (Calgary) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Africa (Cape Town) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: South America (Sao Paulo) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Middle East (UAE) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Mexico (Central) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: EU (Zurich) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: EU (Spain) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: EU (Paris) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: EU (Milan) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Canada West (Calgary) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Africa (Cape Town) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: South America (Sao Paulo) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Middle East (UAE) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Israel (Tel Aviv) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: EU (Zurich) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: EU (Spain) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: EU (Paris) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: EU (Milan) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Canada West (Calgary) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Africa (Cape Town) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: South America (Sao Paulo) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Middle East (UAE) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Zurich) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Spain) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Paris) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Milan) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Canada West (Calgary) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Africa (Cape Town) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: South America (Sao Paulo) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Middle East (UAE) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: EU (Zurich) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: EU (Spain) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: EU (Paris) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: EU (Milan) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Canada West (Calgary) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Africa (Cape Town) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: South America (Sao Paulo) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Middle East (UAE) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: EU (Zurich) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: EU (Spain) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: EU (Paris) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: EU (Milan) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Canada West (Calgary) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Africa (Cape Town) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: South America (Sao Paulo) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Middle East (UAE) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Israel (Tel Aviv) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: EU (Zurich) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: EU (Spain) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: EU (Paris) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: EU (Milan) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Canada West (Calgary) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Africa (Cape Town) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: South America (Sao Paulo) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Middle East (UAE) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Israel (Tel Aviv) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: EU (Zurich) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: EU (Spain) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: EU (Paris) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: EU (Milan) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Canada West (Calgary) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Africa (Cape Town) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: South America (Sao Paulo) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Middle East (UAE) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Israel (Tel Aviv) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: EU (Zurich) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: EU (Spain) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: EU (Paris) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: EU (Milan) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Canada West (Calgary) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Africa (Cape Town) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: South America (Sao Paulo) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Middle East (UAE) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Mexico (Central) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: EU (Zurich) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: EU (Spain) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: EU (Paris) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: EU (Milan) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Canada West (Calgary) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Mexico (Central) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Mexico (Central) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+
+- [rds-postgresql-ondemand](processed/rds-postgresql-ondemand.json)
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: South America (Sao Paulo) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Middle East (UAE) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: EU (Zurich) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: EU (Spain) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: EU (Paris) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: EU (Milan) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Canada West (Calgary) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Africa (Cape Town) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: South America (Sao Paulo) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Middle East (UAE) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Zurich) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Spain) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Paris) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Milan) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Canada West (Calgary) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Africa (Cape Town) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: South America (Sao Paulo) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Middle East (UAE) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Israel (Tel Aviv) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: EU (Zurich) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: EU (Spain) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: EU (Paris) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: EU (Milan) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Canada West (Calgary) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Africa (Cape Town) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: South America (Sao Paulo) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Middle East (UAE) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Israel (Tel Aviv) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Zurich) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Spain) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Paris) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Milan) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Canada West (Calgary) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Africa (Cape Town) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: South America (Sao Paulo) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Middle East (UAE) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Israel (Tel Aviv) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: EU (Zurich) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: EU (Spain) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: EU (Paris) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: EU (Milan) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Canada West (Calgary) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Africa (Cape Town) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: South America (Sao Paulo) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Middle East (UAE) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Israel (Tel Aviv) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Zurich) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Spain) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Paris) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Milan) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Canada West (Calgary) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Africa (Cape Town) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Middle East (UAE) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Zurich) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Spain) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Paris) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Milan) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Canada West (Calgary) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Africa (Cape Town) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: South America (Sao Paulo) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Middle East (UAE) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Mexico (Central) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Israel (Tel Aviv) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: EU (Zurich) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: EU (Spain) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: EU (Paris) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: EU (Milan) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Canada West (Calgary) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Africa (Cape Town) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: South America (Sao Paulo) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Middle East (UAE) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Israel (Tel Aviv) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: EU (Zurich) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: EU (Spain) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: EU (Paris) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: EU (Milan) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Canada West (Calgary) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Africa (Cape Town) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: South America (Sao Paulo) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Middle East (UAE) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: EU (Zurich) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: EU (Spain) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: EU (Paris) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: EU (Milan) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Canada West (Calgary) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Africa (Cape Town) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Middle East (UAE) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Mexico (Central) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: EU (Zurich) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: EU (Spain) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: EU (Paris) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: EU (Milan) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Canada West (Calgary) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Africa (Cape Town) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: South America (Sao Paulo) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Middle East (UAE) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Israel (Tel Aviv) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Zurich) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Spain) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Paris) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Milan) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Canada West (Calgary) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Africa (Cape Town) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: South America (Sao Paulo) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Middle East (UAE) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Israel (Tel Aviv) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: EU (Zurich) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: EU (Spain) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: EU (Paris) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: EU (Milan) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Canada West (Calgary) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Africa (Cape Town) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: South America (Sao Paulo) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Middle East (UAE) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Mexico (Central) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: EU (Zurich) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: EU (Spain) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: EU (Paris) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: EU (Milan) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Canada West (Calgary) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Africa (Cape Town) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: South America (Sao Paulo) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Middle East (UAE) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Israel (Tel Aviv) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: EU (Zurich) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: EU (Spain) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: EU (Paris) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: EU (Milan) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Canada West (Calgary) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Africa (Cape Town) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: South America (Sao Paulo) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Middle East (UAE) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Zurich) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Spain) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Paris) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Milan) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Canada West (Calgary) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Africa (Cape Town) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: South America (Sao Paulo) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Middle East (UAE) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: EU (Zurich) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: EU (Spain) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: EU (Paris) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: EU (Milan) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Canada West (Calgary) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Africa (Cape Town) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: South America (Sao Paulo) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Middle East (UAE) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: EU (Zurich) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: EU (Spain) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: EU (Paris) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: EU (Milan) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Canada West (Calgary) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Africa (Cape Town) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: South America (Sao Paulo) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Middle East (UAE) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Israel (Tel Aviv) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: EU (Zurich) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: EU (Spain) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: EU (Paris) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: EU (Milan) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Canada West (Calgary) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Africa (Cape Town) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: South America (Sao Paulo) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Middle East (UAE) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Israel (Tel Aviv) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: EU (Zurich) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: EU (Spain) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: EU (Paris) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: EU (Milan) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Canada West (Calgary) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Africa (Cape Town) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: South America (Sao Paulo) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Middle East (UAE) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Israel (Tel Aviv) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: EU (Zurich) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: EU (Spain) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: EU (Paris) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: EU (Milan) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Canada West (Calgary) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Africa (Cape Town) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: South America (Sao Paulo) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Middle East (UAE) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Mexico (Central) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: EU (Zurich) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: EU (Spain) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: EU (Paris) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: EU (Milan) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Canada West (Calgary) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Mexico (Central) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Mexico (Central) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+
+- [rds-oracle-ondemand](processed/rds-oracle-ondemand.json)
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: South America (Sao Paulo) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Middle East (UAE) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: EU (Zurich) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: EU (Spain) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: EU (Paris) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: EU (Milan) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Canada West (Calgary) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Africa (Cape Town) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: South America (Sao Paulo) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Middle East (UAE) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Zurich) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Spain) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Paris) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Milan) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Canada West (Calgary) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Africa (Cape Town) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: South America (Sao Paulo) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Middle East (UAE) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Israel (Tel Aviv) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Zurich) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Spain) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Paris) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Milan) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Canada West (Calgary) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Africa (Cape Town) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: South America (Sao Paulo) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Middle East (UAE) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Israel (Tel Aviv) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: EU (Zurich) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: EU (Spain) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: EU (Paris) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: EU (Milan) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Canada West (Calgary) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Africa (Cape Town) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: South America (Sao Paulo) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Middle East (UAE) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Israel (Tel Aviv) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Zurich) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Spain) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Paris) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Milan) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Canada West (Calgary) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Africa (Cape Town) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Middle East (UAE) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Zurich) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Spain) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Paris) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Milan) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Canada West (Calgary) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Africa (Cape Town) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: South America (Sao Paulo) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Middle East (UAE) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: EU (Zurich) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: EU (Spain) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: EU (Paris) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: EU (Milan) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Canada West (Calgary) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Africa (Cape Town) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Middle East (UAE) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: EU (Zurich) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: EU (Spain) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: EU (Paris) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: EU (Milan) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Canada West (Calgary) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Africa (Cape Town) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: South America (Sao Paulo) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Middle East (UAE) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Mexico (Central) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Israel (Tel Aviv) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: EU (Zurich) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: EU (Spain) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: EU (Paris) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: EU (Milan) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Canada West (Calgary) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Africa (Cape Town) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: South America (Sao Paulo) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Middle East (UAE) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Israel (Tel Aviv) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: EU (Zurich) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: EU (Spain) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: EU (Paris) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: EU (Milan) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Canada West (Calgary) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Africa (Cape Town) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: South America (Sao Paulo) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Middle East (UAE) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Mexico (Central) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: EU (Zurich) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: EU (Spain) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: EU (Paris) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: EU (Milan) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Canada West (Calgary) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Africa (Cape Town) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: South America (Sao Paulo) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Middle East (UAE) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Israel (Tel Aviv) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Zurich) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Spain) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Paris) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Milan) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Canada West (Calgary) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Africa (Cape Town) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: South America (Sao Paulo) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Middle East (UAE) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Israel (Tel Aviv) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: EU (Zurich) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: EU (Spain) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: EU (Paris) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: EU (Milan) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Canada West (Calgary) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Africa (Cape Town) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: South America (Sao Paulo) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Middle East (UAE) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Mexico (Central) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Israel (Tel Aviv) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: EU (Zurich) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: EU (Spain) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: EU (Paris) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: EU (Milan) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Canada West (Calgary) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Africa (Cape Town) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: South America (Sao Paulo) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Middle East (UAE) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: EU (Zurich) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: EU (Spain) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: EU (Paris) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: EU (Milan) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Canada West (Calgary) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Africa (Cape Town) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: South America (Sao Paulo) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Middle East (UAE) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Zurich) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Spain) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Paris) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Milan) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Canada West (Calgary) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Africa (Cape Town) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: South America (Sao Paulo) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Middle East (UAE) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Israel (Tel Aviv) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: EU (Zurich) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: EU (Spain) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: EU (Paris) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: EU (Milan) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Canada West (Calgary) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Africa (Cape Town) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: South America (Sao Paulo) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Middle East (UAE) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Mexico (Central) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Israel (Tel Aviv) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: EU (Zurich) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: EU (Spain) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: EU (Paris) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: EU (Milan) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Canada West (Calgary) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+
+- [rds-mariadb-ondemand](processed/rds-mariadb-ondemand.json)
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: South America (Sao Paulo) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Middle East (UAE) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Israel (Tel Aviv) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: EU (Zurich) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: EU (Spain) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: EU (Paris) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: EU (Milan) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Canada West (Calgary) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Africa (Cape Town) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: South America (Sao Paulo) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Middle East (UAE) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Israel (Tel Aviv) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: EU (Zurich) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: EU (Spain) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: EU (Paris) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: EU (Milan) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Canada West (Calgary) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Africa (Cape Town) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: South America (Sao Paulo) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Middle East (UAE) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Israel (Tel Aviv) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: EU (Zurich) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: EU (Spain) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: EU (Paris) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: EU (Milan) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Canada West (Calgary) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Africa (Cape Town) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: South America (Sao Paulo) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Middle East (UAE) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Israel (Tel Aviv) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: EU (Zurich) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: EU (Spain) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: EU (Paris) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: EU (Milan) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Canada West (Calgary) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Africa (Cape Town) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: South America (Sao Paulo) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Middle East (UAE) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Israel (Tel Aviv) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: EU (Zurich) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: EU (Spain) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: EU (Paris) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: EU (Milan) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Canada West (Calgary) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Africa (Cape Town) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: South America (Sao Paulo) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Middle East (UAE) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Israel (Tel Aviv) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: EU (Zurich) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: EU (Spain) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: EU (Paris) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: EU (Milan) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Canada West (Calgary) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Africa (Cape Town) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: South America (Sao Paulo) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Middle East (UAE) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Israel (Tel Aviv) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: EU (Zurich) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: EU (Spain) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: EU (Paris) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: EU (Milan) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Canada West (Calgary) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Africa (Cape Town) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: South America (Sao Paulo) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Middle East (UAE) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Mexico (Central) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Israel (Tel Aviv) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: EU (Zurich) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: EU (Spain) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: EU (Paris) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: EU (Milan) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Canada West (Calgary) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Africa (Cape Town) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: South America (Sao Paulo) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Middle East (UAE) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Israel (Tel Aviv) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: EU (Zurich) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: EU (Spain) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: EU (Paris) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: EU (Milan) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Canada West (Calgary) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Africa (Cape Town) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: South America (Sao Paulo) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Middle East (UAE) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Israel (Tel Aviv) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: EU (Zurich) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: EU (Spain) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: EU (Paris) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: EU (Milan) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Canada West (Calgary) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Africa (Cape Town) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: South America (Sao Paulo) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Middle East (UAE) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Mexico (Central) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Israel (Tel Aviv) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: EU (Zurich) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: EU (Spain) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: EU (Paris) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: EU (Milan) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Canada West (Calgary) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Africa (Cape Town) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: South America (Sao Paulo) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Middle East (UAE) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Israel (Tel Aviv) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: EU (Zurich) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: EU (Spain) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: EU (Paris) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: EU (Milan) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Canada West (Calgary) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Africa (Cape Town) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: South America (Sao Paulo) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Middle East (UAE) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Israel (Tel Aviv) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: EU (Zurich) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: EU (Spain) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: EU (Paris) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: EU (Milan) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Canada West (Calgary) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Africa (Cape Town) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: South America (Sao Paulo) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Middle East (UAE) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Mexico (Central) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Israel (Tel Aviv) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: EU (Zurich) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: EU (Spain) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: EU (Paris) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: EU (Milan) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Canada West (Calgary) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Africa (Cape Town) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: South America (Sao Paulo) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Middle East (UAE) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Israel (Tel Aviv) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: EU (Zurich) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: EU (Spain) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: EU (Paris) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: EU (Milan) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Canada West (Calgary) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Africa (Cape Town) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: South America (Sao Paulo) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Middle East (UAE) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Israel (Tel Aviv) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: EU (Zurich) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: EU (Spain) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: EU (Paris) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: EU (Milan) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Canada West (Calgary) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Africa (Cape Town) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: South America (Sao Paulo) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Middle East (UAE) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Israel (Tel Aviv) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: EU (Zurich) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: EU (Spain) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: EU (Paris) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: EU (Milan) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Canada West (Calgary) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Africa (Cape Town) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: South America (Sao Paulo) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Middle East (UAE) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Israel (Tel Aviv) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: EU (Zurich) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: EU (Spain) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: EU (Paris) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: EU (Milan) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Canada West (Calgary) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Africa (Cape Town) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: South America (Sao Paulo) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Middle East (UAE) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Israel (Tel Aviv) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: EU (Zurich) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: EU (Spain) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: EU (Paris) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: EU (Milan) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Canada West (Calgary) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Africa (Cape Town) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: South America (Sao Paulo) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Middle East (UAE) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Israel (Tel Aviv) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: EU (Zurich) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: EU (Spain) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: EU (Paris) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: EU (Milan) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Canada West (Calgary) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Africa (Cape Town) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: South America (Sao Paulo) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Middle East (UAE) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Israel (Tel Aviv) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: EU (Zurich) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: EU (Spain) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: EU (Paris) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: EU (Milan) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Canada West (Calgary) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Africa (Cape Town) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: South America (Sao Paulo) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Middle East (UAE) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Mexico (Central) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Israel (Tel Aviv) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: EU (Zurich) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: EU (Spain) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: EU (Paris) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: EU (Milan) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Canada West (Calgary) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Asia Pacific (Thailand) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Africa (Cape Town) 🌎
+
+- [rds-sqlserver-ondemand](processed/rds-sqlserver-ondemand.json)
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: South America (Sao Paulo) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: Middle East (UAE) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: Israel (Tel Aviv) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: EU (Zurich) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: EU (Spain) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: EU (Paris) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: EU (Milan) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: Canada West (Calgary) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 1c5zqO6zoIMAzXBnGQA3Ap9w-0Ps9xhu__KQYEKOYvM V1: Africa (Cape Town) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: South America (Sao Paulo) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Middle East (UAE) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: EU (Zurich) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: EU (Spain) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: EU (Paris) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: EU (Milan) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Canada West (Calgary) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Africa (Cape Town) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: South America (Sao Paulo) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: Middle East (UAE) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: Israel (Tel Aviv) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: EU (Zurich) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: EU (Spain) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: EU (Paris) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: EU (Milan) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: Canada West (Calgary) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 2pw5EsO9eE3p4BeNv9A7LM4uL3RUyRXBM9owm3mJ28w V1: Africa (Cape Town) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: South America (Sao Paulo) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: Middle East (UAE) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: Israel (Tel Aviv) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: EU (Zurich) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: EU (Spain) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: EU (Paris) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: EU (Milan) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: Canada West (Calgary) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 2zYKL-ZeV8cqWcRFkPFPPzdoCPsImiyuzJPYy2vKjNg V1: Africa (Cape Town) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Middle East (UAE) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: EU (Zurich) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: EU (Spain) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: EU (Paris) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: EU (Milan) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Canada West (Calgary) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Africa (Cape Town) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: South America (Sao Paulo) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Middle East (UAE) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Israel (Tel Aviv) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: EU (Zurich) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: EU (Spain) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: EU (Paris) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: EU (Milan) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Canada West (Calgary) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Africa (Cape Town) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: South America (Sao Paulo) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Middle East (UAE) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Israel (Tel Aviv) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Zurich) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Spain) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Paris) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: EU (Milan) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Canada West (Calgary) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Africa (Cape Town) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: South America (Sao Paulo) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Middle East (UAE) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Israel (Tel Aviv) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Zurich) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Spain) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Paris) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: EU (Milan) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Canada West (Calgary) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Africa (Cape Town) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: South America (Sao Paulo) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: Middle East (UAE) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: EU (Zurich) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: EU (Spain) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: EU (Paris) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: EU (Milan) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: Canada West (Calgary) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric F8_HeYBArH8O8sRYLVyEWiKUuXXmePvwhwxcQWnb-q0 V1: Africa (Cape Town) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: South America (Sao Paulo) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Middle East (UAE) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Israel (Tel Aviv) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: EU (Zurich) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: EU (Spain) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: EU (Paris) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: EU (Milan) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Canada West (Calgary) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Africa (Cape Town) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: South America (Sao Paulo) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Middle East (UAE) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Israel (Tel Aviv) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: EU (Zurich) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: EU (Spain) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: EU (Paris) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: EU (Milan) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Canada West (Calgary) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Africa (Cape Town) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: South America (Sao Paulo) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Middle East (UAE) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Israel (Tel Aviv) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: EU (Zurich) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: EU (Spain) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: EU (Paris) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: EU (Milan) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Canada West (Calgary) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Africa (Cape Town) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: South America (Sao Paulo) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Middle East (UAE) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Israel (Tel Aviv) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Zurich) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Spain) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Paris) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: EU (Milan) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Canada West (Calgary) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Africa (Cape Town) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Middle East (UAE) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Zurich) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Spain) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Paris) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: EU (Milan) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Canada West (Calgary) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Africa (Cape Town) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: South America (Sao Paulo) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: Middle East (UAE) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: Israel (Tel Aviv) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: EU (Zurich) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: EU (Spain) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: EU (Paris) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: EU (Milan) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: Canada West (Calgary) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric T0EO4gabOjJBDYguGubSC7SNR03blkS8BYetI8YFwDE V1: Africa (Cape Town) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: South America (Sao Paulo) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Middle East (UAE) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Israel (Tel Aviv) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: EU (Zurich) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: EU (Spain) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: EU (Paris) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: EU (Milan) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Canada West (Calgary) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Africa (Cape Town) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: South America (Sao Paulo) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: Middle East (UAE) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: Israel (Tel Aviv) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: EU (Zurich) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: EU (Spain) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: EU (Paris) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: EU (Milan) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: Canada West (Calgary) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric WUFuhS9qsHUdC6pBeF0gjv92D9T8ux4ZM9W3mIx6fkM V1: Africa (Cape Town) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: South America (Sao Paulo) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Middle East (UAE) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: EU (Zurich) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: EU (Spain) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: EU (Paris) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: EU (Milan) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Canada West (Calgary) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Africa (Cape Town) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: South America (Sao Paulo) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Middle East (UAE) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Israel (Tel Aviv) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: EU (Zurich) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: EU (Spain) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: EU (Paris) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: EU (Milan) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Canada West (Calgary) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Africa (Cape Town) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: South America (Sao Paulo) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: Middle East (UAE) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: EU (Zurich) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: EU (Spain) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: EU (Paris) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: EU (Milan) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: Canada West (Calgary) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ZdDD1IFFW9yNnK3Gf1G-j-TtZY7wSPNhpbQr7XG-9mw V1: Africa (Cape Town) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: South America (Sao Paulo) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Middle East (UAE) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Israel (Tel Aviv) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Zurich) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Spain) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Paris) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: EU (Milan) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Canada West (Calgary) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Africa (Cape Town) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: South America (Sao Paulo) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: Middle East (UAE) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: Israel (Tel Aviv) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: EU (Zurich) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: EU (Spain) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: EU (Paris) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: EU (Milan) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: Canada West (Calgary) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric dYm6DPCfnA5HHhvDM77nVOs1JFWQlZM1BinDL-3cMRc V1: Africa (Cape Town) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: South America (Sao Paulo) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: Middle East (UAE) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: EU (Zurich) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: EU (Spain) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: EU (Paris) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: EU (Milan) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: Canada West (Calgary) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric lKf6FBFbg2Jm1JktUfpezUEP2AyhSURCl8BthI4I9f8 V1: Africa (Cape Town) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: South America (Sao Paulo) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: Middle East (UAE) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: EU (Zurich) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: EU (Spain) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: EU (Paris) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: EU (Milan) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: Canada West (Calgary) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric mwnqp6SfXY4H0pUJiEias8vesQyObwDnfkPMT8Vsyu8 V1: Africa (Cape Town) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: South America (Sao Paulo) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Middle East (UAE) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Israel (Tel Aviv) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Zurich) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Spain) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Paris) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: EU (Milan) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Canada West (Calgary) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Africa (Cape Town) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: South America (Sao Paulo) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: Middle East (UAE) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: Israel (Tel Aviv) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: EU (Zurich) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: EU (Spain) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: EU (Paris) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: EU (Milan) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: Canada West (Calgary) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1: Africa (Cape Town) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: South America (Sao Paulo) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Middle East (UAE) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: EU (Zurich) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: EU (Spain) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: EU (Paris) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: EU (Milan) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Canada West (Calgary) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Africa (Cape Town) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Middle East (UAE) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: EU (Zurich) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: EU (Spain) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: EU (Paris) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: EU (Milan) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Canada West (Calgary) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Africa (Cape Town) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: South America (Sao Paulo) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: Middle East (UAE) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: Israel (Tel Aviv) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: EU (Zurich) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: EU (Spain) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: EU (Paris) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: EU (Milan) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: Canada West (Calgary) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric wKO6C-dkIvhD0cKtA7izDpOIRaD6bmrNEmKB_RkNJro V1: Africa (Cape Town) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: South America (Sao Paulo) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Middle East (UAE) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Israel (Tel Aviv) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: EU (Zurich) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: EU (Spain) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: EU (Paris) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: EU (Milan) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Canada West (Calgary) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Asia Pacific (Melbourne) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Asia Pacific (Malaysia) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Asia Pacific (Jakarta) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: South America (Sao Paulo) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Middle East (UAE) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Israel (Tel Aviv) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Zurich) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Spain) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Paris) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: EU (Milan) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Canada West (Calgary) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Thailand) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Osaka) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Israel (Tel Aviv) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Zurich) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Spain) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Canada West (Calgary) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Thailand) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Africa (Cape Town) 🌎
+
+- [rds-flex-ondemand](processed/rds-flex-ondemand.json)
+  - Region added for metric -SKbTIvV3NBo4b_8Y7nqvrgbZKIZP3LtL2UB2xZL-7I V2: South America (Sao Paulo) 🌎
+  - Region added for metric -SKbTIvV3NBo4b_8Y7nqvrgbZKIZP3LtL2UB2xZL-7I V2: Middle East (UAE) 🌎
+  - Region added for metric -SKbTIvV3NBo4b_8Y7nqvrgbZKIZP3LtL2UB2xZL-7I V2: EU (Paris) 🌎
+  - Region added for metric -SKbTIvV3NBo4b_8Y7nqvrgbZKIZP3LtL2UB2xZL-7I V2: EU (Milan) 🌎
+  - Region added for metric -SKbTIvV3NBo4b_8Y7nqvrgbZKIZP3LtL2UB2xZL-7I V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric -SKbTIvV3NBo4b_8Y7nqvrgbZKIZP3LtL2UB2xZL-7I V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric 3HftmPQJlHydtvvAHfMdWdxmgnm9c-MFBnI0bW3ANfE V2: Africa (Cape Town) 🌎
+  - Region added for metric 4lPCEJFxIboD2PM4kZr0OMmaY-_QzHAc5MCIqck2-wM V2: Africa (Cape Town) 🌎
+  - Region added for metric 6P29KvSs2yzWgryFZr3hJtDYOFBiJwLSKAw1O-AteA8 V2: Africa (Cape Town) 🌎
+  - Region added for metric 76n6dmTkLAyLr8F0X0FzYI0dljn7Cyacwb0R0bfkE6I V2: Africa (Cape Town) 🌎
+  - Region added for metric 85pq_f-cgkleNtWq04eU0HAu1oKZ67uqrf2JltQflnQ V2: Africa (Cape Town) 🌎
+  - Region added for metric 8cW_SFVwTAj9v8y1n1HPpeTxVtmnumONlSdM4J_XkuI V2: Africa (Cape Town) 🌎
+  - Region added for metric 8zDlRZ70ZMTFJP_v6eS8zsvZ8mXeWJLHA6QijTSsVPw V2: Africa (Cape Town) 🌎
+  - Region added for metric EzBQd_DWlrMmXNOLEjNiUubASRssV6gwR_fNjbb2eq8 V2: Africa (Cape Town) 🌎
+  - Region added for metric JzieZqhgGmw6ETRw8A04HCmzHimRHEKETb0WvtSkHeE V2: Africa (Cape Town) 🌎
+  - Region added for metric MMv-M6M3NBpCa9ahbohGpM6R0IkdUofHBdr3DrHyL-Q V2: Africa (Cape Town) 🌎
+  - Region added for metric O8DD6pmN280q4XxfN8nv2CQngnZJ5eOnA7v3c66J4bQ V2: Africa (Cape Town) 🌎
+  - Region added for metric OfrPKXgzAqiqhyze4xzVJuZ8sbxJmAzFSF5Psc28H9o V2: Africa (Cape Town) 🌎
+  - Region added for metric RndIlkNwJ-LZ65D2maHGTyWj_2WbW1_UwOwd1coQ_Bk V2: Africa (Cape Town) 🌎
+  - Region added for metric XYV_g69wTbzDODE_W1fQYsIbKkaqQhkymSS-fNvBOys V2: South America (Sao Paulo) 🌎
+  - Region added for metric XzVDFfU63Rj5ehP94bwijNfDrB34Y3QN87zQNOPpL-w V2: South America (Sao Paulo) 🌎
+  - Region added for metric XzVDFfU63Rj5ehP94bwijNfDrB34Y3QN87zQNOPpL-w V2: Middle East (UAE) 🌎
+  - Region added for metric XzVDFfU63Rj5ehP94bwijNfDrB34Y3QN87zQNOPpL-w V2: EU (Paris) 🌎
+  - Region added for metric XzVDFfU63Rj5ehP94bwijNfDrB34Y3QN87zQNOPpL-w V2: EU (Milan) 🌎
+  - Region added for metric XzVDFfU63Rj5ehP94bwijNfDrB34Y3QN87zQNOPpL-w V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric XzVDFfU63Rj5ehP94bwijNfDrB34Y3QN87zQNOPpL-w V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric YqtBe_YxEG91Rk1Su7_6V-2HzZK07pNnVMEn2oV19pQ V2: Africa (Cape Town) 🌎
+  - Region added for metric _G1oS64O7sIi2Ffam7vJ8bjBNsiQIp1Fy6L2gUl508U V2: South America (Sao Paulo) 🌎
+  - Region added for metric dJosILhMdb8LHvvyhZyi6EuzdOwsWUeqrIuuZZZOt9A V2: South America (Sao Paulo) 🌎
+  - Region added for metric dJosILhMdb8LHvvyhZyi6EuzdOwsWUeqrIuuZZZOt9A V2: Middle East (UAE) 🌎
+  - Region added for metric dJosILhMdb8LHvvyhZyi6EuzdOwsWUeqrIuuZZZOt9A V2: EU (Paris) 🌎
+  - Region added for metric dJosILhMdb8LHvvyhZyi6EuzdOwsWUeqrIuuZZZOt9A V2: EU (Milan) 🌎
+  - Region added for metric dJosILhMdb8LHvvyhZyi6EuzdOwsWUeqrIuuZZZOt9A V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric dJosILhMdb8LHvvyhZyi6EuzdOwsWUeqrIuuZZZOt9A V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric eSb_3XXk3DZl4Dk2jpc62vDFYjyM_J8bo87J3UdvoIw V2: South America (Sao Paulo) 🌎
+  - Region added for metric goL4sIXbnX7ZqSnTw629tp_HqNL71CFlWEW5bGnJSY8 V2: Africa (Cape Town) 🌎
+  - Region added for metric jXGERaVYLJwZwsNYM_rAKLvzz6-pitapDJaakJaYnXk V2: Africa (Cape Town) 🌎
+  - Region added for metric ksKo5KEpJcOZsuswXI2gFUNAt46wJ7VfoJQpY-cqQ-4 V2: South America (Sao Paulo) 🌎
+  - Region added for metric ksKo5KEpJcOZsuswXI2gFUNAt46wJ7VfoJQpY-cqQ-4 V2: Middle East (UAE) 🌎
+  - Region added for metric ksKo5KEpJcOZsuswXI2gFUNAt46wJ7VfoJQpY-cqQ-4 V2: EU (Paris) 🌎
+  - Region added for metric ksKo5KEpJcOZsuswXI2gFUNAt46wJ7VfoJQpY-cqQ-4 V2: EU (Milan) 🌎
+  - Region added for metric ksKo5KEpJcOZsuswXI2gFUNAt46wJ7VfoJQpY-cqQ-4 V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric ksKo5KEpJcOZsuswXI2gFUNAt46wJ7VfoJQpY-cqQ-4 V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric mxI0St5iGb4okYavQOO67DJtMkLrpVvhqbuQ9Bet9BI V2: Africa (Cape Town) 🌎
+  - Region added for metric nI9z3gHfN6ok-p0kYvmiPUsXhyGbzJDNnbP9UyOxFmE V2: Africa (Cape Town) 🌎
+  - Region added for metric qxuAwIsFynAj7007-WAqBDAhIz7A2FR4MF5_Q--Jy64 V2: Africa (Cape Town) 🌎
+  - Region added for metric rDiQLXc2_zTo4KkAMMxb8v_wdPf6HBN1-6Ovfr8pc-o V2: Africa (Cape Town) 🌎
+  - Region added for metric t8YICYYJXZqTsrOHK4cyE_O1NSn19FxuQ-LXJEyq2BU V2: Africa (Cape Town) 🌎
+  - Region added for metric uGsXcdYgFVqwexYA4q6MZNuRCP-3l4MnQlr9_HyBQD8 V2: South America (Sao Paulo) 🌎
+  - Region added for metric v2qFImy8RO4FPiSMpKUIAhvB2vnvUWu5VHTIoOufT3E V2: Africa (Cape Town) 🌎
+  - Region added for metric wUO5O96r4fKYKcBhWEm9sbocRxYfJ2YWB9kR-bID0CQ V2: Africa (Cape Town) 🌎
+  - Region added for metric xjMdV_Ti-MYoimlcEkKcnP4MVo4cDMChTxjA8ldRBus V2: South America (Sao Paulo) 🌎
+  - Region added for metric xjMdV_Ti-MYoimlcEkKcnP4MVo4cDMChTxjA8ldRBus V2: Middle East (UAE) 🌎
+  - Region added for metric xjMdV_Ti-MYoimlcEkKcnP4MVo4cDMChTxjA8ldRBus V2: EU (Paris) 🌎
+  - Region added for metric xjMdV_Ti-MYoimlcEkKcnP4MVo4cDMChTxjA8ldRBus V2: EU (Milan) 🌎
+  - Region added for metric xjMdV_Ti-MYoimlcEkKcnP4MVo4cDMChTxjA8ldRBus V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric xjMdV_Ti-MYoimlcEkKcnP4MVo4cDMChTxjA8ldRBus V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric xmP23pY0YE5-e1zoU-PK8CCeec57KiHzSHUOyToww9Y V2: Africa (Cape Town) 🌎
+  - Region added for metric zqpgSd90CzakkKqM1DIsx_l-zKrcdYebkJXaQasAoAQ V2: South America (Sao Paulo) 🌎
+  - Region added for metric zqpgSd90CzakkKqM1DIsx_l-zKrcdYebkJXaQasAoAQ V2: Middle East (UAE) 🌎
+  - Region added for metric zqpgSd90CzakkKqM1DIsx_l-zKrcdYebkJXaQasAoAQ V2: EU (Paris) 🌎
+  - Region added for metric zqpgSd90CzakkKqM1DIsx_l-zKrcdYebkJXaQasAoAQ V2: EU (Milan) 🌎
+  - Region added for metric zqpgSd90CzakkKqM1DIsx_l-zKrcdYebkJXaQasAoAQ V2: Asia Pacific (Osaka) 🌎
+  - Region added for metric zqpgSd90CzakkKqM1DIsx_l-zKrcdYebkJXaQasAoAQ V2: Asia Pacific (Jakarta) 🌎
+  - Region added for metric SQL Server Enterprise Multi-AZ Provisioned IOPS-IO2 GB-Mo: Africa (Cape Town) 🌎
+  - Region added for metric SQL Server Web Multi-AZ Provisioned IOPS-IO2 GB-Mo: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IOPS SQL Server Enterprise RDS Provisioned IO2 IOPS Single-AZ: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IOPS SQL Server Standard RDS Provisioned IO2 IOPS Multi-AZ: Africa (Cape Town) 🌎
+  - Region added for metric SQL Server Standard Single-AZ Provisioned IOPS-IO2 GB-Mo: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IOPS SQL Server Web RDS Provisioned IO2 IOPS Multi-AZ: Africa (Cape Town) 🌎
+  - Region added for metric SQL Server Web Single-AZ Provisioned IOPS-IO2 GB-Mo: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Single-AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Single-AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Single-AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Single-AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Single-AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Single-AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Database Storage Oracle Enterprise Custom Single-AZ Oracle RAC Provisioned IOPS-IO2 io2 0 Inf: South America (Sao Paulo) 🌎
+  - Region added for metric SQL Server Standard Multi-AZ Provisioned IOPS-IO2 GB-Mo: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Multi-AZ: South America (Sao Paulo) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Multi-AZ: Middle East (UAE) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Multi-AZ: EU (Paris) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Multi-AZ: EU (Milan) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Multi-AZ: Asia Pacific (Osaka) 🌎
+  - Region added for metric Provisioned IOPS Oracle Enterprise RDS Provisioned IO2 IOPS Multi-AZ: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Provisioned IOPS SQL Server Standard RDS Provisioned IO2 IOPS Single-AZ: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IOPS SQL Server Enterprise RDS Provisioned IO2 IOPS Multi-AZ: Africa (Cape Town) 🌎
+  - Region added for metric Provisioned IOPS SQL Server Web RDS Provisioned IO2 IOPS Single-AZ: Africa (Cape Town) 🌎
+  - Region added for metric SQL Server Enterprise Single-AZ Provisioned IOPS-IO2 GB-Mo: Africa (Cape Town) 🌎
+  - Region added for metric Oracle Enterprise Single-AZ Provisioned IOPS-IO2 GB-Mo: South America (Sao Paulo) 🌎
+  - Region added for metric Oracle Enterprise Single-AZ Provisioned IOPS-IO2 GB-Mo: Middle East (UAE) 🌎
+  - Region added for metric Oracle Enterprise Single-AZ Provisioned IOPS-IO2 GB-Mo: EU (Paris) 🌎
+  - Region added for metric Oracle Enterprise Single-AZ Provisioned IOPS-IO2 GB-Mo: EU (Milan) 🌎
+  - Region added for metric Oracle Enterprise Single-AZ Provisioned IOPS-IO2 GB-Mo: Asia Pacific (Osaka) 🌎
+  - Region added for metric Oracle Enterprise Single-AZ Provisioned IOPS-IO2 GB-Mo: Asia Pacific (Jakarta) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS-IO2 GB-Mo: South America (Sao Paulo) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS-IO2 GB-Mo: Middle East (UAE) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS-IO2 GB-Mo: EU (Paris) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS-IO2 GB-Mo: EU (Milan) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS-IO2 GB-Mo: Asia Pacific (Osaka) 🌎
+  - Region added for metric Oracle Enterprise Multi-AZ Provisioned IOPS-IO2 GB-Mo: Asia Pacific (Jakarta) 🌎
+
+
 ## 2025-08-07 13:32
 
 **Modified services:**

@@ -3,7 +3,11 @@
         "US West (Oregon)": "0.1250000000",
         "US East (Ohio)": "0.1250000000",
         "US East (N. Virginia)": "0.1250000000",
+        "South America (Sao Paulo)": "0.2380000000",
+        "Middle East (UAE)": "0.1518000000",
         "EU (Stockholm)": "0.1300000000",
+        "EU (Paris)": "0.1450000000",
+        "EU (Milan)": "0.1450000000",
         "EU (London)": "0.1450000000",
         "EU (Ireland)": "0.1380000000",
         "EU (Frankfurt)": "0.1490000000",
@@ -12,7 +16,9 @@
         "Asia Pacific (Sydney)": "0.1380000000",
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Osaka)": "0.1500000000",
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Asia Pacific (Jakarta)": "0.1380000000"
     },
     "-_lYwp-TY2choo29clEefJE2a8corTWGRgJ8TQN3mJg V2": {
         "US West (Oregon)": "0.1600000000",
@@ -165,7 +171,8 @@
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
         "Asia Pacific (Osaka)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Africa (Cape Town)": "0.2620000000"
     },
     "4lPCEJFxIboD2PM4kZr0OMmaY-_QzHAc5MCIqck2-wM V2": {
         "US West (Oregon)": "0.2500000000",
@@ -184,7 +191,8 @@
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
         "Asia Pacific (Osaka)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Africa (Cape Town)": "0.3280000000"
     },
     "6AdQvZBYZ3ZGW4Xh25iiPJC7NmOllGPZgZ7UHazQklg V2": {
         "US West (Oregon)": "0.2500000000",
@@ -221,7 +229,8 @@
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
         "Asia Pacific (Osaka)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Africa (Cape Town)": "0.2500000000"
     },
     "7004vtQCUdG7Sh3E-lbnzvZ99KoIYnSSiRju3OU0TIg V2": {
         "US West (Oregon)": "0.1600000000",
@@ -259,7 +268,8 @@
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
         "Asia Pacific (Osaka)": "0.1200000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Africa (Cape Town)": "0.1310000000"
     },
     "83t9448zpPgU07txC57Y87VH_TI8UclvuAht3MuyhBc V2": {
         "US West (Oregon)": "0.2300000000",
@@ -297,7 +307,8 @@
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
         "Asia Pacific (Osaka)": "0.1500000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Africa (Cape Town)": "0.1640000000"
     },
     "8I6YXZDUm9vqYT7-2dDAm84bTrct0DpjfG9lyxzuUwo V2": {
         "US West (Oregon)": "0.2300000000",
@@ -339,7 +350,8 @@
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
         "Asia Pacific (Osaka)": "0.1200000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Africa (Cape Town)": "0.1310000000"
     },
     "8zDlRZ70ZMTFJP_v6eS8zsvZ8mXeWJLHA6QijTSsVPw V2": {
         "US West (Oregon)": "0.1250000000",
@@ -358,7 +370,8 @@
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
         "Asia Pacific (Osaka)": "0.1500000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Africa (Cape Town)": "0.1640000000"
     },
     "BJJqcHDNgonlG5wG51q4yJZi7rMFxP7ouWVIiSMS3Os V2": {
         "US West (Oregon)": "0.1250000000",
@@ -580,7 +593,8 @@
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
         "Asia Pacific (Osaka)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Africa (Cape Town)": "0.3280000000"
     },
     "FuAWmkTEyGFM6YEfHEHVxUWgqcADBD4VUX3d1NVutHI V2": {
         "US West (Oregon)": "0.0950000000",
@@ -761,7 +775,8 @@
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
         "Asia Pacific (Osaka)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Africa (Cape Town)": "0.2620000000"
     },
     "K8XfPTmJ2wVdfMwKByBM12DUY4eoVDg7WQJJZznhICQ V2": {
         "US West (Oregon)": "0.1150000000",
@@ -884,7 +899,8 @@
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
         "Asia Pacific (Osaka)": "0.1500000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Africa (Cape Town)": "0.1640000000"
     },
     "MWO0COhIFHMVpZeO3Illa71qLwXSFyWS_Cnjv4PXVEk V2": {
         "US West (Oregon)": "0.1150000000",
@@ -941,7 +957,8 @@
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
         "Asia Pacific (Osaka)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Africa (Cape Town)": "0.2620000000"
     },
     "OfrPKXgzAqiqhyze4xzVJuZ8sbxJmAzFSF5Psc28H9o V2": {
         "US West (Oregon)": "0.1250000000",
@@ -960,7 +977,8 @@
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
         "Asia Pacific (Osaka)": "0.1500000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Africa (Cape Town)": "0.1640000000"
     },
     "OsxTo5olt7O4oDX6d63F_zL0qHqUifnOpVJOL2Qx8Ok V2": {
         "US West (Oregon)": "0.0950000000",
@@ -1141,7 +1159,8 @@
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
         "Asia Pacific (Osaka)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Africa (Cape Town)": "0.2620000000"
     },
     "SOnMKHta1PUI2wmffRYwNgJvS92pmSm_Ig59cia29AE V2": {
         "US West (Oregon)": "0.1150000000",
@@ -1263,6 +1282,7 @@
         "US West (Oregon)": "0.0455000000",
         "US East (Ohio)": "0.0455000000",
         "US East (N. Virginia)": "0.0455000000",
+        "South America (Sao Paulo)": "0.0637000000",
         "EU (Ireland)": "0.0504000000",
         "EU (Frankfurt)": "0.0546000000",
         "Asia Pacific (Tokyo)": "0.0518000000",
@@ -1273,7 +1293,11 @@
         "US West (Oregon)": "0.1000000000",
         "US East (Ohio)": "0.1000000000",
         "US East (N. Virginia)": "0.1000000000",
+        "South America (Sao Paulo)": "0.1400000000",
+        "Middle East (UAE)": "0.1210000000",
         "EU (Stockholm)": "0.1000000000",
+        "EU (Paris)": "0.1160000000",
+        "EU (Milan)": "0.1160000000",
         "EU (London)": "0.1160000000",
         "EU (Ireland)": "0.1100000000",
         "EU (Frankfurt)": "0.1190000000",
@@ -1282,7 +1306,9 @@
         "Asia Pacific (Sydney)": "0.1100000000",
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Osaka)": "0.1200000000",
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Asia Pacific (Jakarta)": "0.1100000000"
     },
     "YqtBe_YxEG91Rk1Su7_6V-2HzZK07pNnVMEn2oV19pQ V2": {
         "US West (Oregon)": "0.1000000000",
@@ -1301,7 +1327,8 @@
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
         "Asia Pacific (Osaka)": "0.1200000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Africa (Cape Town)": "0.1310000000"
     },
     "ZeoQhTSGe5UCharerkQpNj6pmm2dzdONEiEsuvB99XQ V2": {
         "US West (Oregon)": "0.1250000000",
@@ -1331,6 +1358,7 @@
         "US West (Oregon)": "0.0318500000",
         "US East (Ohio)": "0.0318500000",
         "US East (N. Virginia)": "0.0318500000",
+        "South America (Sao Paulo)": "0.0446000000",
         "EU (Ireland)": "0.0352800000",
         "EU (Frankfurt)": "0.0382200000",
         "Asia Pacific (Tokyo)": "0.0362600000",
@@ -1431,7 +1459,11 @@
         "US West (Oregon)": "0.1000000000",
         "US East (Ohio)": "0.1000000000",
         "US East (N. Virginia)": "0.1000000000",
+        "South America (Sao Paulo)": "0.1400000000",
+        "Middle East (UAE)": "0.1210000000",
         "EU (Stockholm)": "0.1000000000",
+        "EU (Paris)": "0.1160000000",
+        "EU (Milan)": "0.1160000000",
         "EU (London)": "0.1160000000",
         "EU (Ireland)": "0.1100000000",
         "EU (Frankfurt)": "0.1190000000",
@@ -1440,12 +1472,15 @@
         "Asia Pacific (Sydney)": "0.1100000000",
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Osaka)": "0.1200000000",
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Asia Pacific (Jakarta)": "0.1100000000"
     },
     "eSb_3XXk3DZl4Dk2jpc62vDFYjyM_J8bo87J3UdvoIw V2": {
         "US West (Oregon)": "0.1250000000",
         "US East (Ohio)": "0.1250000000",
         "US East (N. Virginia)": "0.1250000000",
+        "South America (Sao Paulo)": "0.2380000000",
         "EU (London)": "0.1450000000",
         "EU (Ireland)": "0.1380000000",
         "EU (Frankfurt)": "0.1490000000",
@@ -1532,7 +1567,8 @@
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
         "Asia Pacific (Osaka)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Africa (Cape Town)": "0.3280000000"
     },
     "h6oAsr_Gi21dUCO8gqpDIeOlItRZFQZDxqmuwdXer7s V2": {
         "US West (Oregon)": "0.0800000000",
@@ -1674,7 +1710,8 @@
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
         "Asia Pacific (Osaka)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Africa (Cape Town)": "0.2500000000"
     },
     "jZQwutpCilnM0HKkx9T434wUXCDf8X1uyGJKdNMMlIQ V2": {
         "US West (Oregon)": "0.1600000000",
@@ -1699,7 +1736,11 @@
         "US West (Oregon)": "0.2000000000",
         "US East (Ohio)": "0.2000000000",
         "US East (N. Virginia)": "0.2000000000",
+        "South America (Sao Paulo)": "0.2800000000",
+        "Middle East (UAE)": "0.2420000000",
         "EU (Stockholm)": "0.2000000000",
+        "EU (Paris)": "0.2310000000",
+        "EU (Milan)": "0.2310000000",
         "EU (London)": "0.2310000000",
         "EU (Ireland)": "0.2200000000",
         "EU (Frankfurt)": "0.2380000000",
@@ -1708,7 +1749,9 @@
         "Asia Pacific (Sydney)": "0.2200000000",
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Osaka)": "0.2400000000",
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Asia Pacific (Jakarta)": "0.2200000000"
     },
     "lAeUiPvlJp7cvvMXusUItQVVV2ajmk2vBY1OZoRFYIY V2": {
         "US West (Oregon)": "0.2300000000",
@@ -1842,7 +1885,8 @@
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
         "Asia Pacific (Osaka)": "0.1500000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Africa (Cape Town)": "0.1640000000"
     },
     "nI9z3gHfN6ok-p0kYvmiPUsXhyGbzJDNnbP9UyOxFmE V2": {
         "US West (Oregon)": "0.2500000000",
@@ -1861,7 +1905,8 @@
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
         "Asia Pacific (Osaka)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Africa (Cape Town)": "0.3280000000"
     },
     "o7VIpe1bm5Wew-RfScrTaAilPNiOzz5Z8tOBhYmjTc0 V2": {
         "US West (Oregon)": "0.1150000000",
@@ -1998,7 +2043,8 @@
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
         "Asia Pacific (Osaka)": "0.1200000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Africa (Cape Town)": "0.1310000000"
     },
     "rDiQLXc2_zTo4KkAMMxb8v_wdPf6HBN1-6Ovfr8pc-o V2": {
         "US West (Oregon)": "0.2000000000",
@@ -2017,7 +2063,8 @@
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
         "Asia Pacific (Osaka)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Africa (Cape Town)": "0.2620000000"
     },
     "sIjY3pldNklyHECt7knw8GGkSbfkDBXzFY2kw5uaEYs V2": {
         "US West (Oregon)": "0.0200000000",
@@ -2059,7 +2106,8 @@
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
         "Asia Pacific (Osaka)": "0.1200000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Africa (Cape Town)": "0.1310000000"
     },
     "tTvv3F7Z3hlbKKvlXS4JQCsbi8lV8y-SZ4lxj5yMI-Q V2": {
         "US West (Oregon)": "0.0200000000",
@@ -2133,6 +2181,7 @@
         "US West (Oregon)": "0.0650000000",
         "US East (Ohio)": "0.0650000000",
         "US East (N. Virginia)": "0.0650000000",
+        "South America (Sao Paulo)": "0.0910000000",
         "EU (Ireland)": "0.0720000000",
         "EU (Frankfurt)": "0.0780000000",
         "Asia Pacific (Tokyo)": "0.0740000000",
@@ -2196,7 +2245,8 @@
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
         "Asia Pacific (Osaka)": "0.1500000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Africa (Cape Town)": "0.1640000000"
     },
     "vKFL2MBl7uYSfhngfPPEeIDmbpHXaiWhYAhPV-Wh28Y V2": {
         "US West (Oregon)": "0.2000000000",
@@ -2231,7 +2281,8 @@
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
         "Asia Pacific (Osaka)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Africa (Cape Town)": "0.2620000000"
     },
     "wdj8DGb5BwTtRgohSIm34QEW9Bt9izNCBGHQKWo_MXw V2": {
         "US West (Oregon)": "0.2500000000",
@@ -2272,7 +2323,11 @@
         "US West (Oregon)": "0.1250000000",
         "US East (Ohio)": "0.1250000000",
         "US East (N. Virginia)": "0.1250000000",
+        "South America (Sao Paulo)": "0.2380000000",
+        "Middle East (UAE)": "0.1518000000",
         "EU (Stockholm)": "0.1300000000",
+        "EU (Paris)": "0.1450000000",
+        "EU (Milan)": "0.1450000000",
         "EU (London)": "0.1450000000",
         "EU (Ireland)": "0.1380000000",
         "EU (Frankfurt)": "0.1490000000",
@@ -2281,7 +2336,9 @@
         "Asia Pacific (Sydney)": "0.1380000000",
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Osaka)": "0.1500000000",
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Asia Pacific (Jakarta)": "0.1380000000"
     },
     "xmP23pY0YE5-e1zoU-PK8CCeec57KiHzSHUOyToww9Y V2": {
         "US West (Oregon)": "0.1000000000",
@@ -2300,7 +2357,8 @@
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
         "Asia Pacific (Osaka)": "0.1200000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Africa (Cape Town)": "0.1310000000"
     },
     "zNf6Ke-QqHH9mo7KKkClPL2Fbp0PSq9jPF_-xM7jqvw V2": {
         "US West (Oregon)": "0.2500000000",
@@ -2329,7 +2387,11 @@
         "US West (Oregon)": "0.2500000000",
         "US East (Ohio)": "0.2500000000",
         "US East (N. Virginia)": "0.2500000000",
+        "South America (Sao Paulo)": "0.4760000000",
+        "Middle East (UAE)": "0.3036000000",
         "EU (Stockholm)": "0.2600000000",
+        "EU (Paris)": "0.2900000000",
+        "EU (Milan)": "0.2900000000",
         "EU (London)": "0.2900000000",
         "EU (Ireland)": "0.2760000000",
         "EU (Frankfurt)": "0.2980000000",
@@ -2338,7 +2400,9 @@
         "Asia Pacific (Sydney)": "0.2760000000",
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Osaka)": "0.3000000000",
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Asia Pacific (Jakarta)": "0.2760000000"
     },
     "Database Instance SQL Server Standard Memory optimized db r6i.xlarge Custom Single-AZ AWS-provided": {
         "US West (Oregon) (Instance Type: db.r6i.xlarge, vCPU: 4, Memory: 32 GiB, Storage: EBS Only)": "1.5200000000",
@@ -13071,7 +13135,8 @@
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
         "Asia Pacific (Osaka)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Africa (Cape Town)": "0.3280000000"
     },
     "SQL Server Web Multi-AZ Provisioned IOPS SSD GB-Mo": {
         "US West (Oregon)": "0.2500000000",
@@ -13108,7 +13173,8 @@
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
         "Asia Pacific (Osaka)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Africa (Cape Town)": "0.2500000000"
     },
     "Provisioned IOPS SQL Server Enterprise RDS Provisioned IO2 IOPS Single-AZ": {
         "US West (Oregon)": "0.1000000000",
@@ -13127,7 +13193,8 @@
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
         "Asia Pacific (Osaka)": "0.1200000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Africa (Cape Town)": "0.1310000000"
     },
     "Provisioned Throughput SQL Server Standard RDS Provisioned Throughput Multi-AZ": {
         "US West (Oregon)": "0.1600000000",
@@ -13310,7 +13377,8 @@
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
         "Asia Pacific (Osaka)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Africa (Cape Town)": "0.2620000000"
     },
     "Oracle Enterprise Single-AZ General Purpose SSD GB-Mo": {
         "US West (Oregon)": "0.1150000000",
@@ -13398,7 +13466,8 @@
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
         "Asia Pacific (Osaka)": "0.1500000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Africa (Cape Town)": "0.1640000000"
     },
     "SQL Server Web Single-AZ General Purpose-GP3 GB-Mo": {
         "US West (Oregon)": "0.1150000000",
@@ -13455,7 +13524,8 @@
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
         "Asia Pacific (Osaka)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Africa (Cape Town)": "0.2620000000"
     },
     "SQL Server Web Single-AZ Provisioned IOPS-IO2 GB-Mo": {
         "US West (Oregon)": "0.1250000000",
@@ -13474,7 +13544,8 @@
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
         "Asia Pacific (Osaka)": "0.1500000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Africa (Cape Town)": "0.1640000000"
     },
     "SQL Server Enterprise Single-AZ Provisioned IOPS SSD GB-Mo": {
         "US West (Oregon)": "0.1250000000",
@@ -13750,7 +13821,11 @@
         "US West (Oregon)": "0.1000000000",
         "US East (Ohio)": "0.1000000000",
         "US East (N. Virginia)": "0.1000000000",
+        "South America (Sao Paulo)": "0.1400000000",
+        "Middle East (UAE)": "0.1210000000",
         "EU (Stockholm)": "0.1000000000",
+        "EU (Paris)": "0.1160000000",
+        "EU (Milan)": "0.1160000000",
         "EU (London)": "0.1160000000",
         "EU (Ireland)": "0.1100000000",
         "EU (Frankfurt)": "0.1190000000",
@@ -13759,12 +13834,15 @@
         "Asia Pacific (Sydney)": "0.1100000000",
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Osaka)": "0.1200000000",
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Asia Pacific (Jakarta)": "0.1100000000"
     },
     "Database Storage Oracle Enterprise Custom Single-AZ Oracle RAC Provisioned IOPS-IO2 io2 0 Inf": {
         "US West (Oregon)": "0.1250000000",
         "US East (Ohio)": "0.1250000000",
         "US East (N. Virginia)": "0.1250000000",
+        "South America (Sao Paulo)": "0.2380000000",
         "EU (London)": "0.1450000000",
         "EU (Ireland)": "0.1380000000",
         "EU (Frankfurt)": "0.1490000000",
@@ -13933,7 +14011,8 @@
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
         "Asia Pacific (Osaka)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Africa (Cape Town)": "0.2500000000"
     },
     "Provisioned Throughput SQL Server Web RDS Provisioned Throughput Multi-AZ": {
         "US West (Oregon)": "0.1600000000",
@@ -13958,7 +14037,11 @@
         "US West (Oregon)": "0.2000000000",
         "US East (Ohio)": "0.2000000000",
         "US East (N. Virginia)": "0.2000000000",
+        "South America (Sao Paulo)": "0.2800000000",
+        "Middle East (UAE)": "0.2420000000",
         "EU (Stockholm)": "0.2000000000",
+        "EU (Paris)": "0.2310000000",
+        "EU (Milan)": "0.2310000000",
         "EU (London)": "0.2310000000",
         "EU (Ireland)": "0.2200000000",
         "EU (Frankfurt)": "0.2380000000",
@@ -13967,7 +14050,9 @@
         "Asia Pacific (Sydney)": "0.2200000000",
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Osaka)": "0.2400000000",
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Asia Pacific (Jakarta)": "0.2200000000"
     },
     "SQL Server Standard Multi-AZ General Purpose-GP3 GB-Mo": {
         "US West (Oregon)": "0.2300000000",
@@ -14060,7 +14145,8 @@
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
         "Asia Pacific (Osaka)": "0.1200000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Africa (Cape Town)": "0.1310000000"
     },
     "Provisioned IOPS SQL Server Enterprise RDS Provisioned IO2 IOPS Multi-AZ": {
         "US West (Oregon)": "0.2000000000",
@@ -14079,7 +14165,8 @@
         "Asia Pacific (Singapore)": "0.2200000000",
         "Asia Pacific (Seoul)": "0.2400000000",
         "Asia Pacific (Osaka)": "0.2400000000",
-        "Asia Pacific (Mumbai)": "0.2090000000"
+        "Asia Pacific (Mumbai)": "0.2090000000",
+        "Africa (Cape Town)": "0.2620000000"
     },
     "Provisioned IOPS Oracle Enterprise RDS Provisioned GP3 IOPS Single-AZ": {
         "US West (Oregon)": "0.0200000000",
@@ -14121,7 +14208,8 @@
         "Asia Pacific (Singapore)": "0.1100000000",
         "Asia Pacific (Seoul)": "0.1080000000",
         "Asia Pacific (Osaka)": "0.1200000000",
-        "Asia Pacific (Mumbai)": "0.1050000000"
+        "Asia Pacific (Mumbai)": "0.1050000000",
+        "Africa (Cape Town)": "0.1310000000"
     },
     "Provisioned IOPS SQL Server Enterprise RDS Provisioned GP3 IOPS Single-AZ": {
         "US West (Oregon)": "0.0200000000",
@@ -14189,7 +14277,8 @@
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
         "Asia Pacific (Osaka)": "0.1500000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Africa (Cape Town)": "0.1640000000"
     },
     "Provisioned IOPS SQL Server Enterprise Multi-AZ": {
         "US West (Oregon)": "0.2000000000",
@@ -14211,7 +14300,11 @@
         "US West (Oregon)": "0.1250000000",
         "US East (Ohio)": "0.1250000000",
         "US East (N. Virginia)": "0.1250000000",
+        "South America (Sao Paulo)": "0.2380000000",
+        "Middle East (UAE)": "0.1518000000",
         "EU (Stockholm)": "0.1300000000",
+        "EU (Paris)": "0.1450000000",
+        "EU (Milan)": "0.1450000000",
         "EU (London)": "0.1450000000",
         "EU (Ireland)": "0.1380000000",
         "EU (Frankfurt)": "0.1490000000",
@@ -14220,7 +14313,9 @@
         "Asia Pacific (Sydney)": "0.1380000000",
         "Asia Pacific (Singapore)": "0.1380000000",
         "Asia Pacific (Seoul)": "0.1350000000",
-        "Asia Pacific (Mumbai)": "0.1310000000"
+        "Asia Pacific (Osaka)": "0.1500000000",
+        "Asia Pacific (Mumbai)": "0.1310000000",
+        "Asia Pacific (Jakarta)": "0.1380000000"
     },
     "Oracle Enterprise Multi-AZ Provisioned IOPS SSD GB-Mo": {
         "US West (Oregon)": "0.2500000000",
@@ -14249,7 +14344,11 @@
         "US West (Oregon)": "0.2500000000",
         "US East (Ohio)": "0.2500000000",
         "US East (N. Virginia)": "0.2500000000",
+        "South America (Sao Paulo)": "0.4760000000",
+        "Middle East (UAE)": "0.3036000000",
         "EU (Stockholm)": "0.2600000000",
+        "EU (Paris)": "0.2900000000",
+        "EU (Milan)": "0.2900000000",
         "EU (London)": "0.2900000000",
         "EU (Ireland)": "0.2760000000",
         "EU (Frankfurt)": "0.2980000000",
@@ -14258,7 +14357,9 @@
         "Asia Pacific (Sydney)": "0.2760000000",
         "Asia Pacific (Singapore)": "0.2760000000",
         "Asia Pacific (Seoul)": "0.3000000000",
-        "Asia Pacific (Mumbai)": "0.2620000000"
+        "Asia Pacific (Osaka)": "0.3000000000",
+        "Asia Pacific (Mumbai)": "0.2620000000",
+        "Asia Pacific (Jakarta)": "0.2760000000"
     },
     "Database Instance SQL Server Standard Memory optimized db x2iedn.24xlarge Custom Single-AZ Customer-provided": {
         "US West (N. California) (Instance Type: db.x2iedn.24xlarge, vCPU: 96, Memory: 3072 GiB, Storage: 2 x 1425 NVMe SSD)": "75.1440000000",

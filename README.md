@@ -1,3 +1,14 @@
+## 2025-08-08 21:26
+
+**Modified services:**
+
+- [cloudwatch](processed/cloudwatch.json)
+  - Region added for metric CW RUMCloudWatch RUM events: Mexico (Central) 🌎
+  - Region added for metric CW RUMCloudWatch RUM events: Asia Pacific (Thailand) 🌎
+  - Region added for metric CW RUMCloudWatch RUM free events: Mexico (Central) 🌎
+  - Region added for metric CW RUMCloudWatch RUM free events: Asia Pacific (Thailand) 🌎
+
+
 ## 2025-08-07 18:28
 
 **Modified services:**

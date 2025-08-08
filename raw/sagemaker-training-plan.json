@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250808015031",
-        "hawkFilePublicationDate": "2025-08-08T01:50:31Z",
-        "ETLIngestionTriggerDate": "2025-08-08T01:50:31Z",
+        "esIndex": "plc-sagemaker-usd-20250808205240",
+        "hawkFilePublicationDate": "2025-08-08T20:52:40Z",
+        "ETLIngestionTriggerDate": "2025-08-08T20:52:40Z",
         "currencyCode": "USD",
         "source": "sagemaker-training-plan"
     },
@@ -15,6 +15,8 @@
             "D24pvjPIdmj_vDl2WbqzyOPp38GBP_UPjWPLUspqm9o",
             "OC5Xj-H0GJULdCn1J91LiMbxJ89C0S7EiOM9c7qPJ6o",
             "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0",
+            "Wl0s72hVnImPBmamcct_-HXKv708c95C6qfSRZD-ftM",
+            "bjCrZdY1eUuiHUXo2y2DB-jc1o-y3EYuFZxMOc3WoJg",
             "ghQvFMPrBWdugjdm6B2fGkTmhQugEondlio8TQUkeDY",
             "qf8jY-z8HHSJ9306z2udpdPuffNQhciwnrJlUQKDyv0",
             "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo"
@@ -203,6 +205,24 @@
                 "Memory": "1152 GiB",
                 "VCPU": "96",
                 "Instance": "ml.p4de.24xlarge"
+            }
+        },
+        "US East (Dallas)": {
+            "Wl0s72hVnImPBmamcct_-HXKv708c95C6qfSRZD-ftM": {
+                "rateCode": "KZ8JQVV7PVJ5NC62.JRTCKXETXF.6YS6EN2CT7",
+                "price": "876.1896000000",
+                "RegionlessRateCode": "Wl0s72hVnImPBmamcct_-HXKv708c95C6qfSRZD-ftM",
+                "Memory": "960 GiB",
+                "VCPU": "2592",
+                "Instance": "ml.u-p6e-gb200x72"
+            },
+            "bjCrZdY1eUuiHUXo2y2DB-jc1o-y3EYuFZxMOc3WoJg": {
+                "rateCode": "SUA2DDFCQAXD48G5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "438.0948000000",
+                "RegionlessRateCode": "bjCrZdY1eUuiHUXo2y2DB-jc1o-y3EYuFZxMOc3WoJg",
+                "Memory": "960 GiB",
+                "VCPU": "1296",
+                "Instance": "ml.p6e-gb200x36"
             }
         },
         "South America (Sao Paulo)": {

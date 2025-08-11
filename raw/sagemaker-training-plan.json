@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250808205240",
-        "hawkFilePublicationDate": "2025-08-08T20:52:40Z",
-        "ETLIngestionTriggerDate": "2025-08-08T20:52:40Z",
+        "esIndex": "plc-sagemaker-usd-20250811194758",
+        "hawkFilePublicationDate": "2025-08-11T19:47:58Z",
+        "ETLIngestionTriggerDate": "2025-08-11T19:47:58Z",
         "currencyCode": "USD",
         "source": "sagemaker-training-plan"
     },
@@ -212,7 +212,7 @@
                 "rateCode": "KZ8JQVV7PVJ5NC62.JRTCKXETXF.6YS6EN2CT7",
                 "price": "876.1896000000",
                 "RegionlessRateCode": "Wl0s72hVnImPBmamcct_-HXKv708c95C6qfSRZD-ftM",
-                "Memory": "960 GiB",
+                "Memory": "17280 GiB",
                 "VCPU": "2592",
                 "Instance": "ml.u-p6e-gb200x72"
             },
@@ -222,7 +222,7 @@
                 "RegionlessRateCode": "bjCrZdY1eUuiHUXo2y2DB-jc1o-y3EYuFZxMOc3WoJg",
                 "Memory": "960 GiB",
                 "VCPU": "1296",
-                "Instance": "ml.p6e-gb200x36"
+                "Instance": "ml.u-p6e-gb200x36"
             }
         },
         "South America (Sao Paulo)": {

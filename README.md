@@ -1,3 +1,18 @@
+## 2025-08-12 18:28
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-g6.24xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.48xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.8xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.4xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.16xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.2xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.12xlarge: AWS GovCloud (US-East) 🌎
+
+
 ## 2025-08-11 17:26
 
 **Modified services:**

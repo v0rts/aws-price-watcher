@@ -1,3 +1,11 @@
+## 2025-08-13 12:29
+
+**Modified services:**
+
+- [docdb](processed/docdb.json)
+  - Billing metric added: [OnDemand] 💡
+
+
 ## 2025-08-12 18:28
 
 **Modified services:**

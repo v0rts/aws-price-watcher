@@ -5328,6 +5328,7 @@
         "Asia Pacific (Tokyo)": "0.4637600000",
         "Asia Pacific (Sydney)": "0.4488000000",
         "Asia Pacific (Singapore)": "0.4488000000",
+        "Asia Pacific (Seoul)": "0.4413600000",
         "Asia Pacific (Mumbai)": "0.2566400000",
         "Asia Pacific (Hyderabad)": "0.2566400000",
         "Asia Pacific (Hong Kong)": "0.4936800000"
@@ -6404,6 +6405,7 @@
         "Asia Pacific (Tokyo)": "5.5651200000",
         "Asia Pacific (Sydney)": "5.3856000000",
         "Asia Pacific (Singapore)": "5.3856000000",
+        "Asia Pacific (Seoul)": "5.2963200000",
         "Asia Pacific (Mumbai)": "3.0796800000",
         "Asia Pacific (Hyderabad)": "3.0796800000",
         "Asia Pacific (Hong Kong)": "5.9241600000"
@@ -6596,6 +6598,7 @@
         "Asia Pacific (Tokyo)": "11.1302400000",
         "Asia Pacific (Sydney)": "10.7712000000",
         "Asia Pacific (Singapore)": "10.7712000000",
+        "Asia Pacific (Seoul)": "10.5926400000",
         "Asia Pacific (Mumbai)": "6.1593600000",
         "Asia Pacific (Hyderabad)": "6.1593600000",
         "Asia Pacific (Hong Kong)": "11.8483200000"
@@ -8098,6 +8101,7 @@
         "Asia Pacific (Tokyo)": "5.5651200000",
         "Asia Pacific (Sydney)": "5.3856000000",
         "Asia Pacific (Singapore)": "5.3856000000",
+        "Asia Pacific (Seoul)": "5.2963200000",
         "Asia Pacific (Mumbai)": "3.0796800000",
         "Asia Pacific (Hyderabad)": "3.0796800000",
         "Asia Pacific (Hong Kong)": "5.9241600000"
@@ -8843,6 +8847,7 @@
         "Asia Pacific (Tokyo)": "0.9275200000",
         "Asia Pacific (Sydney)": "0.8976000000",
         "Asia Pacific (Singapore)": "0.8976000000",
+        "Asia Pacific (Seoul)": "0.8827200000",
         "Asia Pacific (Mumbai)": "0.5132800000",
         "Asia Pacific (Hyderabad)": "0.5132800000",
         "Asia Pacific (Hong Kong)": "0.9873600000"
@@ -9132,6 +9137,7 @@
         "Asia Pacific (Tokyo)": "0.2318800000",
         "Asia Pacific (Sydney)": "0.2244000000",
         "Asia Pacific (Singapore)": "0.2244000000",
+        "Asia Pacific (Seoul)": "0.2206800000",
         "Asia Pacific (Mumbai)": "0.1283200000",
         "Asia Pacific (Hyderabad)": "0.1283200000",
         "Asia Pacific (Hong Kong)": "0.2468400000"
@@ -10247,6 +10253,7 @@
         "Asia Pacific (Tokyo)": "0.1159400000",
         "Asia Pacific (Sydney)": "0.1122000000",
         "Asia Pacific (Singapore)": "0.1122000000",
+        "Asia Pacific (Seoul)": "0.1103400000",
         "Asia Pacific (Mumbai)": "0.0641600000",
         "Asia Pacific (Hyderabad)": "0.0641600000",
         "Asia Pacific (Hong Kong)": "0.1234200000"
@@ -11391,6 +11398,7 @@
         "Asia Pacific (Tokyo)": "11.1302400000",
         "Asia Pacific (Sydney)": "10.7712000000",
         "Asia Pacific (Singapore)": "10.7712000000",
+        "Asia Pacific (Seoul)": "10.5926400000",
         "Asia Pacific (Mumbai)": "6.1593600000",
         "Asia Pacific (Hyderabad)": "6.1593600000",
         "Asia Pacific (Hong Kong)": "11.8483200000"
@@ -11518,6 +11526,7 @@
     },
     "OnDemand Linux-instancetype-u7i-12tb.224xlarge": {
         "US West (Oregon)": "125.5818200000",
+        "US East (Ohio)": "125.5818200000",
         "US East (N. Virginia)": "125.5818200000"
     },
     "OnDemand Linux-instancetype-c1.medium": {
@@ -12644,6 +12653,7 @@
         "Asia Pacific (Tokyo)": "1.8550400000",
         "Asia Pacific (Sydney)": "1.7952000000",
         "Asia Pacific (Singapore)": "1.7952000000",
+        "Asia Pacific (Seoul)": "1.7654400000",
         "Asia Pacific (Mumbai)": "1.0265600000",
         "Asia Pacific (Hyderabad)": "1.0265600000",
         "Asia Pacific (Hong Kong)": "1.9747200000"
@@ -14945,6 +14955,7 @@
         "Asia Pacific (Tokyo)": "2.7825600000",
         "Asia Pacific (Sydney)": "2.6928000000",
         "Asia Pacific (Singapore)": "2.6928000000",
+        "Asia Pacific (Seoul)": "2.6481600000",
         "Asia Pacific (Mumbai)": "1.5398400000",
         "Asia Pacific (Hyderabad)": "1.5398400000",
         "Asia Pacific (Hong Kong)": "2.9620800000"
@@ -15495,6 +15506,7 @@
         "Asia Pacific (Tokyo)": "3.7100800000",
         "Asia Pacific (Sydney)": "3.5904000000",
         "Asia Pacific (Singapore)": "3.5904000000",
+        "Asia Pacific (Seoul)": "3.5308800000",
         "Asia Pacific (Mumbai)": "2.0531200000",
         "Asia Pacific (Hyderabad)": "2.0531200000",
         "Asia Pacific (Hong Kong)": "3.9494400000"
@@ -16057,6 +16069,7 @@
         "Asia Pacific (Tokyo)": "0.0579700000",
         "Asia Pacific (Sydney)": "0.0561000000",
         "Asia Pacific (Singapore)": "0.0561000000",
+        "Asia Pacific (Seoul)": "0.0551700000",
         "Asia Pacific (Mumbai)": "0.0320800000",
         "Asia Pacific (Hyderabad)": "0.0320800000",
         "Asia Pacific (Hong Kong)": "0.0617100000"

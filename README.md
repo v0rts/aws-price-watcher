@@ -1,3 +1,11 @@
+## 2025-08-14 22:26
+
+**Modified services:**
+
+- [msk](processed/msk.json)
+  - Price decreased: PrivateConnectivity hours per authentication scheme Asia Pacific (Thailand)  **$0.04** → **$0.02** 💸
+
+
 ## 2025-08-14 18:28
 
 **Modified services:**

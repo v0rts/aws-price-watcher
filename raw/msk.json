@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "msk",
         "accessType": "publish",
-        "esIndex": "plc-msk-usd-20250806220827",
-        "hawkFilePublicationDate": "2025-08-06T22:08:27Z",
-        "ETLIngestionTriggerDate": "2025-08-06T22:08:27Z",
+        "esIndex": "plc-msk-usd-20250814214556",
+        "hawkFilePublicationDate": "2025-08-14T21:45:56Z",
+        "ETLIngestionTriggerDate": "2025-08-14T21:45:56Z",
         "currencyCode": "USD",
         "source": "msk",
         "isMapped": "true"
@@ -16623,7 +16623,7 @@
             },
             "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k": {
                 "rateCode": "WGWA6WNGCYCF8D3T.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0382500000",
+                "price": "0.0227000000",
                 "RegionlessRateCode": "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k",
                 "Compute Family": "",
                 "usageType": "APS9-Kafka.PrivateConnectivityHours",
@@ -16823,7 +16823,7 @@
             },
             "PrivateConnectivity hours per authentication scheme": {
                 "rateCode": "WGWA6WNGCYCF8D3T.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0382500000",
+                "price": "0.0227000000",
                 "RegionlessRateCode": "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k"
             },
             "TieredStorage Tiered storage-DataRetrieval": {

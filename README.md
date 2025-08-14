@@ -1,3 +1,19 @@
+## 2025-08-14 18:28
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-r8g.large: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.metal-48xl: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.12xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.2xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.24xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.4xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.48xlarge: Asia Pacific (Jakarta) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r8g.metal-24xl: Asia Pacific (Jakarta) 🌎
+
+
 ## 2025-08-14 17:26
 
 **Modified services:**

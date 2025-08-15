@@ -286,8 +286,11 @@
         "Asia Pacific (Singapore) (Compute Family: m7g.12xlarge, usageType: APS1-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker)": "6.1200000000",
         "Asia Pacific (Seoul) (Compute Family: m7g.12xlarge, usageType: APN2-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker)": "6.0180000000",
         "Asia Pacific (Mumbai) (Compute Family: m7g.12xlarge, usageType: APS3-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker)": "3.4993000000",
+        "Asia Pacific (Melbourne) (Compute Family: m7g.12xlarge, usageType: APS6-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker)": "6.1200000000",
         "Asia Pacific (Malaysia) (Compute Family: m7g.12xlarge, usageType: APS7-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker)": "5.2020000000",
-        "Asia Pacific (Hyderabad) (Compute Family: m7g.12xlarge, usageType: APS5-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker)": "3.4993000000"
+        "Asia Pacific (Jakarta) (Compute Family: m7g.12xlarge, usageType: APS4-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker)": "6.1200000000",
+        "Asia Pacific (Hyderabad) (Compute Family: m7g.12xlarge, usageType: APS5-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker)": "3.4993000000",
+        "AWS GovCloud (US) (Compute Family: m7g.12xlarge, usageType: UGW1-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker)": "6.1680000000"
     },
     "[RunBroker] RunBroker-computefamily-m7g.16xlarge;RunBroker m7g.16xlarge": {
         "US West (Oregon) (Compute Family: m7g.16xlarge, usageType: USW2-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "6.5280000000",
@@ -312,8 +315,11 @@
         "Asia Pacific (Singapore) (Compute Family: m7g.16xlarge, usageType: APS1-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "8.1600000000",
         "Asia Pacific (Seoul) (Compute Family: m7g.16xlarge, usageType: APN2-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "8.0240000000",
         "Asia Pacific (Mumbai) (Compute Family: m7g.16xlarge, usageType: APS3-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "4.6655000000",
+        "Asia Pacific (Melbourne) (Compute Family: m7g.16xlarge, usageType: APS6-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "8.1600000000",
         "Asia Pacific (Malaysia) (Compute Family: m7g.16xlarge, usageType: APS7-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "6.9360000000",
-        "Asia Pacific (Hyderabad) (Compute Family: m7g.16xlarge, usageType: APS5-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "4.6655000000"
+        "Asia Pacific (Jakarta) (Compute Family: m7g.16xlarge, usageType: APS4-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "8.1600000000",
+        "Asia Pacific (Hyderabad) (Compute Family: m7g.16xlarge, usageType: APS5-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "4.6655000000",
+        "AWS GovCloud (US) (Compute Family: m7g.16xlarge, usageType: UGW1-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker)": "8.2240000000"
     },
     "[RunBroker] RunBroker-computefamily-m7g.2xlarge;RunBroker m7g.2xlarge": {
         "US West (Oregon) (Compute Family: m7g.2xlarge, usageType: USW2-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "0.8160000000",
@@ -338,8 +344,11 @@
         "Asia Pacific (Singapore) (Compute Family: m7g.2xlarge, usageType: APS1-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "1.0200000000",
         "Asia Pacific (Seoul) (Compute Family: m7g.2xlarge, usageType: APN2-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "1.0030000000",
         "Asia Pacific (Mumbai) (Compute Family: m7g.2xlarge, usageType: APS3-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "0.5833000000",
+        "Asia Pacific (Melbourne) (Compute Family: m7g.2xlarge, usageType: APS6-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "1.0200000000",
         "Asia Pacific (Malaysia) (Compute Family: m7g.2xlarge, usageType: APS7-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "0.8670000000",
-        "Asia Pacific (Hyderabad) (Compute Family: m7g.2xlarge, usageType: APS5-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "0.5833000000"
+        "Asia Pacific (Jakarta) (Compute Family: m7g.2xlarge, usageType: APS4-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "1.0200000000",
+        "Asia Pacific (Hyderabad) (Compute Family: m7g.2xlarge, usageType: APS5-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "0.5833000000",
+        "AWS GovCloud (US) (Compute Family: m7g.2xlarge, usageType: UGW1-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker)": "1.0280000000"
     },
     "[RunBroker] RunBroker-computefamily-m7g.4xlarge;RunBroker m7g.4xlarge": {
         "US West (Oregon) (Compute Family: m7g.4xlarge, usageType: USW2-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "1.6320000000",
@@ -364,8 +373,11 @@
         "Asia Pacific (Singapore) (Compute Family: m7g.4xlarge, usageType: APS1-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "2.0400000000",
         "Asia Pacific (Seoul) (Compute Family: m7g.4xlarge, usageType: APN2-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "2.0060000000",
         "Asia Pacific (Mumbai) (Compute Family: m7g.4xlarge, usageType: APS3-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "1.1665000000",
+        "Asia Pacific (Melbourne) (Compute Family: m7g.4xlarge, usageType: APS6-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "2.0400000000",
         "Asia Pacific (Malaysia) (Compute Family: m7g.4xlarge, usageType: APS7-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "1.7340000000",
-        "Asia Pacific (Hyderabad) (Compute Family: m7g.4xlarge, usageType: APS5-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "1.1665000000"
+        "Asia Pacific (Jakarta) (Compute Family: m7g.4xlarge, usageType: APS4-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "2.0400000000",
+        "Asia Pacific (Hyderabad) (Compute Family: m7g.4xlarge, usageType: APS5-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "1.1665000000",
+        "AWS GovCloud (US) (Compute Family: m7g.4xlarge, usageType: UGW1-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker)": "2.0560000000"
     },
     "[RunBroker] RunBroker-computefamily-m7g.8xlarge;RunBroker m7g.8xlarge": {
         "US West (Oregon) (Compute Family: m7g.8xlarge, usageType: USW2-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "3.2640000000",
@@ -390,8 +402,11 @@
         "Asia Pacific (Singapore) (Compute Family: m7g.8xlarge, usageType: APS1-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "4.0800000000",
         "Asia Pacific (Seoul) (Compute Family: m7g.8xlarge, usageType: APN2-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "4.0120000000",
         "Asia Pacific (Mumbai) (Compute Family: m7g.8xlarge, usageType: APS3-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "2.3328000000",
+        "Asia Pacific (Melbourne) (Compute Family: m7g.8xlarge, usageType: APS6-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "4.0800000000",
         "Asia Pacific (Malaysia) (Compute Family: m7g.8xlarge, usageType: APS7-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "3.4680000000",
-        "Asia Pacific (Hyderabad) (Compute Family: m7g.8xlarge, usageType: APS5-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "2.3328000000"
+        "Asia Pacific (Jakarta) (Compute Family: m7g.8xlarge, usageType: APS4-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "4.0800000000",
+        "Asia Pacific (Hyderabad) (Compute Family: m7g.8xlarge, usageType: APS5-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "2.3328000000",
+        "AWS GovCloud (US) (Compute Family: m7g.8xlarge, usageType: UGW1-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker)": "4.1120000000"
     },
     "[RunBroker] RunBroker-computefamily-m7g.large;RunBroker m7g.large": {
         "US West (Oregon) (Compute Family: m7g.large, usageType: USW2-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.2040000000",
@@ -416,8 +431,11 @@
         "Asia Pacific (Singapore) (Compute Family: m7g.large, usageType: APS1-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.2550000000",
         "Asia Pacific (Seoul) (Compute Family: m7g.large, usageType: APN2-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.2508000000",
         "Asia Pacific (Mumbai) (Compute Family: m7g.large, usageType: APS3-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.1458000000",
+        "Asia Pacific (Melbourne) (Compute Family: m7g.large, usageType: APS6-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.2550000000",
         "Asia Pacific (Malaysia) (Compute Family: m7g.large, usageType: APS7-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.2167500000",
-        "Asia Pacific (Hyderabad) (Compute Family: m7g.large, usageType: APS5-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.1458000000"
+        "Asia Pacific (Jakarta) (Compute Family: m7g.large, usageType: APS4-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.2550000000",
+        "Asia Pacific (Hyderabad) (Compute Family: m7g.large, usageType: APS5-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.1458000000",
+        "AWS GovCloud (US) (Compute Family: m7g.large, usageType: UGW1-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker)": "0.2570000000"
     },
     "[RunBroker] RunBroker-computefamily-m7g.xlarge;RunBroker m7g.xlarge": {
         "US West (Oregon) (Compute Family: m7g.xlarge, usageType: USW2-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.4080000000",
@@ -442,8 +460,11 @@
         "Asia Pacific (Singapore) (Compute Family: m7g.xlarge, usageType: APS1-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.5100000000",
         "Asia Pacific (Seoul) (Compute Family: m7g.xlarge, usageType: APN2-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.5015000000",
         "Asia Pacific (Mumbai) (Compute Family: m7g.xlarge, usageType: APS3-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.2915000000",
+        "Asia Pacific (Melbourne) (Compute Family: m7g.xlarge, usageType: APS6-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.5100000000",
         "Asia Pacific (Malaysia) (Compute Family: m7g.xlarge, usageType: APS7-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.4335000000",
-        "Asia Pacific (Hyderabad) (Compute Family: m7g.xlarge, usageType: APS5-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.2915000000"
+        "Asia Pacific (Jakarta) (Compute Family: m7g.xlarge, usageType: APS4-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.5100000000",
+        "Asia Pacific (Hyderabad) (Compute Family: m7g.xlarge, usageType: APS5-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.2915000000",
+        "AWS GovCloud (US) (Compute Family: m7g.xlarge, usageType: UGW1-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker)": "0.5140000000"
     },
     "[RunBroker] RunBroker-computefamily-t3.small;RunBroker t3.small": {
         "US West (Oregon) (Compute Family: t3.small, usageType: USW2-Kafka.t3.small, vCPU: 2, Memory (GiB): 2, operation: RunBroker)": "0.0456000000",

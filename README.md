@@ -1,3 +1,45 @@
+## 2025-08-15 23:26
+
+**Modified services:**
+
+- [msk](processed/msk.json)
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.12xlarge;RunBroker m7g.12xlarge: Israel (Tel Aviv) (Compute Family: m7g.12xlarge, usageType: ILC1-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.12xlarge;RunBroker m7g.12xlarge: EU (Zurich) (Compute Family: m7g.12xlarge, usageType: EUC2-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.12xlarge;RunBroker m7g.12xlarge: Asia Pacific (Osaka) (Compute Family: m7g.12xlarge, usageType: APN3-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.12xlarge;RunBroker m7g.12xlarge: Asia Pacific (Hong Kong) (Compute Family: m7g.12xlarge, usageType: APE1-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.12xlarge;RunBroker m7g.12xlarge: AWS GovCloud (US-East) (Compute Family: m7g.12xlarge, usageType: UGE1-Kafka.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.16xlarge;RunBroker m7g.16xlarge: Israel (Tel Aviv) (Compute Family: m7g.16xlarge, usageType: ILC1-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.16xlarge;RunBroker m7g.16xlarge: EU (Zurich) (Compute Family: m7g.16xlarge, usageType: EUC2-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.16xlarge;RunBroker m7g.16xlarge: Asia Pacific (Osaka) (Compute Family: m7g.16xlarge, usageType: APN3-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.16xlarge;RunBroker m7g.16xlarge: Asia Pacific (Hong Kong) (Compute Family: m7g.16xlarge, usageType: APE1-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.16xlarge;RunBroker m7g.16xlarge: AWS GovCloud (US-East) (Compute Family: m7g.16xlarge, usageType: UGE1-Kafka.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.2xlarge;RunBroker m7g.2xlarge: Israel (Tel Aviv) (Compute Family: m7g.2xlarge, usageType: ILC1-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.2xlarge;RunBroker m7g.2xlarge: EU (Zurich) (Compute Family: m7g.2xlarge, usageType: EUC2-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.2xlarge;RunBroker m7g.2xlarge: Asia Pacific (Osaka) (Compute Family: m7g.2xlarge, usageType: APN3-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.2xlarge;RunBroker m7g.2xlarge: Asia Pacific (Hong Kong) (Compute Family: m7g.2xlarge, usageType: APE1-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.2xlarge;RunBroker m7g.2xlarge: AWS GovCloud (US-East) (Compute Family: m7g.2xlarge, usageType: UGE1-Kafka.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.4xlarge;RunBroker m7g.4xlarge: Israel (Tel Aviv) (Compute Family: m7g.4xlarge, usageType: ILC1-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.4xlarge;RunBroker m7g.4xlarge: EU (Zurich) (Compute Family: m7g.4xlarge, usageType: EUC2-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.4xlarge;RunBroker m7g.4xlarge: Asia Pacific (Osaka) (Compute Family: m7g.4xlarge, usageType: APN3-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.4xlarge;RunBroker m7g.4xlarge: Asia Pacific (Hong Kong) (Compute Family: m7g.4xlarge, usageType: APE1-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.4xlarge;RunBroker m7g.4xlarge: AWS GovCloud (US-East) (Compute Family: m7g.4xlarge, usageType: UGE1-Kafka.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.8xlarge;RunBroker m7g.8xlarge: Israel (Tel Aviv) (Compute Family: m7g.8xlarge, usageType: ILC1-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.8xlarge;RunBroker m7g.8xlarge: EU (Zurich) (Compute Family: m7g.8xlarge, usageType: EUC2-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.8xlarge;RunBroker m7g.8xlarge: Asia Pacific (Osaka) (Compute Family: m7g.8xlarge, usageType: APN3-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.8xlarge;RunBroker m7g.8xlarge: Asia Pacific (Hong Kong) (Compute Family: m7g.8xlarge, usageType: APE1-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.8xlarge;RunBroker m7g.8xlarge: AWS GovCloud (US-East) (Compute Family: m7g.8xlarge, usageType: UGE1-Kafka.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.large;RunBroker m7g.large: Israel (Tel Aviv) (Compute Family: m7g.large, usageType: ILC1-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.large;RunBroker m7g.large: EU (Zurich) (Compute Family: m7g.large, usageType: EUC2-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.large;RunBroker m7g.large: Asia Pacific (Osaka) (Compute Family: m7g.large, usageType: APN3-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.large;RunBroker m7g.large: Asia Pacific (Hong Kong) (Compute Family: m7g.large, usageType: APE1-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.large;RunBroker m7g.large: AWS GovCloud (US-East) (Compute Family: m7g.large, usageType: UGE1-Kafka.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.xlarge;RunBroker m7g.xlarge: Israel (Tel Aviv) (Compute Family: m7g.xlarge, usageType: ILC1-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.xlarge;RunBroker m7g.xlarge: EU (Zurich) (Compute Family: m7g.xlarge, usageType: EUC2-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.xlarge;RunBroker m7g.xlarge: Asia Pacific (Osaka) (Compute Family: m7g.xlarge, usageType: APN3-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.xlarge;RunBroker m7g.xlarge: Asia Pacific (Hong Kong) (Compute Family: m7g.xlarge, usageType: APE1-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker) 🌎
+  - Region added for metric [RunBroker] RunBroker-computefamily-m7g.xlarge;RunBroker m7g.xlarge: AWS GovCloud (US-East) (Compute Family: m7g.xlarge, usageType: UGE1-Kafka.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker) 🌎
+
+
 ## 2025-08-15 22:26
 
 **Modified services:**

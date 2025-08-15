@@ -279,7 +279,9 @@
         "Asia Pacific (Jakarta)": "0.1100000000",
         "Asia Pacific (Hyderabad)": "0.1050000000",
         "Asia Pacific (Hong Kong)": "0.1200000000",
-        "Africa (Cape Town)": "0.1310000000"
+        "Africa (Cape Town)": "0.1310000000",
+        "AWS GovCloud (US-East)": "0.1200000000",
+        "AWS GovCloud (US)": "0.1200000000"
     },
     "25sSLB_m3QRfEpFcPq_AFtyGZSO2BW8b-qjEh1_lDfg V1": {
         "US West (Oregon)": "0.0000003500",
@@ -477,7 +479,9 @@
         "Asia Pacific (Jakarta)": "0.2200000000",
         "Asia Pacific (Hyderabad)": "0.2090000000",
         "Asia Pacific (Hong Kong)": "0.2400000000",
-        "Africa (Cape Town)": "0.2620000000"
+        "Africa (Cape Town)": "0.2620000000",
+        "AWS GovCloud (US-East)": "0.2400000000",
+        "AWS GovCloud (US)": "0.2400000000"
     },
     "3J6yWsch-jVWMPx56LOyOnRd-MAIIOFxH6P1AXY3sU0 V1": {
         "US West (Oregon)": "0.1000000000",
@@ -651,7 +655,9 @@
         "Asia Pacific (Jakarta)": "0.1380000000",
         "Asia Pacific (Hyderabad)": "0.1310000000",
         "Asia Pacific (Hong Kong)": "0.1500000000",
-        "Africa (Cape Town)": "0.1640000000"
+        "Africa (Cape Town)": "0.1640000000",
+        "AWS GovCloud (US-East)": "0.1500000000",
+        "AWS GovCloud (US)": "0.1500000000"
     },
     "580M_7Si74FiCu_FM_tj9BylZL5XSuJkYrLVe9selrc V1": {
         "US West (Oregon)": "0.1000000000",
@@ -900,7 +906,9 @@
         "Asia Pacific (Jakarta)": "0.2760000000",
         "Asia Pacific (Hyderabad)": "0.2620000000",
         "Asia Pacific (Hong Kong)": "0.3000000000",
-        "Africa (Cape Town)": "0.3280000000"
+        "Africa (Cape Town)": "0.3280000000",
+        "AWS GovCloud (US-East)": "0.3000000000",
+        "AWS GovCloud (US)": "0.3000000000"
     },
     "6hVIfUrTYjqfnZmbDQdrabL9ZsfSbuiseuztoKqxUok V1": {
         "US West (Oregon)": "0.1700000000",
@@ -1354,7 +1362,9 @@
         "Asia Pacific (Jakarta)": "0.2760000000",
         "Asia Pacific (Hyderabad)": "0.2620000000",
         "Asia Pacific (Hong Kong)": "0.3000000000",
-        "Africa (Cape Town)": "0.3280000000"
+        "Africa (Cape Town)": "0.3280000000",
+        "AWS GovCloud (US-East)": "0.3000000000",
+        "AWS GovCloud (US)": "0.3000000000"
     },
     "C1i20FP0KkdQi0x-niIbRZ6gYYr9FSkLQch1JRmcmJU V1": {
         "US West (Oregon)": "1.5000000000",
@@ -1556,7 +1566,9 @@
         "Asia Pacific (Jakarta)": "0.2760000000",
         "Asia Pacific (Hyderabad)": "0.2620000000",
         "Asia Pacific (Hong Kong)": "0.3000000000",
-        "Africa (Cape Town)": "0.3280000000"
+        "Africa (Cape Town)": "0.3280000000",
+        "AWS GovCloud (US-East)": "0.3000000000",
+        "AWS GovCloud (US)": "0.3000000000"
     },
     "Ev-zgFvIt4PO8hR3maO7fMvi4Bqw8nqivNA_QdudajA V1": {
         "US West (Oregon)": "0.1440000000",
@@ -1658,7 +1670,9 @@
         "Asia Pacific (Jakarta)": "0.1100000000",
         "Asia Pacific (Hyderabad)": "0.1050000000",
         "Asia Pacific (Hong Kong)": "0.1200000000",
-        "Africa (Cape Town)": "0.1310000000"
+        "Africa (Cape Town)": "0.1310000000",
+        "AWS GovCloud (US-East)": "0.1200000000",
+        "AWS GovCloud (US)": "0.1200000000"
     },
     "FU21cFW2LDqbF5DoXkBLueNRNhQ4yNB1WUO1p6L6WAE V1": {
         "US West (Oregon)": "0.1150000000",
@@ -1730,7 +1744,9 @@
         "Asia Pacific (Jakarta)": "0.1380000000",
         "Asia Pacific (Hyderabad)": "0.1310000000",
         "Asia Pacific (Hong Kong)": "0.1500000000",
-        "Africa (Cape Town)": "0.1640000000"
+        "Africa (Cape Town)": "0.1640000000",
+        "AWS GovCloud (US-East)": "0.1500000000",
+        "AWS GovCloud (US)": "0.1500000000"
     },
     "GLLozjWgHGqoUnWSV5lC2EQVAj9Q1MAbgCXM2lDzwGY V1": {
         "US West (Oregon)": "0.1600000000",
@@ -1784,7 +1800,9 @@
         "Asia Pacific (Jakarta)": "0.2760000000",
         "Asia Pacific (Hyderabad)": "0.2620000000",
         "Asia Pacific (Hong Kong)": "0.3000000000",
-        "Africa (Cape Town)": "0.3280000000"
+        "Africa (Cape Town)": "0.3280000000",
+        "AWS GovCloud (US-East)": "0.3000000000",
+        "AWS GovCloud (US)": "0.3000000000"
     },
     "Hm_XGpG-f8GuOCImMZeUv5T__MnLsBxDWQE94ZiNJgw V1": {
         "US West (Oregon)": "0.1600000000",
@@ -2438,7 +2456,9 @@
         "Asia Pacific (Jakarta)": "0.1100000000",
         "Asia Pacific (Hyderabad)": "0.1050000000",
         "Asia Pacific (Hong Kong)": "0.1200000000",
-        "Africa (Cape Town)": "0.1310000000"
+        "Africa (Cape Town)": "0.1310000000",
+        "AWS GovCloud (US-East)": "0.1200000000",
+        "AWS GovCloud (US)": "0.1200000000"
     },
     "PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1": {
         "US West (Oregon)": "0.2000000000",
@@ -2472,7 +2492,9 @@
         "Asia Pacific (Malaysia)": "0.1980000000",
         "Asia Pacific (Hyderabad)": "0.2090000000",
         "Asia Pacific (Hong Kong)": "0.2400000000",
-        "Africa (Cape Town)": "0.2620000000"
+        "Africa (Cape Town)": "0.2620000000",
+        "AWS GovCloud (US-East)": "0.2400000000",
+        "AWS GovCloud (US)": "0.2400000000"
     },
     "Qch7gK3gJcv6LpFaxvu6aZ0--anocqlszCzKFKeg5PY V1": {
         "US West (Oregon)": "0.1250000000",
@@ -2775,7 +2797,9 @@
         "Asia Pacific (Jakarta)": "0.2200000000",
         "Asia Pacific (Hyderabad)": "0.2090000000",
         "Asia Pacific (Hong Kong)": "0.2400000000",
-        "Africa (Cape Town)": "0.2620000000"
+        "Africa (Cape Town)": "0.2620000000",
+        "AWS GovCloud (US-East)": "0.2400000000",
+        "AWS GovCloud (US)": "0.2400000000"
     },
     "U91WBrA55LxIJZjFinJ7o9xgmTngy6MpaicWcbCv06s V1": {
         "US West (Oregon)": "0.2300000000",
@@ -2919,7 +2943,9 @@
         "Asia Pacific (Jakarta)": "0.1380000000",
         "Asia Pacific (Hyderabad)": "0.1310000000",
         "Asia Pacific (Hong Kong)": "0.1500000000",
-        "Africa (Cape Town)": "0.1640000000"
+        "Africa (Cape Town)": "0.1640000000",
+        "AWS GovCloud (US-East)": "0.1500000000",
+        "AWS GovCloud (US)": "0.1500000000"
     },
     "VDF0FI0_epJHHZuWbVsHc0HOl8eJZjk2INtYrk26zcI V1": {
         "US West (Oregon)": "0.0631000000",
@@ -3156,7 +3182,9 @@
         "Asia Pacific (Jakarta)": "0.2200000000",
         "Asia Pacific (Hyderabad)": "0.2090000000",
         "Asia Pacific (Hong Kong)": "0.2400000000",
-        "Africa (Cape Town)": "0.2620000000"
+        "Africa (Cape Town)": "0.2620000000",
+        "AWS GovCloud (US-East)": "0.2400000000",
+        "AWS GovCloud (US)": "0.2400000000"
     },
     "XmtelWe9nijqA7eh5tZ-HeA9Z1V1DJRyBRyHJ7L-cSg V1": {
         "US West (Oregon)": "0.2000000000",
@@ -3366,7 +3394,9 @@
         "Asia Pacific (Jakarta)": "0.1100000000",
         "Asia Pacific (Hyderabad)": "0.1050000000",
         "Asia Pacific (Hong Kong)": "0.1200000000",
-        "Africa (Cape Town)": "0.1310000000"
+        "Africa (Cape Town)": "0.1310000000",
+        "AWS GovCloud (US-East)": "0.1200000000",
+        "AWS GovCloud (US)": "0.1200000000"
     },
     "ZO-p_TI26JusrjKq5WteuWppOW8qSXxLKWFpTl08aNs V1": {
         "US West (Oregon)": "0.1150000000",
@@ -3709,7 +3739,9 @@
         "Asia Pacific (Jakarta)": "0.1380000000",
         "Asia Pacific (Hyderabad)": "0.1310000000",
         "Asia Pacific (Hong Kong)": "0.1500000000",
-        "Africa (Cape Town)": "0.1640000000"
+        "Africa (Cape Town)": "0.1640000000",
+        "AWS GovCloud (US-East)": "0.1500000000",
+        "AWS GovCloud (US)": "0.1500000000"
     },
     "b4wq-8sM0V0lLQWnKPPsqbqTr6yIMbhCtMMOCudzF4s V1": {
         "US West (Oregon)": "0.0950000000",
@@ -4711,7 +4743,9 @@
         "Asia Pacific (Jakarta)": "0.2760000000",
         "Asia Pacific (Hyderabad)": "0.2620000000",
         "Asia Pacific (Hong Kong)": "0.3000000000",
-        "Africa (Cape Town)": "0.3280000000"
+        "Africa (Cape Town)": "0.3280000000",
+        "AWS GovCloud (US-East)": "0.3000000000",
+        "AWS GovCloud (US)": "0.3000000000"
     },
     "lv1BWJMMlloHOJglGdwPaw571sqgL17nMuXQrZyZelE V1": {
         "US West (Oregon)": "0.2000000000",
@@ -4847,7 +4881,9 @@
         "Asia Pacific (Jakarta)": "0.2760000000",
         "Asia Pacific (Hyderabad)": "0.2620000000",
         "Asia Pacific (Hong Kong)": "0.3000000000",
-        "Africa (Cape Town)": "0.3280000000"
+        "Africa (Cape Town)": "0.3280000000",
+        "AWS GovCloud (US-East)": "0.3000000000",
+        "AWS GovCloud (US)": "0.3000000000"
     },
     "nsfvujHikkF7eGQYcQ7Ogh6RTXRHjr2ixDTnNQYyv6I V1": {
         "US West (Oregon)": "0.1150000000",
@@ -5133,7 +5169,9 @@
         "Asia Pacific (Jakarta)": "0.2200000000",
         "Asia Pacific (Hyderabad)": "0.2090000000",
         "Asia Pacific (Hong Kong)": "0.2400000000",
-        "Africa (Cape Town)": "0.2620000000"
+        "Africa (Cape Town)": "0.2620000000",
+        "AWS GovCloud (US-East)": "0.2400000000",
+        "AWS GovCloud (US)": "0.2400000000"
     },
     "s2YS8MejtVOA21uFm0fy0aeuZnw_aULDjzRt6cGKc8k V1": {
         "US West (Oregon)": "0.2000000000",
@@ -5271,7 +5309,9 @@
         "Asia Pacific (Jakarta)": "0.1380000000",
         "Asia Pacific (Hyderabad)": "0.1310000000",
         "Asia Pacific (Hong Kong)": "0.1500000000",
-        "Africa (Cape Town)": "0.1640000000"
+        "Africa (Cape Town)": "0.1640000000",
+        "AWS GovCloud (US-East)": "0.1500000000",
+        "AWS GovCloud (US)": "0.1500000000"
     },
     "vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1": {
         "US West (Oregon)": "0.2000000000",
@@ -5306,7 +5346,9 @@
         "Asia Pacific (Jakarta)": "0.2200000000",
         "Asia Pacific (Hyderabad)": "0.2090000000",
         "Asia Pacific (Hong Kong)": "0.2400000000",
-        "Africa (Cape Town)": "0.2620000000"
+        "Africa (Cape Town)": "0.2620000000",
+        "AWS GovCloud (US-East)": "0.2400000000",
+        "AWS GovCloud (US)": "0.2400000000"
     },
     "vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1": {
         "US West (Oregon)": "0.3750000000",
@@ -5729,7 +5771,9 @@
         "Asia Pacific (Jakarta)": "0.1100000000",
         "Asia Pacific (Hyderabad)": "0.1050000000",
         "Asia Pacific (Hong Kong)": "0.1200000000",
-        "Africa (Cape Town)": "0.1310000000"
+        "Africa (Cape Town)": "0.1310000000",
+        "AWS GovCloud (US-East)": "0.1200000000",
+        "AWS GovCloud (US)": "0.1200000000"
     },
     "zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1": {
         "US West (Oregon)": "0.3000000000",
@@ -15345,7 +15389,9 @@
         "Asia Pacific (Jakarta)": "0.2760000000",
         "Asia Pacific (Hyderabad)": "0.2620000000",
         "Asia Pacific (Hong Kong)": "0.3000000000",
-        "Africa (Cape Town)": "0.3280000000"
+        "Africa (Cape Town)": "0.3280000000",
+        "AWS GovCloud (US-East)": "0.3000000000",
+        "AWS GovCloud (US)": "0.3000000000"
     },
     "Database Storage Multi AZ SQL Server Mirror General Purpose-GP3": {
         "US West (Oregon)": "0.2300000000",
@@ -15566,7 +15612,9 @@
         "Asia Pacific (Jakarta)": "0.1380000000",
         "Asia Pacific (Hyderabad)": "0.1310000000",
         "Asia Pacific (Hong Kong)": "0.1500000000",
-        "Africa (Cape Town)": "0.1640000000"
+        "Africa (Cape Town)": "0.1640000000",
+        "AWS GovCloud (US-East)": "0.1500000000",
+        "AWS GovCloud (US)": "0.1500000000"
     },
     "Provisioned IOPS Multi AZ SQL Server Mirror": {
         "US West (Oregon)": "0.2000000000",
@@ -15897,7 +15945,9 @@
         "Asia Pacific (Jakarta)": "0.2200000000",
         "Asia Pacific (Hyderabad)": "0.2090000000",
         "Asia Pacific (Hong Kong)": "0.2400000000",
-        "Africa (Cape Town)": "0.2620000000"
+        "Africa (Cape Town)": "0.2620000000",
+        "AWS GovCloud (US-East)": "0.2400000000",
+        "AWS GovCloud (US)": "0.2400000000"
     },
     "Database Storage Multi AZ SQL Server Mirror Provisioned IOPS": {
         "US West (Oregon)": "0.2500000000",
@@ -15969,7 +16019,9 @@
         "Asia Pacific (Jakarta)": "0.1100000000",
         "Asia Pacific (Hyderabad)": "0.1050000000",
         "Asia Pacific (Hong Kong)": "0.1200000000",
-        "Africa (Cape Town)": "0.1310000000"
+        "Africa (Cape Town)": "0.1310000000",
+        "AWS GovCloud (US-East)": "0.1200000000",
+        "AWS GovCloud (US)": "0.1200000000"
     },
     "Obqyo7XXcPESe8A6RL8M8l5OLm-nZ1VwEXMlX6aAHmQ V1": {
         "US West (N. California)": "0.2760000000"

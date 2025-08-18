@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250812062037",
-        "hawkFilePublicationDate": "2025-08-12T06:20:37Z",
-        "ETLIngestionTriggerDate": "2025-08-12T06:20:37Z",
+        "esIndex": "plc-sagemaker-usd-20250818205825",
+        "hawkFilePublicationDate": "2025-08-18T20:58:25Z",
+        "ETLIngestionTriggerDate": "2025-08-18T20:58:25Z",
         "currencyCode": "USD",
         "source": "sagemaker-training-plan"
     },

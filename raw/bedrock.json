@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "bedrock",
         "accessType": "publish",
-        "esIndex": "plc-bedrock-usd-20250813163959",
-        "hawkFilePublicationDate": "2025-08-13T16:39:59Z",
-        "ETLIngestionTriggerDate": "2025-08-13T16:39:59Z",
+        "esIndex": "plc-bedrock-usd-20250819024643",
+        "hawkFilePublicationDate": "2025-08-19T02:46:43Z",
+        "ETLIngestionTriggerDate": "2025-08-19T02:46:43Z",
         "currencyCode": "USD",
         "source": "bedrock",
         "isMapped": "true"
@@ -6338,6 +6338,11 @@
                 "price": "0.0000105000",
                 "RegionlessRateCode": "2--6cWc5zKQWLXzyO8P-v2y8kVbzfXDmhLCDAZYSc-8"
             },
+            "3oeLtPIxxHalyib3sOvjLNTU5mV_aPktgncNBD4tyes": {
+                "rateCode": "JPZKZPVSK9FP9H9G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0030000000",
+                "RegionlessRateCode": "3oeLtPIxxHalyib3sOvjLNTU5mV_aPktgncNBD4tyes"
+            },
             "66uQtlp37aPgsfuyjme2uRToEf5USlH_Sz0TQBBIhlg": {
                 "rateCode": "6KAYESKC9RAQVWNZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0006000000",
@@ -6347,6 +6352,11 @@
                 "rateCode": "HJX3N6FMHDXF2U92.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0016000000",
                 "RegionlessRateCode": "71JGZWaMsg3A6psUpwHLdaUb65DdRfd-3cUHfALR-nw"
+            },
+            "BPLJsfmQVb3b_2bmxm5cMyp784baKy0MTZ2q-r8dzQI": {
+                "rateCode": "A4XA5PWCDSGZXRJJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "BPLJsfmQVb3b_2bmxm5cMyp784baKy0MTZ2q-r8dzQI"
             },
             "BV6s9turwwiLxkSLLRVWD1edY41U1702rBTG0DorbCc": {
                 "rateCode": "C6H77NPJDCWAVCKZ.JRTCKXETXF.6YS6EN2CT7",
@@ -6393,15 +6403,35 @@
                 "price": "0.0019200000",
                 "RegionlessRateCode": "PVxuDEZJeKYpMs6LxgU_WSfxO1fMNb9B0Tmj2jIDPeU"
             },
+            "Q8tLf4yEvbG5PYWBnYqBG2yQEQzVk2kkxnNsH7HfSd4": {
+                "rateCode": "M5QZBGUK6VRASESE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "Q8tLf4yEvbG5PYWBnYqBG2yQEQzVk2kkxnNsH7HfSd4"
+            },
             "SJQjyLkukpYE30vgf0XnKcdpI0Q1cJxmBBpDdq7HLmg": {
                 "rateCode": "WHMBRNQ4JAQ2CZTT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000180000",
                 "RegionlessRateCode": "SJQjyLkukpYE30vgf0XnKcdpI0Q1cJxmBBpDdq7HLmg"
             },
+            "UOed3U1TFhIVrO7YCg_qC3vBssj9zOGN_LtCSRXjKS4": {
+                "rateCode": "9JTTRBYP42KMUR9C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0840000000",
+                "RegionlessRateCode": "UOed3U1TFhIVrO7YCg_qC3vBssj9zOGN_LtCSRXjKS4"
+            },
             "WxnV4mjai6xY4Pp1r34aFXHqqeT9dfORRm4vNOkDAlg": {
                 "rateCode": "BJ6P7ED88WK5UK3C.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000840000",
                 "RegionlessRateCode": "WxnV4mjai6xY4Pp1r34aFXHqqeT9dfORRm4vNOkDAlg"
+            },
+            "XHdFMWViw7uK6t9HzJc6IoNaV0mkPahj53wkwuYo1iI": {
+                "rateCode": "6P2KQENJY96RNDDU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "XHdFMWViw7uK6t9HzJc6IoNaV0mkPahj53wkwuYo1iI"
+            },
+            "_shBqbXfcTr_cGhwiO5tisKP9jSVJnjfW9ycezuCF2A": {
+                "rateCode": "MPW2PSS4WNMBR7ED.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "_shBqbXfcTr_cGhwiO5tisKP9jSVJnjfW9ycezuCF2A"
             },
             "bi5g2iKRcJ5oBq0uwAmuhF75PrWW9UqPOIORAYbjN9A": {
                 "rateCode": "9B6HQ6DDKGTXWVZD.JRTCKXETXF.6YS6EN2CT7",
@@ -6458,6 +6488,26 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "pYxwwnwyiIKT2Wy84bBKjjFMMsATPNJoX8vSLdtlYtU"
             },
+            "pm4dur5c9fyCqzhMCGt9jqgSzDbJmAJKY9Rt-EPJ-Ew": {
+                "rateCode": "YKKFM4TECHWPEFAR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0090000000",
+                "RegionlessRateCode": "pm4dur5c9fyCqzhMCGt9jqgSzDbJmAJKY9Rt-EPJ-Ew"
+            },
+            "qjvohEvC6kYw1iIZ-EPx_7OjJs99GrLliGa1pnlHcTk": {
+                "rateCode": "8GA322PDFBVXKJQ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "qjvohEvC6kYw1iIZ-EPx_7OjJs99GrLliGa1pnlHcTk"
+            },
+            "twCcvMFnGddniXsI28ggwTdr78e-aXsaU4y8vUOkDY8": {
+                "rateCode": "4MDDMJ67Y9K4DW87.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "twCcvMFnGddniXsI28ggwTdr78e-aXsaU4y8vUOkDY8"
+            },
+            "uOM5Z_rcMCVxs48IzXDnuEKzpCgvtcQN2ZZbcZA0q1w": {
+                "rateCode": "MXCJQDXDVB9MF9CF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "uOM5Z_rcMCVxs48IzXDnuEKzpCgvtcQN2ZZbcZA0q1w"
+            },
             "urNDBArH5pV5njuTwm41YJmDyeIrg_gD9kCMIHcQdLI": {
                 "rateCode": "5YWUR8FJ4J9AXZH4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0002880000",
@@ -6468,10 +6518,20 @@
                 "price": "24.6000000000",
                 "RegionlessRateCode": "wrZENTG2K91RujoXzHKLgzMLZ4vNjVUU5Qb_BSzg1oY"
             },
+            "xKwWq2mAhSD7Pt_KkbynNoF3EaFBa8liuODHg_R2Luc": {
+                "rateCode": "VXRGZPRYH3JAU3W6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "xKwWq2mAhSD7Pt_KkbynNoF3EaFBa8liuODHg_R2Luc"
+            },
             "y3ysuI6dAWvDkWMQc5HXmPAm6SgxT1t6ZJm0ud9zb2o": {
                 "rateCode": "JYQXA6E9PNJ23U2W.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0001000000",
                 "RegionlessRateCode": "y3ysuI6dAWvDkWMQc5HXmPAm6SgxT1t6ZJm0ud9zb2o"
+            },
+            "yIsyG9ZfUFAwQ5CvBHgMKVeSSWSuqQ6a8SoTyAt1sEU": {
+                "rateCode": "K6N7FYFXHAJZ4CNZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "yIsyG9ZfUFAwQ5CvBHgMKVeSSWSuqQ6a8SoTyAt1sEU"
             }
         }
     }

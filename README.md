@@ -1,3 +1,38 @@
+## 2025-08-19 18:28
+
+**Modified services:**
+
+- [verifiedpermissions](processed/verifiedpermissions.json)
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-1 per API Requests: Mexico (Central) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-1 per API Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-1 per API Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-1 per API Requests: Asia Pacific (Malaysia) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-3 per API Requests: Mexico (Central) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-3 per API Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-3 per API Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-3 per API Requests: Asia Pacific (Malaysia) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-2 per API Requests: Mexico (Central) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-2 per API Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-2 per API Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric [Verified Permissions AuthorizationRequest] Verified Permissions AuthorizationRequest Tier-2 per API Requests: Asia Pacific (Malaysia) 🌎
+  - Region added for metric [Verified Permissions CreatePolicy] Verified Permissions CreatePolicy per API Requests: Mexico (Central) 🌎
+  - Region added for metric [Verified Permissions CreatePolicy] Verified Permissions CreatePolicy per API Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric [Verified Permissions CreatePolicy] Verified Permissions CreatePolicy per API Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric [Verified Permissions CreatePolicy] Verified Permissions CreatePolicy per API Requests: Asia Pacific (Malaysia) 🌎
+  - Region added for metric [Verified Permissions GetPolicy] Verified Permissions GetPolicy per API Requests: Mexico (Central) 🌎
+  - Region added for metric [Verified Permissions GetPolicy] Verified Permissions GetPolicy per API Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric [Verified Permissions GetPolicy] Verified Permissions GetPolicy per API Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric [Verified Permissions GetPolicy] Verified Permissions GetPolicy per API Requests: Asia Pacific (Malaysia) 🌎
+  - Region added for metric [Verified Permissions ListPolicies] Verified Permissions ListPolicies per API Requests: Mexico (Central) 🌎
+  - Region added for metric [Verified Permissions ListPolicies] Verified Permissions ListPolicies per API Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric [Verified Permissions ListPolicies] Verified Permissions ListPolicies per API Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric [Verified Permissions ListPolicies] Verified Permissions ListPolicies per API Requests: Asia Pacific (Malaysia) 🌎
+  - Region added for metric [Verified Permissions UpdatePolicy] Verified Permissions UpdatePolicy per API Requests: Mexico (Central) 🌎
+  - Region added for metric [Verified Permissions UpdatePolicy] Verified Permissions UpdatePolicy per API Requests: Asia Pacific (Thailand) 🌎
+  - Region added for metric [Verified Permissions UpdatePolicy] Verified Permissions UpdatePolicy per API Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric [Verified Permissions UpdatePolicy] Verified Permissions UpdatePolicy per API Requests: Asia Pacific (Malaysia) 🌎
+
+
 ## 2025-08-15 23:26
 
 **Modified services:**

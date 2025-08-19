@@ -1,3 +1,11 @@
+## 2025-08-19 22:26
+
+**Modified services:**
+
+- [msk](processed/msk.json)
+  - Region added for metric [RunBroker] RunBroker-computefamily-t3.small;RunBroker t3.small: Asia Pacific (Taipei) (Compute Family: t3.small, usageType: APE2-Kafka.t3.small, vCPU: 2, Memory (GiB): 2, operation: RunBroker) 🌎
+
+
 ## 2025-08-19 18:28
 
 **Modified services:**

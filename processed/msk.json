@@ -523,6 +523,7 @@
         "Canada (Central) (Compute Family: t3.small, usageType: CAN1-Kafka.t3.small, vCPU: 2, Memory (GiB): 2, operation: RunBroker)": "0.0508000000",
         "Asia Pacific (Tokyo) (Compute Family: t3.small, usageType: APN1-Kafka.t3.small, vCPU: 2, Memory (GiB): 2, operation: RunBroker)": "0.0596000000",
         "Asia Pacific (Thailand) (Compute Family: t3.small, usageType: APS9-Kafka.t3.small, vCPU: 2, Memory (GiB): 2, operation: RunBroker)": "0.0521769230",
+        "Asia Pacific (Taipei) (Compute Family: t3.small, usageType: APE2-Kafka.t3.small, vCPU: 2, Memory (GiB): 2, operation: RunBroker)": "0.0529735200",
         "Asia Pacific (Sydney) (Compute Family: t3.small, usageType: APS2-Kafka.t3.small, vCPU: 2, Memory (GiB): 2, operation: RunBroker)": "0.0578000000",
         "Asia Pacific (Singapore) (Compute Family: t3.small, usageType: APS1-Kafka.t3.small, vCPU: 2, Memory (GiB): 2, operation: RunBroker)": "0.0578000000",
         "Asia Pacific (Seoul) (Compute Family: t3.small, usageType: APN2-Kafka.t3.small, vCPU: 2, Memory (GiB): 2, operation: RunBroker)": "0.0569000000",

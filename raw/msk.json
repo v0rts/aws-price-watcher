@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "msk",
         "accessType": "publish",
-        "esIndex": "plc-msk-usd-20250815223626",
-        "hawkFilePublicationDate": "2025-08-15T22:36:26Z",
-        "ETLIngestionTriggerDate": "2025-08-15T22:36:26Z",
+        "esIndex": "plc-msk-usd-20250819222107",
+        "hawkFilePublicationDate": "2025-08-19T22:21:07Z",
+        "ETLIngestionTriggerDate": "2025-08-19T22:21:07Z",
         "currencyCode": "USD",
         "source": "msk",
         "isMapped": "true"
@@ -496,6 +496,7 @@
             "AC6UBCV6M6WQ4VP3.JRTCKXETXF.6YS6EN2CT7 0",
             "AG9Y2Y4FXPE7W3TC.JRTCKXETXF.6YS6EN2CT7 0",
             "AJYNY57XRZXDTCSY.JRTCKXETXF.6YS6EN2CT7 0",
+            "AVE656RZ67VE5CQ8.JRTCKXETXF.6YS6EN2CT7 0",
             "BMZTH65A36HCAXC8.JRTCKXETXF.6YS6EN2CT7 0",
             "BX3GQ7NJG4KPMDUJ.JRTCKXETXF.6YS6EN2CT7 0",
             "C54AHPCU3X3D3SEW.JRTCKXETXF.6YS6EN2CT7 0",
@@ -17524,6 +17525,16 @@
                 "Memory (GiB)": "16",
                 "operation": "RunBroker"
             },
+            "AVE656RZ67VE5CQ8.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "AVE656RZ67VE5CQ8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0529735200",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g",
+                "Compute Family": "t3.small",
+                "usageType": "APE2-Kafka.t3.small",
+                "vCPU": "2",
+                "Memory (GiB)": "2",
+                "operation": "RunBroker"
+            },
             "CIdz_Ql1ujlp9BTcjM_ocOK-IxgN4vZXNxnqFt5tV5g": {
                 "rateCode": "MFVQT37VQTHHHRM6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0978000000",
@@ -17622,6 +17633,16 @@
                 "usageType": "APE2-Kafka.m7g.2xlarge",
                 "vCPU": "8",
                 "Memory (GiB)": "32",
+                "operation": "RunBroker"
+            },
+            "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g": {
+                "rateCode": "AVE656RZ67VE5CQ8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0529735200",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g",
+                "Compute Family": "t3.small",
+                "usageType": "APE2-Kafka.t3.small",
+                "vCPU": "2",
+                "Memory (GiB)": "2",
                 "operation": "RunBroker"
             },
             "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo": {
@@ -17757,6 +17778,21 @@
                 "usageType": "APE2-Kafka.m7g.2xlarge",
                 "vCPU": "8",
                 "Memory (GiB)": "32",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-t3.small": {
+                "rateCode": "AVE656RZ67VE5CQ8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0529735200",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g"
+            },
+            "RunBroker t3.small": {
+                "rateCode": "AVE656RZ67VE5CQ8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0529735200",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g",
+                "Compute Family": "t3.small",
+                "usageType": "APE2-Kafka.t3.small",
+                "vCPU": "2",
+                "Memory (GiB)": "2",
                 "operation": "RunBroker"
             },
             "RunBroker-computefamily-m7g.8xlarge": {

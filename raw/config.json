@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "config",
         "accessType": "publish",
-        "esIndex": "plc-config-usd-20250711155257",
-        "hawkFilePublicationDate": "2025-07-07T20:28:30Z",
-        "ETLIngestionTriggerDate": "2025-07-11T15:52:57Z",
+        "esIndex": "plc-config-usd-20250820171346",
+        "hawkFilePublicationDate": "2025-08-20T17:13:46Z",
+        "ETLIngestionTriggerDate": "2025-08-20T17:13:46Z",
         "currencyCode": "USD",
         "source": "config",
         "isMapped": "true"

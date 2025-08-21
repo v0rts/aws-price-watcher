@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "networkfirewall",
         "accessType": "publish",
-        "esIndex": "plc-networkfirewall-usd-20250729205013",
-        "hawkFilePublicationDate": "2025-07-29T20:50:13Z",
-        "ETLIngestionTriggerDate": "2025-07-29T20:50:13Z",
+        "esIndex": "plc-networkfirewall-usd-20250821191929",
+        "hawkFilePublicationDate": "2025-08-21T19:19:29Z",
+        "ETLIngestionTriggerDate": "2025-08-21T19:19:29Z",
         "currencyCode": "USD",
         "source": "networkfirewall",
         "isMapped": "true"

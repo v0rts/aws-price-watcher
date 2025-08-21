@@ -1,3 +1,19 @@
+## 2025-08-21 19:24
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: Africa (Cape Town) 🌎
+
+
 ## 2025-08-19 23:26
 
 **Modified services:**

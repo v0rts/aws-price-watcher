@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250821232049",
-        "hawkFilePublicationDate": "2025-08-21T23:20:49Z",
-        "ETLIngestionTriggerDate": "2025-08-21T23:20:49Z",
+        "esIndex": "plc-sagemaker-usd-20250821233003",
+        "hawkFilePublicationDate": "2025-08-21T23:30:03Z",
+        "ETLIngestionTriggerDate": "2025-08-21T23:30:03Z",
         "currencyCode": "USD",
         "source": "sagemaker-training-plan"
     },
@@ -40,6 +40,14 @@
                 "Memory": "2 TiB",
                 "VCPU": "192",
                 "Instance": "ml.p5.48xlarge"
+            },
+            "7AP874TitRA8O1mXzjueAgGK9WDpqUlcNSGcI1dIPSY": {
+                "rateCode": "T4NK53KBBKTJMW9H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.5229500000",
+                "RegionlessRateCode": "7AP874TitRA8O1mXzjueAgGK9WDpqUlcNSGcI1dIPSY",
+                "Memory": "256 GiB",
+                "VCPU": "16",
+                "Instance": "ml.p5.4xlarge"
             },
             "OC5Xj-H0GJULdCn1J91LiMbxJ89C0S7EiOM9c7qPJ6o": {
                 "rateCode": "WFQHAD8JUBH8G4KD.JRTCKXETXF.6YS6EN2CT7",
@@ -345,6 +353,14 @@
                 "VCPU": "192",
                 "Instance": "ml.p5.48xlarge"
             },
+            "7AP874TitRA8O1mXzjueAgGK9WDpqUlcNSGcI1dIPSY": {
+                "rateCode": "WTTVMV5SMZKAEYFM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.5229500000",
+                "RegionlessRateCode": "7AP874TitRA8O1mXzjueAgGK9WDpqUlcNSGcI1dIPSY",
+                "Memory": "256 GiB",
+                "VCPU": "16",
+                "Instance": "ml.p5.4xlarge"
+            },
             "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0": {
                 "rateCode": "SB8FRQRUDR356USP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "41.6116000000",
@@ -370,6 +386,14 @@
                 "Memory": "2 TiB",
                 "VCPU": "192",
                 "Instance": "ml.p5.48xlarge"
+            },
+            "7AP874TitRA8O1mXzjueAgGK9WDpqUlcNSGcI1dIPSY": {
+                "rateCode": "5EPGDRGWBFNFMWGK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.5229500000",
+                "RegionlessRateCode": "7AP874TitRA8O1mXzjueAgGK9WDpqUlcNSGcI1dIPSY",
+                "Memory": "256 GiB",
+                "VCPU": "16",
+                "Instance": "ml.p5.4xlarge"
             },
             "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0": {
                 "rateCode": "ARUEATVRE46NBA6Q.JRTCKXETXF.6YS6EN2CT7",

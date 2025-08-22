@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250822083347",
-        "hawkFilePublicationDate": "2025-08-22T08:33:47Z",
-        "ETLIngestionTriggerDate": "2025-08-22T08:33:47Z",
+        "esIndex": "plc-sagemaker-usd-20250822180425",
+        "hawkFilePublicationDate": "2025-08-22T18:04:25Z",
+        "ETLIngestionTriggerDate": "2025-08-22T18:04:25Z",
         "currencyCode": "USD",
         "source": "sagemaker-instances-studionotebook",
         "isMapped": "true"

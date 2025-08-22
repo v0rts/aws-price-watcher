@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "s3glacierdeeparchive",
         "accessType": "publish",
-        "esIndex": "plc-s3glacierdeeparchive-usd-20250711190545",
-        "hawkFilePublicationDate": "2025-06-05T17:57:00Z",
-        "ETLIngestionTriggerDate": "2025-07-11T19:05:45Z",
+        "esIndex": "plc-s3glacierdeeparchive-usd-20250822221632",
+        "hawkFilePublicationDate": "2025-08-22T22:16:32Z",
+        "ETLIngestionTriggerDate": "2025-08-22T22:16:32Z",
         "currencyCode": "USD",
         "source": "s3glacierdeeparchive",
         "isMapped": "true"

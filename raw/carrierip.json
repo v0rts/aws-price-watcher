@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ec2",
         "accessType": "publish",
-        "esIndex": "plc-ec2-usd-20250821170432",
-        "hawkFilePublicationDate": "2025-08-21T17:04:32Z",
-        "ETLIngestionTriggerDate": "2025-08-21T17:04:32Z",
+        "esIndex": "plc-ec2-usd-20250823011434",
+        "hawkFilePublicationDate": "2025-08-23T01:14:34Z",
+        "ETLIngestionTriggerDate": "2025-08-23T01:14:34Z",
         "currencyCode": "USD",
         "source": "carrierip",
         "isMapped": "true"

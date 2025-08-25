@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-08-25T19:19:05Z",
+  "publicationDate" : "2025-08-25T20:17:26Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1458,6 +1458,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/OracleDbAtAWS/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/OracleDbAtAWS/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/OracleDbAtAWS/current/region_index.json"
+    },
+    "SSMSAP" : {
+      "offerCode" : "SSMSAP",
+      "versionIndexUrl" : "/offers/v1.0/aws/SSMSAP/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/SSMSAP/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/SSMSAP/current/region_index.json"
     }
   }
 }

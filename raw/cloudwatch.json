@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudwatch",
         "accessType": "publish",
-        "esIndex": "plc-cloudwatch-usd-20250825175144",
-        "hawkFilePublicationDate": "2025-08-25T17:51:44Z",
-        "ETLIngestionTriggerDate": "2025-08-25T17:51:44Z",
+        "esIndex": "plc-cloudwatch-usd-20250825184346",
+        "hawkFilePublicationDate": "2025-08-25T18:43:46Z",
+        "ETLIngestionTriggerDate": "2025-08-25T18:43:46Z",
         "currencyCode": "USD",
         "source": "cloudwatch",
         "isMapped": "true"
@@ -24982,6 +24982,11 @@
                 "price": "0.0680000000",
                 "RegionlessRateCode": "QRUSgJF5fAUmh5kiM6VXs37AjW8--NqLmFlB44uR5fg"
             },
+            "SJVJYW1ZPAUxbV1iqWpEGjnYgFS18yN-UXeumTVaTYc": {
+                "rateCode": "UTPKWR5V4NGZ7QTV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000",
+                "RegionlessRateCode": "SJVJYW1ZPAUxbV1iqWpEGjnYgFS18yN-UXeumTVaTYc"
+            },
             "SMGhzVLYfX17CffXfeoSZknaDiQfmA36PJP0zjEL4T8": {
                 "rateCode": "76VHC7PQNSABNG4V.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000130000",
@@ -25046,6 +25051,11 @@
                 "rateCode": "Q6Q3EFG6PYMCN9E4.JRTCKXETXF.JM86AE7V7B",
                 "price": "0.3380000000",
                 "RegionlessRateCode": "dwxTvluMO4yqQEMmMHIigPopDh_gl_eV4yrqa3iLXw8"
+            },
+            "efqOlL4s8r3EuBB1IA-22wUY1JJu5OWN5JOa36UDnyE": {
+                "rateCode": "U9S8JSYXP8RB6B5T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "efqOlL4s8r3EuBB1IA-22wUY1JJu5OWN5JOa36UDnyE"
             },
             "g9UMvRLZoIn9ixzgsHOHWz72OOq0GETT9LTV7wECDX0": {
                 "rateCode": "N47P8G79TMZTGMFR.JRTCKXETXF.VNJQCFJPS4",
@@ -25227,6 +25237,11 @@
                 "price": "0.0680000000",
                 "RegionlessRateCode": "QRUSgJF5fAUmh5kiM6VXs37AjW8--NqLmFlB44uR5fg"
             },
+            "CW RUMCloudWatch RUM events": {
+                "rateCode": "UTPKWR5V4NGZ7QTV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000",
+                "RegionlessRateCode": "SJVJYW1ZPAUxbV1iqWpEGjnYgFS18yN-UXeumTVaTYc"
+            },
             "API Request": {
                 "rateCode": "76VHC7PQNSABNG4V.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000130000",
@@ -25271,6 +25286,11 @@
                 "rateCode": "Q6Q3EFG6PYMCN9E4.JRTCKXETXF.JM86AE7V7B",
                 "price": "0.3380000000",
                 "RegionlessRateCode": "dwxTvluMO4yqQEMmMHIigPopDh_gl_eV4yrqa3iLXw8"
+            },
+            "CW RUMCloudWatch RUM free events": {
+                "rateCode": "U9S8JSYXP8RB6B5T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "efqOlL4s8r3EuBB1IA-22wUY1JJu5OWN5JOa36UDnyE"
             },
             "Metric for over 1000000": {
                 "rateCode": "N47P8G79TMZTGMFR.JRTCKXETXF.VNJQCFJPS4",
@@ -25469,6 +25489,11 @@
                 "price": "0.0680000000",
                 "RegionlessRateCode": "QRUSgJF5fAUmh5kiM6VXs37AjW8--NqLmFlB44uR5fg"
             },
+            "SJVJYW1ZPAUxbV1iqWpEGjnYgFS18yN-UXeumTVaTYc": {
+                "rateCode": "KPE96XW9UDQQFF5K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000",
+                "RegionlessRateCode": "SJVJYW1ZPAUxbV1iqWpEGjnYgFS18yN-UXeumTVaTYc"
+            },
             "SMGhzVLYfX17CffXfeoSZknaDiQfmA36PJP0zjEL4T8": {
                 "rateCode": "SFYFKBWYYY54YY78.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000130000",
@@ -25533,6 +25558,11 @@
                 "rateCode": "V2VBGT3PQ6Y7MM3A.JRTCKXETXF.JM86AE7V7B",
                 "price": "0.3380000000",
                 "RegionlessRateCode": "dwxTvluMO4yqQEMmMHIigPopDh_gl_eV4yrqa3iLXw8"
+            },
+            "efqOlL4s8r3EuBB1IA-22wUY1JJu5OWN5JOa36UDnyE": {
+                "rateCode": "XQR8WUAJVDZ2JYVY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "efqOlL4s8r3EuBB1IA-22wUY1JJu5OWN5JOa36UDnyE"
             },
             "g9UMvRLZoIn9ixzgsHOHWz72OOq0GETT9LTV7wECDX0": {
                 "rateCode": "ZZJWHRRU5C9SD452.JRTCKXETXF.VNJQCFJPS4",
@@ -25714,6 +25744,11 @@
                 "price": "0.0680000000",
                 "RegionlessRateCode": "QRUSgJF5fAUmh5kiM6VXs37AjW8--NqLmFlB44uR5fg"
             },
+            "CW RUMCloudWatch RUM events": {
+                "rateCode": "KPE96XW9UDQQFF5K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000",
+                "RegionlessRateCode": "SJVJYW1ZPAUxbV1iqWpEGjnYgFS18yN-UXeumTVaTYc"
+            },
             "API Request": {
                 "rateCode": "SFYFKBWYYY54YY78.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000130000",
@@ -25758,6 +25793,11 @@
                 "rateCode": "V2VBGT3PQ6Y7MM3A.JRTCKXETXF.JM86AE7V7B",
                 "price": "0.3380000000",
                 "RegionlessRateCode": "dwxTvluMO4yqQEMmMHIigPopDh_gl_eV4yrqa3iLXw8"
+            },
+            "CW RUMCloudWatch RUM free events": {
+                "rateCode": "XQR8WUAJVDZ2JYVY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "efqOlL4s8r3EuBB1IA-22wUY1JJu5OWN5JOa36UDnyE"
             },
             "Metric for over 1000000": {
                 "rateCode": "ZZJWHRRU5C9SD452.JRTCKXETXF.VNJQCFJPS4",

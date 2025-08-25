@@ -882,7 +882,9 @@
         "Asia Pacific (Jakarta)": "0.0000100000",
         "Asia Pacific (Hyderabad)": "0.0000100000",
         "Asia Pacific (Hong Kong)": "0.0000100000",
-        "Africa (Cape Town)": "0.0000100000"
+        "Africa (Cape Town)": "0.0000100000",
+        "AWS GovCloud (US-East)": "0.0000100000",
+        "AWS GovCloud (US)": "0.0000100000"
     },
     "API Request": {
         "US West (Oregon)": "0.0000100000",
@@ -1247,7 +1249,9 @@
         "Asia Pacific (Jakarta)": "0.0000000000",
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Africa (Cape Town)": "0.0000000000"
+        "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
+        "AWS GovCloud (US)": "0.0000000000"
     },
     "Metric for over 1000000": {
         "US West (Oregon)": "0.0200000000",

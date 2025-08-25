@@ -1,3 +1,24 @@
+## 2025-08-25 19:24
+
+**Modified services:**
+
+- [cloudwatch](processed/cloudwatch.json)
+  - Region added for metric CW RUMCloudWatch RUM events: AWS GovCloud (US-East) 🌎
+  - Region added for metric CW RUMCloudWatch RUM events: AWS GovCloud (US) 🌎
+  - Region added for metric CW RUMCloudWatch RUM free events: AWS GovCloud (US-East) 🌎
+  - Region added for metric CW RUMCloudWatch RUM free events: AWS GovCloud (US) 🌎
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-g6.24xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.48xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.8xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.4xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.16xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.2xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-g6.12xlarge: Middle East (UAE) 🌎
+
+
 ## 2025-08-25 10:27
 
 **Modified services:**

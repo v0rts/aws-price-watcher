@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudwatch",
         "accessType": "publish",
-        "esIndex": "plc-cloudwatch-usd-20250808210124",
-        "hawkFilePublicationDate": "2025-08-08T21:01:24Z",
-        "ETLIngestionTriggerDate": "2025-08-08T21:01:24Z",
+        "esIndex": "plc-cloudwatch-usd-20250825175144",
+        "hawkFilePublicationDate": "2025-08-25T17:51:44Z",
+        "ETLIngestionTriggerDate": "2025-08-25T17:51:44Z",
         "currencyCode": "USD",
         "source": "cloudwatch",
         "isMapped": "true"

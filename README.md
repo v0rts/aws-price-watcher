@@ -1,3 +1,49 @@
+## 2025-08-26 22:27
+
+**Modified services:**
+
+- [guardduty](processed/guardduty.json)
+  - Region added for metric VPC Flow Log and DNS Processed per First 500 GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric EKS vCPU Monitored per First 500 vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Kubernetes Audit Logs Events Processed per First 100000000 Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric EKS vCPU Monitored per 500 upto 5000 vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda VPC Flow Log and DNS Processed per Next 7500 GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 VPC Flow Log and DNS Processed per First 500000000 Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free Fargate vCPU Monitored per vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free CloudTrail Events Processed per Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Kubernetes Audit Logs Events Processed per Next 200000000 Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free EC2 vCPU Monitored per vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fargate vCPU Monitored per First 500 vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free VPC Flow Log and DNS Processed per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Malware Protection S3 Data Scanned per 1 upto Inf GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Malware Protection S3 Data Scanned per 0 upto 1 GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric VPC Flow Log and DNS Processed per Over 10000 GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 VPC Flow Log and DNS Processed per Over 5000000000 Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric CloudTrail Events Processed per Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda VPC Flow Log and DNS Processed per Next 2000 GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric VPC Flow Log and DNS Processed per Next 2000 GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric EC2 vCPU Monitored per First 500 vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Kubernetes Audit Logs Events Processed per Over 200000000 Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free S3 VPC Flow Log and DNS Processed per Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fargate vCPU Monitored per 5000 upto Inf vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric On Demand Malware Protection EBS Volume Data Scanned per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Malware Protection S3 Request Monitored per 1000 upto Inf Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 VPC Flow Log and DNS Processed per Next 4500000000 Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Malware Protection S3 Request Monitored per 0 upto 1000 Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda VPC Flow Log and DNS Processed per Over 10000 GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric EKS vCPU Monitored per 5000 upto Inf vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric EC2 vCPU Monitored per 500 upto 5000 vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free Lambda VPC Flow Log and DNS Processed per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric VPC Flow Log and DNS Processed per Next 7500 GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free Malware Protection EBS Data Scanned per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric EC2 vCPU Monitored per 5000 upto Inf vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda VPC Flow Log and DNS Processed per First 500 GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free EKS vCPU Monitored per vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fargate vCPU Monitored per 500 upto 5000 vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free Kubernetes Audit Logs Events Processed per Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Malware Protection EBS Data Scanned per GB: Asia Pacific (Taipei) 🌎
+
+
 ## 2025-08-26 16:28
 
 **Modified services:**

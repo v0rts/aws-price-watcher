@@ -1,3 +1,22 @@
+## 2025-08-26 16:28
+
+**Modified services:**
+
+- [datatransfer](processed/datatransfer.json)
+  - Region removed for metric DataTransfer InterRegion Outbound to Mexico Central: Amazon CloudFront (To Location: Mexico (Central)) 💥
+  - Region removed for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Amazon CloudFront (To Location: Mexico (Central)) 💥
+  - Region removed for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Amazon CloudFront (To Location: Mexico (Central)) 💥
+  - Region removed for metric [Backup DataTransfer InterRegion Outbound]: Amazon CloudFront (To Location: Mexico (Central)) 💥
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Las Vegas) (To Location: Amazon CloudFront) 🌎
+  - Price decreased: [RDS DataTransfer InterRegion Outbound] Canada West (Calgary) (To Location: Amazon CloudFront)  **$0.09** → **$0.00** 💸
+  - Region removed for metric [RDS DataTransfer InterRegion Outbound]: Amazon CloudFront (To Location: Mexico (Central)) 💥
+  - Region added for metric [DataTransfer InterRegion Outbound]: US West (Las Vegas) (To Location: Amazon CloudFront) 🌎
+  - Region removed for metric [DirectoryService DataTransfer InterRegion Outbound]: Amazon CloudFront (To Location: Mexico (Central)) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Mexico Central;Cloudfrontless DataTransfer InterRegion Outbound to Mexico Central;Cloudfrontless DataTransfer InterRegion Outbound to Mexico Central No Wavelength;Backup DataTransfer InterRegion Outbound to Mexico Central;RDS DataTransfer InterRegion Outbound to Mexico Central;DirectoryService DataTransfer InterRegion Outbound to Mexico Central: Amazon CloudFront (To Location: Mexico (Central)) 💥
+  - Price decreased: DataTransfer InterRegion Outbound to Amazon CloudFront Canada West (Calgary) (To Location: Amazon CloudFront)  **$0.09** → **$0.00** 💸
+  - Price decreased: [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront Canada West (Calgary) (To Location: Amazon CloudFront)  **$0.09** → **$0.00** 💸
+
+
 ## 2025-08-26 00:40
 
 **Modified services:**

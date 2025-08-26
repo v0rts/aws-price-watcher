@@ -3463,7 +3463,6 @@
         "Asia Pacific (Hyderabad) (To Location: Mexico (Central))": "0.0860000000",
         "Asia Pacific (Hong Kong) (To Location: Mexico (Central))": "0.0900000000",
         "Argentina (Buenos Aires) (To Location: Mexico (Central))": "0.1380000000",
-        "Amazon CloudFront (To Location: Mexico (Central))": "0.0900000000",
         "Africa (Cape Town) (To Location: Mexico (Central))": "0.1470000000",
         "AWS GovCloud (US-East) (To Location: Mexico (Central))": "0.0300000000",
         "AWS GovCloud (US) (To Location: Mexico (Central))": "0.0300000000"
@@ -17121,7 +17120,6 @@
         "Argentina (Buenos Aires) (To Location: US West (Verizon) - Phoenix)": "0.1380000000",
         "Argentina (Buenos Aires) (To Location: US West (Verizon) - San Francisco Bay Area)": "0.1380000000",
         "Argentina (Buenos Aires) (To Location: US West (Verizon) - Seattle)": "0.1380000000",
-        "Amazon CloudFront (To Location: Mexico (Central))": "0.0900000000",
         "Africa (Cape Town) (To Location: AWS GovCloud (US))": "0.1470000000",
         "Africa (Cape Town) (To Location: AWS GovCloud (US-East))": "0.1470000000",
         "Africa (Cape Town) (To Location: Asia Pacific (Hong Kong))": "0.1470000000",
@@ -20749,7 +20747,6 @@
         "Argentina (Buenos Aires) (To Location: US West (Los Angeles))": "0.1380000000",
         "Argentina (Buenos Aires) (To Location: US West (N. California))": "0.1380000000",
         "Argentina (Buenos Aires) (To Location: US West (Oregon))": "0.1380000000",
-        "Amazon CloudFront (To Location: Mexico (Central))": "0.0900000000",
         "Africa (Cape Town) (To Location: AWS GovCloud (US))": "0.1470000000",
         "Africa (Cape Town) (To Location: AWS GovCloud (US-East))": "0.1470000000",
         "Africa (Cape Town) (To Location: Asia Pacific (Hong Kong))": "0.1470000000",
@@ -23904,7 +23901,6 @@
         "Argentina (Buenos Aires) (To Location: US East (Ohio))": "0.1380000000",
         "Argentina (Buenos Aires) (To Location: US West (N. California))": "0.1380000000",
         "Argentina (Buenos Aires) (To Location: US West (Oregon))": "0.1380000000",
-        "Amazon CloudFront (To Location: Mexico (Central))": "0.0900000000",
         "Africa (Cape Town) (To Location: AWS GovCloud (US))": "0.1470000000",
         "Africa (Cape Town) (To Location: AWS GovCloud (US-East))": "0.1470000000",
         "Africa (Cape Town) (To Location: Asia Pacific (Hong Kong))": "0.1470000000",
@@ -24422,6 +24418,7 @@
         "US West (Los Angeles) (To Location: US East (Ohio))": "0.0200000000",
         "US West (Los Angeles) (To Location: US West (N. California))": "0.0200000000",
         "US West (Los Angeles) (To Location: US West (Oregon))": "0.0000000000",
+        "US West (Las Vegas) (To Location: Amazon CloudFront)": "0.0000000000",
         "US West (Las Vegas) (To Location: AWS GovCloud (US))": "0.0200000000",
         "US West (Las Vegas) (To Location: AWS GovCloud (US-East))": "0.0200000000",
         "US West (Las Vegas) (To Location: Asia Pacific (Hyderabad))": "0.0200000000",
@@ -26712,7 +26709,7 @@
         "Canada West (Calgary) (To Location: AWS GovCloud (US))": "0.0200000000",
         "Canada West (Calgary) (To Location: AWS GovCloud (US-East))": "0.0200000000",
         "Canada West (Calgary) (To Location: Africa (Cape Town))": "0.1400000000",
-        "Canada West (Calgary) (To Location: Amazon CloudFront)": "0.0900000000",
+        "Canada West (Calgary) (To Location: Amazon CloudFront)": "0.0000000000",
         "Canada West (Calgary) (To Location: Asia Pacific (Hong Kong))": "0.0800000000",
         "Canada West (Calgary) (To Location: Asia Pacific (Hyderabad))": "0.0800000000",
         "Canada West (Calgary) (To Location: Asia Pacific (Jakarta))": "0.0800000000",
@@ -27502,7 +27499,6 @@
         "Argentina (Buenos Aires) (To Location: US West (Los Angeles))": "0.1380000000",
         "Argentina (Buenos Aires) (To Location: US West (N. California))": "0.1380000000",
         "Argentina (Buenos Aires) (To Location: US West (Oregon))": "0.1380000000",
-        "Amazon CloudFront (To Location: Mexico (Central))": "0.0900000000",
         "Africa (Cape Town) (To Location: Amazon CloudFront)": "0.0000000000",
         "Africa (Cape Town) (To Location: AWS GovCloud (US))": "0.1470000000",
         "Africa (Cape Town) (To Location: AWS GovCloud (US-East))": "0.1470000000",
@@ -29046,6 +29042,7 @@
         "US West (Oregon) (To Location: Amazon CloudFront)": "0.0000000000",
         "US West (N. California) (To Location: Amazon CloudFront)": "0.0000000000",
         "US West (Los Angeles) (To Location: Amazon CloudFront)": "0.0000000000",
+        "US West (Las Vegas) (To Location: Amazon CloudFront)": "0.0000000000",
         "US West (Honolulu) (To Location: Amazon CloudFront)": "0.0000000000",
         "US West (Denver) (To Location: Amazon CloudFront)": "0.0000000000",
         "US East (Verizon) - Tampa (To Location: Amazon CloudFront)": "0.0000000000",
@@ -32375,7 +32372,6 @@
         "Asia Pacific (Hyderabad) (To Location: US West (Los Angeles))": "0.0860000000",
         "Asia Pacific (Hyderabad) (To Location: US West (N. California))": "0.0860000000",
         "Asia Pacific (Hyderabad) (To Location: US West (Oregon))": "0.0860000000",
-        "Amazon CloudFront (To Location: Mexico (Central))": "0.0900000000",
         "AWS GovCloud (US-East) (To Location: AWS GovCloud (US))": "0.0300000000",
         "AWS GovCloud (US-East) (To Location: Africa (Cape Town))": "0.0300000000",
         "AWS GovCloud (US-East) (To Location: Asia Pacific (Hong Kong))": "0.0300000000",
@@ -33197,7 +33193,6 @@
         "Asia Pacific (Malaysia) (To Location: Mexico (Central))": "0.0800000000",
         "Asia Pacific (Jakarta) (To Location: Mexico (Central))": "0.1000000000",
         "Asia Pacific (Hyderabad) (To Location: Mexico (Central))": "0.0860000000",
-        "Amazon CloudFront (To Location: Mexico (Central))": "0.0900000000",
         "AWS GovCloud (US) (To Location: Mexico (Central))": "0.0300000000"
     },
     "[DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Middle East Bahrain;Cloudfrontless DataTransfer InterRegion Outbound to Middle East Bahrain;Cloudfrontless DataTransfer InterRegion Outbound to Middle East Bahrain No Wavelength;Backup DataTransfer InterRegion Outbound to Middle East Bahrain;RDS DataTransfer InterRegion Outbound to Middle East Bahrain;DirectoryService DataTransfer InterRegion Outbound to Middle East Bahrain": {
@@ -33334,10 +33329,10 @@
         "EU (Vodafone) - Dortmund (To Location: Morocco (Casablanca))": "0.0200000000"
     },
     "DataTransfer InterRegion Outbound to Amazon CloudFront": {
-        "Canada West (Calgary) (To Location: Amazon CloudFront)": "0.0900000000"
+        "Canada West (Calgary) (To Location: Amazon CloudFront)": "0.0000000000"
     },
     "[DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront": {
-        "Canada West (Calgary) (To Location: Amazon CloudFront)": "0.0900000000"
+        "Canada West (Calgary) (To Location: Amazon CloudFront)": "0.0000000000"
     },
     "[DataTransfer InterRegion Outbound] Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Atlanta No Wavelength;Backup DataTransfer InterRegion Outbound to US East Verizon - Atlanta;RDS DataTransfer InterRegion Outbound to US East Verizon - Atlanta": {
         "Asia Pacific (SKT) - Seoul (To Location: US East (Verizon) - Atlanta)": "0.0800000000"

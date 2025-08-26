@@ -1,3 +1,34 @@
+## 2025-08-26 00:40
+
+**Modified services:**
+
+- [guardduty](processed/guardduty.json)
+  - Region added for metric EKS vCPU Monitored per First 500 vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric EKS vCPU Monitored per First 500 vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric EKS vCPU Monitored per 500 upto 5000 vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric EKS vCPU Monitored per 500 upto 5000 vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric Free Fargate vCPU Monitored per vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric Free Fargate vCPU Monitored per vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric Free EC2 vCPU Monitored per vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric Free EC2 vCPU Monitored per vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric Fargate vCPU Monitored per First 500 vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric Fargate vCPU Monitored per First 500 vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric EC2 vCPU Monitored per First 500 vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric EC2 vCPU Monitored per First 500 vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric Fargate vCPU Monitored per 5000 upto Inf vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric Fargate vCPU Monitored per 5000 upto Inf vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric EKS vCPU Monitored per 5000 upto Inf vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric EKS vCPU Monitored per 5000 upto Inf vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric EC2 vCPU Monitored per 500 upto 5000 vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric EC2 vCPU Monitored per 500 upto 5000 vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric EC2 vCPU Monitored per 5000 upto Inf vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric EC2 vCPU Monitored per 5000 upto Inf vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric Free EKS vCPU Monitored per vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric Free EKS vCPU Monitored per vCPU Months: AWS GovCloud (US) 🌎
+  - Region added for metric Fargate vCPU Monitored per 500 upto 5000 vCPU Months: AWS GovCloud (US-East) 🌎
+  - Region added for metric Fargate vCPU Monitored per 500 upto 5000 vCPU Months: AWS GovCloud (US) 🌎
+
+
 ## 2025-08-25 19:24
 
 **Modified services:**

@@ -101,7 +101,9 @@
         "Asia Pacific (Jakarta)": "1.8500000000",
         "Asia Pacific (Hyderabad)": "1.6200000000",
         "Asia Pacific (Hong Kong)": "1.9000000000",
-        "Africa (Cape Town)": "1.5800000000"
+        "Africa (Cape Town)": "1.5800000000",
+        "AWS GovCloud (US-East)": "1.6900000000",
+        "AWS GovCloud (US)": "1.9200000000"
     },
     "Kubernetes Audit Logs Events Processed per First 100000000 Events": {
         "US West (Oregon)": "0.0000016000",
@@ -205,7 +207,9 @@
         "Asia Pacific (Jakarta)": "0.9300000000",
         "Asia Pacific (Hyderabad)": "0.8100000000",
         "Asia Pacific (Hong Kong)": "0.9500000000",
-        "Africa (Cape Town)": "0.7900000000"
+        "Africa (Cape Town)": "0.7900000000",
+        "AWS GovCloud (US-East)": "0.8500000000",
+        "AWS GovCloud (US)": "0.9600000000"
     },
     "Free RDS vCPU Monitored CreateDBInstance 0015 per vCPU-Months": {
         "US West (Oregon)": "0.0000000000",
@@ -379,7 +383,9 @@
         "Asia Pacific (Jakarta)": "0.0000000000",
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Africa (Cape Town)": "0.0000000000"
+        "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
+        "AWS GovCloud (US)": "0.0000000000"
     },
     "Free RDS vCPU Monitored CreateDBInstance 0009 per vCPU-Months": {
         "US West (Oregon)": "0.0000000000",
@@ -1130,7 +1136,9 @@
         "Asia Pacific (Jakarta)": "0.0000000000",
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Africa (Cape Town)": "0.0000000000"
+        "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
+        "AWS GovCloud (US)": "0.0000000000"
     },
     "RDS ACU Monitored CreateDBInstance 0008 per ACU-Months": {
         "US West (Oregon)": "0.2500000000",
@@ -1334,7 +1342,9 @@
         "Asia Pacific (Jakarta)": "1.8500000000",
         "Asia Pacific (Hyderabad)": "1.6200000000",
         "Asia Pacific (Hong Kong)": "1.9000000000",
-        "Africa (Cape Town)": "1.5800000000"
+        "Africa (Cape Town)": "1.5800000000",
+        "AWS GovCloud (US-East)": "1.6900000000",
+        "AWS GovCloud (US)": "1.9200000000"
     },
     "Free VPC Flow Log and DNS Processed per GB": {
         "US West (Oregon)": "0.0000000000",
@@ -2098,7 +2108,9 @@
         "Asia Pacific (Jakarta)": "1.8500000000",
         "Asia Pacific (Hyderabad)": "1.6200000000",
         "Asia Pacific (Hong Kong)": "1.9000000000",
-        "Africa (Cape Town)": "1.5800000000"
+        "Africa (Cape Town)": "1.5800000000",
+        "AWS GovCloud (US-East)": "1.6900000000",
+        "AWS GovCloud (US)": "1.9200000000"
     },
     "Kubernetes Audit Logs Events Processed per Over 200000000 Events": {
         "US West (Oregon)": "0.0000002000",
@@ -2340,7 +2352,9 @@
         "Asia Pacific (Jakarta)": "0.3100000000",
         "Asia Pacific (Hyderabad)": "0.2700000000",
         "Asia Pacific (Hong Kong)": "0.3200000000",
-        "Africa (Cape Town)": "0.2600000000"
+        "Africa (Cape Town)": "0.2600000000",
+        "AWS GovCloud (US-East)": "0.2800000000",
+        "AWS GovCloud (US)": "0.3200000000"
     },
     "RDS vCPU Monitored CreateDBInstance 0011 per vCPU-Months": {
         "US West (Oregon)": "1.0000000000",
@@ -2928,7 +2942,9 @@
         "Asia Pacific (Jakarta)": "0.3100000000",
         "Asia Pacific (Hyderabad)": "0.2700000000",
         "Asia Pacific (Hong Kong)": "0.3200000000",
-        "Africa (Cape Town)": "0.2600000000"
+        "Africa (Cape Town)": "0.2600000000",
+        "AWS GovCloud (US-East)": "0.2800000000",
+        "AWS GovCloud (US)": "0.3200000000"
     },
     "RDS ACU Monitored CreateDBInstance 0002 per ACU-Months": {
         "US West (Oregon)": "0.2500000000",
@@ -3064,7 +3080,9 @@
         "Asia Pacific (Jakarta)": "0.9300000000",
         "Asia Pacific (Hyderabad)": "0.8100000000",
         "Asia Pacific (Hong Kong)": "0.9500000000",
-        "Africa (Cape Town)": "0.7900000000"
+        "Africa (Cape Town)": "0.7900000000",
+        "AWS GovCloud (US-East)": "0.8500000000",
+        "AWS GovCloud (US)": "0.9600000000"
     },
     "Free Lambda VPC Flow Log and DNS Processed per GB": {
         "US West (Oregon)": "0.0000000000",
@@ -3376,7 +3394,9 @@
         "Asia Pacific (Jakarta)": "0.3100000000",
         "Asia Pacific (Hyderabad)": "0.2700000000",
         "Asia Pacific (Hong Kong)": "0.3200000000",
-        "Africa (Cape Town)": "0.2600000000"
+        "Africa (Cape Town)": "0.2600000000",
+        "AWS GovCloud (US-East)": "0.2800000000",
+        "AWS GovCloud (US)": "0.3200000000"
     },
     "RDS vCPU Monitored CreateDBInstance 0005 per vCPU-Months": {
         "US West (Oregon)": "1.0000000000",
@@ -3615,7 +3635,9 @@
         "Asia Pacific (Jakarta)": "0.0000000000",
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Africa (Cape Town)": "0.0000000000"
+        "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
+        "AWS GovCloud (US)": "0.0000000000"
     },
     "Fargate vCPU Monitored per 500 upto 5000 vCPU Months": {
         "US West (Oregon)": "0.7500000000",
@@ -3649,7 +3671,9 @@
         "Asia Pacific (Jakarta)": "0.9300000000",
         "Asia Pacific (Hyderabad)": "0.8100000000",
         "Asia Pacific (Hong Kong)": "0.9500000000",
-        "Africa (Cape Town)": "0.7900000000"
+        "Africa (Cape Town)": "0.7900000000",
+        "AWS GovCloud (US-East)": "0.8500000000",
+        "AWS GovCloud (US)": "0.9600000000"
     },
     "Free RDS ACU Monitored CreateDBInstance 0018 per ACU-Months": {
         "US West (Oregon)": "0.0000000000",

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "guardduty",
         "accessType": "publish",
-        "esIndex": "plc-guardduty-usd-20250819230453",
-        "hawkFilePublicationDate": "2025-08-19T23:04:53Z",
-        "ETLIngestionTriggerDate": "2025-08-19T23:04:53Z",
+        "esIndex": "plc-guardduty-usd-20250826001613",
+        "hawkFilePublicationDate": "2025-08-26T00:16:13Z",
+        "ETLIngestionTriggerDate": "2025-08-26T00:16:13Z",
         "currencyCode": "USD",
         "source": "guardduty",
         "isMapped": "true"
@@ -36461,10 +36461,20 @@
                 "price": "1.0600000000",
                 "RegionlessRateCode": "0liqZtjxlr-gcuYSpZOoVlmio8N_ilT63TCT5flGaa0"
             },
+            "0lr2LYdh3xkVPtSolpGbnmx9BSMFphLODeVt4iCKGbM": {
+                "rateCode": "RUVKQU469Y4E8DR4.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.6900000000",
+                "RegionlessRateCode": "0lr2LYdh3xkVPtSolpGbnmx9BSMFphLODeVt4iCKGbM"
+            },
             "0rAzBG5aaJz1uOqrUk1FmNvqSOPKa5_i9JvDK1TQ2Nk": {
                 "rateCode": "PUGKFSKGEFR4G3VN.JRTCKXETXF.8DQQFJNTGA",
                 "price": "0.0000016000",
                 "RegionlessRateCode": "0rAzBG5aaJz1uOqrUk1FmNvqSOPKa5_i9JvDK1TQ2Nk"
+            },
+            "12ZwFbmKMsPOMcOFBaJnRqzsusGoPVclhDSzmF8KLF4": {
+                "rateCode": "RUVKQU469Y4E8DR4.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.8500000000",
+                "RegionlessRateCode": "12ZwFbmKMsPOMcOFBaJnRqzsusGoPVclhDSzmF8KLF4"
             },
             "4VkTVidtICi9rqSY_l3rquac6TOqH1o3ZqI9ICVBXY8": {
                 "rateCode": "W3CYS5HK7GYKWDZR.JRTCKXETXF.HUSW68NB95",
@@ -36475,6 +36485,11 @@
                 "rateCode": "NR2W78UJ6BND2S5K.JRTCKXETXF.YFTRE9Q8RU",
                 "price": "0.0000008500",
                 "RegionlessRateCode": "4X5Bb93hGxFwy9JLlLH6xIh-2rKsQDaggrEfM1wnhpU"
+            },
+            "5W2XTgtsAlBIjf8ovY9K-d3IPKFkwV-_LOXDJ5nINFk": {
+                "rateCode": "GE3N2Q9N4TTEJN69.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "5W2XTgtsAlBIjf8ovY9K-d3IPKFkwV-_LOXDJ5nINFk"
             },
             "74nRvAxgXnRgTvc5a7Bc2_Hac667CrMQdqaeDswkl1I": {
                 "rateCode": "R3YUR6ECAVUE2HQ8.JRTCKXETXF.6YS6EN2CT7",
@@ -36490,6 +36505,16 @@
                 "rateCode": "JW48FTWSNZEZ9KXB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "GDaocVniBu21KG_9u933rXhEtiUK4B5vBWtVPwyfSU0"
+            },
+            "H4VPMDs197YaqPTNZ1U6qwMZv2DYhhxFjESXE2E1Pho": {
+                "rateCode": "ZPRWB8VUAGAJKXSG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "H4VPMDs197YaqPTNZ1U6qwMZv2DYhhxFjESXE2E1Pho"
+            },
+            "IvZJRoLJeH-bCtGsQmISYcUpWGLwbTmYGqxaCONqvlA": {
+                "rateCode": "5DUN49UJAYRB54T9.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.6900000000",
+                "RegionlessRateCode": "IvZJRoLJeH-bCtGsQmISYcUpWGLwbTmYGqxaCONqvlA"
             },
             "J9P6BjM60nPTQ1bDvGtQ2NLAmyPmfJDdPah2Xg6Wh9k": {
                 "rateCode": "F9E2QM5K55ECNWVX.JRTCKXETXF.6YS6EN2CT7",
@@ -36531,6 +36556,11 @@
                 "price": "0.5300000000",
                 "RegionlessRateCode": "XREnyNw5clUJmmM4V0nWGh3BtzZEqruHCdUEIg223ZM"
             },
+            "Y7Q8zgp8S_mL51XKTll5QsJ6YtPxNZ_abLitGWv0Hk0": {
+                "rateCode": "9YJFG4GYSJC2D3Q7.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.6900000000",
+                "RegionlessRateCode": "Y7Q8zgp8S_mL51XKTll5QsJ6YtPxNZ_abLitGWv0Hk0"
+            },
             "YWhU9m9qx25p_W8SD4Ha5kuWbLbaqS22nKjA9Tyrno0": {
                 "rateCode": "PUGKFSKGEFR4G3VN.JRTCKXETXF.27HXR6XEUN",
                 "price": "0.0000002000",
@@ -36540,6 +36570,11 @@
                 "rateCode": "CQARJR2URHFN2PDH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ZUJwZnFfU_2IMfoq6Wdhn74NHE4F3giyjL_XDybFGTs"
+            },
+            "_I67vdMD7bBHJ9nGRcTJT_4FNIQ1bA5QVF1d76T2Y_0": {
+                "rateCode": "5DUN49UJAYRB54T9.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.2800000000",
+                "RegionlessRateCode": "_I67vdMD7bBHJ9nGRcTJT_4FNIQ1bA5QVF1d76T2Y_0"
             },
             "fOsmfy1zqLfduSI9eBqpT2mVCXOilg1WzvGn-rBwee0": {
                 "rateCode": "T48J797VFRZEKPAH.JRTCKXETXF.6YS6EN2CT7",
@@ -36566,6 +36601,16 @@
                 "price": "0.1600000000",
                 "RegionlessRateCode": "ikSajWcJRwlMRgmcSNFat2TnURbQSCGMtS5rSeJ7G1k"
             },
+            "iyj5kppFy6WbexiFgBa4dOPgVOSAbuj2sob8TJRuNCg": {
+                "rateCode": "RUVKQU469Y4E8DR4.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.2800000000",
+                "RegionlessRateCode": "iyj5kppFy6WbexiFgBa4dOPgVOSAbuj2sob8TJRuNCg"
+            },
+            "lop5tBAgCzOPS46Ju-0aHU9LoFUGW8_dUdF1zQ4R2J0": {
+                "rateCode": "9YJFG4GYSJC2D3Q7.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.8500000000",
+                "RegionlessRateCode": "lop5tBAgCzOPS46Ju-0aHU9LoFUGW8_dUdF1zQ4R2J0"
+            },
             "m-g8IUZgN-Sp1zCwnyE2LY9kfMdBmVI_rYVoTxJrw8g": {
                 "rateCode": "6T8WPG8YXPR5PVAA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -36581,6 +36626,11 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4"
             },
+            "ohBZJxPsBJ0LM_GkzWxJLpIc9tW0bZeULoGBM10pL3g": {
+                "rateCode": "9YJFG4GYSJC2D3Q7.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.2800000000",
+                "RegionlessRateCode": "ohBZJxPsBJ0LM_GkzWxJLpIc9tW0bZeULoGBM10pL3g"
+            },
             "qx9djV19gZaJ6H6k7iq2H5BKXwGrL0uVcAUVejEvlrw": {
                 "rateCode": "W3CYS5HK7GYKWDZR.JRTCKXETXF.C2QCTD4VXQ",
                 "price": "1.0600000000",
@@ -36590,6 +36640,16 @@
                 "rateCode": "GH65AMWJ5RN2ZAGE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "sDOnPrzLXlYLP55dny2MWPpIwSN5UBOMP1x2LRNsqV0"
+            },
+            "tM6bHUDTgK3aZ5OaaBxT-7n-QytETLJ-uxFNdn9Sih0": {
+                "rateCode": "T4HVJ6SJUVPZZBJJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "tM6bHUDTgK3aZ5OaaBxT-7n-QytETLJ-uxFNdn9Sih0"
+            },
+            "u3nAUO2xKy0Z94xJT5liKr2PZyY6DMsrUdOzKULUjws": {
+                "rateCode": "5DUN49UJAYRB54T9.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.8500000000",
+                "RegionlessRateCode": "u3nAUO2xKy0Z94xJT5liKr2PZyY6DMsrUdOzKULUjws"
             },
             "uY2JzjMiZmCEMoV6c-7573nhSXTEm7XopmElyoyi3t0": {
                 "rateCode": "9EZABAHU793TC22P.JRTCKXETXF.6YS6EN2CT7",
@@ -36611,10 +36671,20 @@
                 "price": "1.0600000000",
                 "RegionlessRateCode": "0liqZtjxlr-gcuYSpZOoVlmio8N_ilT63TCT5flGaa0"
             },
+            "EKS vCPU Monitored per First 500 vCPU Months": {
+                "rateCode": "RUVKQU469Y4E8DR4.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.6900000000",
+                "RegionlessRateCode": "0lr2LYdh3xkVPtSolpGbnmx9BSMFphLODeVt4iCKGbM"
+            },
             "Kubernetes Audit Logs Events Processed per First 100000000 Events": {
                 "rateCode": "PUGKFSKGEFR4G3VN.JRTCKXETXF.8DQQFJNTGA",
                 "price": "0.0000016000",
                 "RegionlessRateCode": "0rAzBG5aaJz1uOqrUk1FmNvqSOPKa5_i9JvDK1TQ2Nk"
+            },
+            "EKS vCPU Monitored per 500 upto 5000 vCPU Months": {
+                "rateCode": "RUVKQU469Y4E8DR4.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.8500000000",
+                "RegionlessRateCode": "12ZwFbmKMsPOMcOFBaJnRqzsusGoPVclhDSzmF8KLF4"
             },
             "Lambda VPC Flow Log and DNS Processed per Next 7500 GB": {
                 "rateCode": "W3CYS5HK7GYKWDZR.JRTCKXETXF.HUSW68NB95",
@@ -36625,6 +36695,11 @@
                 "rateCode": "NR2W78UJ6BND2S5K.JRTCKXETXF.YFTRE9Q8RU",
                 "price": "0.0000008500",
                 "RegionlessRateCode": "4X5Bb93hGxFwy9JLlLH6xIh-2rKsQDaggrEfM1wnhpU"
+            },
+            "Free Fargate vCPU Monitored per vCPU Months": {
+                "rateCode": "GE3N2Q9N4TTEJN69.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "5W2XTgtsAlBIjf8ovY9K-d3IPKFkwV-_LOXDJ5nINFk"
             },
             "Free CloudTrail Events Processed per Events": {
                 "rateCode": "R3YUR6ECAVUE2HQ8.JRTCKXETXF.6YS6EN2CT7",
@@ -36640,6 +36715,16 @@
                 "rateCode": "JW48FTWSNZEZ9KXB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "GDaocVniBu21KG_9u933rXhEtiUK4B5vBWtVPwyfSU0"
+            },
+            "Free EC2 vCPU Monitored per vCPU Months": {
+                "rateCode": "ZPRWB8VUAGAJKXSG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "H4VPMDs197YaqPTNZ1U6qwMZv2DYhhxFjESXE2E1Pho"
+            },
+            "Fargate vCPU Monitored per First 500 vCPU Months": {
+                "rateCode": "5DUN49UJAYRB54T9.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.6900000000",
+                "RegionlessRateCode": "IvZJRoLJeH-bCtGsQmISYcUpWGLwbTmYGqxaCONqvlA"
             },
             "Free VPC Flow Log and DNS Processed per GB": {
                 "rateCode": "F9E2QM5K55ECNWVX.JRTCKXETXF.6YS6EN2CT7",
@@ -36681,6 +36766,11 @@
                 "price": "0.5300000000",
                 "RegionlessRateCode": "XREnyNw5clUJmmM4V0nWGh3BtzZEqruHCdUEIg223ZM"
             },
+            "EC2 vCPU Monitored per First 500 vCPU Months": {
+                "rateCode": "9YJFG4GYSJC2D3Q7.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.6900000000",
+                "RegionlessRateCode": "Y7Q8zgp8S_mL51XKTll5QsJ6YtPxNZ_abLitGWv0Hk0"
+            },
             "Kubernetes Audit Logs Events Processed per Over 200000000 Events": {
                 "rateCode": "PUGKFSKGEFR4G3VN.JRTCKXETXF.27HXR6XEUN",
                 "price": "0.0000002000",
@@ -36690,6 +36780,11 @@
                 "rateCode": "CQARJR2URHFN2PDH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ZUJwZnFfU_2IMfoq6Wdhn74NHE4F3giyjL_XDybFGTs"
+            },
+            "Fargate vCPU Monitored per 5000 upto Inf vCPU Months": {
+                "rateCode": "5DUN49UJAYRB54T9.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.2800000000",
+                "RegionlessRateCode": "_I67vdMD7bBHJ9nGRcTJT_4FNIQ1bA5QVF1d76T2Y_0"
             },
             "On Demand Malware Protection EBS Volume Data Scanned per GB": {
                 "rateCode": "T48J797VFRZEKPAH.JRTCKXETXF.6YS6EN2CT7",
@@ -36716,6 +36811,16 @@
                 "price": "0.1600000000",
                 "RegionlessRateCode": "ikSajWcJRwlMRgmcSNFat2TnURbQSCGMtS5rSeJ7G1k"
             },
+            "EKS vCPU Monitored per 5000 upto Inf vCPU Months": {
+                "rateCode": "RUVKQU469Y4E8DR4.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.2800000000",
+                "RegionlessRateCode": "iyj5kppFy6WbexiFgBa4dOPgVOSAbuj2sob8TJRuNCg"
+            },
+            "EC2 vCPU Monitored per 500 upto 5000 vCPU Months": {
+                "rateCode": "9YJFG4GYSJC2D3Q7.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.8500000000",
+                "RegionlessRateCode": "lop5tBAgCzOPS46Ju-0aHU9LoFUGW8_dUdF1zQ4R2J0"
+            },
             "Free Lambda VPC Flow Log and DNS Processed per GB": {
                 "rateCode": "6T8WPG8YXPR5PVAA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -36731,6 +36836,11 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4"
             },
+            "EC2 vCPU Monitored per 5000 upto Inf vCPU Months": {
+                "rateCode": "9YJFG4GYSJC2D3Q7.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.2800000000",
+                "RegionlessRateCode": "ohBZJxPsBJ0LM_GkzWxJLpIc9tW0bZeULoGBM10pL3g"
+            },
             "Lambda VPC Flow Log and DNS Processed per First 500 GB": {
                 "rateCode": "W3CYS5HK7GYKWDZR.JRTCKXETXF.C2QCTD4VXQ",
                 "price": "1.0600000000",
@@ -36740,6 +36850,16 @@
                 "rateCode": "GH65AMWJ5RN2ZAGE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "sDOnPrzLXlYLP55dny2MWPpIwSN5UBOMP1x2LRNsqV0"
+            },
+            "Free EKS vCPU Monitored per vCPU Months": {
+                "rateCode": "T4HVJ6SJUVPZZBJJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "tM6bHUDTgK3aZ5OaaBxT-7n-QytETLJ-uxFNdn9Sih0"
+            },
+            "Fargate vCPU Monitored per 500 upto 5000 vCPU Months": {
+                "rateCode": "5DUN49UJAYRB54T9.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.8500000000",
+                "RegionlessRateCode": "u3nAUO2xKy0Z94xJT5liKr2PZyY6DMsrUdOzKULUjws"
             },
             "Free Kubernetes Audit Logs Events Processed per Events": {
                 "rateCode": "9EZABAHU793TC22P.JRTCKXETXF.6YS6EN2CT7",
@@ -36763,10 +36883,20 @@
                 "price": "1.2000000000",
                 "RegionlessRateCode": "0liqZtjxlr-gcuYSpZOoVlmio8N_ilT63TCT5flGaa0"
             },
+            "0lr2LYdh3xkVPtSolpGbnmx9BSMFphLODeVt4iCKGbM": {
+                "rateCode": "YFHZDPPFSXYASU9X.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.9200000000",
+                "RegionlessRateCode": "0lr2LYdh3xkVPtSolpGbnmx9BSMFphLODeVt4iCKGbM"
+            },
             "0rAzBG5aaJz1uOqrUk1FmNvqSOPKa5_i9JvDK1TQ2Nk": {
                 "rateCode": "Q5GKQDFT2N8HD5SG.JRTCKXETXF.8DQQFJNTGA",
                 "price": "0.0000016000",
                 "RegionlessRateCode": "0rAzBG5aaJz1uOqrUk1FmNvqSOPKa5_i9JvDK1TQ2Nk"
+            },
+            "12ZwFbmKMsPOMcOFBaJnRqzsusGoPVclhDSzmF8KLF4": {
+                "rateCode": "YFHZDPPFSXYASU9X.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.9600000000",
+                "RegionlessRateCode": "12ZwFbmKMsPOMcOFBaJnRqzsusGoPVclhDSzmF8KLF4"
             },
             "4VkTVidtICi9rqSY_l3rquac6TOqH1o3ZqI9ICVBXY8": {
                 "rateCode": "A4WFYU3RHUQZFN52.JRTCKXETXF.HUSW68NB95",
@@ -36777,6 +36907,11 @@
                 "rateCode": "B8FZSM3ZEB3CC96Y.JRTCKXETXF.YFTRE9Q8RU",
                 "price": "0.0000008800",
                 "RegionlessRateCode": "4X5Bb93hGxFwy9JLlLH6xIh-2rKsQDaggrEfM1wnhpU"
+            },
+            "5W2XTgtsAlBIjf8ovY9K-d3IPKFkwV-_LOXDJ5nINFk": {
+                "rateCode": "CHSSHXU6XWFW2GRV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "5W2XTgtsAlBIjf8ovY9K-d3IPKFkwV-_LOXDJ5nINFk"
             },
             "74nRvAxgXnRgTvc5a7Bc2_Hac667CrMQdqaeDswkl1I": {
                 "rateCode": "A8KSUN7W2GAGCSYX.JRTCKXETXF.6YS6EN2CT7",
@@ -36792,6 +36927,16 @@
                 "rateCode": "5AUR32PU9TNRPCWU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "GDaocVniBu21KG_9u933rXhEtiUK4B5vBWtVPwyfSU0"
+            },
+            "H4VPMDs197YaqPTNZ1U6qwMZv2DYhhxFjESXE2E1Pho": {
+                "rateCode": "U4GUX8SAYN86669P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "H4VPMDs197YaqPTNZ1U6qwMZv2DYhhxFjESXE2E1Pho"
+            },
+            "IvZJRoLJeH-bCtGsQmISYcUpWGLwbTmYGqxaCONqvlA": {
+                "rateCode": "CMK6FWXH7DYGZYDQ.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.9200000000",
+                "RegionlessRateCode": "IvZJRoLJeH-bCtGsQmISYcUpWGLwbTmYGqxaCONqvlA"
             },
             "J9P6BjM60nPTQ1bDvGtQ2NLAmyPmfJDdPah2Xg6Wh9k": {
                 "rateCode": "GBVZSC5FXZXETUHX.JRTCKXETXF.6YS6EN2CT7",
@@ -36833,6 +36978,11 @@
                 "price": "0.6000000000",
                 "RegionlessRateCode": "XREnyNw5clUJmmM4V0nWGh3BtzZEqruHCdUEIg223ZM"
             },
+            "Y7Q8zgp8S_mL51XKTll5QsJ6YtPxNZ_abLitGWv0Hk0": {
+                "rateCode": "W6RSM892B5QAZDBF.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.9200000000",
+                "RegionlessRateCode": "Y7Q8zgp8S_mL51XKTll5QsJ6YtPxNZ_abLitGWv0Hk0"
+            },
             "YWhU9m9qx25p_W8SD4Ha5kuWbLbaqS22nKjA9Tyrno0": {
                 "rateCode": "Q5GKQDFT2N8HD5SG.JRTCKXETXF.27HXR6XEUN",
                 "price": "0.0000002000",
@@ -36842,6 +36992,11 @@
                 "rateCode": "QWVWG2WSXBMGENZ7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ZUJwZnFfU_2IMfoq6Wdhn74NHE4F3giyjL_XDybFGTs"
+            },
+            "_I67vdMD7bBHJ9nGRcTJT_4FNIQ1bA5QVF1d76T2Y_0": {
+                "rateCode": "CMK6FWXH7DYGZYDQ.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.3200000000",
+                "RegionlessRateCode": "_I67vdMD7bBHJ9nGRcTJT_4FNIQ1bA5QVF1d76T2Y_0"
             },
             "fOsmfy1zqLfduSI9eBqpT2mVCXOilg1WzvGn-rBwee0": {
                 "rateCode": "2GMGAUR94Z96PD43.JRTCKXETXF.6YS6EN2CT7",
@@ -36868,6 +37023,16 @@
                 "price": "0.1800000000",
                 "RegionlessRateCode": "ikSajWcJRwlMRgmcSNFat2TnURbQSCGMtS5rSeJ7G1k"
             },
+            "iyj5kppFy6WbexiFgBa4dOPgVOSAbuj2sob8TJRuNCg": {
+                "rateCode": "YFHZDPPFSXYASU9X.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.3200000000",
+                "RegionlessRateCode": "iyj5kppFy6WbexiFgBa4dOPgVOSAbuj2sob8TJRuNCg"
+            },
+            "lop5tBAgCzOPS46Ju-0aHU9LoFUGW8_dUdF1zQ4R2J0": {
+                "rateCode": "W6RSM892B5QAZDBF.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.9600000000",
+                "RegionlessRateCode": "lop5tBAgCzOPS46Ju-0aHU9LoFUGW8_dUdF1zQ4R2J0"
+            },
             "m-g8IUZgN-Sp1zCwnyE2LY9kfMdBmVI_rYVoTxJrw8g": {
                 "rateCode": "WY8V6XBYYVWX99U6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -36883,6 +37048,11 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4"
             },
+            "ohBZJxPsBJ0LM_GkzWxJLpIc9tW0bZeULoGBM10pL3g": {
+                "rateCode": "W6RSM892B5QAZDBF.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.3200000000",
+                "RegionlessRateCode": "ohBZJxPsBJ0LM_GkzWxJLpIc9tW0bZeULoGBM10pL3g"
+            },
             "qx9djV19gZaJ6H6k7iq2H5BKXwGrL0uVcAUVejEvlrw": {
                 "rateCode": "A4WFYU3RHUQZFN52.JRTCKXETXF.C2QCTD4VXQ",
                 "price": "1.2000000000",
@@ -36892,6 +37062,16 @@
                 "rateCode": "8B4J9NDGW2ZGZMDR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "sDOnPrzLXlYLP55dny2MWPpIwSN5UBOMP1x2LRNsqV0"
+            },
+            "tM6bHUDTgK3aZ5OaaBxT-7n-QytETLJ-uxFNdn9Sih0": {
+                "rateCode": "EUMPPZWTBK7W282P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "tM6bHUDTgK3aZ5OaaBxT-7n-QytETLJ-uxFNdn9Sih0"
+            },
+            "u3nAUO2xKy0Z94xJT5liKr2PZyY6DMsrUdOzKULUjws": {
+                "rateCode": "CMK6FWXH7DYGZYDQ.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.9600000000",
+                "RegionlessRateCode": "u3nAUO2xKy0Z94xJT5liKr2PZyY6DMsrUdOzKULUjws"
             },
             "uY2JzjMiZmCEMoV6c-7573nhSXTEm7XopmElyoyi3t0": {
                 "rateCode": "CYDWG4GJ53QYN33N.JRTCKXETXF.6YS6EN2CT7",
@@ -36913,10 +37093,20 @@
                 "price": "1.2000000000",
                 "RegionlessRateCode": "0liqZtjxlr-gcuYSpZOoVlmio8N_ilT63TCT5flGaa0"
             },
+            "EKS vCPU Monitored per First 500 vCPU Months": {
+                "rateCode": "YFHZDPPFSXYASU9X.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.9200000000",
+                "RegionlessRateCode": "0lr2LYdh3xkVPtSolpGbnmx9BSMFphLODeVt4iCKGbM"
+            },
             "Kubernetes Audit Logs Events Processed per First 100000000 Events": {
                 "rateCode": "Q5GKQDFT2N8HD5SG.JRTCKXETXF.8DQQFJNTGA",
                 "price": "0.0000016000",
                 "RegionlessRateCode": "0rAzBG5aaJz1uOqrUk1FmNvqSOPKa5_i9JvDK1TQ2Nk"
+            },
+            "EKS vCPU Monitored per 500 upto 5000 vCPU Months": {
+                "rateCode": "YFHZDPPFSXYASU9X.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.9600000000",
+                "RegionlessRateCode": "12ZwFbmKMsPOMcOFBaJnRqzsusGoPVclhDSzmF8KLF4"
             },
             "Lambda VPC Flow Log and DNS Processed per Next 7500 GB": {
                 "rateCode": "A4WFYU3RHUQZFN52.JRTCKXETXF.HUSW68NB95",
@@ -36927,6 +37117,11 @@
                 "rateCode": "B8FZSM3ZEB3CC96Y.JRTCKXETXF.YFTRE9Q8RU",
                 "price": "0.0000008800",
                 "RegionlessRateCode": "4X5Bb93hGxFwy9JLlLH6xIh-2rKsQDaggrEfM1wnhpU"
+            },
+            "Free Fargate vCPU Monitored per vCPU Months": {
+                "rateCode": "CHSSHXU6XWFW2GRV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "5W2XTgtsAlBIjf8ovY9K-d3IPKFkwV-_LOXDJ5nINFk"
             },
             "Free CloudTrail Events Processed per Events": {
                 "rateCode": "A8KSUN7W2GAGCSYX.JRTCKXETXF.6YS6EN2CT7",
@@ -36942,6 +37137,16 @@
                 "rateCode": "5AUR32PU9TNRPCWU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "GDaocVniBu21KG_9u933rXhEtiUK4B5vBWtVPwyfSU0"
+            },
+            "Free EC2 vCPU Monitored per vCPU Months": {
+                "rateCode": "U4GUX8SAYN86669P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "H4VPMDs197YaqPTNZ1U6qwMZv2DYhhxFjESXE2E1Pho"
+            },
+            "Fargate vCPU Monitored per First 500 vCPU Months": {
+                "rateCode": "CMK6FWXH7DYGZYDQ.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.9200000000",
+                "RegionlessRateCode": "IvZJRoLJeH-bCtGsQmISYcUpWGLwbTmYGqxaCONqvlA"
             },
             "Free VPC Flow Log and DNS Processed per GB": {
                 "rateCode": "GBVZSC5FXZXETUHX.JRTCKXETXF.6YS6EN2CT7",
@@ -36983,6 +37188,11 @@
                 "price": "0.6000000000",
                 "RegionlessRateCode": "XREnyNw5clUJmmM4V0nWGh3BtzZEqruHCdUEIg223ZM"
             },
+            "EC2 vCPU Monitored per First 500 vCPU Months": {
+                "rateCode": "W6RSM892B5QAZDBF.JRTCKXETXF.C2QCTD4VXQ",
+                "price": "1.9200000000",
+                "RegionlessRateCode": "Y7Q8zgp8S_mL51XKTll5QsJ6YtPxNZ_abLitGWv0Hk0"
+            },
             "Kubernetes Audit Logs Events Processed per Over 200000000 Events": {
                 "rateCode": "Q5GKQDFT2N8HD5SG.JRTCKXETXF.27HXR6XEUN",
                 "price": "0.0000002000",
@@ -36992,6 +37202,11 @@
                 "rateCode": "QWVWG2WSXBMGENZ7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ZUJwZnFfU_2IMfoq6Wdhn74NHE4F3giyjL_XDybFGTs"
+            },
+            "Fargate vCPU Monitored per 5000 upto Inf vCPU Months": {
+                "rateCode": "CMK6FWXH7DYGZYDQ.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.3200000000",
+                "RegionlessRateCode": "_I67vdMD7bBHJ9nGRcTJT_4FNIQ1bA5QVF1d76T2Y_0"
             },
             "On Demand Malware Protection EBS Volume Data Scanned per GB": {
                 "rateCode": "2GMGAUR94Z96PD43.JRTCKXETXF.6YS6EN2CT7",
@@ -37018,6 +37233,16 @@
                 "price": "0.1800000000",
                 "RegionlessRateCode": "ikSajWcJRwlMRgmcSNFat2TnURbQSCGMtS5rSeJ7G1k"
             },
+            "EKS vCPU Monitored per 5000 upto Inf vCPU Months": {
+                "rateCode": "YFHZDPPFSXYASU9X.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.3200000000",
+                "RegionlessRateCode": "iyj5kppFy6WbexiFgBa4dOPgVOSAbuj2sob8TJRuNCg"
+            },
+            "EC2 vCPU Monitored per 500 upto 5000 vCPU Months": {
+                "rateCode": "W6RSM892B5QAZDBF.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.9600000000",
+                "RegionlessRateCode": "lop5tBAgCzOPS46Ju-0aHU9LoFUGW8_dUdF1zQ4R2J0"
+            },
             "Free Lambda VPC Flow Log and DNS Processed per GB": {
                 "rateCode": "WY8V6XBYYVWX99U6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -37033,6 +37258,11 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4"
             },
+            "EC2 vCPU Monitored per 5000 upto Inf vCPU Months": {
+                "rateCode": "W6RSM892B5QAZDBF.JRTCKXETXF.YKYQ4272N3",
+                "price": "0.3200000000",
+                "RegionlessRateCode": "ohBZJxPsBJ0LM_GkzWxJLpIc9tW0bZeULoGBM10pL3g"
+            },
             "Lambda VPC Flow Log and DNS Processed per First 500 GB": {
                 "rateCode": "A4WFYU3RHUQZFN52.JRTCKXETXF.C2QCTD4VXQ",
                 "price": "1.2000000000",
@@ -37042,6 +37272,16 @@
                 "rateCode": "8B4J9NDGW2ZGZMDR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "sDOnPrzLXlYLP55dny2MWPpIwSN5UBOMP1x2LRNsqV0"
+            },
+            "Free EKS vCPU Monitored per vCPU Months": {
+                "rateCode": "EUMPPZWTBK7W282P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "tM6bHUDTgK3aZ5OaaBxT-7n-QytETLJ-uxFNdn9Sih0"
+            },
+            "Fargate vCPU Monitored per 500 upto 5000 vCPU Months": {
+                "rateCode": "CMK6FWXH7DYGZYDQ.JRTCKXETXF.JJUTPMMDBH",
+                "price": "0.9600000000",
+                "RegionlessRateCode": "u3nAUO2xKy0Z94xJT5liKr2PZyY6DMsrUdOzKULUjws"
             },
             "Free Kubernetes Audit Logs Events Processed per Events": {
                 "rateCode": "CYDWG4GJ53QYN33N.JRTCKXETXF.6YS6EN2CT7",

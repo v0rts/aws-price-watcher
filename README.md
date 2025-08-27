@@ -1,3 +1,18 @@
+## 2025-08-27 16:28
+
+**Modified services:**
+
+- [es](processed/es.json)
+  - Region added for metric D1O7b0Xjc62BDMDi38Y7KPMtUHBPtI8ctr3D3zyME68 V1: US West (N. California) 🌎
+  - Region added for metric D1O7b0Xjc62BDMDi38Y7KPMtUHBPtI8ctr3D3zyME68 V1: EU (Spain) 🌎
+  - Region added for metric D1O7b0Xjc62BDMDi38Y7KPMtUHBPtI8ctr3D3zyME68 V1: EU (Milan) 🌎
+  - Region added for metric D1O7b0Xjc62BDMDi38Y7KPMtUHBPtI8ctr3D3zyME68 V1: Asia Pacific (Osaka) 🌎
+  - Region added for metric Amazon OpenSearch Service Instance Direct Query OCU-hours: US West (N. California) 🌎
+  - Region added for metric Amazon OpenSearch Service Instance Direct Query OCU-hours: EU (Spain) 🌎
+  - Region added for metric Amazon OpenSearch Service Instance Direct Query OCU-hours: EU (Milan) 🌎
+  - Region added for metric Amazon OpenSearch Service Instance Direct Query OCU-hours: Asia Pacific (Osaka) 🌎
+
+
 ## 2025-08-26 22:27
 
 **Modified services:**

@@ -1,11 +1,14 @@
 {
     "D1O7b0Xjc62BDMDi38Y7KPMtUHBPtI8ctr3D3zyME68 V1": {
         "US West (Oregon)": "0.2400000000",
+        "US West (N. California)": "0.2790000000",
         "US East (Ohio)": "0.2400000000",
         "US East (N. Virginia)": "0.2400000000",
         "South America (Sao Paulo)": "0.3450000000",
         "EU (Stockholm)": "0.2550000000",
+        "EU (Spain)": "0.2680000000",
         "EU (Paris)": "0.3120000000",
+        "EU (Milan)": "0.2790000000",
         "EU (London)": "0.3340000000",
         "EU (Ireland)": "0.2510000000",
         "EU (Frankfurt)": "0.3390000000",
@@ -14,6 +17,7 @@
         "Asia Pacific (Sydney)": "0.2810000000",
         "Asia Pacific (Singapore)": "0.2830000000",
         "Asia Pacific (Seoul)": "0.2930000000",
+        "Asia Pacific (Osaka)": "0.2980000000",
         "Asia Pacific (Mumbai)": "0.2470000000",
         "Asia Pacific (Hong Kong)": "0.3300000000"
     },
@@ -38885,11 +38889,14 @@
     },
     "Amazon OpenSearch Service Instance Direct Query OCU-hours": {
         "US West (Oregon)": "0.2400000000",
+        "US West (N. California)": "0.2790000000",
         "US East (Ohio)": "0.2400000000",
         "US East (N. Virginia)": "0.2400000000",
         "South America (Sao Paulo)": "0.3450000000",
         "EU (Stockholm)": "0.2550000000",
+        "EU (Spain)": "0.2680000000",
         "EU (Paris)": "0.3120000000",
+        "EU (Milan)": "0.2790000000",
         "EU (London)": "0.3340000000",
         "EU (Ireland)": "0.2510000000",
         "EU (Frankfurt)": "0.3390000000",
@@ -38898,6 +38905,7 @@
         "Asia Pacific (Sydney)": "0.2810000000",
         "Asia Pacific (Singapore)": "0.2830000000",
         "Asia Pacific (Seoul)": "0.2930000000",
+        "Asia Pacific (Osaka)": "0.2980000000",
         "Asia Pacific (Mumbai)": "0.2470000000",
         "Asia Pacific (Hong Kong)": "0.3300000000"
     }

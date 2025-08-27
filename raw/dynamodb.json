@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "dynamodb",
         "accessType": "publish",
-        "esIndex": "plc-dynamodb-usd-20250730173101",
-        "hawkFilePublicationDate": "2025-07-30T17:31:01Z",
-        "ETLIngestionTriggerDate": "2025-07-30T17:31:01Z",
+        "esIndex": "plc-dynamodb-usd-20250827164524",
+        "hawkFilePublicationDate": "2025-08-27T16:45:24Z",
+        "ETLIngestionTriggerDate": "2025-08-27T16:45:24Z",
         "currencyCode": "USD",
         "source": "dynamodb",
         "isMapped": "true"

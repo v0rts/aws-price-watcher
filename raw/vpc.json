@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "vpc",
         "accessType": "publish",
-        "esIndex": "plc-vpc-usd-20250828192554",
-        "hawkFilePublicationDate": "2025-08-28T19:25:54Z",
-        "ETLIngestionTriggerDate": "2025-08-28T19:25:54Z",
+        "esIndex": "plc-vpc-usd-20250828204617",
+        "hawkFilePublicationDate": "2025-08-28T20:46:17Z",
+        "ETLIngestionTriggerDate": "2025-08-28T20:46:17Z",
         "currencyCode": "USD",
         "source": "vpc",
         "isMapped": "true"
@@ -11522,6 +11522,11 @@
                 "price": "0.0500000000",
                 "RegionlessRateCode": "3QUFY5SQS4aNBsNBN6Rnljiej-hZ500fQVl5atukx2E"
             },
+            "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ": {
+                "rateCode": "TQW37BGCD7MRGWNZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0189000000",
+                "RegionlessRateCode": "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ"
+            },
             "9e222B4X1Cck41p3EfNSwGHf-vbR_nov1T2aSubsEYA": {
                 "rateCode": "8QBGQQCBH42T3YJM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0200000000",
@@ -11631,6 +11636,11 @@
                 "rateCode": "HDRT335PSAVMUWWU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
+            },
+            "Hourly charge for Traffic Mirroring Source per hour": {
+                "rateCode": "TQW37BGCD7MRGWNZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0189000000",
+                "RegionlessRateCode": "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ"
             },
             "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers per GigaBytes": {
                 "rateCode": "8QBGQQCBH42T3YJM.JRTCKXETXF.6YS6EN2CT7",

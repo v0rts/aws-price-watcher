@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudformation",
         "accessType": "publish",
-        "esIndex": "plc-cloudformation-usd-20250828153724",
-        "hawkFilePublicationDate": "2025-08-28T15:37:24Z",
-        "ETLIngestionTriggerDate": "2025-08-28T15:37:24Z",
+        "esIndex": "plc-cloudformation-usd-20250828180213",
+        "hawkFilePublicationDate": "2025-08-28T18:02:13Z",
+        "ETLIngestionTriggerDate": "2025-08-28T18:02:13Z",
         "currencyCode": "USD",
         "source": "cloudformation",
         "isMapped": "true"
@@ -1159,6 +1159,68 @@
             },
             "CloudFormation-ResourceProvider-Invocation per Operations": {
                 "rateCode": "V54R9MKETSH3VYT3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0009000000",
+                "RegionlessRateCode": "ocLqhRwe-PJuFjs4wQKX-m5VJVknXJPxwoFOT-DSYv0"
+            }
+        },
+        "Asia Pacific (New Zealand)": {
+            "BLPkNJE0xWBz3YJ-Tt5QACwY93kNkfapUQ45yUfcFFA": {
+                "rateCode": "ZJ9M3RRWSFQB47JF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000800000",
+                "RegionlessRateCode": "BLPkNJE0xWBz3YJ-Tt5QACwY93kNkfapUQ45yUfcFFA"
+            },
+            "InFjSPOLisErcxtxHUa8ZymQel9j-pMhK_Sp3Ai6RKg": {
+                "rateCode": "7ZHBWTAK47JKP2X6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000800000",
+                "RegionlessRateCode": "InFjSPOLisErcxtxHUa8ZymQel9j-pMhK_Sp3Ai6RKg"
+            },
+            "kNxjWp9zuIq4-FCfZA5zbr9HsxytEvfgif3_FXNGQSs": {
+                "rateCode": "2PR5XHWPG77NASTB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0009000000",
+                "RegionlessRateCode": "kNxjWp9zuIq4-FCfZA5zbr9HsxytEvfgif3_FXNGQSs"
+            },
+            "ocLqhRwe-PJuFjs4wQKX-m5VJVknXJPxwoFOT-DSYv0": {
+                "rateCode": "XBTH78D3YHC72DUA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0009000000",
+                "RegionlessRateCode": "ocLqhRwe-PJuFjs4wQKX-m5VJVknXJPxwoFOT-DSYv0"
+            },
+            "CloudFormation-ResourceProvider-Duration per Second": {
+                "rateCode": "ZJ9M3RRWSFQB47JF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000800000",
+                "RegionlessRateCode": "BLPkNJE0xWBz3YJ-Tt5QACwY93kNkfapUQ45yUfcFFA"
+            },
+            "CloudFormation-ResourceProvider-Duration per seconds": {
+                "rateCode": "ZJ9M3RRWSFQB47JF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000800000",
+                "RegionlessRateCode": "BLPkNJE0xWBz3YJ-Tt5QACwY93kNkfapUQ45yUfcFFA"
+            },
+            "CloudFormation-Hook-Duration per seconds": {
+                "rateCode": "7ZHBWTAK47JKP2X6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000800000",
+                "RegionlessRateCode": "InFjSPOLisErcxtxHUa8ZymQel9j-pMhK_Sp3Ai6RKg"
+            },
+            "CloudFormation-Hook-Duration per Second": {
+                "rateCode": "7ZHBWTAK47JKP2X6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000800000",
+                "RegionlessRateCode": "InFjSPOLisErcxtxHUa8ZymQel9j-pMhK_Sp3Ai6RKg"
+            },
+            "CloudFormation-Hook-Invocation per Count": {
+                "rateCode": "2PR5XHWPG77NASTB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0009000000",
+                "RegionlessRateCode": "kNxjWp9zuIq4-FCfZA5zbr9HsxytEvfgif3_FXNGQSs"
+            },
+            "CloudFormation-Hook-Invocation per Operations": {
+                "rateCode": "2PR5XHWPG77NASTB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0009000000",
+                "RegionlessRateCode": "kNxjWp9zuIq4-FCfZA5zbr9HsxytEvfgif3_FXNGQSs"
+            },
+            "CloudFormation-Hook-Invocation per Unit": {
+                "rateCode": "2PR5XHWPG77NASTB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0009000000",
+                "RegionlessRateCode": "kNxjWp9zuIq4-FCfZA5zbr9HsxytEvfgif3_FXNGQSs"
+            },
+            "CloudFormation-ResourceProvider-Invocation per Operations": {
+                "rateCode": "XBTH78D3YHC72DUA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0009000000",
                 "RegionlessRateCode": "ocLqhRwe-PJuFjs4wQKX-m5VJVknXJPxwoFOT-DSYv0"
             }

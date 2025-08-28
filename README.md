@@ -1,3 +1,693 @@
+## 2025-08-28 15:27
+
+**Modified services:**
+
+- [es](processed/es.json)
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i large.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - OnDemand - 2 x 1900 NVMe SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - OnDemand - 2 x 1425 NVMe SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i large.search - Storage optimized - OnDemand - 1 x 468 Nitro SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7g large.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - OnDemand - 4 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7i large.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - OnDemand - 1 x 950 NVMe SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - OnDemand - 1 x 118 NVMe SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - OnDemand - 1 x 1900 NVMe SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - OnDemand - 1 x 475 NVMe SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - OnDemand - 1 x 80 SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - OnDemand - 6 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g large.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - OnDemand - 2 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - OnDemand - 1 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - OnDemand - 3 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric t3 medium.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g large.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric t3 small.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 2) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g medium.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - OnDemand - 1 x 237 NVMe SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - OnDemand - 1 x 937 Nitro SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - OnDemand - 8 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - OnDemand - 1 x 1 875 Nitro SSD - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i large.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (New Zealand) (vCPU: 16, Memory (GiB): 32) 🌎
+
+
 ## 2025-08-27 19:24
 
 **Modified services:**

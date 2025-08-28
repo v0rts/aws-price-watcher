@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudmap",
         "accessType": "publish",
-        "esIndex": "plc-cloudmap-usd-20250711152509",
-        "hawkFilePublicationDate": "2025-06-05T17:55:23Z",
-        "ETLIngestionTriggerDate": "2025-07-11T15:25:09Z",
+        "esIndex": "plc-cloudmap-usd-20250828153727",
+        "hawkFilePublicationDate": "2025-08-28T15:37:27Z",
+        "ETLIngestionTriggerDate": "2025-08-28T15:37:27Z",
         "currencyCode": "USD",
         "source": "cloudmap",
         "isMapped": "true"

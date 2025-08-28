@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "certificatemanager",
         "accessType": "publish",
-        "esIndex": "plc-certificatemanager-usd-20250721230525",
-        "hawkFilePublicationDate": "2025-07-21T23:05:25Z",
-        "ETLIngestionTriggerDate": "2025-07-21T23:05:25Z",
+        "esIndex": "plc-certificatemanager-usd-20250828153721",
+        "hawkFilePublicationDate": "2025-08-28T15:37:21Z",
+        "ETLIngestionTriggerDate": "2025-08-28T15:37:21Z",
         "currencyCode": "USD",
         "source": "certificatemanager",
         "isMapped": "true"
@@ -2399,6 +2399,98 @@
             },
             "Certificate Authority Paid": {
                 "rateCode": "UPJF9FABYFE4TRB3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "400.0000000000",
+                "RegionlessRateCode": "vGc2428MmvJsrzghg7IGh7ZKvk8EgFLaaFdCDS4dgC4"
+            }
+        },
+        "Asia Pacific (New Zealand)": {
+            "GNSKHVCzcw44u5P6-AeE8DmlE0cT3H6lmxRV1_ACmos": {
+                "rateCode": "5Z85GKYWED84GV6K.JRTCKXETXF.FA59GSBSCH",
+                "price": "0.3500000000",
+                "RegionlessRateCode": "GNSKHVCzcw44u5P6-AeE8DmlE0cT3H6lmxRV1_ACmos"
+            },
+            "Ik1wWgVMovUIceYTjT3ULe-rxty-1AXvWKTeHyrFn9Q": {
+                "rateCode": "GJ9NVVYWJRX3K88B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "50.0000000000",
+                "RegionlessRateCode": "Ik1wWgVMovUIceYTjT3ULe-rxty-1AXvWKTeHyrFn9Q"
+            },
+            "JCWf9UQHEzZeBzv7qERlA__G4193RlivNWZmajKBDEc": {
+                "rateCode": "53VT75FPH9CXHA6V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0600000000",
+                "RegionlessRateCode": "JCWf9UQHEzZeBzv7qERlA__G4193RlivNWZmajKBDEc"
+            },
+            "cn23gWgB0KhdDK-e5mk8dY7WwrL6MAH6PT6Ukr3umFE": {
+                "rateCode": "HBET8WA2R9UYR3J8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000020000",
+                "RegionlessRateCode": "cn23gWgB0KhdDK-e5mk8dY7WwrL6MAH6PT6Ukr3umFE"
+            },
+            "izRZTwtpwm09PLS_zcupm40xlY5ssd_JeWqFcSBOg3E": {
+                "rateCode": "A644MPJ4VUYDRUZA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "izRZTwtpwm09PLS_zcupm40xlY5ssd_JeWqFcSBOg3E"
+            },
+            "kyX0v_c-zJpff0iJwxa2W3hm03D6SrplWNOdMQRb0hs": {
+                "rateCode": "5Z85GKYWED84GV6K.JRTCKXETXF.B536CJ4M58",
+                "price": "0.0010000000",
+                "RegionlessRateCode": "kyX0v_c-zJpff0iJwxa2W3hm03D6SrplWNOdMQRb0hs"
+            },
+            "qBr9n_VgnoEtYRaT0ROl4MVxxKg2DdooD7Bmp1AkkiU": {
+                "rateCode": "5Z85GKYWED84GV6K.JRTCKXETXF.JXGPBPHWFF",
+                "price": "0.7500000000",
+                "RegionlessRateCode": "qBr9n_VgnoEtYRaT0ROl4MVxxKg2DdooD7Bmp1AkkiU"
+            },
+            "tAlLRsNk0pSPHTUUVucaPskeDNLnMm5fTCk38oGQ3yI": {
+                "rateCode": "8N4Q7T3SMEXTATA6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0580000000",
+                "RegionlessRateCode": "tAlLRsNk0pSPHTUUVucaPskeDNLnMm5fTCk38oGQ3yI"
+            },
+            "vGc2428MmvJsrzghg7IGh7ZKvk8EgFLaaFdCDS4dgC4": {
+                "rateCode": "P9EPTF4FKYM3BH2C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "400.0000000000",
+                "RegionlessRateCode": "vGc2428MmvJsrzghg7IGh7ZKvk8EgFLaaFdCDS4dgC4"
+            },
+            "Certificate Issued from 1000 to 10000": {
+                "rateCode": "5Z85GKYWED84GV6K.JRTCKXETXF.FA59GSBSCH",
+                "price": "0.3500000000",
+                "RegionlessRateCode": "GNSKHVCzcw44u5P6-AeE8DmlE0cT3H6lmxRV1_ACmos"
+            },
+            "Short lived Certificate Authority": {
+                "rateCode": "GJ9NVVYWJRX3K88B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "50.0000000000",
+                "RegionlessRateCode": "Ik1wWgVMovUIceYTjT3ULe-rxty-1AXvWKTeHyrFn9Q"
+            },
+            "OCSP Response": {
+                "rateCode": "53VT75FPH9CXHA6V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0600000000",
+                "RegionlessRateCode": "JCWf9UQHEzZeBzv7qERlA__G4193RlivNWZmajKBDEc"
+            },
+            "OCSP Query": {
+                "rateCode": "HBET8WA2R9UYR3J8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000020000",
+                "RegionlessRateCode": "cn23gWgB0KhdDK-e5mk8dY7WwrL6MAH6PT6Ukr3umFE"
+            },
+            "Certificate Authority Free": {
+                "rateCode": "A644MPJ4VUYDRUZA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "izRZTwtpwm09PLS_zcupm40xlY5ssd_JeWqFcSBOg3E"
+            },
+            "Certificate Issued from 10001 and above": {
+                "rateCode": "5Z85GKYWED84GV6K.JRTCKXETXF.B536CJ4M58",
+                "price": "0.0010000000",
+                "RegionlessRateCode": "kyX0v_c-zJpff0iJwxa2W3hm03D6SrplWNOdMQRb0hs"
+            },
+            "Certificate Issued from 0 to 1000": {
+                "rateCode": "5Z85GKYWED84GV6K.JRTCKXETXF.JXGPBPHWFF",
+                "price": "0.7500000000",
+                "RegionlessRateCode": "qBr9n_VgnoEtYRaT0ROl4MVxxKg2DdooD7Bmp1AkkiU"
+            },
+            "Short lived Certificate Issued": {
+                "rateCode": "8N4Q7T3SMEXTATA6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0580000000",
+                "RegionlessRateCode": "tAlLRsNk0pSPHTUUVucaPskeDNLnMm5fTCk38oGQ3yI"
+            },
+            "Certificate Authority Paid": {
+                "rateCode": "P9EPTF4FKYM3BH2C.JRTCKXETXF.6YS6EN2CT7",
                 "price": "400.0000000000",
                 "RegionlessRateCode": "vGc2428MmvJsrzghg7IGh7ZKvk8EgFLaaFdCDS4dgC4"
             }

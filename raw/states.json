@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "states",
         "accessType": "publish",
-        "esIndex": "plc-states-usd-20250717181426",
-        "hawkFilePublicationDate": "2025-07-17T18:14:26Z",
-        "ETLIngestionTriggerDate": "2025-07-17T18:14:26Z",
+        "esIndex": "plc-states-usd-20250828153904",
+        "hawkFilePublicationDate": "2025-08-28T15:39:04Z",
+        "ETLIngestionTriggerDate": "2025-08-28T15:39:04Z",
         "currencyCode": "USD",
         "source": "states",
         "isMapped": "true"
@@ -1360,6 +1360,58 @@
             "Duration of Workflows from 3600000 to 18000000": {
                 "rateCode": "C2TY3YV36W9JAT58.JRTCKXETXF.NE24EMDVS9",
                 "price": "0.0000080000",
+                "RegionlessRateCode": "qB2lwel2nFhFodmA-2vDTntB8Vx-6PtNSTbxGI-wTBs"
+            }
+        },
+        "Asia Pacific (New Zealand)": {
+            "B-XtA3ttjK0cRqFYaMOZytXpX3ynF5dhB92cNQbSCXo": {
+                "rateCode": "VHVGVGYSRP4B6MFJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010500",
+                "RegionlessRateCode": "B-XtA3ttjK0cRqFYaMOZytXpX3ynF5dhB92cNQbSCXo"
+            },
+            "N5EalVJnksC1swE8VZE_9v9tofxhkNJ589wcNx6ordA": {
+                "rateCode": "YABRRTTSJXJ94E4Z.JRTCKXETXF.XVGEBCCZCY",
+                "price": "0.0000175035",
+                "RegionlessRateCode": "N5EalVJnksC1swE8VZE_9v9tofxhkNJ589wcNx6ordA"
+            },
+            "P20hf_H2dXsJxRCBf2D5sn9aNtJklwrmyTaX4KvFuKU": {
+                "rateCode": "YABRRTTSJXJ94E4Z.JRTCKXETXF.FMHKY9FZ3N",
+                "price": "0.0000047880",
+                "RegionlessRateCode": "P20hf_H2dXsJxRCBf2D5sn9aNtJklwrmyTaX4KvFuKU"
+            },
+            "ZVietO2XNeqWlX9dE9eqzTsaFage_SUDkGjLuZvmCas": {
+                "rateCode": "Q9WS8D8XHCRSSQPY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000262500",
+                "RegionlessRateCode": "ZVietO2XNeqWlX9dE9eqzTsaFage_SUDkGjLuZvmCas"
+            },
+            "qB2lwel2nFhFodmA-2vDTntB8Vx-6PtNSTbxGI-wTBs": {
+                "rateCode": "YABRRTTSJXJ94E4Z.JRTCKXETXF.NE24EMDVS9",
+                "price": "0.0000087465",
+                "RegionlessRateCode": "qB2lwel2nFhFodmA-2vDTntB8Vx-6PtNSTbxGI-wTBs"
+            },
+            "Number of Workflow Requests": {
+                "rateCode": "VHVGVGYSRP4B6MFJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010500",
+                "RegionlessRateCode": "B-XtA3ttjK0cRqFYaMOZytXpX3ynF5dhB92cNQbSCXo"
+            },
+            "Duration of Workflows from 0 to 3600000": {
+                "rateCode": "YABRRTTSJXJ94E4Z.JRTCKXETXF.XVGEBCCZCY",
+                "price": "0.0000175035",
+                "RegionlessRateCode": "N5EalVJnksC1swE8VZE_9v9tofxhkNJ589wcNx6ordA"
+            },
+            "Duration of Workflows over 18000000": {
+                "rateCode": "YABRRTTSJXJ94E4Z.JRTCKXETXF.FMHKY9FZ3N",
+                "price": "0.0000047880",
+                "RegionlessRateCode": "P20hf_H2dXsJxRCBf2D5sn9aNtJklwrmyTaX4KvFuKU"
+            },
+            "AWS Step Functions": {
+                "rateCode": "Q9WS8D8XHCRSSQPY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000262500",
+                "RegionlessRateCode": "ZVietO2XNeqWlX9dE9eqzTsaFage_SUDkGjLuZvmCas"
+            },
+            "Duration of Workflows from 3600000 to 18000000": {
+                "rateCode": "YABRRTTSJXJ94E4Z.JRTCKXETXF.NE24EMDVS9",
+                "price": "0.0000087465",
                 "RegionlessRateCode": "qB2lwel2nFhFodmA-2vDTntB8Vx-6PtNSTbxGI-wTBs"
             }
         },

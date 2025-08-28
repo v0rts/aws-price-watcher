@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iamaccessanalyzer",
         "accessType": "publish",
-        "esIndex": "plc-iamaccessanalyzer-usd-20250722212917",
-        "hawkFilePublicationDate": "2025-07-22T21:29:17Z",
-        "ETLIngestionTriggerDate": "2025-07-22T21:29:17Z",
+        "esIndex": "plc-iamaccessanalyzer-usd-20250828153755",
+        "hawkFilePublicationDate": "2025-08-28T15:37:55Z",
+        "ETLIngestionTriggerDate": "2025-08-28T15:37:55Z",
         "currencyCode": "USD",
         "source": "iamaccessanalyzer",
         "isMapped": "true"
@@ -709,6 +709,33 @@
             },
             "Checks-AccessCheck per API Requests": {
                 "rateCode": "9D933VV4J29RSUWS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (New Zealand)": {
+            "PkjvPTpsCJyRaXYEK3KIgW3vyjtH71wIVLVB6Y13pk8": {
+                "rateCode": "72KTECT43E5RNMMR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.0000000000",
+                "RegionlessRateCode": "PkjvPTpsCJyRaXYEK3KIgW3vyjtH71wIVLVB6Y13pk8"
+            },
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "TNJAZ7XKKA3FKB5T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "W9P2HS8FFAJ6CKY5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "TNJAZ7XKKA3FKB5T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "W9P2HS8FFAJ6CKY5.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0020000000",
                 "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
             }

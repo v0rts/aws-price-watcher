@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "elb",
         "accessType": "publish",
-        "esIndex": "plc-elb-usd-20250711164409",
-        "hawkFilePublicationDate": "2025-07-09T20:49:54Z",
-        "ETLIngestionTriggerDate": "2025-07-11T16:44:09Z",
+        "esIndex": "plc-elb-usd-20250828153749",
+        "hawkFilePublicationDate": "2025-08-28T15:37:49Z",
+        "ETLIngestionTriggerDate": "2025-08-28T15:37:49Z",
         "currencyCode": "USD",
         "source": "elb",
         "isMapped": "true"
@@ -4741,6 +4741,138 @@
             "Application Load Balancer Hours": {
                 "rateCode": "ZZJV227QGABY5J4Q.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0243000000",
+                "RegionlessRateCode": "ttVdKPX8IhXh8zj3SUoOCopsXWgtanwsfPHGpa2faag"
+            }
+        },
+        "Asia Pacific (New Zealand)": {
+            "0_6jgj11Yf3RhXFiEorrE2F03CP2YvshNOXR52lkYhY": {
+                "rateCode": "3SQNWH2SY4J5RTXH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0264600000",
+                "RegionlessRateCode": "0_6jgj11Yf3RhXFiEorrE2F03CP2YvshNOXR52lkYhY"
+            },
+            "4Slif90uWCAtcCpcdY8lz6_WG96U4O0JfvpJGDw5VVY": {
+                "rateCode": "Q6XAFM6W3SY96DMP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0058800000",
+                "RegionlessRateCode": "4Slif90uWCAtcCpcdY8lz6_WG96U4O0JfvpJGDw5VVY"
+            },
+            "9uYLcDoe3YlXhfUNwRLplELT1ZT0-k8QKrSMGHDWfyo": {
+                "rateCode": "GZB5CTTFV5FM8K9G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0063000000",
+                "RegionlessRateCode": "9uYLcDoe3YlXhfUNwRLplELT1ZT0-k8QKrSMGHDWfyo"
+            },
+            "EEDYZJQa26aqKvMVNbmpSgjnaN2iRRaIamrkRPP9XCU": {
+                "rateCode": "45RZEBMZAX5Q8D6D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0084000000",
+                "RegionlessRateCode": "EEDYZJQa26aqKvMVNbmpSgjnaN2iRRaIamrkRPP9XCU"
+            },
+            "IgvSuvwx5BdoaoI9CxPciw1H_QK2SRTwkpnAmswVLoA": {
+                "rateCode": "ZFKDM2SEJAP35FEA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0042000000",
+                "RegionlessRateCode": "IgvSuvwx5BdoaoI9CxPciw1H_QK2SRTwkpnAmswVLoA"
+            },
+            "KrASgh2Lw5ROVm6-01dFiW8yyzsToQ61Ily575yAO0Y": {
+                "rateCode": "8VNFZFC7D8WXAWMU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0063000000",
+                "RegionlessRateCode": "KrASgh2Lw5ROVm6-01dFiW8yyzsToQ61Ily575yAO0Y"
+            },
+            "Kyqd0Cmsl-F_MdyDzESMkrvd5mHKlQ6yDVEorbNu6zQ": {
+                "rateCode": "X6CPEBJENN5PN6HN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0147000000",
+                "RegionlessRateCode": "Kyqd0Cmsl-F_MdyDzESMkrvd5mHKlQ6yDVEorbNu6zQ"
+            },
+            "STK5pMElhLjMwulF1m7p32UJn6AH31DcaYnzLulhIOo": {
+                "rateCode": "QRHG9UAH64TBU5TP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0294000000",
+                "RegionlessRateCode": "STK5pMElhLjMwulF1m7p32UJn6AH31DcaYnzLulhIOo"
+            },
+            "UZOfZFjDcZCu0aga7cpDrIylpKycs8Mi24PbiwnVj2I": {
+                "rateCode": "H3SVF7PFNJSVUVKK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0084000000",
+                "RegionlessRateCode": "UZOfZFjDcZCu0aga7cpDrIylpKycs8Mi24PbiwnVj2I"
+            },
+            "YPdvvJfioIlsclsVix96CcTtL4OfLgAug1fjcHFaync": {
+                "rateCode": "NPAXKRCVBSD6XM3T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0264600000",
+                "RegionlessRateCode": "YPdvvJfioIlsclsVix96CcTtL4OfLgAug1fjcHFaync"
+            },
+            "ouqwDh6sKg397LxaGHNeyqW3Mrz0iQoDIwpv0hkAKSQ": {
+                "rateCode": "8KFVDBQA4WY2U2C5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0042000000",
+                "RegionlessRateCode": "ouqwDh6sKg397LxaGHNeyqW3Mrz0iQoDIwpv0hkAKSQ"
+            },
+            "rIcBgQpnsCi3Jy4NrXSbCH1_QQ21tuX7JE41K4hhXs4": {
+                "rateCode": "25RUUVJETSBPH6ZD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0084000000",
+                "RegionlessRateCode": "rIcBgQpnsCi3Jy4NrXSbCH1_QQ21tuX7JE41K4hhXs4"
+            },
+            "skHv-pGpcOGVjfHi8jBegMoV1qd2gdHMG6sECASX4NQ": {
+                "rateCode": "QXMHT44M22D4V3NJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "skHv-pGpcOGVjfHi8jBegMoV1qd2gdHMG6sECASX4NQ"
+            },
+            "ttVdKPX8IhXh8zj3SUoOCopsXWgtanwsfPHGpa2faag": {
+                "rateCode": "8UN765ECZWQ43HFG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0264600000",
+                "RegionlessRateCode": "ttVdKPX8IhXh8zj3SUoOCopsXWgtanwsfPHGpa2faag"
+            },
+            "AWS Outposts Application Load Balancer Hours": {
+                "rateCode": "3SQNWH2SY4J5RTXH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0264600000",
+                "RegionlessRateCode": "0_6jgj11Yf3RhXFiEorrE2F03CP2YvshNOXR52lkYhY"
+            },
+            "TS Application Load Balancer Hours": {
+                "rateCode": "Q6XAFM6W3SY96DMP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0058800000",
+                "RegionlessRateCode": "4Slif90uWCAtcCpcdY8lz6_WG96U4O0JfvpJGDw5VVY"
+            },
+            "Classic Load Balancer Data": {
+                "rateCode": "45RZEBMZAX5Q8D6D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0084000000",
+                "RegionlessRateCode": "EEDYZJQa26aqKvMVNbmpSgjnaN2iRRaIamrkRPP9XCU"
+            },
+            "Network Load Balancer LCU Hours": {
+                "rateCode": "8VNFZFC7D8WXAWMU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0063000000",
+                "RegionlessRateCode": "KrASgh2Lw5ROVm6-01dFiW8yyzsToQ61Ily575yAO0Y"
+            },
+            "Gateway Load Balancer Hours": {
+                "rateCode": "X6CPEBJENN5PN6HN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0147000000",
+                "RegionlessRateCode": "Kyqd0Cmsl-F_MdyDzESMkrvd5mHKlQ6yDVEorbNu6zQ"
+            },
+            "Classic Load Balancer Hours": {
+                "rateCode": "QRHG9UAH64TBU5TP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0294000000",
+                "RegionlessRateCode": "STK5pMElhLjMwulF1m7p32UJn6AH31DcaYnzLulhIOo"
+            },
+            "Application Load Balancer ReservedLCU-Hr": {
+                "rateCode": "H3SVF7PFNJSVUVKK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0084000000",
+                "RegionlessRateCode": "UZOfZFjDcZCu0aga7cpDrIylpKycs8Mi24PbiwnVj2I"
+            },
+            "Network Load Balancer Hours": {
+                "rateCode": "NPAXKRCVBSD6XM3T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0264600000",
+                "RegionlessRateCode": "YPdvvJfioIlsclsVix96CcTtL4OfLgAug1fjcHFaync"
+            },
+            "Gateway Load Balancer LCU Hours": {
+                "rateCode": "8KFVDBQA4WY2U2C5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0042000000",
+                "RegionlessRateCode": "ouqwDh6sKg397LxaGHNeyqW3Mrz0iQoDIwpv0hkAKSQ"
+            },
+            "Application Load Balancer LCU Hours": {
+                "rateCode": "25RUUVJETSBPH6ZD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0084000000",
+                "RegionlessRateCode": "rIcBgQpnsCi3Jy4NrXSbCH1_QQ21tuX7JE41K4hhXs4"
+            },
+            "AWS Outposts Application Load Balancer LCU Hours": {
+                "rateCode": "QXMHT44M22D4V3NJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "skHv-pGpcOGVjfHi8jBegMoV1qd2gdHMG6sECASX4NQ"
+            },
+            "Application Load Balancer Hours": {
+                "rateCode": "8UN765ECZWQ43HFG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0264600000",
                 "RegionlessRateCode": "ttVdKPX8IhXh8zj3SUoOCopsXWgtanwsfPHGpa2faag"
             }
         },

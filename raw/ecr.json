@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ecr",
         "accessType": "publish",
-        "esIndex": "plc-ecr-usd-20250715202353",
-        "hawkFilePublicationDate": "2025-07-15T20:23:53Z",
-        "ETLIngestionTriggerDate": "2025-07-15T20:23:53Z",
+        "esIndex": "plc-ecr-usd-20250828153825",
+        "hawkFilePublicationDate": "2025-08-28T15:38:25Z",
+        "ETLIngestionTriggerDate": "2025-08-28T15:38:25Z",
         "currencyCode": "USD",
         "source": "ecr",
         "isMapped": "true"
@@ -319,6 +319,18 @@
             },
             "EC2 Container Registry": {
                 "rateCode": "984F59JTY47PJFK6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "zY12MU_7r8RqgHM0Dz_FvnjyPvcMljMTXft8YfanuNk"
+            }
+        },
+        "Asia Pacific (New Zealand)": {
+            "zY12MU_7r8RqgHM0Dz_FvnjyPvcMljMTXft8YfanuNk": {
+                "rateCode": "7G4U2RHSASCSUPZ7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "zY12MU_7r8RqgHM0Dz_FvnjyPvcMljMTXft8YfanuNk"
+            },
+            "EC2 Container Registry": {
+                "rateCode": "7G4U2RHSASCSUPZ7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1000000000",
                 "RegionlessRateCode": "zY12MU_7r8RqgHM0Dz_FvnjyPvcMljMTXft8YfanuNk"
             }

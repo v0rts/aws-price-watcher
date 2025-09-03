@@ -65,6 +65,7 @@
         "Mexico (Central)": "1.0295000000",
         "EU (Zurich)": "1.0295000000",
         "EU (Stockholm)": "1.0295000000",
+        "EU (Spain)": "1.0295000000",
         "EU (Paris)": "1.0295000000",
         "EU (Milan)": "1.0295000000",
         "EU (London)": "1.0295000000",
@@ -167,6 +168,7 @@
         "Israel (Tel Aviv)": "0.6865000000",
         "EU (Zurich)": "0.6865000000",
         "EU (Stockholm)": "0.6865000000",
+        "EU (Spain)": "0.6865000000",
         "EU (Paris)": "0.6865000000",
         "EU (Milan)": "0.6865000000",
         "EU (London)": "0.6865000000",
@@ -512,6 +514,7 @@
         "Israel (Tel Aviv)": "2.7456000000",
         "EU (Zurich)": "2.7456000000",
         "EU (Stockholm)": "2.7456000000",
+        "EU (Spain)": "2.7456000000",
         "EU (Paris)": "2.7456000000",
         "EU (Milan)": "2.7456000000",
         "EU (London)": "2.7456000000",
@@ -646,6 +649,7 @@
         "US East (N. Virginia)": "0.1026400000",
         "EU (Stockholm)": "0.1026400000",
         "EU (Spain)": "0.1026400000",
+        "EU (London)": "0.1026400000",
         "EU (Ireland)": "0.1026400000",
         "EU (Frankfurt)": "0.1026400000",
         "Asia Pacific (Tokyo)": "0.1026400000"
@@ -1073,6 +1077,8 @@
         "Asia Pacific (Malaysia)": "0.0408000000",
         "Asia Pacific (Jakarta)": "0.0408000000",
         "Asia Pacific (Hyderabad)": "0.0408000000",
+        "Asia Pacific (Hong Kong)": "0.0408000000",
+        "Africa (Cape Town)": "0.0408000000",
         "AWS GovCloud (US-East)": "0.0489600000"
     },
     "Instance-instancetype-m6id.8xlarge": {
@@ -1587,6 +1593,8 @@
         "Asia Pacific (Malaysia)": "0.6528000000",
         "Asia Pacific (Jakarta)": "0.6528000000",
         "Asia Pacific (Hyderabad)": "0.6528000000",
+        "Asia Pacific (Hong Kong)": "0.6528000000",
+        "Africa (Cape Town)": "0.6528000000",
         "AWS GovCloud (US-East)": "0.7833600000"
     },
     "Instance-instancetype-g6.4xlarge": {
@@ -1984,6 +1992,7 @@
         "US East (N. Virginia)": "0.0513200000",
         "EU (Stockholm)": "0.0513200000",
         "EU (Spain)": "0.0513200000",
+        "EU (London)": "0.0513200000",
         "EU (Ireland)": "0.0513200000",
         "EU (Frankfurt)": "0.0513200000",
         "Asia Pacific (Tokyo)": "0.0513200000"
@@ -2110,6 +2119,7 @@
         "US East (N. Virginia)": "2.4633600000",
         "EU (Stockholm)": "2.4633600000",
         "EU (Spain)": "2.4633600000",
+        "EU (London)": "2.4633600000",
         "EU (Ireland)": "2.4633600000",
         "EU (Frankfurt)": "2.4633600000",
         "Asia Pacific (Tokyo)": "2.4633600000"
@@ -2413,6 +2423,8 @@
         "Asia Pacific (Malaysia)": "0.3264000000",
         "Asia Pacific (Jakarta)": "0.3264000000",
         "Asia Pacific (Hyderabad)": "0.3264000000",
+        "Asia Pacific (Hong Kong)": "0.3264000000",
+        "Africa (Cape Town)": "0.3264000000",
         "AWS GovCloud (US-East)": "0.3916800000"
     },
     "Instance-instancetype-m6gd.16xlarge": {
@@ -3739,6 +3751,7 @@
         "US East (N. Virginia)": "0.2052800000",
         "EU (Stockholm)": "0.2052800000",
         "EU (Spain)": "0.2052800000",
+        "EU (London)": "0.2052800000",
         "EU (Ireland)": "0.2052800000",
         "EU (Frankfurt)": "0.2052800000",
         "Asia Pacific (Tokyo)": "0.2052800000"
@@ -3785,7 +3798,8 @@
         "Canada (Central)": "24.5800000000",
         "Asia Pacific (Tokyo)": "24.5800000000",
         "Asia Pacific (Sydney)": "24.5800000000",
-        "Asia Pacific (Mumbai)": "24.5800000000"
+        "Asia Pacific (Mumbai)": "24.5800000000",
+        "Asia Pacific (Jakarta)": "24.5800000000"
     },
     "Instance-instancetype-g6.12xlarge": {
         "US West (Oregon)": "1.1504000000",
@@ -3916,6 +3930,7 @@
         "Israel (Tel Aviv)": "0.1715000000",
         "EU (Zurich)": "0.1715000000",
         "EU (Stockholm)": "0.1715000000",
+        "EU (Spain)": "0.1715000000",
         "EU (Paris)": "0.1715000000",
         "EU (Milan)": "0.1715000000",
         "EU (London)": "0.1715000000",
@@ -4395,6 +4410,8 @@
         "Asia Pacific (Malaysia)": "0.4896000000",
         "Asia Pacific (Jakarta)": "0.4896000000",
         "Asia Pacific (Hyderabad)": "0.4896000000",
+        "Asia Pacific (Hong Kong)": "0.4896000000",
+        "Africa (Cape Town)": "0.4896000000",
         "AWS GovCloud (US-East)": "0.5875200000"
     },
     "Instance-instancetype-r5n.8xlarge": {
@@ -5404,6 +5421,7 @@
         "Israel (Tel Aviv)": "0.0857500000",
         "EU (Zurich)": "0.0857500000",
         "EU (Stockholm)": "0.0857500000",
+        "EU (Spain)": "0.0857500000",
         "EU (Paris)": "0.0857500000",
         "EU (Milan)": "0.0857500000",
         "EU (London)": "0.0857500000",
@@ -6788,6 +6806,7 @@
         "US East (N. Virginia)": "1.2316800000",
         "EU (Stockholm)": "1.2316800000",
         "EU (Spain)": "1.2316800000",
+        "EU (London)": "1.2316800000",
         "EU (Ireland)": "1.2316800000",
         "EU (Frankfurt)": "1.2316800000",
         "Asia Pacific (Tokyo)": "1.2316800000"
@@ -6939,6 +6958,8 @@
         "Asia Pacific (Malaysia)": "0.0816000000",
         "Asia Pacific (Jakarta)": "0.0816000000",
         "Asia Pacific (Hyderabad)": "0.0816000000",
+        "Asia Pacific (Hong Kong)": "0.0816000000",
+        "Africa (Cape Town)": "0.0816000000",
         "AWS GovCloud (US-East)": "0.0979200000"
     },
     "Instance-instancetype-r6in.32xlarge": {
@@ -7022,6 +7043,7 @@
         "US East (N. Virginia)": "1.6422400000",
         "EU (Stockholm)": "1.6422400000",
         "EU (Spain)": "1.6422400000",
+        "EU (London)": "1.6422400000",
         "EU (Ireland)": "1.6422400000",
         "EU (Frankfurt)": "1.6422400000",
         "Asia Pacific (Tokyo)": "1.6422400000"
@@ -9328,6 +9350,7 @@
         "Mexico (Central)": "2.0592000000",
         "EU (Zurich)": "2.0592000000",
         "EU (Stockholm)": "2.0592000000",
+        "EU (Spain)": "2.0592000000",
         "EU (Paris)": "2.0592000000",
         "EU (Milan)": "2.0592000000",
         "EU (London)": "2.0592000000",
@@ -10830,6 +10853,7 @@
         "US East (N. Virginia)": "0.8211200000",
         "EU (Stockholm)": "0.8211200000",
         "EU (Spain)": "0.8211200000",
+        "EU (London)": "0.8211200000",
         "EU (Ireland)": "0.8211200000",
         "EU (Frankfurt)": "0.8211200000",
         "Asia Pacific (Tokyo)": "0.8211200000"
@@ -11109,6 +11133,8 @@
         "Asia Pacific (Malaysia)": "0.1632000000",
         "Asia Pacific (Jakarta)": "0.1632000000",
         "Asia Pacific (Hyderabad)": "0.1632000000",
+        "Asia Pacific (Hong Kong)": "0.1632000000",
+        "Africa (Cape Town)": "0.1632000000",
         "AWS GovCloud (US-East)": "0.1958400000"
     },
     "Instance-instancetype-r5d.24xlarge": {
@@ -11357,6 +11383,7 @@
         "Israel (Tel Aviv)": "0.3432500000",
         "EU (Zurich)": "0.3432500000",
         "EU (Stockholm)": "0.3432500000",
+        "EU (Spain)": "0.3432500000",
         "EU (Paris)": "0.3432500000",
         "EU (Milan)": "0.3432500000",
         "EU (London)": "0.3432500000",
@@ -11584,6 +11611,7 @@
         "US East (N. Virginia)": "0.4105600000",
         "EU (Stockholm)": "0.4105600000",
         "EU (Spain)": "0.4105600000",
+        "EU (London)": "0.4105600000",
         "EU (Ireland)": "0.4105600000",
         "EU (Frankfurt)": "0.4105600000",
         "Asia Pacific (Tokyo)": "0.4105600000"
@@ -12008,6 +12036,7 @@
         "US East (N. Virginia)": "0.6158400000",
         "EU (Stockholm)": "0.6158400000",
         "EU (Spain)": "0.6158400000",
+        "EU (London)": "0.6158400000",
         "EU (Ireland)": "0.6158400000",
         "EU (Frankfurt)": "0.6158400000",
         "Asia Pacific (Tokyo)": "0.6158400000"
@@ -12158,6 +12187,7 @@
         "Israel (Tel Aviv)": "1.3727500000",
         "EU (Zurich)": "1.3727500000",
         "EU (Stockholm)": "1.3727500000",
+        "EU (Spain)": "1.3727500000",
         "EU (Paris)": "1.3727500000",
         "EU (Milan)": "1.3727500000",
         "EU (London)": "1.3727500000",

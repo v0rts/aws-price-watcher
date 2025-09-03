@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250903050248",
-        "hawkFilePublicationDate": "2025-09-03T05:02:48Z",
-        "ETLIngestionTriggerDate": "2025-09-03T05:02:48Z",
+        "esIndex": "plc-sagemaker-usd-20250903102225",
+        "hawkFilePublicationDate": "2025-09-03T10:22:25Z",
+        "ETLIngestionTriggerDate": "2025-09-03T10:22:25Z",
         "currencyCode": "USD",
         "source": "sagemaker-training-plan"
     },
@@ -267,14 +267,6 @@
                 "VCPU": "16",
                 "Instance": "ml.p5.4xlarge"
             },
-            "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0": {
-                "rateCode": "P52JMZNQWR7HVW4C.JRTCKXETXF.6YS6EN2CT7",
-                "price": "41.6116000000",
-                "RegionlessRateCode": "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0",
-                "Memory": "2048 GiB",
-                "VCPU": "192",
-                "Instance": "ml.p5en.48xlarge"
-            },
             "ghQvFMPrBWdugjdm6B2fGkTmhQugEondlio8TQUkeDY": {
                 "rateCode": "YF5JJENJ98D4C7T8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "39.7992000000",
@@ -394,14 +386,6 @@
                 "Memory": "256 GiB",
                 "VCPU": "16",
                 "Instance": "ml.p5.4xlarge"
-            },
-            "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0": {
-                "rateCode": "ARUEATVRE46NBA6Q.JRTCKXETXF.6YS6EN2CT7",
-                "price": "54.0948500000",
-                "RegionlessRateCode": "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0",
-                "Memory": "2048 GiB",
-                "VCPU": "192",
-                "Instance": "ml.p5en.48xlarge"
             },
             "ghQvFMPrBWdugjdm6B2fGkTmhQugEondlio8TQUkeDY": {
                 "rateCode": "8GQSQUSA46EGTGDW.JRTCKXETXF.6YS6EN2CT7",

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "verifiedpermissions",
         "accessType": "publish",
-        "esIndex": "plc-verifiedpermissions-usd-20250819174523",
-        "hawkFilePublicationDate": "2025-08-19T17:45:23Z",
-        "ETLIngestionTriggerDate": "2025-08-19T17:45:23Z",
+        "esIndex": "plc-verifiedpermissions-usd-20250904181750",
+        "hawkFilePublicationDate": "2025-09-04T18:17:50Z",
+        "ETLIngestionTriggerDate": "2025-09-04T18:17:50Z",
         "currencyCode": "USD",
         "source": "verifiedpermissions",
         "isMapped": "true"

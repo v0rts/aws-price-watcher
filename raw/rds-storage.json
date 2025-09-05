@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "rds",
         "accessType": "publish",
-        "esIndex": "plc-rds-usd-20250904235228",
-        "hawkFilePublicationDate": "2025-09-04T23:52:28Z",
-        "ETLIngestionTriggerDate": "2025-09-04T23:52:28Z",
+        "esIndex": "plc-rds-usd-20250905174544",
+        "hawkFilePublicationDate": "2025-09-05T17:45:44Z",
+        "ETLIngestionTriggerDate": "2025-09-05T17:45:44Z",
         "currencyCode": "USD",
         "source": "rds-storage",
         "isMapped": "true"

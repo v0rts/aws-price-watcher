@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "entityresolution",
         "accessType": "publish",
-        "esIndex": "plc-entityresolution-usd-20250711164902",
+        "esIndex": "plc-entityresolution-usd-20250909202640",
         "hawkFilePublicationDate": "2025-05-13T20:59:46Z",
-        "ETLIngestionTriggerDate": "2025-07-11T16:49:02Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:26:40Z",
         "currencyCode": "USD",
         "source": "entityresolution",
         "isMapped": "true"

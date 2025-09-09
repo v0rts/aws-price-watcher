@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "grafana",
         "accessType": "publish",
-        "esIndex": "plc-grafana-usd-20250711175307",
+        "esIndex": "plc-grafana-usd-20250909203915",
         "hawkFilePublicationDate": "2024-08-26T16:59:33Z",
-        "ETLIngestionTriggerDate": "2025-07-11T17:53:07Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:39:15Z",
         "currencyCode": "USD",
         "source": "grafana",
         "isMapped": "true"

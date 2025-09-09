@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kendra",
         "accessType": "publish",
-        "esIndex": "plc-kendra-usd-20250711181906",
+        "esIndex": "plc-kendra-usd-20250909204955",
         "hawkFilePublicationDate": "2025-03-28T20:45:53Z",
-        "ETLIngestionTriggerDate": "2025-07-11T18:19:06Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:49:55Z",
         "currencyCode": "USD",
         "source": "kendra",
         "isMapped": "true"

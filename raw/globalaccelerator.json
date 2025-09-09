@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "globalaccelerator",
         "accessType": "publish",
-        "esIndex": "plc-globalaccelerator-usd-20250711175132",
+        "esIndex": "plc-globalaccelerator-usd-20250909203720",
         "hawkFilePublicationDate": "2024-08-26T16:58:24Z",
-        "ETLIngestionTriggerDate": "2025-07-11T17:51:32Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:37:20Z",
         "currencyCode": "USD",
         "source": "globalaccelerator",
         "isMapped": "true"

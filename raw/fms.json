@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "fms",
         "accessType": "publish",
-        "esIndex": "plc-fms-usd-20250822081517",
+        "esIndex": "plc-fms-usd-20250909203221",
         "hawkFilePublicationDate": "2025-08-22T08:15:17Z",
-        "ETLIngestionTriggerDate": "2025-08-22T08:15:17Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:32:21Z",
         "currencyCode": "USD",
         "source": "fms",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lex",
         "accessType": "publish",
-        "esIndex": "plc-lex-usd-20250725192514",
+        "esIndex": "plc-lex-usd-20250909205441",
         "hawkFilePublicationDate": "2025-07-25T19:25:14Z",
-        "ETLIngestionTriggerDate": "2025-07-25T19:25:14Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:54:41Z",
         "currencyCode": "USD",
         "source": "lex",
         "isMapped": "true"

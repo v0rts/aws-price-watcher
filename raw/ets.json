@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ets",
         "accessType": "publish",
-        "esIndex": "plc-ets-usd-20250711165212",
+        "esIndex": "plc-ets-usd-20250909203007",
         "hawkFilePublicationDate": "2024-08-26T16:19:18Z",
-        "ETLIngestionTriggerDate": "2025-07-11T16:52:12Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:30:07Z",
         "currencyCode": "USD",
         "source": "ets",
         "isMapped": "true"

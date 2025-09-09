@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kms",
         "accessType": "publish",
-        "esIndex": "plc-kms-usd-20250909181711",
+        "esIndex": "plc-kms-usd-20250909205248",
         "hawkFilePublicationDate": "2025-08-28T15:39:13Z",
-        "ETLIngestionTriggerDate": "2025-09-09T18:17:11Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:52:48Z",
         "currencyCode": "USD",
         "source": "kms",
         "isMapped": "true"

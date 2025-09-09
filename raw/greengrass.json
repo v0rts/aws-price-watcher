@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "greengrass",
         "accessType": "publish",
-        "esIndex": "plc-greengrass-usd-20250729203248",
+        "esIndex": "plc-greengrass-usd-20250909203939",
         "hawkFilePublicationDate": "2025-07-29T20:32:48Z",
-        "ETLIngestionTriggerDate": "2025-07-29T20:32:48Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:39:39Z",
         "currencyCode": "USD",
         "source": "greengrass",
         "isMapped": "true"

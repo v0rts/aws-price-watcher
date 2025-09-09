@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iotanalytics",
         "accessType": "publish",
-        "esIndex": "plc-iotanalytics-usd-20250711181441",
+        "esIndex": "plc-iotanalytics-usd-20250909204511",
         "hawkFilePublicationDate": "2024-08-26T17:48:59Z",
-        "ETLIngestionTriggerDate": "2025-07-11T18:14:41Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:45:11Z",
         "currencyCode": "USD",
         "source": "iotanalytics",
         "isMapped": "true"

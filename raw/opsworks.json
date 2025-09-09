@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "opsworks",
         "accessType": "publish",
-        "esIndex": "plc-opsworks-usd-20250711184518",
+        "esIndex": "plc-opsworks-usd-20250909214515",
         "hawkFilePublicationDate": "2024-08-26T19:35:35Z",
-        "ETLIngestionTriggerDate": "2025-07-11T18:45:18Z",
+        "ETLIngestionTriggerDate": "2025-09-09T21:45:15Z",
         "currencyCode": "USD",
         "source": "opsworks",
         "isMapped": "true"

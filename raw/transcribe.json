@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "transcribe",
         "accessType": "publish",
-        "esIndex": "plc-transcribe-usd-20250711194745",
+        "esIndex": "plc-transcribe-usd-20250909215919",
         "hawkFilePublicationDate": "2024-12-18T15:05:33Z",
-        "ETLIngestionTriggerDate": "2025-07-11T19:47:45Z",
+        "ETLIngestionTriggerDate": "2025-09-09T21:59:19Z",
         "currencyCode": "USD",
         "source": "transcribe",
         "isMapped": "true"

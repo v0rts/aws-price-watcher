@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "personalize",
         "accessType": "publish",
-        "esIndex": "plc-personalize-usd-20250711184737",
+        "esIndex": "plc-personalize-usd-20250909214711",
         "hawkFilePublicationDate": "2024-08-26T19:36:11Z",
-        "ETLIngestionTriggerDate": "2025-07-11T18:47:37Z",
+        "ETLIngestionTriggerDate": "2025-09-09T21:47:11Z",
         "currencyCode": "USD",
         "source": "personalize",
         "isMapped": "true"

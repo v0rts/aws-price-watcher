@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "translate",
         "accessType": "publish",
-        "esIndex": "plc-translate-usd-20250711194907",
+        "esIndex": "plc-translate-usd-20250909220057",
         "hawkFilePublicationDate": "2024-08-26T20:26:45Z",
-        "ETLIngestionTriggerDate": "2025-07-11T19:49:07Z",
+        "ETLIngestionTriggerDate": "2025-09-09T22:00:57Z",
         "currencyCode": "USD",
         "source": "translate",
         "isMapped": "true"

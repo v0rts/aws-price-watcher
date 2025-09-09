@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "transfer",
         "accessType": "publish",
-        "esIndex": "plc-transfer-usd-20250804151806",
+        "esIndex": "plc-transfer-usd-20250909220006",
         "hawkFilePublicationDate": "2025-08-04T15:18:06Z",
-        "ETLIngestionTriggerDate": "2025-08-04T15:18:06Z",
+        "ETLIngestionTriggerDate": "2025-09-09T22:00:06Z",
         "currencyCode": "USD",
         "source": "transfer",
         "isMapped": "true"

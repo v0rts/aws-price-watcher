@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "omics",
         "accessType": "publish",
-        "esIndex": "plc-omics-usd-20250903193809",
+        "esIndex": "plc-omics-usd-20250909214444",
         "hawkFilePublicationDate": "2025-09-03T19:38:09Z",
-        "ETLIngestionTriggerDate": "2025-09-03T19:38:09Z",
+        "ETLIngestionTriggerDate": "2025-09-09T21:44:44Z",
         "currencyCode": "USD",
         "source": "omics",
         "isMapped": "true"

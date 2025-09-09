@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "telconetworkbuilder",
         "accessType": "publish",
-        "esIndex": "plc-telconetworkbuilder-usd-20250711194451",
+        "esIndex": "plc-telconetworkbuilder-usd-20250909215608",
         "hawkFilePublicationDate": "2025-01-30T20:00:15Z",
-        "ETLIngestionTriggerDate": "2025-07-11T19:44:51Z",
+        "ETLIngestionTriggerDate": "2025-09-09T21:56:08Z",
         "currencyCode": "USD",
         "source": "telconetworkbuilder",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "wam",
         "accessType": "publish",
-        "esIndex": "plc-wam-usd-20250711195216",
+        "esIndex": "plc-wam-usd-20250909220356",
         "hawkFilePublicationDate": "2024-08-26T20:29:19Z",
-        "ETLIngestionTriggerDate": "2025-07-11T19:52:16Z",
+        "ETLIngestionTriggerDate": "2025-09-09T22:03:56Z",
         "currencyCode": "USD",
         "source": "wam",
         "isMapped": "true"

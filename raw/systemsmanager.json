@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "systemsmanager",
         "accessType": "publish",
-        "esIndex": "plc-systemsmanager-usd-20250828153807",
+        "esIndex": "plc-systemsmanager-usd-20250909215511",
         "hawkFilePublicationDate": "2025-08-28T15:38:07Z",
-        "ETLIngestionTriggerDate": "2025-08-28T15:38:07Z",
+        "ETLIngestionTriggerDate": "2025-09-09T21:55:11Z",
         "currencyCode": "USD",
         "source": "systemsmanager",
         "isMapped": "true"

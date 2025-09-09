@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "config",
         "accessType": "publish",
-        "esIndex": "plc-config-usd-20250828153733",
-        "hawkFilePublicationDate": "2025-08-28T15:37:33Z",
-        "ETLIngestionTriggerDate": "2025-08-28T15:37:33Z",
+        "esIndex": "plc-config-usd-20250909185138",
+        "hawkFilePublicationDate": "2025-09-09T18:51:38Z",
+        "ETLIngestionTriggerDate": "2025-09-09T18:51:38Z",
         "currencyCode": "USD",
         "source": "config",
         "isMapped": "true"
@@ -4236,6 +4236,21 @@
                 "price": "0.0008000000",
                 "RegionlessRateCode": "hExtIHJMTQ9S3aRHfANunzWYHVqp0_APV-6vBlAPdWo"
             },
+            "nhGPqbXSVSXoLsXo-a8b6iRsDagJqoMTq5Unoskgjrs": {
+                "rateCode": "F99HQUQUD9ZDRZZD.JRTCKXETXF.25RFZHS7D6",
+                "price": "0.0008000000",
+                "RegionlessRateCode": "nhGPqbXSVSXoLsXo-a8b6iRsDagJqoMTq5Unoskgjrs"
+            },
+            "qQe3b2yJmTcBuuWUkqCbva0j-XI-KFCItRNNbct7bxA": {
+                "rateCode": "F99HQUQUD9ZDRZZD.JRTCKXETXF.NADQ2ZJX8V",
+                "price": "0.0010000000",
+                "RegionlessRateCode": "qQe3b2yJmTcBuuWUkqCbva0j-XI-KFCItRNNbct7bxA"
+            },
+            "se-f14PNfTKBrlRs1jkeQ_yArB9tSRfXG3o-Ftvei2I": {
+                "rateCode": "F99HQUQUD9ZDRZZD.JRTCKXETXF.4Q8N5BDBT4",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "se-f14PNfTKBrlRs1jkeQ_yArB9tSRfXG3o-Ftvei2I"
+            },
             "tXfRzlTHyjx_QV7YxUFhbeBDH4baS83Lc-S_YSsEYCA": {
                 "rateCode": "3TYA7TB8Q977UAMX.JRTCKXETXF.NADQ2ZJX8V",
                 "price": "0.0010000000",
@@ -4285,6 +4300,21 @@
                 "rateCode": "3TYA7TB8Q977UAMX.JRTCKXETXF.25RFZHS7D6",
                 "price": "0.0008000000",
                 "RegionlessRateCode": "hExtIHJMTQ9S3aRHfANunzWYHVqp0_APV-6vBlAPdWo"
+            },
+            "Config Conformance Packs next 400000": {
+                "rateCode": "F99HQUQUD9ZDRZZD.JRTCKXETXF.25RFZHS7D6",
+                "price": "0.0008000000",
+                "RegionlessRateCode": "nhGPqbXSVSXoLsXo-a8b6iRsDagJqoMTq5Unoskgjrs"
+            },
+            "Config Conformance Packs first 100000": {
+                "rateCode": "F99HQUQUD9ZDRZZD.JRTCKXETXF.NADQ2ZJX8V",
+                "price": "0.0010000000",
+                "RegionlessRateCode": "qQe3b2yJmTcBuuWUkqCbva0j-XI-KFCItRNNbct7bxA"
+            },
+            "Config Conformance Packs 500001 and more": {
+                "rateCode": "F99HQUQUD9ZDRZZD.JRTCKXETXF.4Q8N5BDBT4",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "se-f14PNfTKBrlRs1jkeQ_yArB9tSRfXG3o-Ftvei2I"
             },
             "Config Rules first 100000": {
                 "rateCode": "3TYA7TB8Q977UAMX.JRTCKXETXF.NADQ2ZJX8V",

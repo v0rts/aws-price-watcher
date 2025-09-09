@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "comprehendmedical",
         "accessType": "publish",
-        "esIndex": "plc-comprehendmedical-usd-20250711153506",
+        "esIndex": "plc-comprehendmedical-usd-20250909190737",
         "hawkFilePublicationDate": "2024-08-26T16:00:33Z",
-        "ETLIngestionTriggerDate": "2025-07-11T15:35:06Z",
+        "ETLIngestionTriggerDate": "2025-09-09T19:07:37Z",
         "currencyCode": "USD",
         "source": "comprehendmedical",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "athena",
         "accessType": "publish",
-        "esIndex": "plc-athena-usd-20250711150437",
+        "esIndex": "plc-athena-usd-20250909184438",
         "hawkFilePublicationDate": "2025-06-27T18:15:41Z",
-        "ETLIngestionTriggerDate": "2025-07-11T15:04:37Z",
+        "ETLIngestionTriggerDate": "2025-09-09T18:44:38Z",
         "currencyCode": "USD",
         "source": "athena",
         "isMapped": "true"

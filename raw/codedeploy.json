@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "codedeploy",
         "accessType": "publish",
-        "esIndex": "plc-codedeploy-usd-20250711153127",
+        "esIndex": "plc-codedeploy-usd-20250909190401",
         "hawkFilePublicationDate": "2024-08-21T17:46:41Z",
-        "ETLIngestionTriggerDate": "2025-07-11T15:31:27Z",
+        "ETLIngestionTriggerDate": "2025-09-09T19:04:01Z",
         "currencyCode": "USD",
         "source": "codedeploy",
         "isMapped": "true"

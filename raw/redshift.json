@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "redshift",
         "accessType": "publish",
-        "esIndex": "plc-redshift-usd-20250828153849",
-        "hawkFilePublicationDate": "2025-08-28T15:38:49Z",
-        "ETLIngestionTriggerDate": "2025-08-28T15:38:49Z",
+        "esIndex": "plc-redshift-usd-20250909200714",
+        "hawkFilePublicationDate": "2025-09-09T20:07:14Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:07:14Z",
         "currencyCode": "USD",
         "source": "redshift",
         "isMapped": "true"
@@ -16961,6 +16961,19 @@
                 "RegionlessRateCode": "opEpI0sFn3yrd8LFwb7fpk3VyaxQ1YoScTTSJALOI60",
                 "Location": "EU (Milan)"
             },
+            "-MfsVLZsuY5x-A7bPq13778_Wy4_DTTQ2IqdZZqiJ6Q": {
+                "rateCode": "ES336R9DBQGTS93K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0250000000",
+                "RegionlessRateCode": "-MfsVLZsuY5x-A7bPq13778_Wy4_DTTQ2IqdZZqiJ6Q",
+                "Memory": "",
+                "vCPU": "",
+                "Storage": "",
+                "I/O": "",
+                "Instance Type": "",
+                "ECU": "",
+                "Usage Family": "",
+                "Location": "EU (Milan)"
+            },
             "-sMlrw7bZVrqzqnuX_-cYfIIXYGZVzmh6yUyfO5dG-0": {
                 "rateCode": "WMJ47VR68D7XSGRC.HU7G6KETJZ.2TG2D8R56U",
                 "price": "11129",
@@ -17416,6 +17429,19 @@
                 "Usage Family": "RA3",
                 "Location": "EU (Milan)"
             },
+            "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8": {
+                "rateCode": "JCUBSMWE5WBSZU6R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4063500000",
+                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8",
+                "Memory": "",
+                "vCPU": "",
+                "Storage": "",
+                "I/O": "",
+                "Instance Type": "",
+                "ECU": "",
+                "Usage Family": "",
+                "Location": "EU (Milan)"
+            },
             "dmemzQeD6H6x0XCAXVsbFf1R0xHpnys_p9qbHceJJuw": {
                 "rateCode": "US6D66ARB3X6DVJF.4NA7Y494T4.6YS6EN2CT7",
                 "price": "0.4420000000",
@@ -17732,6 +17758,11 @@
                 "I/O": "7.50 GB/s",
                 "Instance Type": "dc2.8xlarge",
                 "ECU": "99"
+            },
+            "Redshift Serverless compute charges per RPU-Hr": {
+                "rateCode": "JCUBSMWE5WBSZU6R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4063500000",
+                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8"
             },
             "Redshift Inter Region Data Transfer Charges In To": {
                 "rateCode": "96WRYDUF3U55SCEV.JRTCKXETXF.6YS6EN2CT7",
@@ -26934,19 +26965,6 @@
                 "Usage Family": "RA3",
                 "Location": "Asia Pacific (Taipei)"
             },
-            "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8": {
-                "rateCode": "PH8XV2YU2TZFT67Y.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.4446000000",
-                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8",
-                "Memory": "",
-                "vCPU": "",
-                "Storage": "",
-                "I/O": "",
-                "Instance Type": "",
-                "ECU": "",
-                "Usage Family": "",
-                "Location": "Asia Pacific (Taipei)"
-            },
             "dmemzQeD6H6x0XCAXVsbFf1R0xHpnys_p9qbHceJJuw": {
                 "rateCode": "UKFFCJWGXYTKVNPC.4NA7Y494T4.6YS6EN2CT7",
                 "price": "0.4030000000",
@@ -27352,11 +27370,6 @@
                 "I/O": "7.50 GB/s",
                 "Instance Type": "dc2.8xlarge",
                 "ECU": "99"
-            },
-            "Redshift Serverless compute charges per RPU-Hr": {
-                "rateCode": "PH8XV2YU2TZFT67Y.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.4446000000",
-                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8"
             },
             "ra3 4xlarge Redshift Concurrency Scaling Current Generation RA3": {
                 "rateCode": "ZBGZFYZHKC9D5TMP.JRTCKXETXF.6YS6EN2CT7",
@@ -32539,19 +32552,6 @@
                 "Usage Family": "RA3",
                 "Location": "Asia Pacific (New Zealand)"
             },
-            "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8": {
-                "rateCode": "2RYSBBHN8AZBV8S4.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.4399500000",
-                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8",
-                "Memory": "",
-                "vCPU": "",
-                "Storage": "",
-                "I/O": "",
-                "Instance Type": "",
-                "ECU": "",
-                "Usage Family": "",
-                "Location": "Asia Pacific (New Zealand)"
-            },
             "hTEaJQaV6zem1fGDiuZizpHnVA0pmlqtvK2vL7g74YM": {
                 "rateCode": "9QYQZ85GDNVRH5G8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0011340000",
@@ -32689,11 +32689,6 @@
                 "I/O": "8.00 GB/s",
                 "Instance Type": "ra3.16xlarge",
                 "ECU": "148.5"
-            },
-            "Redshift Serverless compute charges per RPU-Hr": {
-                "rateCode": "2RYSBBHN8AZBV8S4.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.4399500000",
-                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8"
             },
             "ra3 4xlarge Redshift Concurrency Scaling Current Generation RA3": {
                 "rateCode": "9QYQZ85GDNVRH5G8.JRTCKXETXF.6YS6EN2CT7",
@@ -39625,6 +39620,19 @@
                 "RegionlessRateCode": "opEpI0sFn3yrd8LFwb7fpk3VyaxQ1YoScTTSJALOI60",
                 "Location": "Africa (Cape Town)"
             },
+            "-MfsVLZsuY5x-A7bPq13778_Wy4_DTTQ2IqdZZqiJ6Q": {
+                "rateCode": "TRB64WN6W87HHPX9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0290000000",
+                "RegionlessRateCode": "-MfsVLZsuY5x-A7bPq13778_Wy4_DTTQ2IqdZZqiJ6Q",
+                "Memory": "",
+                "vCPU": "",
+                "Storage": "",
+                "I/O": "",
+                "Instance Type": "",
+                "ECU": "",
+                "Usage Family": "",
+                "Location": "Africa (Cape Town)"
+            },
             "-sMlrw7bZVrqzqnuX_-cYfIIXYGZVzmh6yUyfO5dG-0": {
                 "rateCode": "8G6UGMFHFG7H2PWJ.HU7G6KETJZ.2TG2D8R56U",
                 "price": "12613",
@@ -40080,6 +40088,19 @@
                 "Usage Family": "RA3",
                 "Location": "Africa (Cape Town)"
             },
+            "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8": {
+                "rateCode": "PP8YRNU93SDP8RRA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4605300000",
+                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8",
+                "Memory": "",
+                "vCPU": "",
+                "Storage": "",
+                "I/O": "",
+                "Instance Type": "",
+                "ECU": "",
+                "Usage Family": "",
+                "Location": "Africa (Cape Town)"
+            },
             "dmemzQeD6H6x0XCAXVsbFf1R0xHpnys_p9qbHceJJuw": {
                 "rateCode": "NPKB8QQKTXX59CKJ.4NA7Y494T4.6YS6EN2CT7",
                 "price": "0.5000000000",
@@ -40396,6 +40417,11 @@
                 "I/O": "7.50 GB/s",
                 "Instance Type": "dc2.8xlarge",
                 "ECU": "99"
+            },
+            "Redshift Serverless compute charges per RPU-Hr": {
+                "rateCode": "PP8YRNU93SDP8RRA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4605300000",
+                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8"
             },
             "Redshift Inter Region Data Transfer Charges In To": {
                 "rateCode": "Z6BQHZJM66TN8ZS9.JRTCKXETXF.6YS6EN2CT7",

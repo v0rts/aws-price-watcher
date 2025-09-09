@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "efs",
         "accessType": "publish",
-        "esIndex": "plc-efs-usd-20250711162740",
+        "esIndex": "plc-efs-usd-20250909201534",
         "hawkFilePublicationDate": "2025-06-05T17:56:29Z",
-        "ETLIngestionTriggerDate": "2025-07-11T16:27:40Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:15:34Z",
         "currencyCode": "USD",
         "source": "efs",
         "isMapped": "true"

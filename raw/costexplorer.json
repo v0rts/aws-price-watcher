@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "costexplorer",
         "accessType": "publish",
-        "esIndex": "plc-costexplorer-usd-20250711155714",
+        "esIndex": "plc-costexplorer-usd-20250909194938",
         "hawkFilePublicationDate": "2024-08-26T16:03:04Z",
-        "ETLIngestionTriggerDate": "2025-07-11T15:57:14Z",
+        "ETLIngestionTriggerDate": "2025-09-09T19:49:38Z",
         "currencyCode": "USD",
         "source": "costexplorer",
         "isMapped": "true"

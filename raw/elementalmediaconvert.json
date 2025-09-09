@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "elementalmediaconvert",
         "accessType": "publish",
-        "esIndex": "plc-elementalmediaconvert-usd-20250830182519",
+        "esIndex": "plc-elementalmediaconvert-usd-20250909202304",
         "hawkFilePublicationDate": "2025-02-17T19:49:44Z",
-        "ETLIngestionTriggerDate": "2025-08-30T18:25:19Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:23:04Z",
         "currencyCode": "USD",
         "source": "elementalmediaconvert",
         "isMapped": "true"

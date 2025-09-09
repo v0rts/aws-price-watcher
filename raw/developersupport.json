@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "developersupport",
         "accessType": "publish",
-        "esIndex": "plc-developersupport-usd-20250711161055",
+        "esIndex": "plc-developersupport-usd-20250909200056",
         "hawkFilePublicationDate": "2024-08-26T16:09:34Z",
-        "ETLIngestionTriggerDate": "2025-07-11T16:10:55Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:00:56Z",
         "currencyCode": "USD",
         "source": "developersupport",
         "isMapped": "true"

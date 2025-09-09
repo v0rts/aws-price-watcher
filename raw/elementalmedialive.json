@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "elementalmedialive",
         "accessType": "publish",
-        "esIndex": "plc-elementalmedialive-usd-20250711164609",
+        "esIndex": "plc-elementalmedialive-usd-20250909202402",
         "hawkFilePublicationDate": "2025-05-19T20:04:08Z",
-        "ETLIngestionTriggerDate": "2025-07-11T16:46:09Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:24:02Z",
         "currencyCode": "USD",
         "source": "elementalmedialive",
         "isMapped": "true"

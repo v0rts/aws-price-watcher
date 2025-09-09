@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "elementalmediatailor",
         "accessType": "publish",
-        "esIndex": "plc-elementalmediatailor-usd-20250711164745",
+        "esIndex": "plc-elementalmediatailor-usd-20250909202538",
         "hawkFilePublicationDate": "2025-04-04T20:03:25Z",
-        "ETLIngestionTriggerDate": "2025-07-11T16:47:45Z",
+        "ETLIngestionTriggerDate": "2025-09-09T20:25:38Z",
         "currencyCode": "USD",
         "source": "elementalmediatailor",
         "isMapped": "true"

@@ -21,7 +21,9 @@
         "Asia Pacific (Mumbai)": "0.0000000001",
         "Asia Pacific (Malaysia)": "0.0000000001",
         "Asia Pacific (Hong Kong)": "0.0000000001",
-        "Africa (Cape Town)": "0.0000000001"
+        "Africa (Cape Town)": "0.0000000001",
+        "AWS GovCloud (US-East)": "0.0000000001",
+        "AWS GovCloud (US)": "0.0000000001"
     },
     "Metric from 0 to 40000000 per Metric Datapoints": {
         "US West (Oregon)": "0.0000000000",
@@ -45,7 +47,9 @@
         "Asia Pacific (Mumbai)": "0.0000000000",
         "Asia Pacific (Malaysia)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Africa (Cape Town)": "0.0000000000"
+        "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
+        "AWS GovCloud (US)": "0.0000000000"
     },
     "Metric from 0 to Inf per Collector Hours": {
         "US West (Oregon)": "0.0400000000",
@@ -117,7 +121,9 @@
         "Asia Pacific (Mumbai)": "0.0000000350",
         "Asia Pacific (Malaysia)": "0.0000000362",
         "Asia Pacific (Hong Kong)": "0.0000000513",
-        "Africa (Cape Town)": "0.0000000388"
+        "Africa (Cape Town)": "0.0000000388",
+        "AWS GovCloud (US-East)": "0.0000000333",
+        "AWS GovCloud (US)": "0.0000000385"
     },
     "Metric from 252000000000 to Inf per Metric Datapoints": {
         "US West (Oregon)": "0.0000000160",
@@ -141,7 +147,9 @@
         "Asia Pacific (Mumbai)": "0.0000000160",
         "Asia Pacific (Malaysia)": "0.0000000165",
         "Asia Pacific (Hong Kong)": "0.0000000234",
-        "Africa (Cape Town)": "0.0000000177"
+        "Africa (Cape Town)": "0.0000000177",
+        "AWS GovCloud (US-East)": "0.0000000152",
+        "AWS GovCloud (US)": "0.0000000176"
     },
     "Metric from 40000000 to 2000000000 per Metric Datapoints": {
         "US West (Oregon)": "0.0000000900",
@@ -165,7 +173,9 @@
         "Asia Pacific (Mumbai)": "0.0000000900",
         "Asia Pacific (Malaysia)": "0.0000000933",
         "Asia Pacific (Hong Kong)": "0.0000001321",
-        "Africa (Cape Town)": "0.0000000998"
+        "Africa (Cape Town)": "0.0000000998",
+        "AWS GovCloud (US-East)": "0.0000000855",
+        "AWS GovCloud (US)": "0.0000000990"
     },
     "Storage from 0 to 10 per GB-Mo": {
         "US West (Oregon)": "0.0000000000",
@@ -189,7 +199,9 @@
         "Asia Pacific (Mumbai)": "0.0000000000",
         "Asia Pacific (Malaysia)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Africa (Cape Town)": "0.0000000000"
+        "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000000000",
+        "AWS GovCloud (US)": "0.0000000000"
     },
     "Storage from 10 to Inf per GB-Mo": {
         "US West (Oregon)": "0.0300000000",
@@ -213,7 +225,9 @@
         "Asia Pacific (Mumbai)": "0.0300000000",
         "Asia Pacific (Malaysia)": "0.0311100000",
         "Asia Pacific (Hong Kong)": "0.0440400000",
-        "Africa (Cape Town)": "0.0332700000"
+        "Africa (Cape Town)": "0.0332700000",
+        "AWS GovCloud (US-East)": "0.0300000000",
+        "AWS GovCloud (US)": "0.0330000000"
     },
     "API Request from 0 to 200000000000 per Metric Datapoints": {
         "Any": "0.0000000000"

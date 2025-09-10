@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "fis",
         "accessType": "publish",
-        "esIndex": "plc-fis-usd-20250909203157",
-        "hawkFilePublicationDate": "2025-09-08T15:21:39Z",
-        "ETLIngestionTriggerDate": "2025-09-09T20:31:57Z",
+        "esIndex": "plc-fis-usd-20250910173428",
+        "hawkFilePublicationDate": "2025-09-10T17:34:28Z",
+        "ETLIngestionTriggerDate": "2025-09-10T17:34:28Z",
         "currencyCode": "USD",
         "source": "fis",
         "isMapped": "true"
@@ -169,6 +169,33 @@
             },
             "Developer Tools Multi-Account Action ActionMinuteAccount": {
                 "rateCode": "UZCA53R3WVZT7MVD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "EU (Zurich)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "4U93RCFRJUTJ4PCU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "GVZVFT6UMRVNA2ED.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "VPENVVBK3FPRGJ9N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "4U93RCFRJUTJ4PCU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "GVZVFT6UMRVNA2ED.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1000000000",
                 "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
             }

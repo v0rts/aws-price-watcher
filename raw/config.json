@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "config",
         "accessType": "publish",
-        "esIndex": "plc-config-usd-20250909194637",
-        "hawkFilePublicationDate": "2025-09-09T18:51:38Z",
-        "ETLIngestionTriggerDate": "2025-09-09T19:46:37Z",
+        "esIndex": "plc-config-usd-20250911043741",
+        "hawkFilePublicationDate": "2025-09-11T04:37:41Z",
+        "ETLIngestionTriggerDate": "2025-09-11T04:37:41Z",
         "currencyCode": "USD",
         "source": "config",
         "isMapped": "true"
@@ -4333,6 +4333,11 @@
                 "price": "0.0005000000",
                 "RegionlessRateCode": "Emlvh0TkB96lYSg_WWrew-LBraSQ01qjIGlMM3kGuDE"
             },
+            "Fcq72t9juac15cEqKVVvHAxUkVZ4UoUYEI2ygMM0oPQ": {
+                "rateCode": "ZY25ZJHQNEW5J2TP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0030000000",
+                "RegionlessRateCode": "Fcq72t9juac15cEqKVVvHAxUkVZ4UoUYEI2ygMM0oPQ"
+            },
             "O4-LVlUa6wKY9x935twnoGrgY7uIwLbuVRKI6OaYtXM": {
                 "rateCode": "RPFN2562MKYR5D5M.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0120000000",
@@ -4392,6 +4397,11 @@
                 "rateCode": "DE2YGKV9MKT7TNKM.JRTCKXETXF.4Q8N5BDBT4",
                 "price": "0.0005000000",
                 "RegionlessRateCode": "Emlvh0TkB96lYSg_WWrew-LBraSQ01qjIGlMM3kGuDE"
+            },
+            "Config Custom": {
+                "rateCode": "ZY25ZJHQNEW5J2TP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0030000000",
+                "RegionlessRateCode": "Fcq72t9juac15cEqKVVvHAxUkVZ4UoUYEI2ygMM0oPQ"
             },
             "Config configurationItemRecordedDaily": {
                 "rateCode": "RPFN2562MKYR5D5M.JRTCKXETXF.6YS6EN2CT7",

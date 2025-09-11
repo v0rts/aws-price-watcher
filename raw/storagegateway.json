@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "storagegateway",
         "accessType": "publish",
-        "esIndex": "plc-storagegateway-usd-20250909215118",
-        "hawkFilePublicationDate": "2025-06-09T17:32:06Z",
-        "ETLIngestionTriggerDate": "2025-09-09T21:51:18Z",
+        "esIndex": "plc-storagegateway-usd-20250911143404",
+        "hawkFilePublicationDate": "2025-09-11T14:34:04Z",
+        "ETLIngestionTriggerDate": "2025-09-11T14:34:04Z",
         "currencyCode": "USD",
         "source": "storagegateway",
         "isMapped": "true"

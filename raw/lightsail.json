@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lightsail",
         "accessType": "publish",
-        "esIndex": "plc-lightsail-usd-20250909205511",
+        "esIndex": "plc-lightsail-usd-20250913193728",
         "hawkFilePublicationDate": "2025-08-04T17:18:42Z",
-        "ETLIngestionTriggerDate": "2025-09-09T20:55:11Z",
+        "ETLIngestionTriggerDate": "2025-09-13T19:37:28Z",
         "currencyCode": "USD",
         "source": "lightsail",
         "isMapped": "true"
@@ -1334,6 +1334,13 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
             },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "WGDYP9DSFUF7CXWC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "US East (Ohio)"
+            },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "XQT8FAYMQMJ9WMC5.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0806500000",
@@ -2501,6 +2508,13 @@
                 "rateCode": "8VNEVTS68WM6JZDX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "5GS6DKUNXFKADSD7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "US East (N. Virginia)"
             },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "2SJ62RNSVC3VSCJ4.JRTCKXETXF.6YS6EN2CT7",
@@ -3675,6 +3689,13 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
             },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "VPNG3ZFBRPGTGYZ6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "EU (Stockholm)"
+            },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "8DNK9NHEGGSG7QW4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0806500000",
@@ -4818,6 +4839,13 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
             },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "TCHM3RNNFC2V8HXD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "EU (Paris)"
+            },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "55T7NDYQQ82P2HFJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0806500000",
@@ -5959,6 +5987,13 @@
                 "rateCode": "9A3VSA4J379NWVDA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "26V7VZEUT79Z8EA7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "EU (London)"
             },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "XHGRGXQG6Q4W3W6S.JRTCKXETXF.6YS6EN2CT7",
@@ -7108,6 +7143,13 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
             },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "8RXP4C45HNNWMVQ6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "EU (Ireland)"
+            },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "57FA77XV55F3X9ZJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0806500000",
@@ -8255,6 +8297,13 @@
                 "rateCode": "N4DCQY92C6HE84H6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "UZ5CWCP4TTE9J2D4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "EU (Frankfurt)"
             },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "FHU33V2WV9NCKJT8.JRTCKXETXF.6YS6EN2CT7",
@@ -9441,6 +9490,13 @@
                 "rateCode": "CA2PPNSJA6JQK5VH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "UBK6C7FRE2WJZMX5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Canada (Central)"
             },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "968Z3FR25JPHDMST.JRTCKXETXF.6YS6EN2CT7",
@@ -10672,6 +10728,13 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
             },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "5VRKB9MCP4VWRJMT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1400000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Tokyo)"
+            },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "PGZF967CY2EQV9BW.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0806500000",
@@ -11819,6 +11882,13 @@
                 "rateCode": "K6G9RT6RRAMSA88T.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "86UVVNGQ87JH4RRA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1700000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Sydney)"
             },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "672BN8YQT3JCTEEE.JRTCKXETXF.6YS6EN2CT7",
@@ -12968,6 +13038,13 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
             },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "SJ79HUBUN4CZQWJZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1200000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Singapore)"
+            },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "VWU36G3DUFBZAFNG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0806500000",
@@ -14110,6 +14187,13 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
             },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "Z5P4HH2GEUXDYGFP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1300000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Seoul)"
+            },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "J9UFPRENVNAUJ2BS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0806500000",
@@ -15251,6 +15335,13 @@
                 "rateCode": "QQ8T3GJ5NF59U9AC.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "SNKMSVTWUHJFVVKU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1300000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Mumbai)"
             },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "TAQ35BQMTWZYMB5X.JRTCKXETXF.6YS6EN2CT7",
@@ -16406,6 +16497,13 @@
                 "rateCode": "W6APYP4J32FNXT7N.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "auMR3PBhBKoHk4gvpHsjabj6f8p36_bQiQIb6jOZ-5k"
+            },
+            "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8 V7": {
+                "rateCode": "MM3JNGP5RY4HJRUT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "qn3UA-UywFNKXgT8-zNTpgjXqARPrax23ls0NphqpH8",
+                "To Location": "Global",
+                "From Location": "Asia Pacific (Jakarta)"
             },
             "7ryUmmCgL-F4g217EMiykV_wjP3c5azoRlp1p2JGLfE V8": {
                 "rateCode": "DMMYYRFE3K5C99SY.JRTCKXETXF.6YS6EN2CT7",

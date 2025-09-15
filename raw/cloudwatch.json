@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudwatch",
         "accessType": "publish",
-        "esIndex": "plc-cloudwatch-usd-20250909185954",
-        "hawkFilePublicationDate": "2025-09-05T17:50:12Z",
-        "ETLIngestionTriggerDate": "2025-09-09T18:59:54Z",
+        "esIndex": "plc-cloudwatch-usd-20250915165326",
+        "hawkFilePublicationDate": "2025-09-15T16:53:26Z",
+        "ETLIngestionTriggerDate": "2025-09-15T16:53:26Z",
         "currencyCode": "USD",
         "source": "cloudwatch",
         "isMapped": "true"
@@ -6048,6 +6048,11 @@
                 "price": "0.0500000000",
                 "RegionlessRateCode": "7yiEktwIDOwz0JMKySRsOyel66EyscTyyrE3Ju7NFe8"
             },
+            "82ANDZC5hRwQdvnkFU7P76yoQSG8KHyI9sRa8xlcixs": {
+                "rateCode": "X2NAWEFNUPEHDYS3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "82ANDZC5hRwQdvnkFU7P76yoQSG8KHyI9sRa8xlcixs"
+            },
             "8A3-KW8J7pbGFojvfKWqTxugEfEM1UsFU0xQzJFffPY": {
                 "rateCode": "TFUYP4BXE45KMA28.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5000000000",
@@ -6502,6 +6507,11 @@
                 "rateCode": "GC5DG6JGUMNQSSRG.JRTCKXETXF.AQTKZ3QBDA",
                 "price": "0.0500000000",
                 "RegionlessRateCode": "7yiEktwIDOwz0JMKySRsOyel66EyscTyyrE3Ju7NFe8"
+            },
+            "Metric 0 upto Inf": {
+                "rateCode": "X2NAWEFNUPEHDYS3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "82ANDZC5hRwQdvnkFU7P76yoQSG8KHyI9sRa8xlcixs"
             },
             "Alarm Composite": {
                 "rateCode": "TFUYP4BXE45KMA28.JRTCKXETXF.6YS6EN2CT7",

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "prometheus",
         "accessType": "publish",
-        "esIndex": "plc-prometheus-usd-20250915162513",
-        "hawkFilePublicationDate": "2025-09-15T16:25:13Z",
-        "ETLIngestionTriggerDate": "2025-09-15T16:25:13Z",
+        "esIndex": "plc-prometheus-usd-20250915163023",
+        "hawkFilePublicationDate": "2025-09-15T16:30:23Z",
+        "ETLIngestionTriggerDate": "2025-09-15T16:30:23Z",
         "currencyCode": "USD",
         "source": "prometheus",
         "isMapped": "true"

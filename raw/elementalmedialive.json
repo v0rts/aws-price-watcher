@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "elementalmedialive",
         "accessType": "publish",
-        "esIndex": "plc-elementalmedialive-usd-20250909202402",
-        "hawkFilePublicationDate": "2025-05-19T20:04:08Z",
-        "ETLIngestionTriggerDate": "2025-09-09T20:24:02Z",
+        "esIndex": "plc-elementalmedialive-usd-20250916184748",
+        "hawkFilePublicationDate": "2025-09-16T18:47:48Z",
+        "ETLIngestionTriggerDate": "2025-09-16T18:47:48Z",
         "currencyCode": "USD",
         "source": "elementalmedialive",
         "isMapped": "true"
@@ -36369,11 +36369,6 @@
                 "price": "0.7920000000",
                 "RegionlessRateCode": "-8RpJBKdM3XwcAoF4F4ViKKmj5f4q7IJozb8HGTUnuE"
             },
-            "-DeOLrVTxgRLvqKW4NRVvWCH5JlYW6BVhDPlKm7zkQk": {
-                "rateCode": "MHVKM7RF5DYXWKJU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0863000000",
-                "RegionlessRateCode": "-DeOLrVTxgRLvqKW4NRVvWCH5JlYW6BVhDPlKm7zkQk"
-            },
             "-ECNIkBIJG7PnIJrQLAnBC6bt_qc7_fN5pGLKyimZz4": {
                 "rateCode": "HWPE2W7PKM2MJCWX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0712000000",
@@ -37409,11 +37404,6 @@
                 "price": "0.3440000000",
                 "RegionlessRateCode": "dM4GEsCugqyAxnq6eOmeRTnZlC8P82-HG9ylbjFd0M4"
             },
-            "dRTlIqQ9tqGdYUEn9ozRj1SehtqasTB3m65yMTJ8Dnk": {
-                "rateCode": "RWEKFJFYKT7J9QAP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.3540000000",
-                "RegionlessRateCode": "dRTlIqQ9tqGdYUEn9ozRj1SehtqasTB3m65yMTJ8Dnk"
-            },
             "dtE2dtho-iEUpfyP5_Sl6kxrvzaCU4bEoqH2f94Okmk": {
                 "rateCode": "KSR7WQYPJYJ52KQK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.4144000000",
@@ -37448,11 +37438,6 @@
                 "rateCode": "PJK9QS2JAFEKGATE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1288000000",
                 "RegionlessRateCode": "f2FSTVAtaef_RACLkVRksKRUyokW-co6tHpfn4Rfm94"
-            },
-            "fKYUesr8jVkLTWVHVVuUpwmTBVCbMyfWii2iaSbWhVo": {
-                "rateCode": "URWAPF2FCGSXFYVC.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0734000000",
-                "RegionlessRateCode": "fKYUesr8jVkLTWVHVVuUpwmTBVCbMyfWii2iaSbWhVo"
             },
             "fW7JHUqh396FtM3QCIxuFjertd86OeXyQ4YK43nsAoU": {
                 "rateCode": "KQ522ZKVDE7SXYB6.JRTCKXETXF.6YS6EN2CT7",
@@ -37953,11 +37938,6 @@
                 "rateCode": "9VFAA27S8S9YNPBJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.7920000000",
                 "RegionlessRateCode": "-8RpJBKdM3XwcAoF4F4ViKKmj5f4q7IJozb8HGTUnuE"
-            },
-            "OUTPUT Monitoring SD 1 Year": {
-                "rateCode": "MHVKM7RF5DYXWKJU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0863000000",
-                "RegionlessRateCode": "-DeOLrVTxgRLvqKW4NRVvWCH5JlYW6BVhDPlKm7zkQk"
             },
             "SD HEVC Input 10-20mbps Reserved 12 Months": {
                 "rateCode": "HWPE2W7PKM2MJCWX.JRTCKXETXF.6YS6EN2CT7",
@@ -39074,11 +39054,6 @@
                 "price": "0.3440000000",
                 "RegionlessRateCode": "dM4GEsCugqyAxnq6eOmeRTnZlC8P82-HG9ylbjFd0M4"
             },
-            "OUTPUT Monitoring SD On Demand": {
-                "rateCode": "RWEKFJFYKT7J9QAP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.3540000000",
-                "RegionlessRateCode": "dRTlIqQ9tqGdYUEn9ozRj1SehtqasTB3m65yMTJ8Dnk"
-            },
             "Single UHD AVC Output Frame less than 30fps 1 Year": {
                 "rateCode": "KSR7WQYPJYJ52KQK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.4144000000",
@@ -39118,11 +39093,6 @@
                 "rateCode": "PJK9QS2JAFEKGATE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1288000000",
                 "RegionlessRateCode": "f2FSTVAtaef_RACLkVRksKRUyokW-co6tHpfn4Rfm94"
-            },
-            "OUTPUT Monitoring SD 3 Year": {
-                "rateCode": "URWAPF2FCGSXFYVC.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0734000000",
-                "RegionlessRateCode": "fKYUesr8jVkLTWVHVVuUpwmTBVCbMyfWii2iaSbWhVo"
             },
             "SD AVC Output Frame 30-60fps 20-50mbps Reserved 12 Months": {
                 "rateCode": "KQ522ZKVDE7SXYB6.JRTCKXETXF.6YS6EN2CT7",
@@ -52949,11 +52919,6 @@
                 "price": "1.3968000000",
                 "RegionlessRateCode": "-8RpJBKdM3XwcAoF4F4ViKKmj5f4q7IJozb8HGTUnuE"
             },
-            "-DeOLrVTxgRLvqKW4NRVvWCH5JlYW6BVhDPlKm7zkQk": {
-                "rateCode": "NK4M9XN3DHBZU294.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1521000000",
-                "RegionlessRateCode": "-DeOLrVTxgRLvqKW4NRVvWCH5JlYW6BVhDPlKm7zkQk"
-            },
             "-ECNIkBIJG7PnIJrQLAnBC6bt_qc7_fN5pGLKyimZz4": {
                 "rateCode": "ZK87SNQ8CXBBNYWQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1255000000",
@@ -53989,11 +53954,6 @@
                 "price": "0.6032000000",
                 "RegionlessRateCode": "dM4GEsCugqyAxnq6eOmeRTnZlC8P82-HG9ylbjFd0M4"
             },
-            "dRTlIqQ9tqGdYUEn9ozRj1SehtqasTB3m65yMTJ8Dnk": {
-                "rateCode": "B44Z3GUQ3J4M362V.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.6180000000",
-                "RegionlessRateCode": "dRTlIqQ9tqGdYUEn9ozRj1SehtqasTB3m65yMTJ8Dnk"
-            },
             "dtE2dtho-iEUpfyP5_Sl6kxrvzaCU4bEoqH2f94Okmk": {
                 "rateCode": "44UDYMZKB9B6PHA2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.7300000000",
@@ -54028,11 +53988,6 @@
                 "rateCode": "D8HHPM94GKFKHAA7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2269000000",
                 "RegionlessRateCode": "f2FSTVAtaef_RACLkVRksKRUyokW-co6tHpfn4Rfm94"
-            },
-            "fKYUesr8jVkLTWVHVVuUpwmTBVCbMyfWii2iaSbWhVo": {
-                "rateCode": "EXHNME2W3JYHBYUX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1293000000",
-                "RegionlessRateCode": "fKYUesr8jVkLTWVHVVuUpwmTBVCbMyfWii2iaSbWhVo"
             },
             "fW7JHUqh396FtM3QCIxuFjertd86OeXyQ4YK43nsAoU": {
                 "rateCode": "9FR3QYECNJQSS5FK.JRTCKXETXF.6YS6EN2CT7",
@@ -54538,11 +54493,6 @@
                 "rateCode": "W524C2ZCFVJ6GFGD.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.3968000000",
                 "RegionlessRateCode": "-8RpJBKdM3XwcAoF4F4ViKKmj5f4q7IJozb8HGTUnuE"
-            },
-            "OUTPUT Monitoring SD 1 Year": {
-                "rateCode": "NK4M9XN3DHBZU294.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1521000000",
-                "RegionlessRateCode": "-DeOLrVTxgRLvqKW4NRVvWCH5JlYW6BVhDPlKm7zkQk"
             },
             "SD HEVC Input 10-20mbps Reserved 12 Months": {
                 "rateCode": "ZK87SNQ8CXBBNYWQ.JRTCKXETXF.6YS6EN2CT7",
@@ -55659,11 +55609,6 @@
                 "price": "0.6032000000",
                 "RegionlessRateCode": "dM4GEsCugqyAxnq6eOmeRTnZlC8P82-HG9ylbjFd0M4"
             },
-            "OUTPUT Monitoring SD On Demand": {
-                "rateCode": "B44Z3GUQ3J4M362V.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.6180000000",
-                "RegionlessRateCode": "dRTlIqQ9tqGdYUEn9ozRj1SehtqasTB3m65yMTJ8Dnk"
-            },
             "Single UHD AVC Output Frame less than 30fps 1 Year": {
                 "rateCode": "44UDYMZKB9B6PHA2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.7300000000",
@@ -55703,11 +55648,6 @@
                 "rateCode": "D8HHPM94GKFKHAA7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2269000000",
                 "RegionlessRateCode": "f2FSTVAtaef_RACLkVRksKRUyokW-co6tHpfn4Rfm94"
-            },
-            "OUTPUT Monitoring SD 3 Year": {
-                "rateCode": "EXHNME2W3JYHBYUX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1293000000",
-                "RegionlessRateCode": "fKYUesr8jVkLTWVHVVuUpwmTBVCbMyfWii2iaSbWhVo"
             },
             "SD AVC Output Frame 30-60fps 20-50mbps Reserved 12 Months": {
                 "rateCode": "9FR3QYECNJQSS5FK.JRTCKXETXF.6YS6EN2CT7",
@@ -59603,11 +59543,6 @@
                 "price": "1.3140000000",
                 "RegionlessRateCode": "-8RpJBKdM3XwcAoF4F4ViKKmj5f4q7IJozb8HGTUnuE"
             },
-            "-DeOLrVTxgRLvqKW4NRVvWCH5JlYW6BVhDPlKm7zkQk": {
-                "rateCode": "628ZN72MNSKASA2B.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1429000000",
-                "RegionlessRateCode": "-DeOLrVTxgRLvqKW4NRVvWCH5JlYW6BVhDPlKm7zkQk"
-            },
             "-ECNIkBIJG7PnIJrQLAnBC6bt_qc7_fN5pGLKyimZz4": {
                 "rateCode": "X9CWP3U9Y9X3R5WV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1180000000",
@@ -60613,11 +60548,6 @@
                 "price": "0.5680000000",
                 "RegionlessRateCode": "dM4GEsCugqyAxnq6eOmeRTnZlC8P82-HG9ylbjFd0M4"
             },
-            "dRTlIqQ9tqGdYUEn9ozRj1SehtqasTB3m65yMTJ8Dnk": {
-                "rateCode": "993Z3CCBRNRX2KDC.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.5820000000",
-                "RegionlessRateCode": "dRTlIqQ9tqGdYUEn9ozRj1SehtqasTB3m65yMTJ8Dnk"
-            },
             "dtE2dtho-iEUpfyP5_Sl6kxrvzaCU4bEoqH2f94Okmk": {
                 "rateCode": "44RD3258Y742E2W7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6860000000",
@@ -60652,11 +60582,6 @@
                 "rateCode": "2N4MVPH7JF7768AF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2133000000",
                 "RegionlessRateCode": "f2FSTVAtaef_RACLkVRksKRUyokW-co6tHpfn4Rfm94"
-            },
-            "fKYUesr8jVkLTWVHVVuUpwmTBVCbMyfWii2iaSbWhVo": {
-                "rateCode": "6GDZM8N8GX672YY2.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1215000000",
-                "RegionlessRateCode": "fKYUesr8jVkLTWVHVVuUpwmTBVCbMyfWii2iaSbWhVo"
             },
             "fW7JHUqh396FtM3QCIxuFjertd86OeXyQ4YK43nsAoU": {
                 "rateCode": "NQ8ZTQQ7DD7VPJQ7.JRTCKXETXF.6YS6EN2CT7",
@@ -61152,11 +61077,6 @@
                 "rateCode": "BFSSFYGTV47YY6UM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.3140000000",
                 "RegionlessRateCode": "-8RpJBKdM3XwcAoF4F4ViKKmj5f4q7IJozb8HGTUnuE"
-            },
-            "OUTPUT Monitoring SD 1 Year": {
-                "rateCode": "628ZN72MNSKASA2B.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1429000000",
-                "RegionlessRateCode": "-DeOLrVTxgRLvqKW4NRVvWCH5JlYW6BVhDPlKm7zkQk"
             },
             "SD HEVC Input 10-20mbps Reserved 12 Months": {
                 "rateCode": "X9CWP3U9Y9X3R5WV.JRTCKXETXF.6YS6EN2CT7",
@@ -62243,11 +62163,6 @@
                 "price": "0.5680000000",
                 "RegionlessRateCode": "dM4GEsCugqyAxnq6eOmeRTnZlC8P82-HG9ylbjFd0M4"
             },
-            "OUTPUT Monitoring SD On Demand": {
-                "rateCode": "993Z3CCBRNRX2KDC.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.5820000000",
-                "RegionlessRateCode": "dRTlIqQ9tqGdYUEn9ozRj1SehtqasTB3m65yMTJ8Dnk"
-            },
             "Single UHD AVC Output Frame less than 30fps 1 Year": {
                 "rateCode": "44RD3258Y742E2W7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6860000000",
@@ -62287,11 +62202,6 @@
                 "rateCode": "2N4MVPH7JF7768AF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2133000000",
                 "RegionlessRateCode": "f2FSTVAtaef_RACLkVRksKRUyokW-co6tHpfn4Rfm94"
-            },
-            "OUTPUT Monitoring SD 3 Year": {
-                "rateCode": "6GDZM8N8GX672YY2.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1215000000",
-                "RegionlessRateCode": "fKYUesr8jVkLTWVHVVuUpwmTBVCbMyfWii2iaSbWhVo"
             },
             "SD AVC Output Frame 30-60fps 20-50mbps Reserved 12 Months": {
                 "rateCode": "NQ8ZTQQ7DD7VPJQ7.JRTCKXETXF.6YS6EN2CT7",

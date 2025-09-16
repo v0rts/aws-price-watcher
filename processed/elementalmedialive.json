@@ -7607,20 +7607,5 @@
         "Asia Pacific (Mumbai)": "3.2804000000",
         "Asia Pacific (Melbourne)": "3.2494000000",
         "Asia Pacific (Hyderabad)": "3.2804000000"
-    },
-    "OUTPUT Monitoring SD 1 Year": {
-        "Canada (Central)": "0.0863000000",
-        "Asia Pacific (Osaka)": "0.1521000000",
-        "Asia Pacific (Melbourne)": "0.1429000000"
-    },
-    "OUTPUT Monitoring SD On Demand": {
-        "Canada (Central)": "0.3540000000",
-        "Asia Pacific (Osaka)": "0.6180000000",
-        "Asia Pacific (Melbourne)": "0.5820000000"
-    },
-    "OUTPUT Monitoring SD 3 Year": {
-        "Canada (Central)": "0.0734000000",
-        "Asia Pacific (Osaka)": "0.1293000000",
-        "Asia Pacific (Melbourne)": "0.1215000000"
     }
 }

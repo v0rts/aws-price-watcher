@@ -6,7 +6,8 @@
         "hawkFilePublicationDate": "2025-08-29T19:04:13Z",
         "ETLIngestionTriggerDate": "2025-09-09T20:36:06Z",
         "currencyCode": "USD",
-        "source": "gameliftstreams"
+        "source": "gameliftstreams",
+        "isMapped": "true"
     },
     "sets": {
         "Compute Instance OnDemand": [

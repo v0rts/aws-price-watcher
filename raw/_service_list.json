@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-09-16T21:25:19Z",
+  "publicationDate" : "2025-09-17T00:04:06Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1464,6 +1464,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/SSMSAP/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/SSMSAP/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/SSMSAP/current/region_index.json"
+    },
+    "AWSManagedServices" : {
+      "offerCode" : "AWSManagedServices",
+      "versionIndexUrl" : "/offers/v1.0/aws/AWSManagedServices/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/AWSManagedServices/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AWSManagedServices/current/region_index.json"
     }
   }
 }

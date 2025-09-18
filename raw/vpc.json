@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "vpc",
         "accessType": "publish",
-        "esIndex": "plc-vpc-usd-20250918161329",
-        "hawkFilePublicationDate": "2025-09-18T16:06:55Z",
-        "ETLIngestionTriggerDate": "2025-09-18T16:13:29Z",
+        "esIndex": "plc-vpc-usd-20250918163230",
+        "hawkFilePublicationDate": "2025-09-18T16:32:30Z",
+        "ETLIngestionTriggerDate": "2025-09-18T16:32:30Z",
         "currencyCode": "USD",
         "source": "vpc",
         "isMapped": "true"
@@ -4202,6 +4202,11 @@
             }
         },
         "Mexico (Central)": {
+            "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q": {
+                "rateCode": "XQZU36F9KSQKEEUM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ": {
                 "rateCode": "BZFBP4A7NRJSARPN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0157500000",
@@ -4256,6 +4261,11 @@
                 "rateCode": "HV59RM5A9R72X3XH.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410": {
+                "rateCode": "DCVGJVZHV4X7HG99.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s": {
                 "rateCode": "4XHJEUW2BR6G277D.JRTCKXETXF.6YS6EN2CT7",
@@ -4322,6 +4332,11 @@
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
             },
+            "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
+                "rateCode": "XQZU36F9KSQKEEUM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "Hourly charge for Traffic Mirroring Source per hour": {
                 "rateCode": "BZFBP4A7NRJSARPN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0157500000",
@@ -4376,6 +4391,11 @@
                 "rateCode": "HV59RM5A9R72X3XH.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
+                "rateCode": "DCVGJVZHV4X7HG99.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
                 "rateCode": "4XHJEUW2BR6G277D.JRTCKXETXF.6YS6EN2CT7",
@@ -4448,6 +4468,11 @@
                 "rateCode": "BPFRY84S948V4TNB.JRTCKXETXF.7P82R4JVNG",
                 "price": "0.2300000000",
                 "RegionlessRateCode": "2JvUTzqrlYRoZnFg5voZsQjTwgTfsFp09-TTbI3f_YA"
+            },
+            "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q": {
+                "rateCode": "7J57ZPPH2YVRHDDR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
             },
             "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs": {
                 "rateCode": "MKH9P582JPDKN6AF.JRTCKXETXF.6YS6EN2CT7",
@@ -4529,6 +4554,11 @@
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
             },
+            "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410": {
+                "rateCode": "PGR4WVNEKAUZ8WD6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
+            },
             "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s": {
                 "rateCode": "2WA9R5JCHVUZCY98.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0200000000",
@@ -4609,6 +4639,11 @@
                 "price": "0.2300000000",
                 "RegionlessRateCode": "2JvUTzqrlYRoZnFg5voZsQjTwgTfsFp09-TTbI3f_YA"
             },
+            "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
+                "rateCode": "7J57ZPPH2YVRHDDR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "Hourly charge for Client VPN connections per Hourly": {
                 "rateCode": "MKH9P582JPDKN6AF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0500000000",
@@ -4673,6 +4708,11 @@
                 "rateCode": "6MC3TSRFY84WM2MA.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
+                "rateCode": "PGR4WVNEKAUZ8WD6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
                 "rateCode": "2WA9R5JCHVUZCY98.JRTCKXETXF.6YS6EN2CT7",
@@ -8186,6 +8226,11 @@
             }
         },
         "Canada West (Calgary)": {
+            "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q": {
+                "rateCode": "N2CP87CUNP6AUMQP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "3QUFY5SQS4aNBsNBN6Rnljiej-hZ500fQVl5atukx2E": {
                 "rateCode": "9JB9H6X25YSH6TH5.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0500000000",
@@ -8260,6 +8305,11 @@
                 "rateCode": "6P8CHGVNPFHB2ATP.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410": {
+                "rateCode": "G2F3A8YB2KPTSX3U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s": {
                 "rateCode": "FBWNKAJ3H7G6ACWE.JRTCKXETXF.6YS6EN2CT7",
@@ -8341,6 +8391,11 @@
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
             },
+            "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
+                "rateCode": "N2CP87CUNP6AUMQP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "Hourly charge for Traffic Mirroring Source per hour": {
                 "rateCode": "G76DHXPEBMXRS7D2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0150000000",
@@ -8405,6 +8460,11 @@
                 "rateCode": "6P8CHGVNPFHB2ATP.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
+                "rateCode": "G2F3A8YB2KPTSX3U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
                 "rateCode": "FBWNKAJ3H7G6ACWE.JRTCKXETXF.6YS6EN2CT7",
@@ -9648,6 +9708,11 @@
             }
         },
         "Asia Pacific (Taipei)": {
+            "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q": {
+                "rateCode": "FEAUS8N7KVVGSM6V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ": {
                 "rateCode": "K4P6H8F9MXZBHBBN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0162000000",
@@ -9702,6 +9767,11 @@
                 "rateCode": "QCHPSBPSRJQUFFW5.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410": {
+                "rateCode": "S7MDGMS9H2K3GRKN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s": {
                 "rateCode": "V6JZ5VR7D29F5ZQG.JRTCKXETXF.6YS6EN2CT7",
@@ -9768,6 +9838,11 @@
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
             },
+            "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
+                "rateCode": "FEAUS8N7KVVGSM6V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "Hourly charge for Traffic Mirroring Source per hour": {
                 "rateCode": "K4P6H8F9MXZBHBBN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0162000000",
@@ -9822,6 +9897,11 @@
                 "rateCode": "QCHPSBPSRJQUFFW5.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
+                "rateCode": "S7MDGMS9H2K3GRKN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
                 "rateCode": "V6JZ5VR7D29F5ZQG.JRTCKXETXF.6YS6EN2CT7",
@@ -11517,6 +11597,11 @@
             }
         },
         "Asia Pacific (New Zealand)": {
+            "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q": {
+                "rateCode": "7TSQU8KGPRPSAFUF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "3QUFY5SQS4aNBsNBN6Rnljiej-hZ500fQVl5atukx2E": {
                 "rateCode": "FPHHZZEMBXH4N34Y.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0500000000",
@@ -11576,6 +11661,11 @@
                 "rateCode": "PA2UUB9KT295RHHA.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410": {
+                "rateCode": "ZXMZZUK9JC939QT9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s": {
                 "rateCode": "Y4KW4486YE527ZY2.JRTCKXETXF.6YS6EN2CT7",
@@ -11642,6 +11732,11 @@
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
             },
+            "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
+                "rateCode": "7TSQU8KGPRPSAFUF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "Hourly charge for Traffic Mirroring Source per hour": {
                 "rateCode": "TQW37BGCD7MRGWNZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0189000000",
@@ -11696,6 +11791,11 @@
                 "rateCode": "PA2UUB9KT295RHHA.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
+                "rateCode": "ZXMZZUK9JC939QT9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
                 "rateCode": "Y4KW4486YE527ZY2.JRTCKXETXF.6YS6EN2CT7",
@@ -12176,6 +12276,11 @@
             }
         },
         "Asia Pacific (Melbourne)": {
+            "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q": {
+                "rateCode": "DMFMRJGQYSQH9JXB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs": {
                 "rateCode": "7WWJ3SCUPPFCRN9X.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0500000000",
@@ -12261,6 +12366,11 @@
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
             },
+            "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410": {
+                "rateCode": "AW7FF874QFNM8Y8J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
+            },
             "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s": {
                 "rateCode": "JSP7PDF3JX2XHPZV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0200000000",
@@ -12341,6 +12451,11 @@
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
             },
+            "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
+                "rateCode": "DMFMRJGQYSQH9JXB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "Hourly charge for Client VPN connections per Hourly": {
                 "rateCode": "7WWJ3SCUPPFCRN9X.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0500000000",
@@ -12415,6 +12530,11 @@
                 "rateCode": "75PC3S8KMTJG23CT.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
+                "rateCode": "AW7FF874QFNM8Y8J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
                 "rateCode": "JSP7PDF3JX2XHPZV.JRTCKXETXF.6YS6EN2CT7",
@@ -13181,6 +13301,11 @@
             }
         },
         "Asia Pacific (Hyderabad)": {
+            "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q": {
+                "rateCode": "P3RSN6T923EGC93X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs": {
                 "rateCode": "SRXAZRW23P36T8V2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0500000000",
@@ -13266,6 +13391,11 @@
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
             },
+            "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410": {
+                "rateCode": "QMZDHNH39G752GHD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
+            },
             "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s": {
                 "rateCode": "SR87JDZ24NG9XKCT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0200000000",
@@ -13346,6 +13476,11 @@
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
             },
+            "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
+                "rateCode": "P3RSN6T923EGC93X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
+            },
             "Hourly charge for Client VPN connections per Hourly": {
                 "rateCode": "SRXAZRW23P36T8V2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0500000000",
@@ -13420,6 +13555,11 @@
                 "rateCode": "XNGS3HEUKQGJAVTB.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
+                "rateCode": "QMZDHNH39G752GHD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
                 "rateCode": "SR87JDZ24NG9XKCT.JRTCKXETXF.6YS6EN2CT7",

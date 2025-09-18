@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "redshift",
         "accessType": "publish",
-        "esIndex": "plc-redshift-usd-20250918174548",
-        "hawkFilePublicationDate": "2025-09-18T17:45:48Z",
-        "ETLIngestionTriggerDate": "2025-09-18T17:45:48Z",
+        "esIndex": "plc-redshift-usd-20250918200813",
+        "hawkFilePublicationDate": "2025-09-18T20:08:13Z",
+        "ETLIngestionTriggerDate": "2025-09-18T20:08:13Z",
         "currencyCode": "USD",
         "source": "redshift",
         "isMapped": "true"

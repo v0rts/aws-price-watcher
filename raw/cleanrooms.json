@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cleanrooms",
         "accessType": "publish",
-        "esIndex": "plc-cleanrooms-usd-20250909185444",
-        "hawkFilePublicationDate": "2025-09-04T17:43:14Z",
-        "ETLIngestionTriggerDate": "2025-09-09T18:54:44Z",
+        "esIndex": "plc-cleanrooms-usd-20250919191951",
+        "hawkFilePublicationDate": "2025-09-19T19:19:51Z",
+        "ETLIngestionTriggerDate": "2025-09-19T19:19:51Z",
         "currencyCode": "USD",
         "source": "cleanrooms",
         "isMapped": "true"

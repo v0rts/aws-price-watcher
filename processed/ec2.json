@@ -3765,6 +3765,7 @@
         "US East (Ohio)": "46.4039100000",
         "US East (N. Virginia)": "46.4039100000",
         "South America (Sao Paulo)": "74.0252800000",
+        "Israel (Tel Aviv)": "54.5245900000",
         "EU (Zurich)": "61.5775600000",
         "EU (Stockholm)": "49.3317700000",
         "EU (Spain)": "51.9281800000",
@@ -11704,6 +11705,7 @@
         "US West (Oregon)": "125.5818200000",
         "US East (Ohio)": "125.5818200000",
         "US East (N. Virginia)": "125.5818200000",
+        "EU (Frankfurt)": "151.4975900000",
         "Asia Pacific (Seoul)": "151.4975900000"
     },
     "OnDemand Linux-instancetype-c1.medium": {
@@ -15322,6 +15324,7 @@
         "US East (Ohio)": "54.6000000000",
         "US East (N. Virginia)": "54.6000000000",
         "South America (Sao Paulo)": "87.1000000000",
+        "Israel (Tel Aviv)": "64.1550000000",
         "EU (Zurich)": "72.4537000000",
         "EU (Stockholm)": "58.0450000000",
         "EU (Spain)": "61.1000000000",

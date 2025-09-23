@@ -418,12 +418,19 @@
         "AWS GovCloud (US)": "0.3750000000"
     },
     "[Redshift Concurrency Scaling Current Generation RA3] ra3 large Redshift Concurrency Scaling Current Generation RA3": {
+        "Middle East (Bahrain) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001830000",
         "Mexico (Central) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001575000",
         "Israel (Tel Aviv) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001800000",
+        "EU (Milan) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001732500",
         "Canada West (Calgary) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001700000",
         "Asia Pacific (Thailand) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001350000",
         "Asia Pacific (Taipei) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001575000",
+        "Asia Pacific (Osaka) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001500000",
         "Asia Pacific (Malaysia) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001350000",
+        "Asia Pacific (Jakarta) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001500000",
+        "Asia Pacific (Hyderabad) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001712500",
+        "Asia Pacific (Hong Kong) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001650000",
+        "Africa (Cape Town) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001983000",
         "AWS GovCloud (US-East) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001500000",
         "AWS GovCloud (US) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001500000"
     },

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ses",
         "accessType": "publish",
-        "esIndex": "plc-ses-usd-20250804230730",
-        "hawkFilePublicationDate": "2025-08-04T23:07:30Z",
-        "ETLIngestionTriggerDate": "2025-08-04T23:07:30Z",
+        "esIndex": "plc-ses-usd-20250923171546",
+        "hawkFilePublicationDate": "2025-09-23T17:15:46Z",
+        "ETLIngestionTriggerDate": "2025-09-23T17:15:46Z",
         "currencyCode": "USD",
         "source": "ses",
         "isMapped": "true"
@@ -3021,73 +3021,6 @@
                 "rateCode": "HDACY35CUH55PT57.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0001000000",
                 "RegionlessRateCode": "w76c_qIf9ex5ycA7-tudmjMNxYl7txw8T2iI2VhROGY"
-            }
-        },
-        "China (Ningxia)": {
-            "FvKob3n0ETDmtZz9Q3Ui1TJXoQph10Tu9JYbq6GNSRQ": {
-                "rateCode": "T3UHJHENKMJHGJZ5.JRTCKXETXF.HWDSBTNJX9",
-                "price": "0.0000800000",
-                "RegionlessRateCode": "FvKob3n0ETDmtZz9Q3Ui1TJXoQph10Tu9JYbq6GNSRQ"
-            },
-            "N0aVxKKKmxpiS5l0J1nQTr65FH28zSk7g9D5WfuB8IA": {
-                "rateCode": "T3UHJHENKMJHGJZ5.JRTCKXETXF.F83EQNDM5J",
-                "price": "0.0000040000",
-                "RegionlessRateCode": "N0aVxKKKmxpiS5l0J1nQTr65FH28zSk7g9D5WfuB8IA"
-            },
-            "fep9YWVPEQgA464VCbusFo5zZzlWgrbPWb3Nzv4_QL0": {
-                "rateCode": "T3UHJHENKMJHGJZ5.JRTCKXETXF.H7TEM37A35",
-                "price": "0.0000200000",
-                "RegionlessRateCode": "fep9YWVPEQgA464VCbusFo5zZzlWgrbPWb3Nzv4_QL0"
-            },
-            "hkWj7TtXvfWENYwhPtXLWB03-9xMXppXusYGG__qIpc": {
-                "rateCode": "AE5FW6UUYKYDWQTH.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0000005000",
-                "RegionlessRateCode": "hkWj7TtXvfWENYwhPtXLWB03-9xMXppXusYGG__qIpc"
-            },
-            "kopE_OXc__sui9Ygkvte1SJY8KPpIT_yQC1rKgp7JpU": {
-                "rateCode": "DQK5ZMBU5GB5HBGV.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0000700000",
-                "RegionlessRateCode": "kopE_OXc__sui9Ygkvte1SJY8KPpIT_yQC1rKgp7JpU"
-            },
-            "mRwEuQeiAa1t8W3XBdup1vSi3c62bZ3mp6AIQDiJdeY": {
-                "rateCode": "CSFYCV57WKKWA3XW.JRTCKXETXF.6YS6EN2CT7",
-                "price": "15.0000000000",
-                "RegionlessRateCode": "mRwEuQeiAa1t8W3XBdup1vSi3c62bZ3mp6AIQDiJdeY"
-            },
-            "w6p_j0Qic_aYM4_6qHfzy2HkdGblGC096p1q6kQPwRQ": {
-                "rateCode": "T3UHJHENKMJHGJZ5.JRTCKXETXF.UH4R86KK5B",
-                "price": "0.0000400000",
-                "RegionlessRateCode": "w6p_j0Qic_aYM4_6qHfzy2HkdGblGC096p1q6kQPwRQ"
-            },
-            "Dedicated IPs managed from 0 to 10000000": {
-                "rateCode": "T3UHJHENKMJHGJZ5.JRTCKXETXF.HWDSBTNJX9",
-                "price": "0.0000800000",
-                "RegionlessRateCode": "FvKob3n0ETDmtZz9Q3Ui1TJXoQph10Tu9JYbq6GNSRQ"
-            },
-            "Dedicated IPs managed from 100000000 to Inf": {
-                "rateCode": "T3UHJHENKMJHGJZ5.JRTCKXETXF.F83EQNDM5J",
-                "price": "0.0000040000",
-                "RegionlessRateCode": "N0aVxKKKmxpiS5l0J1nQTr65FH28zSk7g9D5WfuB8IA"
-            },
-            "Dedicated IPs managed from 50000000 to 100000000": {
-                "rateCode": "T3UHJHENKMJHGJZ5.JRTCKXETXF.H7TEM37A35",
-                "price": "0.0000200000",
-                "RegionlessRateCode": "fep9YWVPEQgA464VCbusFo5zZzlWgrbPWb3Nzv4_QL0"
-            },
-            "Message Body Send": {
-                "rateCode": "DQK5ZMBU5GB5HBGV.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0000700000",
-                "RegionlessRateCode": "kopE_OXc__sui9Ygkvte1SJY8KPpIT_yQC1rKgp7JpU"
-            },
-            "Dedicated IPs managed from subscription per Month": {
-                "rateCode": "CSFYCV57WKKWA3XW.JRTCKXETXF.6YS6EN2CT7",
-                "price": "15.0000000000",
-                "RegionlessRateCode": "mRwEuQeiAa1t8W3XBdup1vSi3c62bZ3mp6AIQDiJdeY"
-            },
-            "Dedicated IPs managed from 10000000 to 50000000": {
-                "rateCode": "T3UHJHENKMJHGJZ5.JRTCKXETXF.UH4R86KK5B",
-                "price": "0.0000400000",
-                "RegionlessRateCode": "w6p_j0Qic_aYM4_6qHfzy2HkdGblGC096p1q6kQPwRQ"
             }
         },
         "Canada (Central)": {

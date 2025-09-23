@@ -244,7 +244,6 @@
         "EU (London)": "0.0000800000",
         "EU (Ireland)": "0.0000800000",
         "EU (Frankfurt)": "0.0000800000",
-        "China (Ningxia)": "0.0000800000",
         "Canada (Central)": "0.0000800000",
         "Asia Pacific (Tokyo)": "0.0000800000",
         "Asia Pacific (Sydney)": "0.0000800000",
@@ -274,7 +273,6 @@
         "EU (London)": "0.0000040000",
         "EU (Ireland)": "0.0000040000",
         "EU (Frankfurt)": "0.0000040000",
-        "China (Ningxia)": "0.0000040000",
         "Canada (Central)": "0.0000040000",
         "Asia Pacific (Tokyo)": "0.0000040000",
         "Asia Pacific (Sydney)": "0.0000040000",
@@ -304,7 +302,6 @@
         "EU (London)": "0.0000200000",
         "EU (Ireland)": "0.0000200000",
         "EU (Frankfurt)": "0.0000200000",
-        "China (Ningxia)": "0.0000200000",
         "Canada (Central)": "0.0000200000",
         "Asia Pacific (Tokyo)": "0.0000200000",
         "Asia Pacific (Sydney)": "0.0000200000",
@@ -334,7 +331,6 @@
         "EU (London)": "15.0000000000",
         "EU (Ireland)": "15.0000000000",
         "EU (Frankfurt)": "15.0000000000",
-        "China (Ningxia)": "15.0000000000",
         "Canada (Central)": "15.0000000000",
         "Asia Pacific (Tokyo)": "15.0000000000",
         "Asia Pacific (Sydney)": "15.0000000000",
@@ -364,7 +360,6 @@
         "EU (London)": "0.0000400000",
         "EU (Ireland)": "0.0000400000",
         "EU (Frankfurt)": "0.0000400000",
-        "China (Ningxia)": "0.0000400000",
         "Canada (Central)": "0.0000400000",
         "Asia Pacific (Tokyo)": "0.0000400000",
         "Asia Pacific (Sydney)": "0.0000400000",
@@ -377,9 +372,6 @@
         "Africa (Cape Town)": "0.0000400000",
         "AWS GovCloud (US-East)": "0.0000400000",
         "AWS GovCloud (US)": "0.0000400000"
-    },
-    "Message Body Send": {
-        "China (Ningxia)": "0.0000700000"
     },
     "MonthlyFree OutgoingEmail-Simulator": {
         "": "0.0000000000"

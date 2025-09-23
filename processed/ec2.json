@@ -12244,6 +12244,8 @@
         "US East (Ohio)": "3.9120000000",
         "US East (N. Virginia)": "3.9120000000",
         "South America (Sao Paulo)": "6.6490000000",
+        "Senegal (Dakar)": "5.2340000000",
+        "Morocco (Casablanca)": "5.2340000000",
         "Middle East (Bahrain)": "4.7980000000",
         "EU (Stockholm)": "4.1500000000",
         "EU (Paris)": "4.5740000000",
@@ -15560,7 +15562,8 @@
         "EU (Frankfurt)": "3.4326000000",
         "Asia Pacific (Tokyo)": "3.7039000000",
         "Asia Pacific (Singapore)": "3.8395000000",
-        "Asia Pacific (Seoul)": "3.3752000000"
+        "Asia Pacific (Seoul)": "3.3752000000",
+        "Asia Pacific (Jakarta)": "3.8395000000"
     },
     "OnDemand Linux-instancetype-r6gd.2xlarge": {
         "US West (Oregon)": "0.4608000000",

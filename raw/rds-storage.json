@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "rds",
         "accessType": "publish",
-        "esIndex": "plc-rds-usd-20250918133918",
-        "hawkFilePublicationDate": "2025-09-16T15:54:54Z",
-        "ETLIngestionTriggerDate": "2025-09-18T13:39:18Z",
+        "esIndex": "plc-rds-usd-20250923093841",
+        "hawkFilePublicationDate": "2025-09-23T09:38:41Z",
+        "ETLIngestionTriggerDate": "2025-09-23T09:38:41Z",
         "currencyCode": "USD",
         "source": "rds-storage",
         "isMapped": "true"
@@ -30725,11 +30725,6 @@
                 "rateCode": "BZ22XRB62J9HUHVN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0780000000",
                 "RegionlessRateCode": "PISZci_Fv1WUeMNe9hYrGcxzH2GIkwwTszBjIEhgl1E"
-            },
-            "PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4": {
-                "rateCode": "ZTSN537PF8JUCM9G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.2320000000",
-                "RegionlessRateCode": "PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4"
             },
             "PzNImvWpeowjUYr8e0G91ONmwlbGM73SnGIQIz_QTdA": {
                 "rateCode": "8EKUD4AMYAXPPCYJ.JRTCKXETXF.6YS6EN2CT7",

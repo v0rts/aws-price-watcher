@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "neptune",
         "accessType": "publish",
-        "esIndex": "plc-neptune-usd-20250914231147",
-        "hawkFilePublicationDate": "2025-09-14T23:11:51Z",
-        "ETLIngestionTriggerDate": "2025-09-14T23:11:47Z",
+        "esIndex": "plc-neptune-usd-20250924214018",
+        "hawkFilePublicationDate": "2025-09-24T21:40:18Z",
+        "ETLIngestionTriggerDate": "2025-09-24T21:40:18Z",
         "currencyCode": "USD",
         "source": "neptune",
         "isMapped": "true"

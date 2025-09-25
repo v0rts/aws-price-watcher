@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "efs",
         "accessType": "publish",
-        "esIndex": "plc-efs-usd-20250925153825",
-        "hawkFilePublicationDate": "2025-09-25T15:38:25Z",
-        "ETLIngestionTriggerDate": "2025-09-25T15:38:25Z",
+        "esIndex": "plc-efs-usd-20250925214139",
+        "hawkFilePublicationDate": "2025-09-25T21:41:39Z",
+        "ETLIngestionTriggerDate": "2025-09-25T21:41:39Z",
         "currencyCode": "USD",
         "source": "efs",
         "isMapped": "true"
@@ -3915,6 +3915,153 @@
             "Infrequent Access Requests Write per GB": {
                 "rateCode": "X2P6AEKVKX4YHCR4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0120000000",
+                "RegionlessRateCode": "sgZiR8nYWbYAY9k-XZOEps4cynV-Ra7VYPT5OFaYGEE"
+            }
+        },
+        "Asia Pacific (New Zealand)": {
+            "7JQ_q8amwBtEweOrJhYyeXJ6NCS2vcTZrvu2iyHExvQ": {
+                "rateCode": "VSVNRNBEEM5EFPA6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0210000000",
+                "RegionlessRateCode": "7JQ_q8amwBtEweOrJhYyeXJ6NCS2vcTZrvu2iyHExvQ"
+            },
+            "Lj9Y8avuRPPslH_aZLuXCuXWaZfektjru63IHCa7y3M": {
+                "rateCode": "38YKNYWURDPNRDDU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0105000000",
+                "RegionlessRateCode": "Lj9Y8avuRPPslH_aZLuXCuXWaZfektjru63IHCa7y3M"
+            },
+            "MZhxZ128LZkzZzPCf_xdDLyiBqsSImj5MkvX7SDIS8c": {
+                "rateCode": "X64RV2SAYHA4RQHX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0285600000",
+                "RegionlessRateCode": "MZhxZ128LZkzZzPCf_xdDLyiBqsSImj5MkvX7SDIS8c"
+            },
+            "Op9Dh9RnUrqL8TGWwOy7iUo_LVFeef_6YKax3tWOLCM": {
+                "rateCode": "2ZFMX82RBNCAD6X8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "Op9Dh9RnUrqL8TGWwOy7iUo_LVFeef_6YKax3tWOLCM"
+            },
+            "StmohybphW_2QAcF0QIDCLvwoz_IEgTd5KG1vQIdLpQ": {
+                "rateCode": "D2XD97QVS4VGTCGR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0378000000",
+                "RegionlessRateCode": "StmohybphW_2QAcF0QIDCLvwoz_IEgTd5KG1vQIdLpQ"
+            },
+            "TB938hrGcQi9nffNugBxqph0pseTqJwtLjCcmvoBAFA": {
+                "rateCode": "JKTJR7MFDX7F5AP7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "TB938hrGcQi9nffNugBxqph0pseTqJwtLjCcmvoBAFA"
+            },
+            "TlpaR2Ud50Zi5LifXfzmOiOpmQCcc7RTNscmVTXk0Rw": {
+                "rateCode": "M32BP6R98RSXMTHQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.5600000000",
+                "RegionlessRateCode": "TlpaR2Ud50Zi5LifXfzmOiOpmQCcc7RTNscmVTXk0Rw"
+            },
+            "YpDNGO8KEmXAwKHTemw5xp5AARJiqfvLRotddaTumak": {
+                "rateCode": "FQ9JY69YXKV9S8US.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "YpDNGO8KEmXAwKHTemw5xp5AARJiqfvLRotddaTumak"
+            },
+            "aPi2ySpb5zgZbvdeX0oq3yIJFAgm-BzbxjEe0NfPdNU": {
+                "rateCode": "HK6RDDKGNB68E6GR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0285600000",
+                "RegionlessRateCode": "aPi2ySpb5zgZbvdeX0oq3yIJFAgm-BzbxjEe0NfPdNU"
+            },
+            "bmPZGjdh5nlXaxv4A7QHqduWi9VjdTnxFFq7o2p3IYA": {
+                "rateCode": "N5QZYE3W9XNX72TH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0735000000",
+                "RegionlessRateCode": "bmPZGjdh5nlXaxv4A7QHqduWi9VjdTnxFFq7o2p3IYA"
+            },
+            "ecZCZZjX82vmeBA943b2DaklUe209YLa-s9HBPgUNgY": {
+                "rateCode": "6H39YTDZ2PPF6SNJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0105000000",
+                "RegionlessRateCode": "ecZCZZjX82vmeBA943b2DaklUe209YLa-s9HBPgUNgY"
+            },
+            "kSkd_5Stw8iqDPpKkdFHaGe4_2GEcHGLNzXWwkHiT_8": {
+                "rateCode": "D5MPH5AADND29HUD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3780000000",
+                "RegionlessRateCode": "kSkd_5Stw8iqDPpKkdFHaGe4_2GEcHGLNzXWwkHiT_8"
+            },
+            "myB1aHkKGuADebh4LYm7UYAvSP1e-DaC2qLujZZF0eA": {
+                "rateCode": "TNNNSPAKDW9EW69T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0105000000",
+                "RegionlessRateCode": "myB1aHkKGuADebh4LYm7UYAvSP1e-DaC2qLujZZF0eA"
+            },
+            "pPg1vmtASUb_DcOGFyxPNa8abU3NDsNcdbBc06f_K_U": {
+                "rateCode": "MWMJHTBYEVDXWYA2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0210000000",
+                "RegionlessRateCode": "pPg1vmtASUb_DcOGFyxPNa8abU3NDsNcdbBc06f_K_U"
+            },
+            "qCLczLdnqgf1O3altNhuwHYAxZNaB8nBPls3Dh_t9h8": {
+                "rateCode": "SBZU7V43G9FQ7HET.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0105000000",
+                "RegionlessRateCode": "qCLczLdnqgf1O3altNhuwHYAxZNaB8nBPls3Dh_t9h8"
+            },
+            "rh3HrMW1msTNoNuWlhDySwL8zDCPYkRXfy9ZojGaasU": {
+                "rateCode": "AYVG5N8AZS9Z295P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0378000000",
+                "RegionlessRateCode": "rh3HrMW1msTNoNuWlhDySwL8zDCPYkRXfy9ZojGaasU"
+            },
+            "sgZiR8nYWbYAY9k-XZOEps4cynV-Ra7VYPT5OFaYGEE": {
+                "rateCode": "ZASQP58BF3BGRKSC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "sgZiR8nYWbYAY9k-XZOEps4cynV-Ra7VYPT5OFaYGEE"
+            },
+            "Infrequent Access Storage GB Mo": {
+                "rateCode": "X64RV2SAYHA4RQHX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0285600000",
+                "RegionlessRateCode": "MZhxZ128LZkzZzPCf_xdDLyiBqsSImj5MkvX7SDIS8c"
+            },
+            "EFS Storage Requests Read per GB": {
+                "rateCode": "2ZFMX82RBNCAD6X8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "Op9Dh9RnUrqL8TGWwOy7iUo_LVFeef_6YKax3tWOLCM"
+            },
+            "Archive Storage Write Write GB": {
+                "rateCode": "D2XD97QVS4VGTCGR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0378000000",
+                "RegionlessRateCode": "StmohybphW_2QAcF0QIDCLvwoz_IEgTd5KG1vQIdLpQ"
+            },
+            "Throughput Included": {
+                "rateCode": "JKTJR7MFDX7F5AP7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "TB938hrGcQi9nffNugBxqph0pseTqJwtLjCcmvoBAFA"
+            },
+            "Throughput Provisioned": {
+                "rateCode": "M32BP6R98RSXMTHQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.5600000000",
+                "RegionlessRateCode": "TlpaR2Ud50Zi5LifXfzmOiOpmQCcc7RTNscmVTXk0Rw"
+            },
+            "Infrequent Access Requests Read per GB": {
+                "rateCode": "FQ9JY69YXKV9S8US.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "YpDNGO8KEmXAwKHTemw5xp5AARJiqfvLRotddaTumak"
+            },
+            "EFS Storage Requests Write per GB": {
+                "rateCode": "N5QZYE3W9XNX72TH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0735000000",
+                "RegionlessRateCode": "bmPZGjdh5nlXaxv4A7QHqduWi9VjdTnxFFq7o2p3IYA"
+            },
+            "Archive Storage GB Mo": {
+                "rateCode": "6H39YTDZ2PPF6SNJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0105000000",
+                "RegionlessRateCode": "ecZCZZjX82vmeBA943b2DaklUe209YLa-s9HBPgUNgY"
+            },
+            "General Purpose Storage GB Mo": {
+                "rateCode": "D5MPH5AADND29HUD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3780000000",
+                "RegionlessRateCode": "kSkd_5Stw8iqDPpKkdFHaGe4_2GEcHGLNzXWwkHiT_8"
+            },
+            "Infrequent Access ET Storage GB Mo": {
+                "rateCode": "MWMJHTBYEVDXWYA2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0210000000",
+                "RegionlessRateCode": "pPg1vmtASUb_DcOGFyxPNa8abU3NDsNcdbBc06f_K_U"
+            },
+            "Archive Storage Read Read GB": {
+                "rateCode": "AYVG5N8AZS9Z295P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0378000000",
+                "RegionlessRateCode": "rh3HrMW1msTNoNuWlhDySwL8zDCPYkRXfy9ZojGaasU"
+            },
+            "Infrequent Access Requests Write per GB": {
+                "rateCode": "ZASQP58BF3BGRKSC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
                 "RegionlessRateCode": "sgZiR8nYWbYAY9k-XZOEps4cynV-Ra7VYPT5OFaYGEE"
             }
         },

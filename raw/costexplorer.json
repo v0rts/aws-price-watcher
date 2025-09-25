@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "costexplorer",
         "accessType": "publish",
-        "esIndex": "plc-costexplorer-usd-20250916185225",
-        "hawkFilePublicationDate": "2025-09-16T18:52:25Z",
-        "ETLIngestionTriggerDate": "2025-09-16T18:52:25Z",
+        "esIndex": "plc-costexplorer-usd-20250925213519",
+        "hawkFilePublicationDate": "2025-09-25T21:35:19Z",
+        "ETLIngestionTriggerDate": "2025-09-25T21:35:19Z",
         "currencyCode": "USD",
         "source": "costexplorer",
         "isMapped": "true"
@@ -21,6 +21,11 @@
                 "rateCode": "BX68HKNBJP73AFBV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "ILyhKYvbyHHFGb2O7qZVTStsSn-AtK5JDapv2zCXBiE"
+            },
+            "f_Y0WS5B79B0uOdxq6aReF4iuL_NGZbWfC8qHBrgFzE": {
+                "rateCode": "BMKNFUZJA83HS7M9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "f_Y0WS5B79B0uOdxq6aReF4iuL_NGZbWfC8qHBrgFzE"
             },
             "Storage per UsageRecord month": {
                 "rateCode": "JBUNT4MSRCD5R5P5.JRTCKXETXF.6YS6EN2CT7",

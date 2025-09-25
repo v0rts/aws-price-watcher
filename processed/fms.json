@@ -21,6 +21,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -50,6 +51,7 @@
         "EU (Frankfurt)": "100.0000000000",
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -82,6 +84,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -118,6 +121,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -154,6 +158,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -190,6 +195,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -226,6 +232,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -258,6 +265,7 @@
         "EU (Frankfurt)": "100.0000000000",
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -293,6 +301,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -311,6 +320,7 @@
         "US West (Oregon)": "100.0000000000",
         "US East (N. Virginia)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Malaysia)": "120.0000000000"
     },
     "Firewall Manager Policy Public Regions PaloAlto": {
@@ -327,6 +337,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
         "Asia Pacific (Mumbai)": "100.0000000000",
@@ -354,6 +365,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -390,6 +402,7 @@
         "Canada (Central)": "100.0000000000",
         "Asia Pacific (Tokyo)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Sydney)": "100.0000000000",
         "Asia Pacific (Singapore)": "100.0000000000",
         "Asia Pacific (Seoul)": "100.0000000000",
@@ -407,19 +420,23 @@
     "Firewall Manager Policy FMS Shield": {
         "Mexico (Central)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Malaysia)": "120.0000000000",
         "Any": "100.0000000000"
     },
     "Firewall Manager Policy FMS WAF": {
         "Mexico (Central)": "100.0000000000",
         "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Asia Pacific (Malaysia)": "120.0000000000",
         "Any": "100.0000000000"
     },
     "Firewall Manager Policy AmazonCloudFront": {
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Any": "100.0000000000"
     },
     "Firewall Manager Policy FMS": {
+        "Asia Pacific (Taipei)": "110.0000000000",
         "Any": "100.0000000000"
     }
 }

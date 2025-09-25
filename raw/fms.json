@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "fms",
         "accessType": "publish",
-        "esIndex": "plc-fms-usd-20250909203221",
-        "hawkFilePublicationDate": "2025-08-22T08:15:17Z",
-        "ETLIngestionTriggerDate": "2025-09-09T20:32:21Z",
+        "esIndex": "plc-fms-usd-20250925154609",
+        "hawkFilePublicationDate": "2025-09-25T15:46:09Z",
+        "ETLIngestionTriggerDate": "2025-09-25T15:46:09Z",
         "currencyCode": "USD",
         "source": "fms",
         "isMapped": "true"
@@ -2430,6 +2430,158 @@
             "Firewall Manager Policy Public Regions DNS Firewall": {
                 "rateCode": "ABH82NS5FC5R4H9X.JRTCKXETXF.6YS6EN2CT7",
                 "price": "120.0000000000",
+                "RegionlessRateCode": "xM1KEqaLf5S9-VcW4g3D49xlW7LKuIOLh-HvIK8rtqI"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "3g1riRLTFic2vDmFJMNoMyp-kP5Oqao5Vdm9S7Wt-vY": {
+                "rateCode": "RRXVARYS7BSW7D46.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "3g1riRLTFic2vDmFJMNoMyp-kP5Oqao5Vdm9S7Wt-vY"
+            },
+            "8XR9xMPbQwCCkGLpmBcgm8r_4F_CM2QN_tClEEq7FAE": {
+                "rateCode": "X96PPQ2NPQHNFRUG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "8XR9xMPbQwCCkGLpmBcgm8r_4F_CM2QN_tClEEq7FAE"
+            },
+            "L24yRL3_e6YoLmuADAbVZ0Jtb6twLD2AYpVfi4gDH94": {
+                "rateCode": "NEDX329PXT43NUPR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "L24yRL3_e6YoLmuADAbVZ0Jtb6twLD2AYpVfi4gDH94"
+            },
+            "MVi0XjwYvbfE1sY2TJrRor1ipBnzsh2u2VDvLK-yNpY": {
+                "rateCode": "PJ4CNVHAANRM2M79.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "MVi0XjwYvbfE1sY2TJrRor1ipBnzsh2u2VDvLK-yNpY"
+            },
+            "XArHbXJlrzdw-Y-y6qydXEHwy85PSt_If78lcIsEgoQ": {
+                "rateCode": "SGZJR2E3MQQW82DK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "XArHbXJlrzdw-Y-y6qydXEHwy85PSt_If78lcIsEgoQ"
+            },
+            "ZvcUcyI7IxFA-goNNqI6wjH0xpQyBmfb6lrOayWuIAM": {
+                "rateCode": "BDVMBMQVH57U4HFB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "ZvcUcyI7IxFA-goNNqI6wjH0xpQyBmfb6lrOayWuIAM"
+            },
+            "_gxf7Iv06kGtV_la7yoSrL_UrKjED-IzmPVp0-jZtK8": {
+                "rateCode": "JZWA65CWT2JUJDSR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "_gxf7Iv06kGtV_la7yoSrL_UrKjED-IzmPVp0-jZtK8"
+            },
+            "gZyYl2tXw2BSFMYWe-zTBkmWHpYC_aXWdsemeqkecEE": {
+                "rateCode": "WT8ZZ88UFVV65QRW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "gZyYl2tXw2BSFMYWe-zTBkmWHpYC_aXWdsemeqkecEE"
+            },
+            "jlwwRck6TON67WzJDE0jIPIkdNHDvC-ygHRiTC_Xj3I": {
+                "rateCode": "EP8ZFK4B56GCEXX5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "jlwwRck6TON67WzJDE0jIPIkdNHDvC-ygHRiTC_Xj3I"
+            },
+            "pqVVK-baoWV0IHxSbY-d94tydwo1PZigKIZHV-L-1wc": {
+                "rateCode": "ZGFC5CBZC3TWHBPU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "pqVVK-baoWV0IHxSbY-d94tydwo1PZigKIZHV-L-1wc"
+            },
+            "qHEltUIba70_nNc8O0SmzwTIHaigZduD7E9aI9vJPoY": {
+                "rateCode": "BW5JEQNK8F3X6J3X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "qHEltUIba70_nNc8O0SmzwTIHaigZduD7E9aI9vJPoY"
+            },
+            "wbXyjBfbPWQeyGaZigiu6XCXogRNwCQ2g8bedBqwd84": {
+                "rateCode": "4WR3GTTUZZVFUQ8Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "wbXyjBfbPWQeyGaZigiu6XCXogRNwCQ2g8bedBqwd84"
+            },
+            "xM1KEqaLf5S9-VcW4g3D49xlW7LKuIOLh-HvIK8rtqI": {
+                "rateCode": "DSST2KEP2ASEMTKS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "xM1KEqaLf5S9-VcW4g3D49xlW7LKuIOLh-HvIK8rtqI"
+            },
+            "Firewall Manager Policy Public Regions Common": {
+                "rateCode": "RRXVARYS7BSW7D46.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "3g1riRLTFic2vDmFJMNoMyp-kP5Oqao5Vdm9S7Wt-vY"
+            },
+            "Firewall Manager Policy Public Regions": {
+                "rateCode": "X96PPQ2NPQHNFRUG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "8XR9xMPbQwCCkGLpmBcgm8r_4F_CM2QN_tClEEq7FAE"
+            },
+            "Firewall Manager Policy AmazonCloudFront": {
+                "rateCode": "X96PPQ2NPQHNFRUG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "8XR9xMPbQwCCkGLpmBcgm8r_4F_CM2QN_tClEEq7FAE"
+            },
+            "Firewall Manager Policy Public Regions Shield": {
+                "rateCode": "NEDX329PXT43NUPR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "L24yRL3_e6YoLmuADAbVZ0Jtb6twLD2AYpVfi4gDH94"
+            },
+            "Firewall Manager Policy FMS Shield": {
+                "rateCode": "NEDX329PXT43NUPR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "L24yRL3_e6YoLmuADAbVZ0Jtb6twLD2AYpVfi4gDH94"
+            },
+            "Firewall Manager Policy Public Regions Usage Audit": {
+                "rateCode": "PJ4CNVHAANRM2M79.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "MVi0XjwYvbfE1sY2TJrRor1ipBnzsh2u2VDvLK-yNpY"
+            },
+            "Firewall Manager Policy Public Regions Import Network-Firewall": {
+                "rateCode": "SGZJR2E3MQQW82DK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "XArHbXJlrzdw-Y-y6qydXEHwy85PSt_If78lcIsEgoQ"
+            },
+            "Firewall Manager Policy Public Regions Content Audit": {
+                "rateCode": "BDVMBMQVH57U4HFB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "ZvcUcyI7IxFA-goNNqI6wjH0xpQyBmfb6lrOayWuIAM"
+            },
+            "Firewall Manager Policy Public Regions WAFv2": {
+                "rateCode": "JZWA65CWT2JUJDSR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "_gxf7Iv06kGtV_la7yoSrL_UrKjED-IzmPVp0-jZtK8"
+            },
+            "Firewall Manager Policy FMS WAF": {
+                "rateCode": "JZWA65CWT2JUJDSR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "_gxf7Iv06kGtV_la7yoSrL_UrKjED-IzmPVp0-jZtK8"
+            },
+            "Firewall Manager Policy Public Regions WAF": {
+                "rateCode": "WT8ZZ88UFVV65QRW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "gZyYl2tXw2BSFMYWe-zTBkmWHpYC_aXWdsemeqkecEE"
+            },
+            "Firewall Manager Policy FMS": {
+                "rateCode": "WT8ZZ88UFVV65QRW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "gZyYl2tXw2BSFMYWe-zTBkmWHpYC_aXWdsemeqkecEE"
+            },
+            "Firewall Manager Policy Public Regions Network Firewall": {
+                "rateCode": "EP8ZFK4B56GCEXX5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "jlwwRck6TON67WzJDE0jIPIkdNHDvC-ygHRiTC_Xj3I"
+            },
+            "Firewall Manager Policy Public Regions Fortinet": {
+                "rateCode": "ZGFC5CBZC3TWHBPU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "pqVVK-baoWV0IHxSbY-d94tydwo1PZigKIZHV-L-1wc"
+            },
+            "Firewall Manager Policy Public Regions PaloAlto": {
+                "rateCode": "BW5JEQNK8F3X6J3X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "qHEltUIba70_nNc8O0SmzwTIHaigZduD7E9aI9vJPoY"
+            },
+            "Firewall Manager Policy Public Regions Network Acl-Common": {
+                "rateCode": "4WR3GTTUZZVFUQ8Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
+                "RegionlessRateCode": "wbXyjBfbPWQeyGaZigiu6XCXogRNwCQ2g8bedBqwd84"
+            },
+            "Firewall Manager Policy Public Regions DNS Firewall": {
+                "rateCode": "DSST2KEP2ASEMTKS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "110.0000000000",
                 "RegionlessRateCode": "xM1KEqaLf5S9-VcW4g3D49xlW7LKuIOLh-HvIK8rtqI"
             }
         },

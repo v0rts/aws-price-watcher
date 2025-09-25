@@ -16438,29 +16438,11 @@
     "Database Instance SQL Server Enterprise License included db r3.xlarge Memory optimized Multi-AZ Previous Generation": {
         "EU (Ireland) (Instance Type: db.r3.xlarge, Memory: 30.5 GiB, vCPU: 4, Network Performance: Moderate)": "5.0960000000"
     },
-    "Database Instance SQL Server Express License included db t3.medium General purpose Multi-AZ Current Generation": {
-        "Canada West (Calgary) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate)": "0.1890000000"
-    },
-    "Database Instance SQL Server Express License included db t3.xlarge General purpose Multi-AZ Current Generation": {
-        "Canada West (Calgary) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate)": "0.7570000000"
-    },
-    "Database Instance SQL Server Express License included db t3.small General purpose Multi-AZ Current Generation": {
-        "Canada West (Calgary) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate)": "0.0960000000"
-    },
     "Database Instance SQL Server Standard License included db t3.large General purpose Multi-AZ Current Generation": {
         "Canada West (Calgary) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate)": "1.6720000000"
     },
     "Database Instance SQL Server Standard License included db t3.large General purpose Single-AZ Current Generation": {
         "Canada West (Calgary) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate)": "0.8360000000"
-    },
-    "Database Instance SQL Server Express License included db t3.micro General purpose Multi-AZ Current Generation": {
-        "Canada West (Calgary) (Instance Type: db.t3.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Low to Moderate)": "0.0480000000"
-    },
-    "Database Instance SQL Server Express License included db t3.2xlarge General purpose Multi-AZ Current Generation": {
-        "Canada West (Calgary) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate)": "1.5140000000"
-    },
-    "Database Instance SQL Server Express License included db t3.large General purpose Multi-AZ Current Generation": {
-        "Canada West (Calgary) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate)": "0.3520000000"
     },
     "1Y2RauSKJII6c0mRFRjZ6RhTQf5gpXRNvK7463RrLy0 V1": {
         "Asia Pacific (Thailand)": "0.0230000000"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "paymentcryptography",
         "accessType": "publish",
-        "esIndex": "plc-paymentcryptography-usd-20250909214618",
-        "hawkFilePublicationDate": "2025-07-02T17:20:25Z",
-        "ETLIngestionTriggerDate": "2025-09-09T21:46:18Z",
+        "esIndex": "plc-paymentcryptography-usd-20251003000720",
+        "hawkFilePublicationDate": "2025-10-03T00:07:20Z",
+        "ETLIngestionTriggerDate": "2025-10-03T00:07:20Z",
         "currencyCode": "USD",
         "source": "paymentcryptography",
         "isMapped": "true"

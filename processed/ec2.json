@@ -3328,7 +3328,8 @@
         "Canada (Central)": "3.2088300000",
         "Asia Pacific (Tokyo)": "3.4140500000",
         "Asia Pacific (Sydney)": "3.4886700000",
-        "Asia Pacific (Singapore)": "3.4886700000"
+        "Asia Pacific (Singapore)": "3.4886700000",
+        "Asia Pacific (Mumbai)": "3.3040000000"
     },
     "OnDemand Linux-instancetype-m5n.large": {
         "US West (Oregon)": "0.1190000000",
@@ -4454,7 +4455,8 @@
         "Canada (Central)": "0.4011000000",
         "Asia Pacific (Tokyo)": "0.4267600000",
         "Asia Pacific (Sydney)": "0.4360800000",
-        "Asia Pacific (Singapore)": "0.4360800000"
+        "Asia Pacific (Singapore)": "0.4360800000",
+        "Asia Pacific (Mumbai)": "0.4130000000"
     },
     "OnDemand Linux-instancetype-r5ad.xlarge": {
         "US West (Oregon)": "0.2620000000",
@@ -6552,7 +6554,8 @@
         "Canada (Central)": "6.4176600000",
         "Asia Pacific (Tokyo)": "6.8281000000",
         "Asia Pacific (Sydney)": "6.9773400000",
-        "Asia Pacific (Singapore)": "6.9773400000"
+        "Asia Pacific (Singapore)": "6.9773400000",
+        "Asia Pacific (Mumbai)": "6.6080000000"
     },
     "OnDemand Linux-instancetype-h1.4xlarge": {
         "US West (Oregon)": "0.9360000000",
@@ -7362,7 +7365,8 @@
         "Canada (Central)": "0.8022100000",
         "Asia Pacific (Tokyo)": "0.8535100000",
         "Asia Pacific (Sydney)": "0.8721700000",
-        "Asia Pacific (Singapore)": "0.8721700000"
+        "Asia Pacific (Singapore)": "0.8721700000",
+        "Asia Pacific (Mumbai)": "0.8260000000"
     },
     "OnDemand Linux-instancetype-r6g.2xlarge": {
         "US West (Oregon)": "0.4032000000",
@@ -8299,7 +8303,8 @@
         "Canada (Central)": "1.6044200000",
         "Asia Pacific (Tokyo)": "1.7070200000",
         "Asia Pacific (Sydney)": "1.7443400000",
-        "Asia Pacific (Singapore)": "1.7443400000"
+        "Asia Pacific (Singapore)": "1.7443400000",
+        "Asia Pacific (Mumbai)": "1.6520000000"
     },
     "OnDemand Linux-instancetype-m5d.metal": {
         "US West (Oregon)": "5.4240000000",
@@ -11908,7 +11913,8 @@
         "Canada (Central)": "0.2005500000",
         "Asia Pacific (Tokyo)": "0.2133800000",
         "Asia Pacific (Sydney)": "0.2180400000",
-        "Asia Pacific (Singapore)": "0.2180400000"
+        "Asia Pacific (Singapore)": "0.2180400000",
+        "Asia Pacific (Mumbai)": "0.2065000000"
     },
     "OnDemand Linux-instancetype-m7g.12xlarge": {
         "US West (Oregon)": "1.9584000000",

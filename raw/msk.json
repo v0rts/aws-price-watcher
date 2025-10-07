@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "msk",
         "accessType": "publish",
-        "esIndex": "plc-msk-usd-20250925182609",
-        "hawkFilePublicationDate": "2025-09-25T18:26:09Z",
-        "ETLIngestionTriggerDate": "2025-09-25T18:26:09Z",
+        "esIndex": "plc-msk-usd-20251007201800",
+        "hawkFilePublicationDate": "2025-10-07T20:18:00Z",
+        "ETLIngestionTriggerDate": "2025-10-07T20:18:00Z",
         "currencyCode": "USD",
         "source": "msk",
         "isMapped": "true"
@@ -5424,6 +5424,16 @@
                 "Memory (GiB)": "",
                 "operation": "Storage"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "B2BTNR3PC75MR7XE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1350000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "MEC1-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "BG4SJC96YZJ2KHAT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.0650000000",
@@ -5723,6 +5733,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "B2BTNR3PC75MR7XE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1350000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "BG4SJC96YZJ2KHAT.JRTCKXETXF.6YS6EN2CT7",
@@ -6241,6 +6256,16 @@
                 "Memory (GiB)": "",
                 "operation": "Storage"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "D928ZWZCVN5N9CGA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1350000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "MES1-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "8R6HJ7H582T4J4U9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.0650000000",
@@ -6540,6 +6565,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "D928ZWZCVN5N9CGA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1350000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "8R6HJ7H582T4J4U9.JRTCKXETXF.6YS6EN2CT7",
@@ -7610,6 +7640,16 @@
                 "Memory (GiB)": "",
                 "operation": "Storage"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "WAHT9B7XTMZB7K6Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1280000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "ILC1-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "JFCUWXQGP3M8RW7G.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.9670000000",
@@ -7909,6 +7949,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "WAHT9B7XTMZB7K6Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1280000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "JFCUWXQGP3M8RW7G.JRTCKXETXF.6YS6EN2CT7",
@@ -8427,6 +8472,16 @@
                 "Memory (GiB)": "",
                 "operation": "Storage"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "7PRCN66UQ75JR2ZT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1460000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "EUC2-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "DZJCDS2JAV4XVZ65.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.2140000000",
@@ -8726,6 +8781,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "7PRCN66UQ75JR2ZT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1460000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "DZJCDS2JAV4XVZ65.JRTCKXETXF.6YS6EN2CT7",
@@ -11830,6 +11890,16 @@
                 "Memory (GiB)": "2",
                 "operation": "RunBroker"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "3JHGQWE554P2JB7V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1280000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "EUS1-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "HU2UVE2STFQN4AD9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.9620000000",
@@ -11979,6 +12049,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "3JHGQWE554P2JB7V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1280000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "HU2UVE2STFQN4AD9.JRTCKXETXF.6YS6EN2CT7",
@@ -21379,6 +21454,16 @@
                 "Memory (GiB)": "",
                 "operation": "Storage"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "SSY5GUYPR7JS3E4R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1420000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "APN3-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "Y6Y7FBSAA8F76ZWF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.1720000000",
@@ -21678,6 +21763,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "SSY5GUYPR7JS3E4R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1420000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "Y6Y7FBSAA8F76ZWF.JRTCKXETXF.6YS6EN2CT7",
@@ -23148,6 +23238,16 @@
                 "Memory (GiB)": "",
                 "operation": "Storage"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "SFY7T2F9U89F983E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1380000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "APS6-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "3XWTRQM5XMM7XV6J.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.1000000000",
@@ -23447,6 +23547,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "SFY7T2F9U89F983E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1380000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "3XWTRQM5XMM7XV6J.JRTCKXETXF.6YS6EN2CT7",
@@ -24517,6 +24622,16 @@
                 "Memory (GiB)": "",
                 "operation": "Storage"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "YR23M3R6986BWKCM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1380000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "APS4-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "URBJ3B52A7U2SRD5.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.1000000000",
@@ -24816,6 +24931,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "YR23M3R6986BWKCM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1380000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "URBJ3B52A7U2SRD5.JRTCKXETXF.6YS6EN2CT7",
@@ -26166,6 +26286,16 @@
                 "Memory (GiB)": "",
                 "operation": "Storage"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "MSVWW67Y57S8QJT9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1510000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "APE1-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "EBYWKQ4D95DZ5898.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.3100000000",
@@ -26465,6 +26595,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "MSVWW67Y57S8QJT9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1510000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "EBYWKQ4D95DZ5898.JRTCKXETXF.6YS6EN2CT7",
@@ -26833,6 +26968,16 @@
                 "Memory (GiB)": "2",
                 "operation": "RunBroker"
             },
+            "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA": {
+                "rateCode": "E84NHS4G4JR69Y6E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1460000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA",
+                "Compute Family": "",
+                "usageType": "AFS1-Kafka.mcu.general",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunConnect"
+            },
             "0lEig8okWQwspNjpwbwktSLVZJdw3qMFXaE1Blrjzbo": {
                 "rateCode": "QUV9KYAPSKSH7NPK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.2250000000",
@@ -26982,6 +27127,11 @@
                 "vCPU": "",
                 "Memory (GiB)": "",
                 "operation": "RunVolume"
+            },
+            "RunConnect": {
+                "rateCode": "E84NHS4G4JR69Y6E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1460000000",
+                "RegionlessRateCode": "0Hn4vlnWIWXxLkJowQI9Ep0N7ocOeVJMs6xe_EsVhYA"
             },
             "RunBroker-computefamily-m5.4xlarge": {
                 "rateCode": "QUV9KYAPSKSH7NPK.JRTCKXETXF.6YS6EN2CT7",

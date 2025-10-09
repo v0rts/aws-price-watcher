@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "quicksight",
         "accessType": "publish",
-        "esIndex": "plc-quicksight-usd-20250806231728",
-        "hawkFilePublicationDate": "2025-08-06T23:17:28Z",
-        "ETLIngestionTriggerDate": "2025-08-06T23:17:28Z",
+        "esIndex": "plc-quicksight-usd-20251009175305",
+        "hawkFilePublicationDate": "2025-10-09T17:53:05Z",
+        "ETLIngestionTriggerDate": "2025-10-09T17:53:05Z",
         "currencyCode": "USD",
         "source": "quicksight",
         "isMapped": "true"
@@ -44,7 +44,7 @@
             },
             "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak": {
                 "rateCode": "JBJZ4M3ZB9KQ7QQ6.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "XnT30EmRG58ySq5UK6BIYLyPvqeG26_KCJ04aNwJFcg": {
@@ -89,7 +89,7 @@
             },
             "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw": {
                 "rateCode": "PXAXF94DUTPWK5XE.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             },
             "Enterprise Monthly Monthly per region fee with Q free trial per Month": {
@@ -124,7 +124,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
                 "rateCode": "JBJZ4M3ZB9KQ7QQ6.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "Enterprise SPICE capacity provisioned per GB Mo": {
@@ -169,7 +169,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions per User": {
                 "rateCode": "PXAXF94DUTPWK5XE.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             }
         },
@@ -248,7 +248,7 @@
             },
             "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak": {
                 "rateCode": "TTN2WJDYC236NKSB.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "XnT30EmRG58ySq5UK6BIYLyPvqeG26_KCJ04aNwJFcg": {
@@ -293,7 +293,7 @@
             },
             "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw": {
                 "rateCode": "NWBHWA6ZYWY3XSPZ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             },
             "Enterprise Monthly Monthly per region fee with Q free trial per Month": {
@@ -328,7 +328,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
                 "rateCode": "TTN2WJDYC236NKSB.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "Enterprise SPICE capacity provisioned per GB Mo": {
@@ -373,7 +373,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions per User": {
                 "rateCode": "NWBHWA6ZYWY3XSPZ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             }
         },
@@ -405,7 +405,7 @@
             },
             "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak": {
                 "rateCode": "YK8B5UMGA9K89T24.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "XnT30EmRG58ySq5UK6BIYLyPvqeG26_KCJ04aNwJFcg": {
@@ -445,7 +445,7 @@
             },
             "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw": {
                 "rateCode": "Q8F6CK2FN2YBCKBR.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             },
             "Enterprise Monthly Reader subscriptions free trial per User": {
@@ -475,7 +475,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
                 "rateCode": "YK8B5UMGA9K89T24.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "Enterprise SPICE capacity provisioned per GB Mo": {
@@ -515,7 +515,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions per User": {
                 "rateCode": "Q8F6CK2FN2YBCKBR.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             }
         },
@@ -806,7 +806,7 @@
             },
             "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak": {
                 "rateCode": "FEU4JV8FJTBF2C87.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "XnT30EmRG58ySq5UK6BIYLyPvqeG26_KCJ04aNwJFcg": {
@@ -851,7 +851,7 @@
             },
             "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw": {
                 "rateCode": "3D8P2CCHD2ZENBTX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             },
             "Enterprise Monthly Monthly per region fee with Q free trial per Month": {
@@ -886,7 +886,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
                 "rateCode": "FEU4JV8FJTBF2C87.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "Enterprise SPICE capacity provisioned per GB Mo": {
@@ -931,7 +931,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions per User": {
                 "rateCode": "3D8P2CCHD2ZENBTX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             }
         },
@@ -968,7 +968,7 @@
             },
             "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak": {
                 "rateCode": "MNN8QWNM27PDC75W.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "XnT30EmRG58ySq5UK6BIYLyPvqeG26_KCJ04aNwJFcg": {
@@ -1013,7 +1013,7 @@
             },
             "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw": {
                 "rateCode": "USHJKH83P9NRRPVW.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             },
             "Enterprise Monthly Monthly per region fee with Q free trial per Month": {
@@ -1048,7 +1048,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
                 "rateCode": "MNN8QWNM27PDC75W.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "Enterprise SPICE capacity provisioned per GB Mo": {
@@ -1093,7 +1093,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions per User": {
                 "rateCode": "USHJKH83P9NRRPVW.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             }
         },
@@ -1130,7 +1130,7 @@
             },
             "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak": {
                 "rateCode": "Z68EAFPR8GKFPMVG.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "XnT30EmRG58ySq5UK6BIYLyPvqeG26_KCJ04aNwJFcg": {
@@ -1175,7 +1175,7 @@
             },
             "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw": {
                 "rateCode": "ZJACFPR9YV8YFQKR.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             },
             "Enterprise Monthly Monthly per region fee with Q free trial per Month": {
@@ -1210,7 +1210,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
                 "rateCode": "Z68EAFPR8GKFPMVG.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "Enterprise SPICE capacity provisioned per GB Mo": {
@@ -1255,7 +1255,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions per User": {
                 "rateCode": "ZJACFPR9YV8YFQKR.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             }
         },
@@ -1292,7 +1292,7 @@
             },
             "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak": {
                 "rateCode": "68JEG3NSND2ZA3ER.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "XnT30EmRG58ySq5UK6BIYLyPvqeG26_KCJ04aNwJFcg": {
@@ -1337,7 +1337,7 @@
             },
             "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw": {
                 "rateCode": "YMQK87KCRFNHKJNZ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             },
             "Enterprise Monthly Monthly per region fee with Q free trial per Month": {
@@ -1372,7 +1372,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
                 "rateCode": "68JEG3NSND2ZA3ER.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "Enterprise SPICE capacity provisioned per GB Mo": {
@@ -1417,7 +1417,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions per User": {
                 "rateCode": "YMQK87KCRFNHKJNZ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             }
         },
@@ -1496,7 +1496,7 @@
             },
             "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak": {
                 "rateCode": "VE8JP6ZK22ACANGZ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "XnT30EmRG58ySq5UK6BIYLyPvqeG26_KCJ04aNwJFcg": {
@@ -1541,7 +1541,7 @@
             },
             "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw": {
                 "rateCode": "4FAH8CEMTW4TFC5H.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             },
             "Enterprise Monthly Monthly per region fee with Q free trial per Month": {
@@ -1576,7 +1576,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
                 "rateCode": "VE8JP6ZK22ACANGZ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "Enterprise SPICE capacity provisioned per GB Mo": {
@@ -1621,7 +1621,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions per User": {
                 "rateCode": "4FAH8CEMTW4TFC5H.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             }
         },
@@ -1764,7 +1764,7 @@
             },
             "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak": {
                 "rateCode": "B6DBD5CW2QP6DJ2M.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "XnT30EmRG58ySq5UK6BIYLyPvqeG26_KCJ04aNwJFcg": {
@@ -1809,7 +1809,7 @@
             },
             "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw": {
                 "rateCode": "NRPEXQMFFK9QCAYW.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             },
             "Enterprise Monthly Monthly per region fee with Q free trial per Month": {
@@ -1844,7 +1844,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
                 "rateCode": "B6DBD5CW2QP6DJ2M.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.0000000000",
+                "price": "20.0000000000",
                 "RegionlessRateCode": "Wg9seuNstofEewvAidJdvqCWbkClgkbQnHuIdZ3s3ak"
             },
             "Enterprise SPICE capacity provisioned per GB Mo": {
@@ -1889,7 +1889,7 @@
             },
             "Enterprise Monthly Author Pro subscriptions per User": {
                 "rateCode": "NRPEXQMFFK9QCAYW.JRTCKXETXF.6YS6EN2CT7",
-                "price": "50.0000000000",
+                "price": "40.0000000000",
                 "RegionlessRateCode": "u8TevJXrKYu8N2aQZp36SeenZ27ZLRTU4FNXulFc5Fw"
             }
         },

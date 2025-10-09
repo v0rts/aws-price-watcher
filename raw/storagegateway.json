@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "storagegateway",
         "accessType": "publish",
-        "esIndex": "plc-storagegateway-usd-20250911143404",
-        "hawkFilePublicationDate": "2025-09-11T14:34:04Z",
-        "ETLIngestionTriggerDate": "2025-09-11T14:34:04Z",
+        "esIndex": "plc-storagegateway-usd-20251009170740",
+        "hawkFilePublicationDate": "2025-10-09T17:07:40Z",
+        "ETLIngestionTriggerDate": "2025-10-09T17:07:40Z",
         "currencyCode": "USD",
         "source": "storagegateway",
         "isMapped": "true"
@@ -2344,6 +2344,93 @@
             },
             "StorageGateway UploadedBytes First 12.2 TB": {
                 "rateCode": "J2KB4TTTNMSPMN2J.JRTCKXETXF.SRERGXVDDH",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "rXRK5kKGR2ZSWmyonISLyTyuZHGoZyJarsbDfrcp0oI"
+            }
+        },
+        "Asia Pacific (New Zealand)": {
+            "-uRF3iQFd_cPaXS7zvfc0TPHdBYoV0jtulg3l_kUycs": {
+                "rateCode": "UXESPNDC7MBQ9KJQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0262500000",
+                "RegionlessRateCode": "-uRF3iQFd_cPaXS7zvfc0TPHdBYoV0jtulg3l_kUycs"
+            },
+            "Q1YQ8lQncEWFvPolkyoZt5BwdpjGkttc0BpKA8mePlg": {
+                "rateCode": "E28ER6MS2FR44G2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0047250000",
+                "RegionlessRateCode": "Q1YQ8lQncEWFvPolkyoZt5BwdpjGkttc0BpKA8mePlg"
+            },
+            "R2Xm84Tf2VYze6jWWSjdDziZWzZaxJrAOInTuBqGEOg": {
+                "rateCode": "2U7TV47XV788933S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "R2Xm84Tf2VYze6jWWSjdDziZWzZaxJrAOInTuBqGEOg"
+            },
+            "gw3xYmhI9qN_gu2Oin9BJUvMd5J2xJyaOtNTMWaR_-g": {
+                "rateCode": "XPK2XZA5QX9KDJ4C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0262500000",
+                "RegionlessRateCode": "gw3xYmhI9qN_gu2Oin9BJUvMd5J2xJyaOtNTMWaR_-g"
+            },
+            "iKfJwI7tz8PBq4zwzxoCB1hpR6DDK6vVXdeDdGIySJc": {
+                "rateCode": "4BTQG4PYU66YW9MX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0047250000",
+                "RegionlessRateCode": "iKfJwI7tz8PBq4zwzxoCB1hpR6DDK6vVXdeDdGIySJc"
+            },
+            "p-WX8OlHfOShkLMCBVEWfzSWf1p2QZbKRg-WS0QocZg": {
+                "rateCode": "PXGG4FMGU52BK5Z6.JRTCKXETXF.GFG7H5FKAU",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "p-WX8OlHfOShkLMCBVEWfzSWf1p2QZbKRg-WS0QocZg"
+            },
+            "rXRK5kKGR2ZSWmyonISLyTyuZHGoZyJarsbDfrcp0oI": {
+                "rateCode": "PXGG4FMGU52BK5Z6.JRTCKXETXF.SRERGXVDDH",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "rXRK5kKGR2ZSWmyonISLyTyuZHGoZyJarsbDfrcp0oI"
+            },
+            "StorageGateway Standard Virtual Tape in Library": {
+                "rateCode": "UXESPNDC7MBQ9KJQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0262500000",
+                "RegionlessRateCode": "-uRF3iQFd_cPaXS7zvfc0TPHdBYoV0jtulg3l_kUycs"
+            },
+            "StorageGateway Fee Tape EarlyDelete": {
+                "rateCode": "E28ER6MS2FR44G2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0047250000",
+                "RegionlessRateCode": "Q1YQ8lQncEWFvPolkyoZt5BwdpjGkttc0BpKA8mePlg"
+            },
+            "StorageGateway Fee Glacier Tape Retrieval Current": {
+                "rateCode": "2U7TV47XV788933S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "R2Xm84Tf2VYze6jWWSjdDziZWzZaxJrAOInTuBqGEOg"
+            },
+            "StorageGateway Fee-TapeRetrieval": {
+                "rateCode": "2U7TV47XV788933S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "R2Xm84Tf2VYze6jWWSjdDziZWzZaxJrAOInTuBqGEOg"
+            },
+            "StorageGateway Standard Volume Cached": {
+                "rateCode": "XPK2XZA5QX9KDJ4C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0262500000",
+                "RegionlessRateCode": "gw3xYmhI9qN_gu2Oin9BJUvMd5J2xJyaOtNTMWaR_-g"
+            },
+            "StorageGateway Glacier Archive": {
+                "rateCode": "4BTQG4PYU66YW9MX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0047250000",
+                "RegionlessRateCode": "iKfJwI7tz8PBq4zwzxoCB1hpR6DDK6vVXdeDdGIySJc"
+            },
+            "StorageGateway UploadedBytes Tier 2": {
+                "rateCode": "PXGG4FMGU52BK5Z6.JRTCKXETXF.GFG7H5FKAU",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "p-WX8OlHfOShkLMCBVEWfzSWf1p2QZbKRg-WS0QocZg"
+            },
+            "StorageGateway UploadedBytes Over 12.2TB": {
+                "rateCode": "PXGG4FMGU52BK5Z6.JRTCKXETXF.GFG7H5FKAU",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "p-WX8OlHfOShkLMCBVEWfzSWf1p2QZbKRg-WS0QocZg"
+            },
+            "StorageGateway UploadedBytes Tier 1": {
+                "rateCode": "PXGG4FMGU52BK5Z6.JRTCKXETXF.SRERGXVDDH",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "rXRK5kKGR2ZSWmyonISLyTyuZHGoZyJarsbDfrcp0oI"
+            },
+            "StorageGateway UploadedBytes First 12.2 TB": {
+                "rateCode": "PXGG4FMGU52BK5Z6.JRTCKXETXF.SRERGXVDDH",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "rXRK5kKGR2ZSWmyonISLyTyuZHGoZyJarsbDfrcp0oI"
             }

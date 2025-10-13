@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "bedrockagentcore",
         "accessType": "publish",
-        "esIndex": "plc-bedrockagentcore-usd-20251013175833",
+        "esIndex": "plc-bedrockagentcore-usd-20251013210306",
         "hawkFilePublicationDate": "2025-10-09T04:57:06Z",
-        "ETLIngestionTriggerDate": "2025-10-13T17:58:33Z",
+        "ETLIngestionTriggerDate": "2025-10-13T21:03:06Z",
         "currencyCode": "USD",
         "source": "bedrockagentcore",
         "isMapped": "true"

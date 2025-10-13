@@ -3697,6 +3697,7 @@
         "Asia Pacific (Seoul)": "3.0080900000",
         "Asia Pacific (Mumbai)": "2.9376800000",
         "Asia Pacific (Malaysia)": "3.0815200000",
+        "AWS GovCloud (US-East)": "3.0835900000",
         "AWS GovCloud (US)": "3.0835900000"
     },
     "OnDemand Linux-instancetype-r7i.large": {
@@ -7660,6 +7661,7 @@
         "Asia Pacific (Seoul)": "1.8926000000",
         "Asia Pacific (Mumbai)": "1.8483000000",
         "Asia Pacific (Malaysia)": "1.9388000000",
+        "AWS GovCloud (US-East)": "1.9401000000",
         "AWS GovCloud (US)": "1.9401000000"
     },
     "OnDemand Linux-instancetype-r7i.xlarge": {

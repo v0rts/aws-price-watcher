@@ -341,7 +341,6 @@ if service_list:
 
                 # compare the two objects
                 if json.dumps(existing_contents_obj) != json.dumps(processed_contents):
-                    modified_services.append(sanitized_service_name)
                     modified_service_detail[sanitized_service_name] = ""
                     for metric_name in existing_contents_obj.keys():
                         if metric_name not in processed_contents:
@@ -370,6 +369,10 @@ if service_list:
                                                 modified_service_detail[sanitized_service_name] += "\n  - Price decreased: {} {}  **${:.2f}** → **${:.2f}** 💸".format(metric_name, region_name, old_price, new_price)
                                         except:
                                             modified_service_detail[sanitized_service_name] += "\n  - Price changed: {} {} 💰".format(metric_name, region_name)
+                    if modified_service_detail[sanitized_service_name] == "": # no useful changes
+                        del modified_service_detail[sanitized_service_name]
+                    else:
+                        modified_services.append(sanitized_service_name)
             else:
                 new_services.append(sanitized_service_name)
 

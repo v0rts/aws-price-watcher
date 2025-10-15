@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-10-15T19:49:07Z",
+  "publicationDate" : "2025-10-15T21:17:08Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1476,6 +1476,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonBedrockAgentCore/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonBedrockAgentCore/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonBedrockAgentCore/current/region_index.json"
+    },
+    "AmazonBedrockFoundationModels" : {
+      "offerCode" : "AmazonBedrockFoundationModels",
+      "versionIndexUrl" : "/offers/v1.0/aws/AmazonBedrockFoundationModels/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/AmazonBedrockFoundationModels/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonBedrockFoundationModels/current/region_index.json"
     }
   }
 }

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "polly",
         "accessType": "publish",
-        "esIndex": "plc-polly-usd-20250909214809",
-        "hawkFilePublicationDate": "2025-06-16T14:51:32Z",
-        "ETLIngestionTriggerDate": "2025-09-09T21:48:09Z",
+        "esIndex": "plc-polly-usd-20251016082730",
+        "hawkFilePublicationDate": "2025-10-16T08:27:30Z",
+        "ETLIngestionTriggerDate": "2025-10-16T08:27:30Z",
         "currencyCode": "USD",
         "source": "polly",
         "isMapped": "true"

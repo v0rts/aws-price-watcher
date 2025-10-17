@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "timestream",
         "accessType": "publish",
-        "esIndex": "plc-timestream-usd-20251016190937",
-        "hawkFilePublicationDate": "2025-10-16T19:09:37Z",
-        "ETLIngestionTriggerDate": "2025-10-16T19:09:37Z",
+        "esIndex": "plc-timestream-usd-20251017093028",
+        "hawkFilePublicationDate": "2025-10-17T09:30:28Z",
+        "ETLIngestionTriggerDate": "2025-10-17T09:30:28Z",
         "currencyCode": "USD",
         "source": "timestream",
         "isMapped": "true"
@@ -208,23 +208,6 @@
             "PSRJD24RC95ZCG86 JRTCKXETXF.6YS6EN2CT7 0",
             "WYBVQZ9WF42FSCFA JRTCKXETXF.6YS6EN2CT7 0",
             "Z4KXRDJCKNZY75SE JRTCKXETXF.6YS6EN2CT7 0",
-            "9W5BK65U89RU63XD JRTCKXETXF.6YS6EN2CT7 0",
-            "BQWDH9AEAUSVWD5C JRTCKXETXF.6YS6EN2CT7 0",
-            "CYQRZ3EARBY2Q7B8 JRTCKXETXF.6YS6EN2CT7 0",
-            "DZZDG2BAE263KS2N JRTCKXETXF.6YS6EN2CT7 0",
-            "EAUFAQX5Q6CDDC2C JRTCKXETXF.6YS6EN2CT7 0",
-            "F8KSXS4NC56NFHV3 JRTCKXETXF.6YS6EN2CT7 0",
-            "GERBK45A257HNCQ8 JRTCKXETXF.6YS6EN2CT7 0",
-            "P775DW23EVP33EBY JRTCKXETXF.6YS6EN2CT7 0",
-            "Q5CNW6RZM2M2SCC6 JRTCKXETXF.6YS6EN2CT7 0",
-            "QZBM2ZBNTH3ZGB89 JRTCKXETXF.6YS6EN2CT7 0",
-            "R647PRQY5962G8VH JRTCKXETXF.6YS6EN2CT7 0",
-            "R7K6AFUJ48GX9ZJE JRTCKXETXF.6YS6EN2CT7 0",
-            "TNHDREKDUE6J4EZY JRTCKXETXF.6YS6EN2CT7 0",
-            "TQQ8ZM8PEDPGED3M JRTCKXETXF.6YS6EN2CT7 0",
-            "U92X5NDRT5FGEDFE JRTCKXETXF.6YS6EN2CT7 0",
-            "UV2BHPPGAP7UTNCU JRTCKXETXF.6YS6EN2CT7 0",
-            "YZZG92G837AGFB3M JRTCKXETXF.6YS6EN2CT7 0",
             "25298947WQQWE5WU JRTCKXETXF.6YS6EN2CT7 0",
             "28MASY5RZ5HZKBCS JRTCKXETXF.6YS6EN2CT7 0",
             "63MFBHQMPJFVY53F JRTCKXETXF.6YS6EN2CT7 0",
@@ -903,15 +886,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "P775DW23EVP33EBY JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "P775DW23EVP33EBY.JRTCKXETXF.6YS6EN2CT7",
-                "price": "25.3440000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "95AUJUZSP6J7HKSP JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "95AUJUZSP6J7HKSP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.1120000000",
@@ -1163,15 +1137,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "P775DW23EVP33EBY.JRTCKXETXF.6YS6EN2CT7",
-                "price": "25.3440000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "4Z399ZANQXFJKTDW.JRTCKXETXF.6YS6EN2CT7",
@@ -1905,15 +1870,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "YZZG92G837AGFB3M JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "YZZG92G837AGFB3M.JRTCKXETXF.6YS6EN2CT7",
-                "price": "25.3440000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "BHTZYGUDM7AB74R4 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "BHTZYGUDM7AB74R4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.1120000000",
@@ -2165,15 +2121,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "YZZG92G837AGFB3M.JRTCKXETXF.6YS6EN2CT7",
-                "price": "25.3440000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "Y9CXMJ48YPEA6JQ5.JRTCKXETXF.6YS6EN2CT7",
@@ -2907,15 +2854,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "EAUFAQX5Q6CDDC2C JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "EAUFAQX5Q6CDDC2C.JRTCKXETXF.6YS6EN2CT7",
-                "price": "25.3440000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "KD6MH9BZF52JDYAX JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "KD6MH9BZF52JDYAX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.1120000000",
@@ -3167,15 +3105,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "EAUFAQX5Q6CDDC2C.JRTCKXETXF.6YS6EN2CT7",
-                "price": "25.3440000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "47DFUF95XAJCF9M3.JRTCKXETXF.6YS6EN2CT7",
@@ -3837,15 +3766,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "R7K6AFUJ48GX9ZJE JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "R7K6AFUJ48GX9ZJE.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.6240000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "FQZ5YARE8KQ8H7FY JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "FQZ5YARE8KQ8H7FY.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.5520000000",
@@ -4016,15 +3936,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "R7K6AFUJ48GX9ZJE.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.6240000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "48MU4VCBJFYSGJNA.JRTCKXETXF.6YS6EN2CT7",
@@ -4670,15 +4581,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "U92X5NDRT5FGEDFE JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "U92X5NDRT5FGEDFE.JRTCKXETXF.6YS6EN2CT7",
-                "price": "25.7664000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "63MFBHQMPJFVY53F JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "63MFBHQMPJFVY53F.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.1472000000",
@@ -4903,15 +4805,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "U92X5NDRT5FGEDFE.JRTCKXETXF.6YS6EN2CT7",
-                "price": "25.7664000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "AP8APU7CZWX95JZU.JRTCKXETXF.6YS6EN2CT7",
@@ -5530,15 +5423,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "TNHDREKDUE6J4EZY JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "TNHDREKDUE6J4EZY.JRTCKXETXF.6YS6EN2CT7",
-                "price": "28.3008000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "YB8NGZRTJCVRC8CS JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "YB8NGZRTJCVRC8CS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.3584000000",
@@ -5709,15 +5593,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "TNHDREKDUE6J4EZY.JRTCKXETXF.6YS6EN2CT7",
-                "price": "28.3008000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "9HQEXACK8NFPW8ND.JRTCKXETXF.6YS6EN2CT7",
@@ -6363,15 +6238,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "TQQ8ZM8PEDPGED3M JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "TQQ8ZM8PEDPGED3M.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.3568000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "YDMEDUUFMAKJ87T6 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "YDMEDUUFMAKJ87T6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.4464000000",
@@ -6596,15 +6462,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "TQQ8ZM8PEDPGED3M.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.3568000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "25YQJTD9M3XKEPHX.JRTCKXETXF.6YS6EN2CT7",
@@ -7295,15 +7152,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "9W5BK65U89RU63XD JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "9W5BK65U89RU63XD.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.1456000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "P5X6XX27CZ9FATSS JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "P5X6XX27CZ9FATSS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.4288000000",
@@ -7528,15 +7376,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "9W5BK65U89RU63XD.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.1456000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "9G4PJW8GVHNJKC9P.JRTCKXETXF.6YS6EN2CT7",
@@ -8227,15 +8066,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "GERBK45A257HNCQ8 JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "GERBK45A257HNCQ8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.5680000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "Y86ZS9UQV4H6CUVQ JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "Y86ZS9UQV4H6CUVQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.4640000000",
@@ -8460,15 +8290,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "GERBK45A257HNCQ8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.5680000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "GDM98C5TMY9GAWST.JRTCKXETXF.6YS6EN2CT7",
@@ -9159,15 +8980,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "F8KSXS4NC56NFHV3 JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "F8KSXS4NC56NFHV3.JRTCKXETXF.6YS6EN2CT7",
-                "price": "28.3008000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "28MASY5RZ5HZKBCS JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "28MASY5RZ5HZKBCS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.3584000000",
@@ -9419,15 +9231,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "F8KSXS4NC56NFHV3.JRTCKXETXF.6YS6EN2CT7",
-                "price": "28.3008000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "V7B5RZTHHW5VHJ6Y.JRTCKXETXF.6YS6EN2CT7",
@@ -10161,15 +9964,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "QZBM2ZBNTH3ZGB89 JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "QZBM2ZBNTH3ZGB89.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.6240000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "88W4H22KU6SKXJN8 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "88W4H22KU6SKXJN8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.5520000000",
@@ -10421,15 +10215,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "QZBM2ZBNTH3ZGB89.JRTCKXETXF.6YS6EN2CT7",
-                "price": "30.6240000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "9T2DENWEMYM3Y4CE.JRTCKXETXF.6YS6EN2CT7",
@@ -11163,15 +10948,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "DZZDG2BAE263KS2N JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "DZZDG2BAE263KS2N.JRTCKXETXF.6YS6EN2CT7",
-                "price": "27.2448000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "T64EXZF7NQVB5JKQ JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "T64EXZF7NQVB5JKQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.2704000000",
@@ -11396,15 +11172,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "DZZDG2BAE263KS2N.JRTCKXETXF.6YS6EN2CT7",
-                "price": "27.2448000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "TR73MHKHN8AVSJCZ.JRTCKXETXF.6YS6EN2CT7",
@@ -12095,15 +11862,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "Q5CNW6RZM2M2SCC6 JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "Q5CNW6RZM2M2SCC6.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.9904000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "KNXTREF98UPYVUS9 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "KNXTREF98UPYVUS9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.4992000000",
@@ -12355,15 +12113,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "Q5CNW6RZM2M2SCC6.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.9904000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "2KJAKG6R2HCG5C9P.JRTCKXETXF.6YS6EN2CT7",
@@ -13097,15 +12846,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "R647PRQY5962G8VH JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "R647PRQY5962G8VH.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.9904000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "25298947WQQWE5WU JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "25298947WQQWE5WU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.4992000000",
@@ -13357,15 +13097,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "R647PRQY5962G8VH.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.9904000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "P5ESKYS6VJZGH5ES.JRTCKXETXF.6YS6EN2CT7",
@@ -14099,15 +13830,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "BQWDH9AEAUSVWD5C JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "BQWDH9AEAUSVWD5C.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.9904000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "SR88NDSE3GMVXN8T JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "SR88NDSE3GMVXN8T.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.4992000000",
@@ -14332,15 +14054,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "BQWDH9AEAUSVWD5C.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.9904000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "FSDP779TCMHGR7Z8.JRTCKXETXF.6YS6EN2CT7",
@@ -15031,15 +14744,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "CYQRZ3EARBY2Q7B8 JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "CYQRZ3EARBY2Q7B8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "28.5120000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "7VF9JT6G729HZ45P JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "7VF9JT6G729HZ45P.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.3760000000",
@@ -15282,15 +14986,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "CYQRZ3EARBY2Q7B8.JRTCKXETXF.6YS6EN2CT7",
-                "price": "28.5120000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "C2R3NQ8J7KTPDRYX.JRTCKXETXF.6YS6EN2CT7",
@@ -15942,15 +15637,6 @@
                 "vCPU": "8",
                 "Network Performance": "Up to 10 Gigabit"
             },
-            "UV2BHPPGAP7UTNCU JRTCKXETXF.6YS6EN2CT7 0": {
-                "rateCode": "UV2BHPPGAP7UTNCU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.9904000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
-            },
             "6QRSDTE2E9Q5JEQA JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "6QRSDTE2E9Q5JEQA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "2.4992000000",
@@ -16121,15 +15807,6 @@
                 "Memory": "768 GiB",
                 "vCPU": "96",
                 "Network Performance": "Up to 40 Gigabit"
-            },
-            "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI": {
-                "rateCode": "UV2BHPPGAP7UTNCU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "29.9904000000",
-                "RegionlessRateCode": "OnOQSgyx3TWZjfwDpKRnMllY01hH3i7qN1i28X28aVI",
-                "Instance Type": "db.influxIOIncluded.48xlarge",
-                "Memory": "1536 GiB",
-                "vCPU": "192",
-                "Network Performance": "Up to 50 Gigabit"
             },
             "PQ0opQMlwNd2gi_cyI1Hk7Z6WxR2G1jnfURjkfCh31w": {
                 "rateCode": "6ANEZHS5PRU3FBDX.JRTCKXETXF.6YS6EN2CT7",

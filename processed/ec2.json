@@ -2523,6 +2523,7 @@
         "South America (Sao Paulo)": "5.8646400000",
         "EU (Stockholm)": "4.0848000000",
         "EU (Spain)": "4.0924800000",
+        "EU (Milan)": "4.5225600000",
         "EU (London)": "4.5331200000",
         "EU (Ireland)": "4.0934400000",
         "EU (Frankfurt)": "4.3536000000",
@@ -2532,10 +2533,13 @@
         "Asia Pacific (Sydney)": "4.9824000000",
         "Asia Pacific (Singapore)": "4.3987200000",
         "Asia Pacific (Seoul)": "4.3084800000",
+        "Asia Pacific (Osaka)": "4.8019200000",
         "Asia Pacific (Mumbai)": "2.5910400000",
+        "Asia Pacific (Melbourne)": "4.9814400000",
         "Asia Pacific (Malaysia)": "3.7382400000",
         "Asia Pacific (Jakarta)": "4.3982400000",
-        "Asia Pacific (Hyderabad)": "2.5910400000"
+        "Asia Pacific (Hyderabad)": "2.5910400000",
+        "Asia Pacific (Hong Kong)": "4.8048000000"
     },
     "OnDemand Linux-instancetype-c5.2xlarge": {
         "US West (Oregon)": "0.3400000000",
@@ -3018,6 +3022,7 @@
         "South America (Sao Paulo)": "0.4887200000",
         "EU (Stockholm)": "0.3404000000",
         "EU (Spain)": "0.3410400000",
+        "EU (Milan)": "0.3768800000",
         "EU (London)": "0.3777600000",
         "EU (Ireland)": "0.3411200000",
         "EU (Frankfurt)": "0.3628000000",
@@ -3027,10 +3032,13 @@
         "Asia Pacific (Sydney)": "0.4152000000",
         "Asia Pacific (Singapore)": "0.3665600000",
         "Asia Pacific (Seoul)": "0.3590400000",
+        "Asia Pacific (Osaka)": "0.4001600000",
         "Asia Pacific (Mumbai)": "0.2159200000",
+        "Asia Pacific (Melbourne)": "0.4151200000",
         "Asia Pacific (Malaysia)": "0.3115200000",
         "Asia Pacific (Jakarta)": "0.3665200000",
-        "Asia Pacific (Hyderabad)": "0.2159200000"
+        "Asia Pacific (Hyderabad)": "0.2159200000",
+        "Asia Pacific (Hong Kong)": "0.4004000000"
     },
     "OnDemand Linux-instancetype-p3dn.24xlarge": {
         "US West (Oregon)": "31.2120000000",
@@ -5231,6 +5239,7 @@
         "South America (Sao Paulo)": "3.9097600000",
         "EU (Stockholm)": "2.7232000000",
         "EU (Spain)": "2.7283200000",
+        "EU (Milan)": "3.0150400000",
         "EU (London)": "3.0220800000",
         "EU (Ireland)": "2.7289600000",
         "EU (Frankfurt)": "2.9024000000",
@@ -5240,10 +5249,13 @@
         "Asia Pacific (Sydney)": "3.3216000000",
         "Asia Pacific (Singapore)": "2.9324800000",
         "Asia Pacific (Seoul)": "2.8723200000",
+        "Asia Pacific (Osaka)": "3.2012800000",
         "Asia Pacific (Mumbai)": "1.7273600000",
+        "Asia Pacific (Melbourne)": "3.3209600000",
         "Asia Pacific (Malaysia)": "2.4921600000",
         "Asia Pacific (Jakarta)": "2.9321600000",
-        "Asia Pacific (Hyderabad)": "1.7273600000"
+        "Asia Pacific (Hyderabad)": "1.7273600000",
+        "Asia Pacific (Hong Kong)": "3.2032000000"
     },
     "OnDemand Linux-instancetype-x2gd.large": {
         "US West (Oregon)": "0.1670000000",
@@ -5277,6 +5289,7 @@
         "South America (Sao Paulo)": "2.9323200000",
         "EU (Stockholm)": "2.0424000000",
         "EU (Spain)": "2.0462400000",
+        "EU (Milan)": "2.2612800000",
         "EU (London)": "2.2665600000",
         "EU (Ireland)": "2.0467200000",
         "EU (Frankfurt)": "2.1768000000",
@@ -5286,10 +5299,13 @@
         "Asia Pacific (Sydney)": "2.4912000000",
         "Asia Pacific (Singapore)": "2.1993600000",
         "Asia Pacific (Seoul)": "2.1542400000",
+        "Asia Pacific (Osaka)": "2.4009600000",
         "Asia Pacific (Mumbai)": "1.2955200000",
+        "Asia Pacific (Melbourne)": "2.4907200000",
         "Asia Pacific (Malaysia)": "1.8691200000",
         "Asia Pacific (Jakarta)": "2.1991200000",
-        "Asia Pacific (Hyderabad)": "1.2955200000"
+        "Asia Pacific (Hyderabad)": "1.2955200000",
+        "Asia Pacific (Hong Kong)": "2.4024000000"
     },
     "OnDemand Linux-instancetype-r7a.large": {
         "US West (Oregon)": "0.1521500000",
@@ -6710,6 +6726,7 @@
         "South America (Sao Paulo)": "0.0610900000",
         "EU (Stockholm)": "0.0425500000",
         "EU (Spain)": "0.0426300000",
+        "EU (Milan)": "0.0471100000",
         "EU (London)": "0.0472200000",
         "EU (Ireland)": "0.0426400000",
         "EU (Frankfurt)": "0.0453500000",
@@ -6719,10 +6736,13 @@
         "Asia Pacific (Sydney)": "0.0519000000",
         "Asia Pacific (Singapore)": "0.0458200000",
         "Asia Pacific (Seoul)": "0.0448800000",
+        "Asia Pacific (Osaka)": "0.0500200000",
         "Asia Pacific (Mumbai)": "0.0269900000",
+        "Asia Pacific (Melbourne)": "0.0518900000",
         "Asia Pacific (Malaysia)": "0.0389400000",
         "Asia Pacific (Jakarta)": "0.0458200000",
-        "Asia Pacific (Hyderabad)": "0.0269900000"
+        "Asia Pacific (Hyderabad)": "0.0269900000",
+        "Asia Pacific (Hong Kong)": "0.0500500000"
     },
     "OnDemand Linux-instancetype-m8g.metal-48xl": {
         "US West (Oregon)": "8.6169600000",
@@ -8469,6 +8489,7 @@
         "South America (Sao Paulo)": "5.8646400000",
         "EU (Stockholm)": "4.0848000000",
         "EU (Spain)": "4.0924800000",
+        "EU (Milan)": "4.5225600000",
         "EU (London)": "4.5331200000",
         "EU (Ireland)": "4.0934400000",
         "EU (Frankfurt)": "4.3536000000",
@@ -8478,10 +8499,13 @@
         "Asia Pacific (Sydney)": "4.9824000000",
         "Asia Pacific (Singapore)": "4.3987200000",
         "Asia Pacific (Seoul)": "4.3084800000",
+        "Asia Pacific (Osaka)": "4.8019200000",
         "Asia Pacific (Mumbai)": "2.5910400000",
+        "Asia Pacific (Melbourne)": "4.9814400000",
         "Asia Pacific (Malaysia)": "3.7382400000",
         "Asia Pacific (Jakarta)": "4.3982400000",
-        "Asia Pacific (Hyderabad)": "2.5910400000"
+        "Asia Pacific (Hyderabad)": "2.5910400000",
+        "Asia Pacific (Hong Kong)": "4.8048000000"
     },
     "OnDemand Linux-instancetype-r5b.2xlarge": {
         "US West (Oregon)": "0.5960000000",
@@ -8540,6 +8564,7 @@
         "South America (Sao Paulo)": "0.1221800000",
         "EU (Stockholm)": "0.0851000000",
         "EU (Spain)": "0.0852600000",
+        "EU (Milan)": "0.0942200000",
         "EU (London)": "0.0944400000",
         "EU (Ireland)": "0.0852800000",
         "EU (Frankfurt)": "0.0907000000",
@@ -8549,10 +8574,13 @@
         "Asia Pacific (Sydney)": "0.1038000000",
         "Asia Pacific (Singapore)": "0.0916400000",
         "Asia Pacific (Seoul)": "0.0897600000",
+        "Asia Pacific (Osaka)": "0.1000400000",
         "Asia Pacific (Mumbai)": "0.0539800000",
+        "Asia Pacific (Melbourne)": "0.1037800000",
         "Asia Pacific (Malaysia)": "0.0778800000",
         "Asia Pacific (Jakarta)": "0.0916300000",
-        "Asia Pacific (Hyderabad)": "0.0539800000"
+        "Asia Pacific (Hyderabad)": "0.0539800000",
+        "Asia Pacific (Hong Kong)": "0.1001000000"
     },
     "OnDemand Linux-instancetype-g4dn.xlarge": {
         "US West (Oregon)": "0.5260000000",
@@ -11428,6 +11456,7 @@
         "South America (Sao Paulo)": "0.9774400000",
         "EU (Stockholm)": "0.6808000000",
         "EU (Spain)": "0.6820800000",
+        "EU (Milan)": "0.7537600000",
         "EU (London)": "0.7555200000",
         "EU (Ireland)": "0.6822400000",
         "EU (Frankfurt)": "0.7256000000",
@@ -11437,10 +11466,13 @@
         "Asia Pacific (Sydney)": "0.8304000000",
         "Asia Pacific (Singapore)": "0.7331200000",
         "Asia Pacific (Seoul)": "0.7180800000",
+        "Asia Pacific (Osaka)": "0.8003200000",
         "Asia Pacific (Mumbai)": "0.4318400000",
+        "Asia Pacific (Melbourne)": "0.8302400000",
         "Asia Pacific (Malaysia)": "0.6230400000",
         "Asia Pacific (Jakarta)": "0.7330400000",
-        "Asia Pacific (Hyderabad)": "0.4318400000"
+        "Asia Pacific (Hyderabad)": "0.4318400000",
+        "Asia Pacific (Hong Kong)": "0.8008000000"
     },
     "OnDemand Linux-instancetype-m5a.8xlarge": {
         "US West (Oregon)": "1.3760000000",
@@ -12404,6 +12436,7 @@
         "South America (Sao Paulo)": "1.9548800000",
         "EU (Stockholm)": "1.3616000000",
         "EU (Spain)": "1.3641600000",
+        "EU (Milan)": "1.5075200000",
         "EU (London)": "1.5110400000",
         "EU (Ireland)": "1.3644800000",
         "EU (Frankfurt)": "1.4512000000",
@@ -12413,10 +12446,13 @@
         "Asia Pacific (Sydney)": "1.6608000000",
         "Asia Pacific (Singapore)": "1.4662400000",
         "Asia Pacific (Seoul)": "1.4361600000",
+        "Asia Pacific (Osaka)": "1.6006400000",
         "Asia Pacific (Mumbai)": "0.8636800000",
+        "Asia Pacific (Melbourne)": "1.6604800000",
         "Asia Pacific (Malaysia)": "1.2460800000",
         "Asia Pacific (Jakarta)": "1.4660800000",
-        "Asia Pacific (Hyderabad)": "0.8636800000"
+        "Asia Pacific (Hyderabad)": "0.8636800000",
+        "Asia Pacific (Hong Kong)": "1.6016000000"
     },
     "OnDemand Linux-instancetype-m6in.32xlarge": {
         "US West (Oregon)": "8.9107200000",
@@ -12550,6 +12586,7 @@
         "South America (Sao Paulo)": "11.7292800000",
         "EU (Stockholm)": "8.1696000000",
         "EU (Spain)": "8.1849600000",
+        "EU (Milan)": "9.0451200000",
         "EU (London)": "9.0662400000",
         "EU (Ireland)": "8.1868800000",
         "EU (Frankfurt)": "8.7072000000",
@@ -12559,10 +12596,13 @@
         "Asia Pacific (Sydney)": "9.9648000000",
         "Asia Pacific (Singapore)": "8.7974400000",
         "Asia Pacific (Seoul)": "8.6169600000",
+        "Asia Pacific (Osaka)": "9.6038400000",
         "Asia Pacific (Mumbai)": "5.1820800000",
+        "Asia Pacific (Melbourne)": "9.9628800000",
         "Asia Pacific (Malaysia)": "7.4764800000",
         "Asia Pacific (Jakarta)": "8.7964800000",
-        "Asia Pacific (Hyderabad)": "5.1820800000"
+        "Asia Pacific (Hyderabad)": "5.1820800000",
+        "Asia Pacific (Hong Kong)": "9.6096000000"
     },
     "OnDemand Linux-instancetype-t3.micro": {
         "US West (Oregon)": "0.0104000000",
@@ -12776,6 +12816,7 @@
         "South America (Sao Paulo)": "11.7292800000",
         "EU (Stockholm)": "8.1696000000",
         "EU (Spain)": "8.1849600000",
+        "EU (Milan)": "9.0451200000",
         "EU (London)": "9.0662400000",
         "EU (Ireland)": "8.1868800000",
         "EU (Frankfurt)": "8.7072000000",
@@ -12785,10 +12826,13 @@
         "Asia Pacific (Sydney)": "9.9648000000",
         "Asia Pacific (Singapore)": "8.7974400000",
         "Asia Pacific (Seoul)": "8.6169600000",
+        "Asia Pacific (Osaka)": "9.6038400000",
         "Asia Pacific (Mumbai)": "5.1820800000",
+        "Asia Pacific (Melbourne)": "9.9628800000",
         "Asia Pacific (Malaysia)": "7.4764800000",
         "Asia Pacific (Jakarta)": "8.7964800000",
-        "Asia Pacific (Hyderabad)": "5.1820800000"
+        "Asia Pacific (Hyderabad)": "5.1820800000",
+        "Asia Pacific (Hong Kong)": "9.6096000000"
     },
     "OnDemand Linux-instancetype-a1.xlarge": {
         "US West (Oregon)": "0.1020000000",
@@ -15795,6 +15839,7 @@
         "South America (Sao Paulo)": "0.2443600000",
         "EU (Stockholm)": "0.1702000000",
         "EU (Spain)": "0.1705200000",
+        "EU (Milan)": "0.1884400000",
         "EU (London)": "0.1888800000",
         "EU (Ireland)": "0.1705600000",
         "EU (Frankfurt)": "0.1814000000",
@@ -15804,10 +15849,13 @@
         "Asia Pacific (Sydney)": "0.2076000000",
         "Asia Pacific (Singapore)": "0.1832800000",
         "Asia Pacific (Seoul)": "0.1795200000",
+        "Asia Pacific (Osaka)": "0.2000800000",
         "Asia Pacific (Mumbai)": "0.1079600000",
+        "Asia Pacific (Melbourne)": "0.2075600000",
         "Asia Pacific (Malaysia)": "0.1557600000",
         "Asia Pacific (Jakarta)": "0.1832600000",
-        "Asia Pacific (Hyderabad)": "0.1079600000"
+        "Asia Pacific (Hyderabad)": "0.1079600000",
+        "Asia Pacific (Hong Kong)": "0.2002000000"
     },
     "OnDemand Linux-instancetype-c4.xlarge": {
         "US West (Oregon)": "0.1990000000",

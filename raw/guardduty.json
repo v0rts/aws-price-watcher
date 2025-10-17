@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "guardduty",
         "accessType": "publish",
-        "esIndex": "plc-guardduty-usd-20251008234735",
-        "hawkFilePublicationDate": "2025-10-08T23:47:35Z",
-        "ETLIngestionTriggerDate": "2025-10-08T23:47:35Z",
+        "esIndex": "plc-guardduty-usd-20251017220221",
+        "hawkFilePublicationDate": "2025-10-17T22:02:21Z",
+        "ETLIngestionTriggerDate": "2025-10-17T22:02:21Z",
         "currencyCode": "USD",
         "source": "guardduty",
         "isMapped": "true"

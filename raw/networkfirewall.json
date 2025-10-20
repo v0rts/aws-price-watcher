@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "networkfirewall",
         "accessType": "publish",
-        "esIndex": "plc-networkfirewall-usd-20250927175147",
-        "hawkFilePublicationDate": "2025-09-27T17:51:47Z",
-        "ETLIngestionTriggerDate": "2025-09-27T17:51:47Z",
+        "esIndex": "plc-networkfirewall-usd-20251020181612",
+        "hawkFilePublicationDate": "2025-10-20T18:16:12Z",
+        "ETLIngestionTriggerDate": "2025-10-20T18:16:12Z",
         "currencyCode": "USD",
         "source": "networkfirewall",
         "isMapped": "true"
@@ -846,6 +846,11 @@
                 "rateCode": "7RY6A6RE9DGXC32Z.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3950000000",
                 "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "3FO8XdMvEE6cIn_qnNh-sYc3MbxYMNWDQ2U2QEghFK4": {
+                "rateCode": "6M6ZDDUXGJQSFFGD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "3FO8XdMvEE6cIn_qnNh-sYc3MbxYMNWDQ2U2QEghFK4"
             },
             "DFri8Ovyb4UccFQePikBW0Dc3NXSZ4PNBfYYhfVOLSQ": {
                 "rateCode": "RD2FCCHFRUVK2YS5.JRTCKXETXF.6YS6EN2CT7",

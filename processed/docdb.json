@@ -2248,5 +2248,23 @@
         "Africa (Cape Town)": "0.0250000000",
         "AWS GovCloud (US-East)": "0.0360000000",
         "AWS GovCloud (US)": "0.0360000000"
+    },
+    "[Memory optimized OnDemand]": {
+        "Asia Pacific (Mumbai) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.12xlarge)": "7.5339180000",
+        "Asia Pacific (Mumbai) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.16xlarge)": "10.0500074400",
+        "Asia Pacific (Mumbai) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.2xlarge)": "1.2556530000",
+        "Asia Pacific (Mumbai) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.4xlarge)": "2.5113060000",
+        "Asia Pacific (Mumbai) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.8xlarge)": "5.0250037200",
+        "Asia Pacific (Mumbai) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.large)": "0.3139132500",
+        "Asia Pacific (Mumbai) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.xlarge)": "0.6278265000"
+    },
+    "[Memory optimized OnDemand IO-Optimized-DocDB]": {
+        "Asia Pacific (Mumbai) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.12xlarge)": "8.2873098000",
+        "Asia Pacific (Mumbai) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.16xlarge)": "11.0549914000",
+        "Asia Pacific (Mumbai) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.2xlarge)": "1.3812183000",
+        "Asia Pacific (Mumbai) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.4xlarge)": "2.7624366000",
+        "Asia Pacific (Mumbai) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.8xlarge)": "5.5274957000",
+        "Asia Pacific (Mumbai) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.large)": "0.3453308000",
+        "Asia Pacific (Mumbai) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r8g.xlarge)": "0.6906616000"
     }
 }

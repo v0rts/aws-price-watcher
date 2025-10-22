@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lambda",
         "accessType": "publish",
-        "esIndex": "plc-lambda-usd-20250918194206",
-        "hawkFilePublicationDate": "2025-08-28T15:37:58Z",
-        "ETLIngestionTriggerDate": "2025-09-18T19:42:06Z",
+        "esIndex": "plc-lambda-usd-20251022184010",
+        "hawkFilePublicationDate": "2025-10-22T18:40:10Z",
+        "ETLIngestionTriggerDate": "2025-10-22T18:40:10Z",
         "currencyCode": "USD",
         "source": "lambda",
         "isMapped": "true"
@@ -4798,6 +4798,11 @@
                 "rateCode": "VNPDSTBRW789A5JU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000043982",
                 "RegionlessRateCode": "B2Ay5ThD75MIfMj642uq6_NUrm4EtdgsBk9RaX_x_DM"
+            },
+            "Iz64a2LESXAj7d7cogQMkslYLf9-6Wgke0-_rOOQcWg": {
+                "rateCode": "DZ39HQ4UJND3T4ZS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2430000000",
+                "RegionlessRateCode": "Iz64a2LESXAj7d7cogQMkslYLf9-6Wgke0-_rOOQcWg"
             },
             "PPM72pvTLCKpHpJ-ijsxEFXwqsXRnwtvdNnrlb6BFo8": {
                 "rateCode": "T34KQWJP89CNB5GZ.JRTCKXETXF.6YS6EN2CT7",

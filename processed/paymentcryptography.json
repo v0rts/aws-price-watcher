@@ -10,7 +10,8 @@
         "Asia Pacific (Tokyo)": "0.0000630000",
         "Asia Pacific (Singapore)": "0.0000600000",
         "Asia Pacific (Osaka)": "0.0000630000",
-        "Asia Pacific (Mumbai)": "0.0000510000"
+        "Asia Pacific (Mumbai)": "0.0000510000",
+        "Africa (Cape Town)": "0.0000670000"
     },
     "API Request 20000000 to 220000000": {
         "US West (Oregon)": "0.0000750000",
@@ -23,7 +24,8 @@
         "Asia Pacific (Tokyo)": "0.0000800000",
         "Asia Pacific (Singapore)": "0.0000770000",
         "Asia Pacific (Osaka)": "0.0000800000",
-        "Asia Pacific (Mumbai)": "0.0000660000"
+        "Asia Pacific (Mumbai)": "0.0000660000",
+        "Africa (Cape Town)": "0.0000850000"
     },
     "Encryption Key": {
         "US West (Oregon)": "1.0000000000",
@@ -36,7 +38,8 @@
         "Asia Pacific (Tokyo)": "1.0000000000",
         "Asia Pacific (Singapore)": "1.0000000000",
         "Asia Pacific (Osaka)": "1.0000000000",
-        "Asia Pacific (Mumbai)": "1.0000000000"
+        "Asia Pacific (Mumbai)": "1.0000000000",
+        "Africa (Cape Town)": "1.0000000000"
     },
     "API Request 0 to 20000000": {
         "US West (Oregon)": "0.0002000000",
@@ -49,6 +52,7 @@
         "Asia Pacific (Tokyo)": "0.0002500000",
         "Asia Pacific (Singapore)": "0.0002400000",
         "Asia Pacific (Osaka)": "0.0002500000",
-        "Asia Pacific (Mumbai)": "0.0002060000"
+        "Asia Pacific (Mumbai)": "0.0002060000",
+        "Africa (Cape Town)": "0.0002660000"
     }
 }

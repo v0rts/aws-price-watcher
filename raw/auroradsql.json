@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "auroradsql",
         "accessType": "publish",
-        "esIndex": "plc-auroradsql-usd-20250909184548",
-        "hawkFilePublicationDate": "2025-07-02T18:40:32Z",
-        "ETLIngestionTriggerDate": "2025-09-09T18:45:48Z",
+        "esIndex": "plc-auroradsql-usd-20251023185012",
+        "hawkFilePublicationDate": "2025-10-23T18:50:12Z",
+        "ETLIngestionTriggerDate": "2025-10-23T18:50:12Z",
         "currencyCode": "USD",
         "source": "auroradsql",
         "isMapped": "true"
@@ -80,6 +80,18 @@
             "t4NRJpX8btdRzpM9cp4_EDaHOCHJxFFJ3ghdEIoSR0Q": {
                 "rateCode": "U9ND7CQ35EYZ63JC.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3600000000",
+                "RegionlessRateCode": "t4NRJpX8btdRzpM9cp4_EDaHOCHJxFFJ3ghdEIoSR0Q"
+            }
+        },
+        "EU (Frankfurt)": {
+            "Wq0rpp_5kAbT0Wvf1TJtMZ_yM2_JfdXU-VcSDyhEcyc": {
+                "rateCode": "F7CHUSRJ35WATKK8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000095000",
+                "RegionlessRateCode": "Wq0rpp_5kAbT0Wvf1TJtMZ_yM2_JfdXU-VcSDyhEcyc"
+            },
+            "t4NRJpX8btdRzpM9cp4_EDaHOCHJxFFJ3ghdEIoSR0Q": {
+                "rateCode": "W66A3E33JPHCMYSA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4500000000",
                 "RegionlessRateCode": "t4NRJpX8btdRzpM9cp4_EDaHOCHJxFFJ3ghdEIoSR0Q"
             }
         },

@@ -1270,10 +1270,10 @@
         "AWS GovCloud (US) (Country: Mayotte)": "0.6201000000"
     },
     "[Outbound Call Toll] Outbound Call Toll Cocos Islands 0 Inf": {
-        "US West (Oregon) (Country: Cocos Islands)": "0.1833000000",
-        "US East (N. Virginia) (Country: Cocos Islands)": "0.1833000000",
-        "Canada (Central) (Country: Cocos Islands)": "0.1833000000",
-        "AWS GovCloud (US) (Country: Cocos Islands)": "0.1833000000"
+        "US West (Oregon) (Country: Cocos (Keeling) Islands)": "0.1833000000",
+        "US East (N. Virginia) (Country: Cocos (Keeling) Islands)": "0.1833000000",
+        "Canada (Central) (Country: Cocos (Keeling) Islands)": "0.1833000000",
+        "AWS GovCloud (US) (Country: Cocos (Keeling) Islands)": "0.1833000000"
     },
     "[Outbound Call Toll] Outbound Call Toll Palestine 0 Inf": {
         "US West (Oregon) (Country: Palestine)": "0.2649000000",

@@ -1727,6 +1727,7 @@
         "US West (Oregon) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 6.8544000000)": "6.8544000000",
         "US East (Ohio) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 6.8544000000)": "6.8544000000",
         "US East (N. Virginia) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 6.8544000000)": "6.8544000000",
+        "EU (Ireland) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 7.6608000000)": "7.6608000000",
         "EU (Frankfurt) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 8.1216000000)": "8.1216000000",
         "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 8.8128000000)": "8.8128000000",
         "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 8.4096000000)": "8.4096000000"
@@ -2065,6 +2066,7 @@
         "EU (Ireland) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 4.4815680000)": "4.4815680000",
         "EU (Frankfurt) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 4.7511360000)": "4.7511360000",
         "Asia Pacific (Tokyo) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 5.1554880000)": "5.1554880000",
+        "Asia Pacific (Sydney) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 5.0544000000)": "5.0544000000",
         "Asia Pacific (Singapore) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 4.9196160000)": "4.9196160000"
     },
     "[Compute Instance] Compute Instance m6in 16xlarge;Compute Instance m6in 16xlarge Linux": {
@@ -2074,6 +2076,7 @@
         "EU (Ireland) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 5.9754240000)": "5.9754240000",
         "EU (Frankfurt) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 6.3348480000)": "6.3348480000",
         "Asia Pacific (Tokyo) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 6.8739840000)": "6.8739840000",
+        "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 6.7392000000)": "6.7392000000",
         "Asia Pacific (Singapore) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 6.5594880000)": "6.5594880000"
     },
     "[Compute Instance] Compute Instance m6in 24xlarge;Compute Instance m6in 24xlarge Linux": {
@@ -2083,6 +2086,7 @@
         "EU (Ireland) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 8.9631360000)": "8.9631360000",
         "EU (Frankfurt) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 9.5022720000)": "9.5022720000",
         "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 10.3109760000)": "10.3109760000",
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 10.1088000000)": "10.1088000000",
         "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 9.8392320000)": "9.8392320000"
     },
     "[Compute Instance] Compute Instance m6in 2xlarge;Compute Instance m6in 2xlarge Linux": {
@@ -2092,6 +2096,7 @@
         "EU (Ireland) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 0.7469280000)": "0.7469280000",
         "EU (Frankfurt) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 0.7918560000)": "0.7918560000",
         "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 0.8592480000)": "0.8592480000",
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 0.8424000000)": "0.8424000000",
         "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 0.8199360000)": "0.8199360000"
     },
     "[Compute Instance] Compute Instance m6in 32xlarge;Compute Instance m6in 32xlarge Linux": {
@@ -2101,6 +2106,7 @@
         "EU (Ireland) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 11.9508480000)": "11.9508480000",
         "EU (Frankfurt) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 12.6696960000)": "12.6696960000",
         "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 13.7479680000)": "13.7479680000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 13.4784000000)": "13.4784000000",
         "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 13.1189760000)": "13.1189760000"
     },
     "[Compute Instance] Compute Instance m6in 4xlarge;Compute Instance m6in 4xlarge Linux": {
@@ -2110,6 +2116,7 @@
         "EU (Ireland) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 1.4938560000)": "1.4938560000",
         "EU (Frankfurt) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 1.5837120000)": "1.5837120000",
         "Asia Pacific (Tokyo) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 1.7184960000)": "1.7184960000",
+        "Asia Pacific (Sydney) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 1.6848000000)": "1.6848000000",
         "Asia Pacific (Singapore) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 1.6398720000)": "1.6398720000"
     },
     "[Compute Instance] Compute Instance m6in 8xlarge;Compute Instance m6in 8xlarge Linux": {
@@ -2119,6 +2126,7 @@
         "EU (Ireland) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 2.9877120000)": "2.9877120000",
         "EU (Frankfurt) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 3.1674240000)": "3.1674240000",
         "Asia Pacific (Tokyo) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 3.4369920000)": "3.4369920000",
+        "Asia Pacific (Sydney) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 3.3696000000)": "3.3696000000",
         "Asia Pacific (Singapore) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 3.2797440000)": "3.2797440000"
     },
     "[Compute Instance] Compute Instance m6in large;Compute Instance m6in large Linux": {
@@ -2128,6 +2136,7 @@
         "EU (Ireland) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.1867320000)": "0.1867320000",
         "EU (Frankfurt) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.1979640000)": "0.1979640000",
         "Asia Pacific (Tokyo) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.2148120000)": "0.2148120000",
+        "Asia Pacific (Sydney) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.2106000000)": "0.2106000000",
         "Asia Pacific (Singapore) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.2049840000)": "0.2049840000"
     },
     "[Compute Instance] Compute Instance m6in metal;Compute Instance m6in metal Linux": {
@@ -2137,6 +2146,7 @@
         "EU (Ireland) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 11.9508480000)": "11.9508480000",
         "EU (Frankfurt) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 12.6696960000)": "12.6696960000",
         "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 13.7479680000)": "13.7479680000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 13.4784000000)": "13.4784000000",
         "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 13.1189760000)": "13.1189760000"
     },
     "[Compute Instance] Compute Instance m6in xlarge;Compute Instance m6in xlarge Linux": {
@@ -2146,6 +2156,7 @@
         "EU (Ireland) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.3734640000)": "0.3734640000",
         "EU (Frankfurt) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.3959280000)": "0.3959280000",
         "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.4296240000)": "0.4296240000",
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.4212000000)": "0.4212000000",
         "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.4099680000)": "0.4099680000"
     },
     "[Compute Instance] Compute Instance r5 12xlarge;Compute Instance r5 12xlarge Linux": {
@@ -2573,77 +2584,110 @@
         "US East (Ohio) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.2659200000)": "3.2659200000",
         "US East (N. Virginia) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.2659200000)": "3.2659200000",
         "EU (Ireland) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.6547200000)": "3.6547200000",
-        "EU (Frankfurt) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.9398400000)": "3.9398400000"
+        "EU (Frankfurt) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.9398400000)": "3.9398400000",
+        "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.9398400000)": "3.9398400000",
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.9139200000)": "3.9139200000",
+        "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.9398400000)": "3.9398400000"
     },
     "[Compute Instance] Compute Instance r6a 16xlarge;Compute Instance r6a 16xlarge Linux": {
         "US West (Oregon) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 4.3545600000)": "4.3545600000",
         "US East (Ohio) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 4.3545600000)": "4.3545600000",
         "US East (N. Virginia) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 4.3545600000)": "4.3545600000",
         "EU (Ireland) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 4.8729600000)": "4.8729600000",
-        "EU (Frankfurt) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 5.2531200000)": "5.2531200000"
+        "EU (Frankfurt) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 5.2531200000)": "5.2531200000",
+        "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 5.2531200000)": "5.2531200000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 5.2185600000)": "5.2185600000",
+        "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 5.2531200000)": "5.2531200000"
     },
     "[Compute Instance] Compute Instance r6a 24xlarge;Compute Instance r6a 24xlarge Linux": {
         "US West (Oregon) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 6.5318400000)": "6.5318400000",
         "US East (Ohio) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 6.5318400000)": "6.5318400000",
         "US East (N. Virginia) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 6.5318400000)": "6.5318400000",
         "EU (Ireland) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 7.3094400000)": "7.3094400000",
-        "EU (Frankfurt) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 7.8796800000)": "7.8796800000"
+        "EU (Frankfurt) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 7.8796800000)": "7.8796800000",
+        "Asia Pacific (Tokyo) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 7.8796800000)": "7.8796800000",
+        "Asia Pacific (Sydney) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 7.8278400000)": "7.8278400000",
+        "Asia Pacific (Singapore) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 7.8796800000)": "7.8796800000"
     },
     "[Compute Instance] Compute Instance r6a 2xlarge;Compute Instance r6a 2xlarge Linux": {
         "US West (Oregon) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.5443200000)": "0.5443200000",
         "US East (Ohio) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.5443200000)": "0.5443200000",
         "US East (N. Virginia) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.5443200000)": "0.5443200000",
         "EU (Ireland) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.6091200000)": "0.6091200000",
-        "EU (Frankfurt) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.6566400000)": "0.6566400000"
+        "EU (Frankfurt) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.6566400000)": "0.6566400000",
+        "Asia Pacific (Tokyo) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.6566400000)": "0.6566400000",
+        "Asia Pacific (Sydney) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.6523200000)": "0.6523200000",
+        "Asia Pacific (Singapore) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.6566400000)": "0.6566400000"
     },
     "[Compute Instance] Compute Instance r6a 32xlarge;Compute Instance r6a 32xlarge Linux": {
         "US West (Oregon) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 8.7091200000)": "8.7091200000",
         "US East (Ohio) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 8.7091200000)": "8.7091200000",
         "US East (N. Virginia) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 8.7091200000)": "8.7091200000",
         "EU (Ireland) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 9.7459200000)": "9.7459200000",
-        "EU (Frankfurt) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 10.5062400000)": "10.5062400000"
+        "EU (Frankfurt) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 10.5062400000)": "10.5062400000",
+        "Asia Pacific (Tokyo) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 10.5062400000)": "10.5062400000",
+        "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 10.4371200000)": "10.4371200000",
+        "Asia Pacific (Singapore) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 10.5062400000)": "10.5062400000"
     },
     "[Compute Instance] Compute Instance r6a 48xlarge;Compute Instance r6a 48xlarge Linux": {
         "US West (Oregon) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 13.0636800000)": "13.0636800000",
         "US East (Ohio) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 13.0636800000)": "13.0636800000",
         "US East (N. Virginia) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 13.0636800000)": "13.0636800000",
         "EU (Ireland) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 14.6188800000)": "14.6188800000",
-        "EU (Frankfurt) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 15.7593600000)": "15.7593600000"
+        "EU (Frankfurt) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 15.7593600000)": "15.7593600000",
+        "Asia Pacific (Tokyo) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 15.7593600000)": "15.7593600000",
+        "Asia Pacific (Sydney) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 15.6556800000)": "15.6556800000",
+        "Asia Pacific (Singapore) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 15.7593600000)": "15.7593600000"
     },
     "[Compute Instance] Compute Instance r6a 4xlarge;Compute Instance r6a 4xlarge Linux": {
         "US West (Oregon) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.0886400000)": "1.0886400000",
         "US East (Ohio) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.0886400000)": "1.0886400000",
         "US East (N. Virginia) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.0886400000)": "1.0886400000",
         "EU (Ireland) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.2182400000)": "1.2182400000",
-        "EU (Frankfurt) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.3132800000)": "1.3132800000"
+        "EU (Frankfurt) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.3132800000)": "1.3132800000",
+        "Asia Pacific (Tokyo) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.3132800000)": "1.3132800000",
+        "Asia Pacific (Sydney) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.3046400000)": "1.3046400000",
+        "Asia Pacific (Singapore) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.3132800000)": "1.3132800000"
     },
     "[Compute Instance] Compute Instance r6a 8xlarge;Compute Instance r6a 8xlarge Linux": {
         "US West (Oregon) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.1772800000)": "2.1772800000",
         "US East (Ohio) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.1772800000)": "2.1772800000",
         "US East (N. Virginia) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.1772800000)": "2.1772800000",
         "EU (Ireland) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.4364800000)": "2.4364800000",
-        "EU (Frankfurt) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.6265600000)": "2.6265600000"
+        "EU (Frankfurt) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.6265600000)": "2.6265600000",
+        "Asia Pacific (Tokyo) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.6265600000)": "2.6265600000",
+        "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.6092800000)": "2.6092800000",
+        "Asia Pacific (Singapore) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.6265600000)": "2.6265600000"
     },
     "[Compute Instance] Compute Instance r6a large;Compute Instance r6a large Linux": {
         "US West (Oregon) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1360800000)": "0.1360800000",
         "US East (Ohio) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1360800000)": "0.1360800000",
         "US East (N. Virginia) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1360800000)": "0.1360800000",
         "EU (Ireland) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1522800000)": "0.1522800000",
-        "EU (Frankfurt) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1641600000)": "0.1641600000"
+        "EU (Frankfurt) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1641600000)": "0.1641600000",
+        "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1641600000)": "0.1641600000",
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1630800000)": "0.1630800000",
+        "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1641600000)": "0.1641600000"
     },
     "[Compute Instance] Compute Instance r6a metal;Compute Instance r6a metal Linux": {
         "US West (Oregon) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 13.0636800000)": "13.0636800000",
         "US East (Ohio) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 13.0636800000)": "13.0636800000",
         "US East (N. Virginia) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 13.0636800000)": "13.0636800000",
         "EU (Ireland) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 14.6188800000)": "14.6188800000",
-        "EU (Frankfurt) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 15.7593600000)": "15.7593600000"
+        "EU (Frankfurt) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 15.7593600000)": "15.7593600000",
+        "Asia Pacific (Tokyo) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 15.7593600000)": "15.7593600000",
+        "Asia Pacific (Sydney) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 15.6556800000)": "15.6556800000",
+        "Asia Pacific (Singapore) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 15.7593600000)": "15.7593600000"
     },
     "[Compute Instance] Compute Instance r6a xlarge;Compute Instance r6a xlarge Linux": {
         "US West (Oregon) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.2721600000)": "0.2721600000",
         "US East (Ohio) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.2721600000)": "0.2721600000",
         "US East (N. Virginia) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.2721600000)": "0.2721600000",
         "EU (Ireland) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.3045600000)": "0.3045600000",
-        "EU (Frankfurt) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.3283200000)": "0.3283200000"
+        "EU (Frankfurt) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.3283200000)": "0.3283200000",
+        "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.3283200000)": "0.3283200000",
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.3261600000)": "0.3261600000",
+        "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.3283200000)": "0.3283200000"
     },
     "[Compute Instance] Compute Instance r6i 12xlarge;Compute Instance r6i 12xlarge Linux": {
         "US West (Oregon) (Memory: 384 GiB, vCPU: 48, Instance Type: r6i.12xlarge, PricePerUnit: 3.6288000000)": "3.6288000000",
@@ -2772,6 +2816,7 @@
         "EU (Ireland) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 5.6272320000)": "5.6272320000",
         "EU (Frankfurt) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 5.9978880000)": "5.9978880000",
         "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 6.0989760000)": "6.0989760000",
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 6.0990000000)": "6.0990000000",
         "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 5.9978880000)": "5.9978880000"
     },
     "[Compute Instance] Compute Instance r6in 16xlarge;Compute Instance r6in 16xlarge Linux": {
@@ -2781,6 +2826,7 @@
         "EU (Ireland) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 7.5029760000)": "7.5029760000",
         "EU (Frankfurt) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 7.9971840000)": "7.9971840000",
         "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 8.1319680000)": "8.1319680000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 8.1319200000)": "8.1319200000",
         "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 7.9971840000)": "7.9971840000"
     },
     "[Compute Instance] Compute Instance r6in 24xlarge;Compute Instance r6in 24xlarge Linux": {
@@ -2790,6 +2836,7 @@
         "EU (Ireland) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 11.2544640000)": "11.2544640000",
         "EU (Frankfurt) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 11.9957760000)": "11.9957760000",
         "Asia Pacific (Tokyo) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 12.1979520000)": "12.1979520000",
+        "Asia Pacific (Sydney) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 12.1980000000)": "12.1980000000",
         "Asia Pacific (Singapore) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 11.9957760000)": "11.9957760000"
     },
     "[Compute Instance] Compute Instance r6in 2xlarge;Compute Instance r6in 2xlarge Linux": {
@@ -2799,6 +2846,7 @@
         "EU (Ireland) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 0.9378720000)": "0.9378720000",
         "EU (Frankfurt) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 0.9996480000)": "0.9996480000",
         "Asia Pacific (Tokyo) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 1.0164960000)": "1.0164960000",
+        "Asia Pacific (Sydney) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 1.0165200000)": "1.0165200000",
         "Asia Pacific (Singapore) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 0.9996480000)": "0.9996480000"
     },
     "[Compute Instance] Compute Instance r6in 32xlarge;Compute Instance r6in 32xlarge Linux": {
@@ -2808,6 +2856,7 @@
         "EU (Ireland) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 15.0059520000)": "15.0059520000",
         "EU (Frankfurt) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 15.9943680000)": "15.9943680000",
         "Asia Pacific (Tokyo) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 16.2639360000)": "16.2639360000",
+        "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 16.2639600000)": "16.2639600000",
         "Asia Pacific (Singapore) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 15.9943680000)": "15.9943680000"
     },
     "[Compute Instance] Compute Instance r6in 4xlarge;Compute Instance r6in 4xlarge Linux": {
@@ -2817,6 +2866,7 @@
         "EU (Ireland) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 1.8757440000)": "1.8757440000",
         "EU (Frankfurt) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 1.9992960000)": "1.9992960000",
         "Asia Pacific (Tokyo) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 2.0329920000)": "2.0329920000",
+        "Asia Pacific (Sydney) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 2.0330400000)": "2.0330400000",
         "Asia Pacific (Singapore) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 1.9992960000)": "1.9992960000"
     },
     "[Compute Instance] Compute Instance r6in 8xlarge;Compute Instance r6in 8xlarge Linux": {
@@ -2826,6 +2876,7 @@
         "EU (Ireland) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 3.7514880000)": "3.7514880000",
         "EU (Frankfurt) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 3.9985920000)": "3.9985920000",
         "Asia Pacific (Tokyo) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 4.0659840000)": "4.0659840000",
+        "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 4.0659600000)": "4.0659600000",
         "Asia Pacific (Singapore) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 3.9985920000)": "3.9985920000"
     },
     "[Compute Instance] Compute Instance r6in large;Compute Instance r6in large Linux": {
@@ -2835,6 +2886,7 @@
         "EU (Ireland) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.2344680000)": "0.2344680000",
         "EU (Frankfurt) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.2499120000)": "0.2499120000",
         "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.2541240000)": "0.2541240000",
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.2541600000)": "0.2541600000",
         "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.2499120000)": "0.2499120000"
     },
     "[Compute Instance] Compute Instance r6in metal;Compute Instance r6in metal Linux": {
@@ -2844,6 +2896,7 @@
         "EU (Ireland) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 15.0059520000)": "15.0059520000",
         "EU (Frankfurt) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 15.9943680000)": "15.9943680000",
         "Asia Pacific (Tokyo) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 16.2639360000)": "16.2639360000",
+        "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 16.2639600000)": "16.2639600000",
         "Asia Pacific (Singapore) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 15.9943680000)": "15.9943680000"
     },
     "[Compute Instance] Compute Instance r6in xlarge;Compute Instance r6in xlarge Linux": {
@@ -2853,6 +2906,7 @@
         "EU (Ireland) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.4689360000)": "0.4689360000",
         "EU (Frankfurt) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.4998240000)": "0.4998240000",
         "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.5082480000)": "0.5082480000",
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.5082000000)": "0.5082000000",
         "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.4998240000)": "0.4998240000"
     },
     "[Compute Instance] Compute Instance t3 2xlarge;Compute Instance t3 2xlarge Linux": {
@@ -4173,6 +4227,7 @@
         "EU (Ireland) (Memory: 64 GiB, vCPU: 16, Instance Type: m5n.4xlarge, PricePerUnit: 1.2768000000)": "1.2768000000",
         "EU (Ireland) (Memory: 128 GiB, vCPU: 32, Instance Type: m5n.8xlarge, PricePerUnit: 2.5536000000)": "2.5536000000",
         "EU (Ireland) (Memory: 8 GiB, vCPU: 2, Instance Type: m5n.large, PricePerUnit: 0.1596000000)": "0.1596000000",
+        "EU (Ireland) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 7.6608000000)": "7.6608000000",
         "EU (Ireland) (Memory: 16 GiB, vCPU: 4, Instance Type: m5n.xlarge, PricePerUnit: 0.3192000000)": "0.3192000000",
         "EU (Ireland) (Memory: 192 GiB, vCPU: 48, Instance Type: m5zn.12xlarge, PricePerUnit: 5.3020800000)": "5.3020800000",
         "EU (Ireland) (Memory: 32 GiB, vCPU: 8, Instance Type: m5zn.2xlarge, PricePerUnit: 0.8836800000)": "0.8836800000",
@@ -4839,6 +4894,17 @@
         "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 2, Instance Type: r5n.large, PricePerUnit: 0.2172000000)": "0.2172000000",
         "Asia Pacific (Tokyo) (Memory: 768 GiB, vCPU: 96, Instance Type: r5n.metal, PricePerUnit: 10.4256000000)": "10.4256000000",
         "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 4, Instance Type: r5n.xlarge, PricePerUnit: 0.4344000000)": "0.4344000000",
+        "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.9398400000)": "3.9398400000",
+        "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 5.2531200000)": "5.2531200000",
+        "Asia Pacific (Tokyo) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 7.8796800000)": "7.8796800000",
+        "Asia Pacific (Tokyo) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.6566400000)": "0.6566400000",
+        "Asia Pacific (Tokyo) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 10.5062400000)": "10.5062400000",
+        "Asia Pacific (Tokyo) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 15.7593600000)": "15.7593600000",
+        "Asia Pacific (Tokyo) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.3132800000)": "1.3132800000",
+        "Asia Pacific (Tokyo) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.6265600000)": "2.6265600000",
+        "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1641600000)": "0.1641600000",
+        "Asia Pacific (Tokyo) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 15.7593600000)": "15.7593600000",
+        "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.3283200000)": "0.3283200000",
         "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 48, Instance Type: r6i.12xlarge, PricePerUnit: 4.3776000000)": "4.3776000000",
         "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 64, Instance Type: r6i.16xlarge, PricePerUnit: 5.8368000000)": "5.8368000000",
         "Asia Pacific (Tokyo) (Memory: 768 GiB, vCPU: 96, Instance Type: r6i.24xlarge, PricePerUnit: 8.7552000000)": "8.7552000000",
@@ -5019,6 +5085,16 @@
         "Asia Pacific (Sydney) (Memory: 8 GiB, vCPU: 2, Instance Type: m6i.large, PricePerUnit: 0.1440000000)": "0.1440000000",
         "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 128, Instance Type: m6i.metal, PricePerUnit: 9.2160000000)": "9.2160000000",
         "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 4, Instance Type: m6i.xlarge, PricePerUnit: 0.2880000000)": "0.2880000000",
+        "Asia Pacific (Sydney) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 5.0544000000)": "5.0544000000",
+        "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 6.7392000000)": "6.7392000000",
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 10.1088000000)": "10.1088000000",
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 0.8424000000)": "0.8424000000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 13.4784000000)": "13.4784000000",
+        "Asia Pacific (Sydney) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 1.6848000000)": "1.6848000000",
+        "Asia Pacific (Sydney) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 3.3696000000)": "3.3696000000",
+        "Asia Pacific (Sydney) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.2106000000)": "0.2106000000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 13.4784000000)": "13.4784000000",
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.4212000000)": "0.4212000000",
         "Asia Pacific (Sydney) (Memory: 192 GiB, vCPU: 48, Instance Type: m7a.12xlarge, PricePerUnit: 4.1731200000)": "4.1731200000",
         "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 64, Instance Type: m7a.16xlarge, PricePerUnit: 5.5641600000)": "5.5641600000",
         "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 96, Instance Type: m7a.24xlarge, PricePerUnit: 8.3462400000)": "8.3462400000",
@@ -5073,6 +5149,17 @@
         "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Instance Type: r5n.large, PricePerUnit: 0.2172000000)": "0.2172000000",
         "Asia Pacific (Sydney) (Memory: 768 GiB, vCPU: 96, Instance Type: r5n.metal, PricePerUnit: 10.4256000000)": "10.4256000000",
         "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Instance Type: r5n.xlarge, PricePerUnit: 0.4344000000)": "0.4344000000",
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.9139200000)": "3.9139200000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 5.2185600000)": "5.2185600000",
+        "Asia Pacific (Sydney) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 7.8278400000)": "7.8278400000",
+        "Asia Pacific (Sydney) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.6523200000)": "0.6523200000",
+        "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 10.4371200000)": "10.4371200000",
+        "Asia Pacific (Sydney) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 15.6556800000)": "15.6556800000",
+        "Asia Pacific (Sydney) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.3046400000)": "1.3046400000",
+        "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.6092800000)": "2.6092800000",
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1630800000)": "0.1630800000",
+        "Asia Pacific (Sydney) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 15.6556800000)": "15.6556800000",
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.3261600000)": "0.3261600000",
         "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Instance Type: r6i.12xlarge, PricePerUnit: 4.3488000000)": "4.3488000000",
         "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 64, Instance Type: r6i.16xlarge, PricePerUnit: 5.7984000000)": "5.7984000000",
         "Asia Pacific (Sydney) (Memory: 768 GiB, vCPU: 96, Instance Type: r6i.24xlarge, PricePerUnit: 8.6976000000)": "8.6976000000",
@@ -5083,6 +5170,16 @@
         "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Instance Type: r6i.large, PricePerUnit: 0.1812000000)": "0.1812000000",
         "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6i.metal, PricePerUnit: 11.5968000000)": "11.5968000000",
         "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Instance Type: r6i.xlarge, PricePerUnit: 0.3624000000)": "0.3624000000",
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 6.0990000000)": "6.0990000000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 8.1319200000)": "8.1319200000",
+        "Asia Pacific (Sydney) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 12.1980000000)": "12.1980000000",
+        "Asia Pacific (Sydney) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 1.0165200000)": "1.0165200000",
+        "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 16.2639600000)": "16.2639600000",
+        "Asia Pacific (Sydney) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 2.0330400000)": "2.0330400000",
+        "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 4.0659600000)": "4.0659600000",
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.2541600000)": "0.2541600000",
+        "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 16.2639600000)": "16.2639600000",
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.5082000000)": "0.5082000000",
         "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Instance Type: r7i.12xlarge, PricePerUnit: 4.5662400000)": "4.5662400000",
         "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 64, Instance Type: r7i.16xlarge, PricePerUnit: 6.0883200000)": "6.0883200000",
         "Asia Pacific (Sydney) (Memory: 768 GiB, vCPU: 96, Instance Type: r7i.24xlarge, PricePerUnit: 9.1324800000)": "9.1324800000",
@@ -5279,6 +5376,17 @@
         "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 2, Instance Type: r5n.large, PricePerUnit: 0.2136000000)": "0.2136000000",
         "Asia Pacific (Singapore) (Memory: 768 GiB, vCPU: 96, Instance Type: r5n.metal, PricePerUnit: 10.2528000000)": "10.2528000000",
         "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 4, Instance Type: r5n.xlarge, PricePerUnit: 0.4272000000)": "0.4272000000",
+        "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 3.9398400000)": "3.9398400000",
+        "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 5.2531200000)": "5.2531200000",
+        "Asia Pacific (Singapore) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 7.8796800000)": "7.8796800000",
+        "Asia Pacific (Singapore) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.6566400000)": "0.6566400000",
+        "Asia Pacific (Singapore) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 10.5062400000)": "10.5062400000",
+        "Asia Pacific (Singapore) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 15.7593600000)": "15.7593600000",
+        "Asia Pacific (Singapore) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.3132800000)": "1.3132800000",
+        "Asia Pacific (Singapore) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 2.6265600000)": "2.6265600000",
+        "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.1641600000)": "0.1641600000",
+        "Asia Pacific (Singapore) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 15.7593600000)": "15.7593600000",
+        "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.3283200000)": "0.3283200000",
         "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 48, Instance Type: r6i.12xlarge, PricePerUnit: 4.3776000000)": "4.3776000000",
         "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 64, Instance Type: r6i.16xlarge, PricePerUnit: 5.8368000000)": "5.8368000000",
         "Asia Pacific (Singapore) (Memory: 768 GiB, vCPU: 96, Instance Type: r6i.24xlarge, PricePerUnit: 8.7552000000)": "8.7552000000",
@@ -7245,6 +7353,7 @@
         "US West (Oregon) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 12.1536000000)": "12.1536000000",
         "US East (Ohio) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 12.1536000000)": "12.1536000000",
         "US East (N. Virginia) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 12.1536000000)": "12.1536000000",
+        "EU (Ireland) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 12.9600000000)": "12.9600000000",
         "EU (Frankfurt) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 13.4208000000)": "13.4208000000",
         "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 14.1120000000)": "14.1120000000",
         "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 96, Instance Type: m5n.metal, PricePerUnit: 13.7088000000)": "13.7088000000"
@@ -7583,6 +7692,7 @@
         "EU (Ireland) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 7.1311680000)": "7.1311680000",
         "EU (Frankfurt) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 7.4007360000)": "7.4007360000",
         "Asia Pacific (Tokyo) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 7.8050880000)": "7.8050880000",
+        "Asia Pacific (Sydney) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 7.7040000000)": "7.7040000000",
         "Asia Pacific (Singapore) (Memory: 192 GiB, vCPU: 48, Instance Type: m6in.12xlarge, PricePerUnit: 7.5692160000)": "7.5692160000"
     },
     "[Compute Instance Windows] Compute Instance m6in 16xlarge Windows": {
@@ -7592,6 +7702,7 @@
         "EU (Ireland) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 9.5082240000)": "9.5082240000",
         "EU (Frankfurt) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 9.8676480000)": "9.8676480000",
         "Asia Pacific (Tokyo) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 10.4067840000)": "10.4067840000",
+        "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 10.2720000000)": "10.2720000000",
         "Asia Pacific (Singapore) (Memory: 256 GiB, vCPU: 64, Instance Type: m6in.16xlarge, PricePerUnit: 10.0922880000)": "10.0922880000"
     },
     "[Compute Instance Windows] Compute Instance m6in 24xlarge Windows": {
@@ -7601,6 +7712,7 @@
         "EU (Ireland) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 14.2623360000)": "14.2623360000",
         "EU (Frankfurt) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 14.8014720000)": "14.8014720000",
         "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 15.6101760000)": "15.6101760000",
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 15.4080000000)": "15.4080000000",
         "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 96, Instance Type: m6in.24xlarge, PricePerUnit: 15.1384320000)": "15.1384320000"
     },
     "[Compute Instance Windows] Compute Instance m6in 2xlarge Windows": {
@@ -7610,6 +7722,7 @@
         "EU (Ireland) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 1.1885280000)": "1.1885280000",
         "EU (Frankfurt) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 1.2334560000)": "1.2334560000",
         "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 1.3008480000)": "1.3008480000",
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 1.2840000000)": "1.2840000000",
         "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 8, Instance Type: m6in.2xlarge, PricePerUnit: 1.2615360000)": "1.2615360000"
     },
     "[Compute Instance Windows] Compute Instance m6in 32xlarge Windows": {
@@ -7619,6 +7732,7 @@
         "EU (Ireland) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 19.0164480000)": "19.0164480000",
         "EU (Frankfurt) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 19.7352960000)": "19.7352960000",
         "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 20.8135680000)": "20.8135680000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 20.5440000000)": "20.5440000000",
         "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.32xlarge, PricePerUnit: 20.1845760000)": "20.1845760000"
     },
     "[Compute Instance Windows] Compute Instance m6in 4xlarge Windows": {
@@ -7628,6 +7742,7 @@
         "EU (Ireland) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 2.3770560000)": "2.3770560000",
         "EU (Frankfurt) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 2.4669120000)": "2.4669120000",
         "Asia Pacific (Tokyo) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 2.6016960000)": "2.6016960000",
+        "Asia Pacific (Sydney) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 2.5680000000)": "2.5680000000",
         "Asia Pacific (Singapore) (Memory: 64 GiB, vCPU: 16, Instance Type: m6in.4xlarge, PricePerUnit: 2.5230720000)": "2.5230720000"
     },
     "[Compute Instance Windows] Compute Instance m6in 8xlarge Windows": {
@@ -7637,6 +7752,7 @@
         "EU (Ireland) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 4.7541120000)": "4.7541120000",
         "EU (Frankfurt) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 4.9338240000)": "4.9338240000",
         "Asia Pacific (Tokyo) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 5.2033920000)": "5.2033920000",
+        "Asia Pacific (Sydney) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 5.1360000000)": "5.1360000000",
         "Asia Pacific (Singapore) (Memory: 128 GiB, vCPU: 32, Instance Type: m6in.8xlarge, PricePerUnit: 5.0461440000)": "5.0461440000"
     },
     "[Compute Instance Windows] Compute Instance m6in large Windows": {
@@ -7646,6 +7762,7 @@
         "EU (Ireland) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.2971320000)": "0.2971320000",
         "EU (Frankfurt) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.3083640000)": "0.3083640000",
         "Asia Pacific (Tokyo) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.3252120000)": "0.3252120000",
+        "Asia Pacific (Sydney) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.3210000000)": "0.3210000000",
         "Asia Pacific (Singapore) (Memory: 8 GiB, vCPU: 2, Instance Type: m6in.large, PricePerUnit: 0.3153840000)": "0.3153840000"
     },
     "[Compute Instance Windows] Compute Instance m6in metal Windows": {
@@ -7655,6 +7772,7 @@
         "EU (Ireland) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 19.0164480000)": "19.0164480000",
         "EU (Frankfurt) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 19.7352960000)": "19.7352960000",
         "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 20.8135680000)": "20.8135680000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 20.5440000000)": "20.5440000000",
         "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 128, Instance Type: m6in.metal, PricePerUnit: 20.1845760000)": "20.1845760000"
     },
     "[Compute Instance Windows] Compute Instance m6in xlarge Windows": {
@@ -7664,6 +7782,7 @@
         "EU (Ireland) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.5942640000)": "0.5942640000",
         "EU (Frankfurt) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.6167280000)": "0.6167280000",
         "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.6504240000)": "0.6504240000",
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.6420000000)": "0.6420000000",
         "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 4, Instance Type: m6in.xlarge, PricePerUnit: 0.6307680000)": "0.6307680000"
     },
     "[Compute Instance Windows] Compute Instance r5 12xlarge Windows": {
@@ -8091,77 +8210,110 @@
         "US East (Ohio) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 5.9155200000)": "5.9155200000",
         "US East (N. Virginia) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 5.9155200000)": "5.9155200000",
         "EU (Ireland) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 6.3043200000)": "6.3043200000",
-        "EU (Frankfurt) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 6.5894400000)": "6.5894400000"
+        "EU (Frankfurt) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 6.5894400000)": "6.5894400000",
+        "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 6.5894400000)": "6.5894400000",
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 6.5635200000)": "6.5635200000",
+        "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 48, Instance Type: r6a.12xlarge, PricePerUnit: 6.5894400000)": "6.5894400000"
     },
     "[Compute Instance Windows] Compute Instance r6a 16xlarge Windows": {
         "US West (Oregon) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 7.8873600000)": "7.8873600000",
         "US East (Ohio) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 7.8873600000)": "7.8873600000",
         "US East (N. Virginia) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 7.8873600000)": "7.8873600000",
         "EU (Ireland) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 8.4057600000)": "8.4057600000",
-        "EU (Frankfurt) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 8.7859200000)": "8.7859200000"
+        "EU (Frankfurt) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 8.7859200000)": "8.7859200000",
+        "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 8.7859200000)": "8.7859200000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 8.7513600000)": "8.7513600000",
+        "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 64, Instance Type: r6a.16xlarge, PricePerUnit: 8.7859200000)": "8.7859200000"
     },
     "[Compute Instance Windows] Compute Instance r6a 24xlarge Windows": {
         "US West (Oregon) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 11.8310400000)": "11.8310400000",
         "US East (Ohio) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 11.8310400000)": "11.8310400000",
         "US East (N. Virginia) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 11.8310400000)": "11.8310400000",
         "EU (Ireland) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 12.6086400000)": "12.6086400000",
-        "EU (Frankfurt) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 13.1788800000)": "13.1788800000"
+        "EU (Frankfurt) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 13.1788800000)": "13.1788800000",
+        "Asia Pacific (Tokyo) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 13.1788800000)": "13.1788800000",
+        "Asia Pacific (Sydney) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 13.1270400000)": "13.1270400000",
+        "Asia Pacific (Singapore) (Memory: 768 GiB, vCPU: 96, Instance Type: r6a.24xlarge, PricePerUnit: 13.1788800000)": "13.1788800000"
     },
     "[Compute Instance Windows] Compute Instance r6a 2xlarge Windows": {
         "US West (Oregon) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.9859200000)": "0.9859200000",
         "US East (Ohio) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.9859200000)": "0.9859200000",
         "US East (N. Virginia) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 0.9859200000)": "0.9859200000",
         "EU (Ireland) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 1.0507200000)": "1.0507200000",
-        "EU (Frankfurt) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 1.0982400000)": "1.0982400000"
+        "EU (Frankfurt) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 1.0982400000)": "1.0982400000",
+        "Asia Pacific (Tokyo) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 1.0982400000)": "1.0982400000",
+        "Asia Pacific (Sydney) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 1.0939200000)": "1.0939200000",
+        "Asia Pacific (Singapore) (Memory: 64 GiB, vCPU: 8, Instance Type: r6a.2xlarge, PricePerUnit: 1.0982400000)": "1.0982400000"
     },
     "[Compute Instance Windows] Compute Instance r6a 32xlarge Windows": {
         "US West (Oregon) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 15.7747200000)": "15.7747200000",
         "US East (Ohio) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 15.7747200000)": "15.7747200000",
         "US East (N. Virginia) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 15.7747200000)": "15.7747200000",
         "EU (Ireland) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 16.8115200000)": "16.8115200000",
-        "EU (Frankfurt) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 17.5718400000)": "17.5718400000"
+        "EU (Frankfurt) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 17.5718400000)": "17.5718400000",
+        "Asia Pacific (Tokyo) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 17.5718400000)": "17.5718400000",
+        "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 17.5027200000)": "17.5027200000",
+        "Asia Pacific (Singapore) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6a.32xlarge, PricePerUnit: 17.5718400000)": "17.5718400000"
     },
     "[Compute Instance Windows] Compute Instance r6a 48xlarge Windows": {
         "US West (Oregon) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 23.6620800000)": "23.6620800000",
         "US East (Ohio) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 23.6620800000)": "23.6620800000",
         "US East (N. Virginia) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 23.6620800000)": "23.6620800000",
         "EU (Ireland) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 25.2172800000)": "25.2172800000",
-        "EU (Frankfurt) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 26.3577600000)": "26.3577600000"
+        "EU (Frankfurt) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 26.3577600000)": "26.3577600000",
+        "Asia Pacific (Tokyo) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 26.3577600000)": "26.3577600000",
+        "Asia Pacific (Sydney) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 26.2540800000)": "26.2540800000",
+        "Asia Pacific (Singapore) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.48xlarge, PricePerUnit: 26.3577600000)": "26.3577600000"
     },
     "[Compute Instance Windows] Compute Instance r6a 4xlarge Windows": {
         "US West (Oregon) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.9718400000)": "1.9718400000",
         "US East (Ohio) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.9718400000)": "1.9718400000",
         "US East (N. Virginia) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 1.9718400000)": "1.9718400000",
         "EU (Ireland) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 2.1014400000)": "2.1014400000",
-        "EU (Frankfurt) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 2.1964800000)": "2.1964800000"
+        "EU (Frankfurt) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 2.1964800000)": "2.1964800000",
+        "Asia Pacific (Tokyo) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 2.1964800000)": "2.1964800000",
+        "Asia Pacific (Sydney) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 2.1878400000)": "2.1878400000",
+        "Asia Pacific (Singapore) (Memory: 128 GiB, vCPU: 16, Instance Type: r6a.4xlarge, PricePerUnit: 2.1964800000)": "2.1964800000"
     },
     "[Compute Instance Windows] Compute Instance r6a 8xlarge Windows": {
         "US West (Oregon) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 3.9436800000)": "3.9436800000",
         "US East (Ohio) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 3.9436800000)": "3.9436800000",
         "US East (N. Virginia) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 3.9436800000)": "3.9436800000",
         "EU (Ireland) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 4.2028800000)": "4.2028800000",
-        "EU (Frankfurt) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 4.3929600000)": "4.3929600000"
+        "EU (Frankfurt) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 4.3929600000)": "4.3929600000",
+        "Asia Pacific (Tokyo) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 4.3929600000)": "4.3929600000",
+        "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 4.3756800000)": "4.3756800000",
+        "Asia Pacific (Singapore) (Memory: 256 GiB, vCPU: 32, Instance Type: r6a.8xlarge, PricePerUnit: 4.3929600000)": "4.3929600000"
     },
     "[Compute Instance Windows] Compute Instance r6a large Windows": {
         "US West (Oregon) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.2464800000)": "0.2464800000",
         "US East (Ohio) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.2464800000)": "0.2464800000",
         "US East (N. Virginia) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.2464800000)": "0.2464800000",
         "EU (Ireland) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.2626800000)": "0.2626800000",
-        "EU (Frankfurt) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.2745600000)": "0.2745600000"
+        "EU (Frankfurt) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.2745600000)": "0.2745600000",
+        "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.2745600000)": "0.2745600000",
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.2734800000)": "0.2734800000",
+        "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 2, Instance Type: r6a.large, PricePerUnit: 0.2745600000)": "0.2745600000"
     },
     "[Compute Instance Windows] Compute Instance r6a metal Windows": {
         "US West (Oregon) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 23.6620800000)": "23.6620800000",
         "US East (Ohio) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 23.6620800000)": "23.6620800000",
         "US East (N. Virginia) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 23.6620800000)": "23.6620800000",
         "EU (Ireland) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 25.2172800000)": "25.2172800000",
-        "EU (Frankfurt) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 26.3577600000)": "26.3577600000"
+        "EU (Frankfurt) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 26.3577600000)": "26.3577600000",
+        "Asia Pacific (Tokyo) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 26.3577600000)": "26.3577600000",
+        "Asia Pacific (Sydney) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 26.2540800000)": "26.2540800000",
+        "Asia Pacific (Singapore) (Memory: 1536 GiB, vCPU: 192, Instance Type: r6a.metal, PricePerUnit: 26.3577600000)": "26.3577600000"
     },
     "[Compute Instance Windows] Compute Instance r6a xlarge Windows": {
         "US West (Oregon) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.4929600000)": "0.4929600000",
         "US East (Ohio) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.4929600000)": "0.4929600000",
         "US East (N. Virginia) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.4929600000)": "0.4929600000",
         "EU (Ireland) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.5253600000)": "0.5253600000",
-        "EU (Frankfurt) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.5491200000)": "0.5491200000"
+        "EU (Frankfurt) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.5491200000)": "0.5491200000",
+        "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.5491200000)": "0.5491200000",
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.5469600000)": "0.5469600000",
+        "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 4, Instance Type: r6a.xlarge, PricePerUnit: 0.5491200000)": "0.5491200000"
     },
     "[Compute Instance Windows] Compute Instance r6i 12xlarge Windows": {
         "US West (Oregon) (Memory: 384 GiB, vCPU: 48, Instance Type: r6i.12xlarge, PricePerUnit: 6.2784000000)": "6.2784000000",
@@ -8290,6 +8442,7 @@
         "EU (Ireland) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 8.2768320000)": "8.2768320000",
         "EU (Frankfurt) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 8.6474880000)": "8.6474880000",
         "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 8.7485760000)": "8.7485760000",
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 8.7486000000)": "8.7486000000",
         "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 48, Instance Type: r6in.12xlarge, PricePerUnit: 8.6474880000)": "8.6474880000"
     },
     "[Compute Instance Windows] Compute Instance r6in 16xlarge Windows": {
@@ -8299,6 +8452,7 @@
         "EU (Ireland) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 11.0357760000)": "11.0357760000",
         "EU (Frankfurt) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 11.5299840000)": "11.5299840000",
         "Asia Pacific (Tokyo) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 11.6647680000)": "11.6647680000",
+        "Asia Pacific (Sydney) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 11.6647200000)": "11.6647200000",
         "Asia Pacific (Singapore) (Memory: 512 GiB, vCPU: 64, Instance Type: r6in.16xlarge, PricePerUnit: 11.5299840000)": "11.5299840000"
     },
     "[Compute Instance Windows] Compute Instance r6in 24xlarge Windows": {
@@ -8308,6 +8462,7 @@
         "EU (Ireland) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 16.5536640000)": "16.5536640000",
         "EU (Frankfurt) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 17.2949760000)": "17.2949760000",
         "Asia Pacific (Tokyo) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 17.4971520000)": "17.4971520000",
+        "Asia Pacific (Sydney) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 17.4972000000)": "17.4972000000",
         "Asia Pacific (Singapore) (Memory: 768 GiB, vCPU: 96, Instance Type: r6in.24xlarge, PricePerUnit: 17.2949760000)": "17.2949760000"
     },
     "[Compute Instance Windows] Compute Instance r6in 2xlarge Windows": {
@@ -8317,6 +8472,7 @@
         "EU (Ireland) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 1.3794720000)": "1.3794720000",
         "EU (Frankfurt) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 1.4412480000)": "1.4412480000",
         "Asia Pacific (Tokyo) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 1.4580960000)": "1.4580960000",
+        "Asia Pacific (Sydney) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 1.4581200000)": "1.4581200000",
         "Asia Pacific (Singapore) (Memory: 64 GiB, vCPU: 8, Instance Type: r6in.2xlarge, PricePerUnit: 1.4412480000)": "1.4412480000"
     },
     "[Compute Instance Windows] Compute Instance r6in 32xlarge Windows": {
@@ -8326,6 +8482,7 @@
         "EU (Ireland) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 22.0715520000)": "22.0715520000",
         "EU (Frankfurt) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 23.0599680000)": "23.0599680000",
         "Asia Pacific (Tokyo) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 23.3295360000)": "23.3295360000",
+        "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 23.3295600000)": "23.3295600000",
         "Asia Pacific (Singapore) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.32xlarge, PricePerUnit: 23.0599680000)": "23.0599680000"
     },
     "[Compute Instance Windows] Compute Instance r6in 4xlarge Windows": {
@@ -8335,6 +8492,7 @@
         "EU (Ireland) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 2.7589440000)": "2.7589440000",
         "EU (Frankfurt) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 2.8824960000)": "2.8824960000",
         "Asia Pacific (Tokyo) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 2.9161920000)": "2.9161920000",
+        "Asia Pacific (Sydney) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 2.9162400000)": "2.9162400000",
         "Asia Pacific (Singapore) (Memory: 128 GiB, vCPU: 16, Instance Type: r6in.4xlarge, PricePerUnit: 2.8824960000)": "2.8824960000"
     },
     "[Compute Instance Windows] Compute Instance r6in 8xlarge Windows": {
@@ -8344,6 +8502,7 @@
         "EU (Ireland) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 5.5178880000)": "5.5178880000",
         "EU (Frankfurt) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 5.7649920000)": "5.7649920000",
         "Asia Pacific (Tokyo) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 5.8323840000)": "5.8323840000",
+        "Asia Pacific (Sydney) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 5.8323600000)": "5.8323600000",
         "Asia Pacific (Singapore) (Memory: 256 GiB, vCPU: 32, Instance Type: r6in.8xlarge, PricePerUnit: 5.7649920000)": "5.7649920000"
     },
     "[Compute Instance Windows] Compute Instance r6in large Windows": {
@@ -8353,6 +8512,7 @@
         "EU (Ireland) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.3448680000)": "0.3448680000",
         "EU (Frankfurt) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.3603120000)": "0.3603120000",
         "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.3645240000)": "0.3645240000",
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.3645600000)": "0.3645600000",
         "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 2, Instance Type: r6in.large, PricePerUnit: 0.3603120000)": "0.3603120000"
     },
     "[Compute Instance Windows] Compute Instance r6in metal Windows": {
@@ -8362,6 +8522,7 @@
         "EU (Ireland) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 22.0715520000)": "22.0715520000",
         "EU (Frankfurt) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 23.0599680000)": "23.0599680000",
         "Asia Pacific (Tokyo) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 23.3295360000)": "23.3295360000",
+        "Asia Pacific (Sydney) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 23.3295600000)": "23.3295600000",
         "Asia Pacific (Singapore) (Memory: 1024 GiB, vCPU: 128, Instance Type: r6in.metal, PricePerUnit: 23.0599680000)": "23.0599680000"
     },
     "[Compute Instance Windows] Compute Instance r6in xlarge Windows": {
@@ -8371,6 +8532,7 @@
         "EU (Ireland) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.6897360000)": "0.6897360000",
         "EU (Frankfurt) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.7206240000)": "0.7206240000",
         "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.7290480000)": "0.7290480000",
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.7290000000)": "0.7290000000",
         "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 4, Instance Type: r6in.xlarge, PricePerUnit: 0.7206240000)": "0.7206240000"
     },
     "[Compute Instance Windows] Compute Instance t3 2xlarge Windows": {

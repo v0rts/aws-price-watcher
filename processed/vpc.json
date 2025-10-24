@@ -268,7 +268,9 @@
         "Asia Pacific (Jakarta)": "0.0020000000",
         "Asia Pacific (Hyderabad)": "0.0020000000",
         "Asia Pacific (Hong Kong)": "0.0020000000",
-        "Africa (Cape Town)": "0.0020000000"
+        "Africa (Cape Town)": "0.0020000000",
+        "AWS GovCloud (US-East)": "0.0020000000",
+        "AWS GovCloud (US)": "0.0020000000"
     },
     "Hourly charge for Client VPN connections per Hourly": {
         "US West (Oregon)": "0.0500000000",
@@ -824,7 +826,9 @@
         "Asia Pacific (Jakarta)": "0.1000000000",
         "Asia Pacific (Hyderabad)": "0.1000000000",
         "Asia Pacific (Hong Kong)": "0.1000000000",
-        "Africa (Cape Town)": "0.1000000000"
+        "Africa (Cape Town)": "0.1000000000",
+        "AWS GovCloud (US-East)": "0.1000000000",
+        "AWS GovCloud (US)": "0.1000000000"
     },
     "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
         "US West (Oregon)": "0.0200000000",

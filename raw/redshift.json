@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "redshift",
         "accessType": "publish",
-        "esIndex": "plc-redshift-usd-20250924105123",
-        "hawkFilePublicationDate": "2025-09-24T10:51:23Z",
-        "ETLIngestionTriggerDate": "2025-09-24T10:51:23Z",
+        "esIndex": "plc-redshift-usd-20251027193727",
+        "hawkFilePublicationDate": "2025-10-27T19:37:27Z",
+        "ETLIngestionTriggerDate": "2025-10-27T19:37:27Z",
         "currencyCode": "USD",
         "source": "redshift",
         "isMapped": "true"
@@ -32324,6 +32324,19 @@
                 "Usage Family": "RA3",
                 "Location": "Asia Pacific (Osaka)"
             },
+            "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8": {
+                "rateCode": "5DFCMQ2J525CJHA7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4500000000",
+                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8",
+                "Memory": "",
+                "vCPU": "",
+                "Storage": "",
+                "I/O": "",
+                "Instance Type": "",
+                "ECU": "",
+                "Usage Family": "",
+                "Location": "Asia Pacific (Osaka)"
+            },
             "dmemzQeD6H6x0XCAXVsbFf1R0xHpnys_p9qbHceJJuw": {
                 "rateCode": "9WDQMHVAG2R3ZGNV.4NA7Y494T4.6YS6EN2CT7",
                 "price": "0.4480000000",
@@ -32816,6 +32829,11 @@
                 "I/O": "7.50 GB/s",
                 "Instance Type": "dc2.8xlarge",
                 "ECU": "99"
+            },
+            "Redshift Serverless compute charges per RPU-Hr": {
+                "rateCode": "5DFCMQ2J525CJHA7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4500000000",
+                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8"
             },
             "ra3 4xlarge Redshift Concurrency Scaling Current Generation RA3": {
                 "rateCode": "WN2RYA24DDJHQUHA.JRTCKXETXF.6YS6EN2CT7",
@@ -36273,6 +36291,19 @@
                 "Usage Family": "RA3",
                 "Location": "Asia Pacific (Malaysia)"
             },
+            "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8": {
+                "rateCode": "8PJSDYCKVC5XUK9Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4050000000",
+                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8",
+                "Memory": "",
+                "vCPU": "",
+                "Storage": "",
+                "I/O": "",
+                "Instance Type": "",
+                "ECU": "",
+                "Usage Family": "",
+                "Location": "Asia Pacific (Malaysia)"
+            },
             "dmemzQeD6H6x0XCAXVsbFf1R0xHpnys_p9qbHceJJuw": {
                 "rateCode": "235AT2D9KU2W7B7Z.4NA7Y494T4.6YS6EN2CT7",
                 "price": "0.4105000000",
@@ -36630,6 +36661,11 @@
                 "I/O": "8.00 GB/s",
                 "Instance Type": "ra3.16xlarge",
                 "ECU": "148.5"
+            },
+            "Redshift Serverless compute charges per RPU-Hr": {
+                "rateCode": "8PJSDYCKVC5XUK9Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4050000000",
+                "RegionlessRateCode": "dVSPgG43xctwBKDLK0wAjGrSr43urJbOT_pLrvElIP8"
             },
             "ra3 4xlarge Redshift Concurrency Scaling Current Generation RA3": {
                 "rateCode": "D3CC8GTN7JRNHF8F.JRTCKXETXF.6YS6EN2CT7",

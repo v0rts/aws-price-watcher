@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "chimevoiceconnector",
         "accessType": "publish",
-        "esIndex": "plc-chimevoiceconnector-usd-20250909185406",
-        "hawkFilePublicationDate": "2024-08-29T02:35:07Z",
-        "ETLIngestionTriggerDate": "2025-09-09T18:54:06Z",
+        "esIndex": "plc-chimevoiceconnector-usd-20251027165038",
+        "hawkFilePublicationDate": "2025-10-27T16:50:38Z",
+        "ETLIngestionTriggerDate": "2025-10-27T16:50:38Z",
         "currencyCode": "USD",
         "source": "chimevoiceconnector",
         "isMapped": "true"
@@ -5028,6 +5028,17 @@
                 "ToCountry": "Egypt",
                 "messagetype": "outbound"
             },
+            "2T0NkJ8KsdzAmVYzItKM9uOeY0OKIKrMFJt2aQrWZlk": {
+                "rateCode": "98H389WUSK39ZXBW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "2T0NkJ8KsdzAmVYzItKM9uOeY0OKIKrMFJt2aQrWZlk",
+                "country": "",
+                "operation": "",
+                "CallType": "DID",
+                "NumberType": "DID Number Provisioned",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "2cM_Yf_JCX88Y5mb5PeUDOaoPSK-deokQ43Q6QKH4as": {
                 "rateCode": "P5H5YF835TCP8NCA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0020000000",
@@ -5807,6 +5818,17 @@
                 "CallType": "",
                 "NumberType": "",
                 "ToCountry": "Guatemala",
+                "messagetype": ""
+            },
+            "BQ1_A6h6YZuCFvaP4DhMC2ek8TSOYz54ABqG2xl5DVM": {
+                "rateCode": "56WSFR3WDZH925ZK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BQ1_A6h6YZuCFvaP4DhMC2ek8TSOYz54ABqG2xl5DVM",
+                "country": "",
+                "operation": "",
+                "CallType": "DID",
+                "NumberType": "DID Number Provisioned Inventory",
+                "ToCountry": "",
                 "messagetype": ""
             },
             "BRFlFIJMnczos4xRkqg7VZTNsrxXRbKwfMUYQSrBmZQ": {
@@ -7943,6 +7965,17 @@
                 "ToCountry": "Uruguay",
                 "messagetype": ""
             },
+            "b12DJIjLd73l42IIXjFVyD9TAV2WgUO05A1jjRL7qyw": {
+                "rateCode": "4HE4WT4M33EQ5HD3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "b12DJIjLd73l42IIXjFVyD9TAV2WgUO05A1jjRL7qyw",
+                "country": "",
+                "operation": "",
+                "CallType": "Toll Free",
+                "NumberType": "DID Number Provisioned",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "b7NH7aAuUFeZW-BSixwPNRxGd5GktsvLDes9D7SDEd8": {
                 "rateCode": "ZK2DEWNFNR3BW7UF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3336800000",
@@ -8438,6 +8471,17 @@
                 "ToCountry": "Guatemala",
                 "messagetype": ""
             },
+            "ekof6Xw96Azde7mWI7D82h62x3klF9h-2EnFjoHdb54": {
+                "rateCode": "YEE64EUAGY6KMWY3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ekof6Xw96Azde7mWI7D82h62x3klF9h-2EnFjoHdb54",
+                "country": "",
+                "operation": "",
+                "CallType": "Toll Free",
+                "NumberType": "DID Outbound Enabled Inventory",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "er7zcpldQQ_QmEOpdiAUTWGaiKVzwu3UWp_BBzxjmQw": {
                 "rateCode": "PZXFZKGTUFXMTBAH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1200000000",
@@ -8713,6 +8757,28 @@
                 "ToCountry": "El Salvador",
                 "messagetype": ""
             },
+            "hYvg_5GkbpTqoXjo33dYsUO9FFG46mIJZt1hne1Xl9I": {
+                "rateCode": "48BU9BS62568VYXP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "hYvg_5GkbpTqoXjo33dYsUO9FFG46mIJZt1hne1Xl9I",
+                "country": "",
+                "operation": "",
+                "CallType": "DID",
+                "NumberType": "DID Outbound Enabled Inventory",
+                "ToCountry": "",
+                "messagetype": ""
+            },
+            "hjJijRDwDhEQsY5u85uIkODyHYE7jNyar4VMlclO5Go": {
+                "rateCode": "TZUR5HAFREARVWZQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "hjJijRDwDhEQsY5u85uIkODyHYE7jNyar4VMlclO5Go",
+                "country": "",
+                "operation": "",
+                "CallType": "DID",
+                "NumberType": "DID Outbound Enabled",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "hk7V80HZ5G6R_UZqZ8LRjrEs8suW99DSk4GMNgunBwE": {
                 "rateCode": "Q4W4U4Z6J2M6UM68.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.4271100000",
@@ -8966,6 +9032,17 @@
                 "ToCountry": "Indonesia",
                 "messagetype": ""
             },
+            "krUzJJdnVIYBlyHOo9_Rtty0Lb7FGeC8zBEvqJso6fg": {
+                "rateCode": "PX4XPT9P9YAJQAJU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "krUzJJdnVIYBlyHOo9_Rtty0Lb7FGeC8zBEvqJso6fg",
+                "country": "",
+                "operation": "",
+                "CallType": "Toll Free",
+                "NumberType": "DID Outbound Enabled",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "kum4YmotrkBqrRxlqhytYTvhwIJjQdoESkJOP4uVQIk": {
                 "rateCode": "BXDKHM3WAQK2ZTXC.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0220500000",
@@ -9053,6 +9130,17 @@
                 "NumberType": "",
                 "ToCountry": "Hong Kong",
                 "messagetype": "outbound"
+            },
+            "lY5vKHvWGJg3rwih0sbdq55oYxApro0HfNVl_TKRsAc": {
+                "rateCode": "NWWWP7HSNZAN8MXC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lY5vKHvWGJg3rwih0sbdq55oYxApro0HfNVl_TKRsAc",
+                "country": "",
+                "operation": "",
+                "CallType": "Toll Free",
+                "NumberType": "DID Number Provisioned Inventory",
+                "ToCountry": "",
+                "messagetype": ""
             },
             "laXFIHrV8ppPjD60mYAr1I_vWIde-7jDbdN54T8lA7k": {
                 "rateCode": "ENVJCYS6ERXASB78.JRTCKXETXF.6YS6EN2CT7",
@@ -18257,6 +18345,17 @@
                 "ToCountry": "Egypt",
                 "messagetype": "outbound"
             },
+            "2T0NkJ8KsdzAmVYzItKM9uOeY0OKIKrMFJt2aQrWZlk": {
+                "rateCode": "6S9K2NZ7G5V4EXYS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "2T0NkJ8KsdzAmVYzItKM9uOeY0OKIKrMFJt2aQrWZlk",
+                "country": "",
+                "operation": "",
+                "CallType": "DID",
+                "NumberType": "DID Number Provisioned",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "2cM_Yf_JCX88Y5mb5PeUDOaoPSK-deokQ43Q6QKH4as": {
                 "rateCode": "EPAG5EPR9YSJDZQ6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0020000000",
@@ -19102,6 +19201,17 @@
                 "CallType": "",
                 "NumberType": "",
                 "ToCountry": "Guatemala",
+                "messagetype": ""
+            },
+            "BQ1_A6h6YZuCFvaP4DhMC2ek8TSOYz54ABqG2xl5DVM": {
+                "rateCode": "B8JBNDSBDQWNZD6X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BQ1_A6h6YZuCFvaP4DhMC2ek8TSOYz54ABqG2xl5DVM",
+                "country": "",
+                "operation": "",
+                "CallType": "DID",
+                "NumberType": "DID Number Provisioned Inventory",
+                "ToCountry": "",
                 "messagetype": ""
             },
             "BRFlFIJMnczos4xRkqg7VZTNsrxXRbKwfMUYQSrBmZQ": {
@@ -21348,6 +21458,17 @@
                 "ToCountry": "",
                 "messagetype": ""
             },
+            "b12DJIjLd73l42IIXjFVyD9TAV2WgUO05A1jjRL7qyw": {
+                "rateCode": "RAGRQ9YDH6T2GXP2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "b12DJIjLd73l42IIXjFVyD9TAV2WgUO05A1jjRL7qyw",
+                "country": "",
+                "operation": "",
+                "CallType": "Toll Free",
+                "NumberType": "DID Number Provisioned",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "b7NH7aAuUFeZW-BSixwPNRxGd5GktsvLDes9D7SDEd8": {
                 "rateCode": "WQPYQAJE8F77AHQ9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3336800000",
@@ -21854,6 +21975,17 @@
                 "ToCountry": "Guatemala",
                 "messagetype": ""
             },
+            "ekof6Xw96Azde7mWI7D82h62x3klF9h-2EnFjoHdb54": {
+                "rateCode": "GD4M7CVHUXSVDPQ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ekof6Xw96Azde7mWI7D82h62x3klF9h-2EnFjoHdb54",
+                "country": "",
+                "operation": "",
+                "CallType": "Toll Free",
+                "NumberType": "DID Outbound Enabled Inventory",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "er7zcpldQQ_QmEOpdiAUTWGaiKVzwu3UWp_BBzxjmQw": {
                 "rateCode": "RM9BR2MQU4JVU8HW.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1200000000",
@@ -22173,6 +22305,28 @@
                 "ToCountry": "El Salvador",
                 "messagetype": ""
             },
+            "hYvg_5GkbpTqoXjo33dYsUO9FFG46mIJZt1hne1Xl9I": {
+                "rateCode": "5XDGGB8YKXD7AEQV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "hYvg_5GkbpTqoXjo33dYsUO9FFG46mIJZt1hne1Xl9I",
+                "country": "",
+                "operation": "",
+                "CallType": "DID",
+                "NumberType": "DID Outbound Enabled Inventory",
+                "ToCountry": "",
+                "messagetype": ""
+            },
+            "hjJijRDwDhEQsY5u85uIkODyHYE7jNyar4VMlclO5Go": {
+                "rateCode": "42JF7TPH7HDNB9WP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "hjJijRDwDhEQsY5u85uIkODyHYE7jNyar4VMlclO5Go",
+                "country": "",
+                "operation": "",
+                "CallType": "DID",
+                "NumberType": "DID Outbound Enabled",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "hk7V80HZ5G6R_UZqZ8LRjrEs8suW99DSk4GMNgunBwE": {
                 "rateCode": "FKX5Q24KYYXQ3SRW.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.4271100000",
@@ -22437,6 +22591,17 @@
                 "ToCountry": "Indonesia",
                 "messagetype": ""
             },
+            "krUzJJdnVIYBlyHOo9_Rtty0Lb7FGeC8zBEvqJso6fg": {
+                "rateCode": "6KFSX37TV2NV3SQU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "krUzJJdnVIYBlyHOo9_Rtty0Lb7FGeC8zBEvqJso6fg",
+                "country": "",
+                "operation": "",
+                "CallType": "Toll Free",
+                "NumberType": "DID Outbound Enabled",
+                "ToCountry": "",
+                "messagetype": ""
+            },
             "kum4YmotrkBqrRxlqhytYTvhwIJjQdoESkJOP4uVQIk": {
                 "rateCode": "AP5EURU8J9Y4AD43.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0220500000",
@@ -22524,6 +22689,17 @@
                 "NumberType": "",
                 "ToCountry": "Hong Kong",
                 "messagetype": "outbound"
+            },
+            "lY5vKHvWGJg3rwih0sbdq55oYxApro0HfNVl_TKRsAc": {
+                "rateCode": "NG772EASWZ423ZD7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "lY5vKHvWGJg3rwih0sbdq55oYxApro0HfNVl_TKRsAc",
+                "country": "",
+                "operation": "",
+                "CallType": "Toll Free",
+                "NumberType": "DID Number Provisioned Inventory",
+                "ToCountry": "",
+                "messagetype": ""
             },
             "laXFIHrV8ppPjD60mYAr1I_vWIde-7jDbdN54T8lA7k": {
                 "rateCode": "TWPY3BNA4H853MTE.JRTCKXETXF.6YS6EN2CT7",

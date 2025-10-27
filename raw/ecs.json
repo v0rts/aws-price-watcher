@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ecs",
         "accessType": "publish",
-        "esIndex": "plc-ecs-usd-20251001203013",
-        "hawkFilePublicationDate": "2025-09-30T20:09:32Z",
-        "ETLIngestionTriggerDate": "2025-10-01T20:30:13Z",
+        "esIndex": "plc-ecs-usd-20251027175855",
+        "hawkFilePublicationDate": "2025-10-27T17:58:55Z",
+        "ETLIngestionTriggerDate": "2025-10-27T17:58:55Z",
         "currencyCode": "USD",
         "source": "ecs",
         "isMapped": "true"
@@ -9573,7 +9573,7 @@
             },
             "Kr6viFcL4Lfu_FmTEEKeJLiu_MnyACgJRb7hBloqb2M": {
                 "rateCode": "SGJBCKSXH4SC98JA.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0053673375",
+                "price": "0.0053673380",
                 "RegionlessRateCode": "Kr6viFcL4Lfu_FmTEEKeJLiu_MnyACgJRb7hBloqb2M"
             },
             "TlpG5uRWPPOu__cS2TwVcAbDgJulxspszfbfnMQc42w": {
@@ -9638,7 +9638,7 @@
             },
             "perGB per hour Windows": {
                 "rateCode": "SGJBCKSXH4SC98JA.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0053673375",
+                "price": "0.0053673380",
                 "RegionlessRateCode": "Kr6viFcL4Lfu_FmTEEKeJLiu_MnyACgJRb7hBloqb2M"
             },
             "perCPU OS License Fee per hour Windows": {

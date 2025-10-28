@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lightsail",
         "accessType": "publish",
-        "esIndex": "plc-lightsail-usd-20251021191215",
-        "hawkFilePublicationDate": "2025-08-04T17:18:42Z",
-        "ETLIngestionTriggerDate": "2025-10-21T19:12:15Z",
+        "esIndex": "plc-lightsail-usd-20251028020957",
+        "hawkFilePublicationDate": "2025-10-28T02:09:57Z",
+        "ETLIngestionTriggerDate": "2025-10-28T02:09:57Z",
         "currencyCode": "USD",
         "source": "lightsail",
         "isMapped": "true"

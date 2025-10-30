@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesis",
         "accessType": "publish",
-        "esIndex": "plc-kinesis-usd-20251030212748",
-        "hawkFilePublicationDate": "2025-10-28T19:35:41Z",
-        "ETLIngestionTriggerDate": "2025-10-30T21:27:48Z",
+        "esIndex": "plc-kinesis-usd-20251030231152",
+        "hawkFilePublicationDate": "2025-10-30T23:11:54Z",
+        "ETLIngestionTriggerDate": "2025-10-30T23:11:52Z",
         "currencyCode": "USD",
         "source": "kinesis",
         "isMapped": "true"

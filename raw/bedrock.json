@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "bedrock",
         "accessType": "publish",
-        "esIndex": "plc-bedrock-usd-20251029221209",
-        "hawkFilePublicationDate": "2025-10-29T22:12:09Z",
-        "ETLIngestionTriggerDate": "2025-10-29T22:12:09Z",
+        "esIndex": "plc-bedrock-usd-20251030003751",
+        "hawkFilePublicationDate": "2025-10-30T00:37:51Z",
+        "ETLIngestionTriggerDate": "2025-10-30T00:37:51Z",
         "currencyCode": "USD",
         "source": "bedrock",
         "isMapped": "true"
@@ -251,6 +251,11 @@
                 "rateCode": "CNW2C6RB84E4XN2K.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0024000000",
                 "RegionlessRateCode": "ALrGJ-REIBG46BVcUQOYYJ9MIWhjIyEi7WVRyzY8ahQ"
+            },
+            "APqkoO9z6pav5zcSgLrwdU2wibQ9--pVO0h4yedu6rg": {
+                "rateCode": "ZNDVCCA4MHEZ4E92.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "APqkoO9z6pav5zcSgLrwdU2wibQ9--pVO0h4yedu6rg"
             },
             "AQ8vTNIrCjm8hUJbNxt61CT--Fn7zZAYi8V5EaatPnw": {
                 "rateCode": "V88BE3V9SHUWVW3F.JRTCKXETXF.6YS6EN2CT7",
@@ -1525,6 +1530,11 @@
                 "rateCode": "S7VSRQCFB6FAS7PS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0024000000",
                 "RegionlessRateCode": "ALrGJ-REIBG46BVcUQOYYJ9MIWhjIyEi7WVRyzY8ahQ"
+            },
+            "APqkoO9z6pav5zcSgLrwdU2wibQ9--pVO0h4yedu6rg": {
+                "rateCode": "JRUGVYUAP49NMX6T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "APqkoO9z6pav5zcSgLrwdU2wibQ9--pVO0h4yedu6rg"
             },
             "AQ8vTNIrCjm8hUJbNxt61CT--Fn7zZAYi8V5EaatPnw": {
                 "rateCode": "U7BHRV8SFWQGGJG9.JRTCKXETXF.6YS6EN2CT7",

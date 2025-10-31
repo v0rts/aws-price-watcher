@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lightsail",
         "accessType": "publish",
-        "esIndex": "plc-lightsail-usd-20251028020957",
-        "hawkFilePublicationDate": "2025-10-28T02:09:57Z",
-        "ETLIngestionTriggerDate": "2025-10-28T02:09:57Z",
+        "esIndex": "plc-lightsail-usd-20251031025449",
+        "hawkFilePublicationDate": "2025-10-31T02:54:49Z",
+        "ETLIngestionTriggerDate": "2025-10-31T02:54:49Z",
         "currencyCode": "USD",
         "source": "lightsail",
         "isMapped": "true"
@@ -282,6 +282,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "9JFUR22DE589A73S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "B6BVXKUWGPY4F8RV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -290,6 +299,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "6BT7QBPXHXSC7DRD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "MKZZG639U4N62RRW.JRTCKXETXF.6YS6EN2CT7",
@@ -327,6 +345,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "6HQZG43XDRJDRZRU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "RWAPNU4TN97RXAAM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -335,6 +362,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "PHW8PY7AHHE8YZ3S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "W326F4HA9TPHFJTS.JRTCKXETXF.6YS6EN2CT7",
@@ -345,6 +381,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "8WTSP7DN32TWFGZ9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "35RH6S8FHZHZCFNA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -353,6 +398,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "V7HQATNQBKCHHDUP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "FUHAPSEUA8WQQ7SY.JRTCKXETXF.6YS6EN2CT7",
@@ -363,6 +417,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "GC6XX2SMU2JTPJMF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "3CN9UQYQKDJTAATY.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -371,6 +434,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "4KY242SQ3KRKED8V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "WJAHHWQN84HWRY7N.JRTCKXETXF.6YS6EN2CT7",
@@ -453,6 +525,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "MMFFKWUST9D5E9CV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "6237YFY4KFZPD9D2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -516,6 +597,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "V9SZEC623M4G3YTU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "EU46Y8RDK8WBAKRU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -561,6 +651,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "3QHJ9QDS2XMVU5NG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "4WS6UUDSR7YR7QEQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -587,6 +686,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "8KSAYPUSF4C5UPZC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "Z749U7PTXPSDJ535.JRTCKXETXF.6YS6EN2CT7",
@@ -1444,6 +1552,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "998AJJBMA78E6AJP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "RNEZ6NXY5CTJ2QXH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -1452,6 +1569,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "UZ7W566C72M48B8Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "9W66V5HSABPP76NT.JRTCKXETXF.6YS6EN2CT7",
@@ -1489,6 +1615,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "9PNWCJ5QKCUAMEPS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "V7Y4J9DTJYN7SFW7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -1497,6 +1632,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "7NSK6NYEFM2GR6B6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "HXHGH5AK3FFYW95U.JRTCKXETXF.6YS6EN2CT7",
@@ -1507,6 +1651,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "3MYFVUGZRDQRM3D3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "6HHE84YBNNSQTE26.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -1515,6 +1668,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "3RGZ8KAA8CZQPK6G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "PSC7FX4UYN7H7PC9.JRTCKXETXF.6YS6EN2CT7",
@@ -1525,6 +1687,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "9X3HGE4BT39GY3MV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "QPV56SZVAQF3DHBE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -1533,6 +1704,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "HANSP83JD4ZB29N2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "2DDS7JU4DM3XKEJM.JRTCKXETXF.6YS6EN2CT7",
@@ -1615,6 +1795,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "6X45ZF89RJATHXRQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "YCCAAKDEBPJDSVNF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -1678,6 +1867,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "JXAK5QQV3TSUZS25.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "DD6FQHYWJGUS9CQJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -1723,6 +1921,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "A6QX2ER7BASTXEFR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "43PAYQGHBFUH7A79.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -1749,6 +1956,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "C4H8F5ZAA3UEC8K7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "J7H4DJUCN9YVG7CF.JRTCKXETXF.6YS6EN2CT7",
@@ -2619,6 +2835,24 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "KQ8Q4JGYVMRJ6SVP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "7Z9XKB979ZFVYYWS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "QUKMCPWKHG9B3AUS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0295600000",
@@ -2637,6 +2871,15 @@
                 "Storage": "1280GB",
                 "Transfer": "8TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "6K8RKVQUT5Q7H49Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "Y8S55Q9C7QEMHEF5.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -2645,6 +2888,24 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "5AJDS583HPUMMP8Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "PTU3JYR8N547ERRR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "TQJ5MK8JDSQV9C2W.JRTCKXETXF.6YS6EN2CT7",
@@ -2655,6 +2916,24 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "5BNKBMQ7ND7PNDH6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "YF97D78FQAMGCFRW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "KMU9ESNZYKM9Q6RB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -2663,6 +2942,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "ZYTTGRKDKCFUHQUE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "U889FW8J4XS8752T.JRTCKXETXF.6YS6EN2CT7",
@@ -2727,6 +3015,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "ZQ8CEDFCUCFSH4BT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "K6VEWRR5HVAWHMJY.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -2790,6 +3087,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "QHED2T8KF4AMZXZ5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "SXK3RNCY7A9RBGUN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -2817,6 +3123,15 @@
                 "Storage": "80GB",
                 "Transfer": "4TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "GFCAP5UGQVCAFG29.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "AY3XG56WNUTRZ9XT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -2825,6 +3140,15 @@
                 "Processor": "8",
                 "Storage": "640GB",
                 "Transfer": "7TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "7UP3WAYJ3YRX5EWH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xNW7mRNxsTdnZkKY62ENVceWSX8Ts8wRBjPd4ULp5Mo V9": {
                 "rateCode": "FGD6JZKDW23KD7KR.JRTCKXETXF.6YS6EN2CT7",
@@ -3799,6 +4123,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "NQ982F666UZYMY27.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "4X4AAZ2TAHK62ECC.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -3807,6 +4140,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "SYXRP7KNU54H7WWX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "NN5T5CFSDW23XHNH.JRTCKXETXF.6YS6EN2CT7",
@@ -3844,6 +4186,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "5F2BX7ZPUMY2BN27.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "6QUC9RX67YMASJRB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -3852,6 +4203,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "TUM3EJGFKFH5K3EQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "KNRUMWVZF7JBX8B2.JRTCKXETXF.6YS6EN2CT7",
@@ -3862,6 +4222,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "6G66D6YWJK63DED7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "4979FU2TH2ERBWFW.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -3870,6 +4239,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "KN7CKDJA8T5BS7GU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "RH8VF97RUQP6XH92.JRTCKXETXF.6YS6EN2CT7",
@@ -3880,6 +4258,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "R75QZGGQ2KMFJEAS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "D8XK3AZQQVGPXGRU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -3888,6 +4275,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "CES2ZZDMSU8WQUWW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "N8BVZPMSKTB26FPG.JRTCKXETXF.6YS6EN2CT7",
@@ -3970,6 +4366,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "NCC97NY7ANKNZDMU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "55VJVADCM5VUAKGH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -4033,6 +4438,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "VBFPP5G9WR54Y3VA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "E9HPPSMGNNUYM7GZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -4078,6 +4492,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "4N9JWF389XRG8D5S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "2752A2BK3NSKY2VX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -4104,6 +4527,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "48HJP34EPMD8XZRS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "9AXATW375V5AGDRH.JRTCKXETXF.6YS6EN2CT7",
@@ -4949,6 +5381,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "QS6B3PX2RQMSFCUS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "SCRQDKPF85MCK346.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -4957,6 +5398,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "AB2ESA73P5H7XC7P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "XQKF8W52N688ZXGN.JRTCKXETXF.6YS6EN2CT7",
@@ -4994,6 +5444,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "PFJDYPZNQ6T34QWK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "GXVR9XHHXVF44W7B.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -5002,6 +5461,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "5586BD8C7N7QX4GQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "SXKYZYAW85YF8RFH.JRTCKXETXF.6YS6EN2CT7",
@@ -5012,6 +5480,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "CFF8Z7M2U6VTCWHR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "MUT2HWJ2BCSEKPKN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -5020,6 +5497,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "7CMH3BJ8EGHV677M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "GAHZBKPR87VDHJ26.JRTCKXETXF.6YS6EN2CT7",
@@ -5030,6 +5516,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "UWS97589TH8XQ74G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "3AH8K7VT3GHZD2CN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -5038,6 +5533,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "8RUH7XF925SEGEWD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "6MVFHNVCTVFKWQDP.JRTCKXETXF.6YS6EN2CT7",
@@ -5120,6 +5624,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "C6KYYVDXRVPE26ZA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "9NA7HMXPJVEAPMUN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -5183,6 +5696,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "UA6UFTXGGB9YHM7T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "3K7M3W4BDUCFVA5D.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -5228,6 +5750,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "M84APFZQD753BVRA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "3G5CUKNT8DMPFAGN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -5254,6 +5785,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "2YADJGVNABND62ZA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "F2R55MN9KB6B88K7.JRTCKXETXF.6YS6EN2CT7",
@@ -6098,6 +6638,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "Q3QMYEQFSTCGYTXC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "PFYKCCNHQ9QBSFP3.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -6106,6 +6655,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "Y55TDUJTD7N5T4E7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "FDSACRA5N9BARS7N.JRTCKXETXF.6YS6EN2CT7",
@@ -6143,6 +6701,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "YU8SC25WDENEBF7F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "7ZN4HZPPPDM75J98.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -6151,6 +6718,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "AFHQUYTQAVJ3QQXG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "VFAYMFNC9WYXWWPR.JRTCKXETXF.6YS6EN2CT7",
@@ -6161,6 +6737,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "27BD8F4FBYWX9QZQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "8NGAHF52DS5372RM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -6169,6 +6754,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "5QMEQMCDC2XX6879.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "Q97PB3DJCWNDTMYD.JRTCKXETXF.6YS6EN2CT7",
@@ -6179,6 +6773,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "S6VYE9XR4GH4TCHP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "RAYG75MRCWJ6DCZG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -6187,6 +6790,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "E7CEQDPPS6WDRTPB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "F3XZS564WZPQDBBY.JRTCKXETXF.6YS6EN2CT7",
@@ -6269,6 +6881,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "DZPP4UMJFE273GVY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "RKDBSHZ5M9G9XZKV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -6332,6 +6953,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "33R4FQBQUATFRH65.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "5C62UTQ4RECUDTVK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -6377,6 +7007,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "Q3TA9BKH4FAK9MPJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "4N9QJ27TY5RQER6W.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -6403,6 +7042,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "A9Y9AU38ZT9DC4UU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "86K66MPAUHZPH7UN.JRTCKXETXF.6YS6EN2CT7",
@@ -7253,6 +7901,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "PXD8RNXTVKN3ZRPA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "8HBXKDSGDEBZW4EH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -7261,6 +7918,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "YJJFZH9KDJAWWNU4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "NHQGRU9XWJYYDK67.JRTCKXETXF.6YS6EN2CT7",
@@ -7298,6 +7964,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "3YA3R2VUUFN77V7K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "NTMFQA4Y2WR8A9NR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -7306,6 +7981,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "J39TPG2V7VBD8MG2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "N9PNKRH5C9FEQRTR.JRTCKXETXF.6YS6EN2CT7",
@@ -7316,6 +8000,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "VP79699MUG4VS8BX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "H349MAXZ4J6VD2QQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -7324,6 +8017,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "Z85WQWBXUH8YAZ5H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "EUEVQQUB3P98JDWN.JRTCKXETXF.6YS6EN2CT7",
@@ -7334,6 +8036,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "SQTBJ4C7ZATKGJP9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "6WHN6NX5RRBZ6BWX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -7342,6 +8053,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "WZRBYHWJ86UN8MD9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "KWZH3NE8TT65TCQP.JRTCKXETXF.6YS6EN2CT7",
@@ -7424,6 +8144,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "CGWAFHXYRFZJ32XE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "B55M4V8BVUXZ3SMU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -7487,6 +8216,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "Z2P2EXPUY4GBRS6G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "NREGWX3VY2ABR5KH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -7532,6 +8270,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "CXE4C4Z4JNRM3MCY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "YYTHFJDSY527Z9BF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -7558,6 +8305,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "UGAZDMXPX7BT7WDN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "94UAGGY35G2HTYQ5.JRTCKXETXF.6YS6EN2CT7",
@@ -8408,6 +9164,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "BQJAZ9EFWBN2V6WH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "SSHDBY84EAR759GK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -8416,6 +9181,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "ZHF2G5HSBWJA7YC9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "8HGJ3GFNHBQD3N9J.JRTCKXETXF.6YS6EN2CT7",
@@ -8453,6 +9227,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "JJAT54EF3RUCR36H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "H4Z7WQYD24RVZ7XR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -8461,6 +9244,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "VUP8XUJ5Z62T4QAD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "XBQ2Z9RUM8QDSRNM.JRTCKXETXF.6YS6EN2CT7",
@@ -8471,6 +9263,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "6WUJ5YWQR3KB3W8Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "RMUMFYU5ZKWPSZAV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -8479,6 +9280,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "FDCVCYJ9F3DW7URN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "9AB2HDYFJ2C572K8.JRTCKXETXF.6YS6EN2CT7",
@@ -8489,6 +9299,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "GA2TB86F4695D244.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "UEGY3G989H6EXSVX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -8497,6 +9316,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "67PTSF2TRW4EFRQD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "RPZFR4AXXWDU7RDB.JRTCKXETXF.6YS6EN2CT7",
@@ -8579,6 +9407,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "6TC5BFXEZVCBSBBS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "4NEWYBA82W5CQXJ4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -8642,6 +9479,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "JHS4HB26KAUNCVQP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "RYW86QQBDFS7YWUB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -8687,6 +9533,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "9RD9FPCCSRQ2KNWF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "E8ZYSGCG7YM2VAAG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -8713,6 +9568,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "6RUJQ2SXQK9ZHJMY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "XHX5GMQRE6XJAPXZ.JRTCKXETXF.6YS6EN2CT7",
@@ -9601,6 +10465,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "3B85KQ2DQBMN78KH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "SW56CCYNWE2Y53ZV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -9609,6 +10482,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "7538Y9Q5D7P3R84U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "BZJEADBCPEGU6APS.JRTCKXETXF.6YS6EN2CT7",
@@ -9646,6 +10528,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "SNA7EPWJ8KQUVBZC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "GF6WZKX49BJ3AC4A.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -9654,6 +10545,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "X262MHGZJKKBWY4V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "STJEKVV2MMKE8KET.JRTCKXETXF.6YS6EN2CT7",
@@ -9664,6 +10564,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "TBJ7HUCFEYYWHVVB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "UKBZPMQJDQUMAHFB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -9672,6 +10581,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "7HJ4EZUSMP63MXF8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "4EU2JCTCYSPH9JMT.JRTCKXETXF.6YS6EN2CT7",
@@ -9682,6 +10600,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "G5BYF77ACD73JHYH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "U64FWY62M7N5FSBY.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -9690,6 +10617,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "M2SQXWMAV8PYKD3C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "8A5R34NJUNQM48QZ.JRTCKXETXF.6YS6EN2CT7",
@@ -9772,6 +10708,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "26G2EXS4QSXXVPQX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "WFW7HWDDKCQ9BFV6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -9835,6 +10780,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "XXQN5BAK34YNZD98.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "ZWPZJ93R2HNBQYZ7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -9880,6 +10834,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "F4Q8TCEQ9E8MSYN6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "2SSMBGEFZ3U7PTK7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -9906,6 +10869,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "QCGK59M88RQCPNJK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "YDE4JVUDHMUEFXCP.JRTCKXETXF.6YS6EN2CT7",
@@ -10838,6 +11810,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "PWE3Z5NHECUVERAE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "MQ83KCVQJ3D2SSTU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -10846,6 +11827,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "KRM7VAR5EVCA7WJ6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "XY72YMHHKG62VH8A.JRTCKXETXF.6YS6EN2CT7",
@@ -10883,6 +11873,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "DVT5C7N7J28YBCV2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "BGQTVGM5ZSPPE8JX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -10891,6 +11890,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "2KJEWVQM5ZBYRY7S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "JZSJFKQVAQ5EX2MN.JRTCKXETXF.6YS6EN2CT7",
@@ -10901,6 +11909,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "6QC4WTPZ3F8VWT7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "K59XSHTPC2DQTDMC.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -10909,6 +11926,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "8XGZTGFWWDQADESV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "3RJDED87PRNKT89E.JRTCKXETXF.6YS6EN2CT7",
@@ -10919,6 +11945,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "MFAXKPTJVV53EPBN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "S9XREJ592G4W4HW8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -10927,6 +11962,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "373XS2QXN768PKUM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "885PZYJVF9MANGG7.JRTCKXETXF.6YS6EN2CT7",
@@ -11009,6 +12053,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "2FPY8AC2UMBS6TY4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "7PUAY4EV6SQ6D4SS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -11072,6 +12125,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "GRDW4D9PRQRBRRHW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "98RSR4NEA4N6E8S4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -11117,6 +12179,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "UK5DCP28J2ZWQ5GP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "E598Z6PJ38PZU35Y.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -11143,6 +12214,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "2TV99RMK8X6GXGUX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "58QZ2HPCXZTXEZDR.JRTCKXETXF.6YS6EN2CT7",
@@ -11993,6 +13073,15 @@
                 "Storage": "60GB",
                 "Transfer": "1.5TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "RGGCPYTJBBGW3JDE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "5JF45GPQ6UBTEGU9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -12001,6 +13090,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "ARC9PHWB8TPF598S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "JN4ZKTRY2PEUMVMS.JRTCKXETXF.6YS6EN2CT7",
@@ -12038,6 +13136,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "28V38U3SN4ZDDSE9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "EGD6FXTXWDUBV9AT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -12046,6 +13153,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "4TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "8TWCACUGDWP7BWYC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "4WM977S4V5FG8MUC.JRTCKXETXF.6YS6EN2CT7",
@@ -12056,6 +13172,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "K74YAYFDFAF5VDR4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "5H8P6WWJ27VZSF4P.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -12064,6 +13189,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "1.5TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "HDB942RVVJMVZSKE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "YQ6F442X6BAXWWYZ.JRTCKXETXF.6YS6EN2CT7",
@@ -12074,6 +13208,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "M9JMUTZKR53JESV3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "PEFJ65GQ4W28FRW3.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -12082,6 +13225,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "1TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "7772V5JVSRBABK9Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "FZX8Q973F8MBMQ6X.JRTCKXETXF.6YS6EN2CT7",
@@ -12164,6 +13316,15 @@
                 "Storage": "40GB",
                 "Transfer": "1TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "469XXEMTAD7KK2ZC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "RT7KMQ7HNJGE8BWZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -12227,6 +13388,15 @@
                 "Storage": "640GB",
                 "Transfer": "3.5TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "7JY4CGDJ5SY4K9BY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "Q4RTN4UVEM3YVR75.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -12272,6 +13442,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "P89TWECEECTRHQ9G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "DRDSGY3DT7CWM777.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -12298,6 +13477,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "9U3YF5YVU9VFE4F3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "5G6RJ5UF3EX6V32V.JRTCKXETXF.6YS6EN2CT7",
@@ -13148,6 +14336,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "DUBN7MRBQX8XVWKV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "QG7MA9VWHAZS5ASX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -13156,6 +14353,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "8B4PV663VV6UT5NS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "AHZCDP4GEU7V2WT8.JRTCKXETXF.6YS6EN2CT7",
@@ -13193,6 +14399,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "4KKKMJSPKS24M8F4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "Z5M8QK35V96R83FJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -13201,6 +14416,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "4RTHYJ8JX4AFE488.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "R8XDW3FAHVF5ZTGS.JRTCKXETXF.6YS6EN2CT7",
@@ -13211,6 +14435,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "6PZN7BG4UV94VXR8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "NBSGR8DQN2PW4T36.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -13219,6 +14452,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "P3CY8P3SENBVXVGK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "CDM7N8WV77FVRFXD.JRTCKXETXF.6YS6EN2CT7",
@@ -13229,6 +14471,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "DFJQ2UBDG5WF6B64.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "EHME2E4SR2XE7625.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -13237,6 +14488,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "S9KAY8WSQNH7RT6Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "5VY6S6ZSCNU8DVHP.JRTCKXETXF.6YS6EN2CT7",
@@ -13319,6 +14579,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "W986KB7CB6R3EU7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "WU28AZA2WHV84425.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -13382,6 +14651,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "5DGZFU9MY3ZU7UZY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "JPQ7Q8VD9UB3YNBU.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -13427,6 +14705,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "FE4NYSQBNJQK6X78.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "PZZD4ZDH5RS6D27B.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -13453,6 +14740,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "HAU89SV7FKK3GDZH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "FJSAFYUUSYSZJJD6.JRTCKXETXF.6YS6EN2CT7",
@@ -14297,6 +15593,15 @@
                 "Storage": "60GB",
                 "Transfer": "3TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "TAVSZUM9B49C5DXN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "PQ796235P4RYHKQX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -14305,6 +15610,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "GSFJJGYNUTVQTSDD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "ZXB24WZC7SE6UBV8.JRTCKXETXF.6YS6EN2CT7",
@@ -14342,6 +15656,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "BH5AT9Y2BCXWSGUV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "NEVUSBCWNWSUYK9S.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -14350,6 +15673,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "8TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "2J8CUW94V7VEVW4M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "WNN8BPCHTG56UHRH.JRTCKXETXF.6YS6EN2CT7",
@@ -14360,6 +15692,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "KGJDVD27SDJYEAFQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "Z5VCH25UCTPQUNV6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -14368,6 +15709,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "3TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "WYKWXJM6B463VTMB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "CEQUAMFD5U6U7H46.JRTCKXETXF.6YS6EN2CT7",
@@ -14378,6 +15728,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "89RGQ7AWCYTU46VW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "MAF4M85GPJJF83MQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -14386,6 +15745,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "2TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "URERAXHU6R9GK7GU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "Q4T82J3U3PSAHS6Q.JRTCKXETXF.6YS6EN2CT7",
@@ -14468,6 +15836,15 @@
                 "Storage": "40GB",
                 "Transfer": "2TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "F26PR2XEYURDPM5Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "5SK9P77H6Q9DQJPJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -14531,6 +15908,15 @@
                 "Storage": "640GB",
                 "Transfer": "7TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "AYJXDCWTDNBGS2E9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "EC8EJHZBTU2VPMTC.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -14576,6 +15962,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "H22WTVBZYWGCDT5V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "9TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "4VREUNZSE7ZUVT4F.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -14602,6 +15997,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "7MNUQYT9G6A2JE3Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "10TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "BBHCWYCTKTRSEFHQ.JRTCKXETXF.6YS6EN2CT7",
@@ -15446,6 +16850,15 @@
                 "Storage": "60GB",
                 "Transfer": "1.5TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "QPTV7XJBMXW2HCN4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "D8B_FWkC7WwEOOLT-zB3-qBZxbqc0FzslI3vcIvsDNA V9": {
                 "rateCode": "QQMM25C3ZYFZB8UQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0068500000",
@@ -15454,6 +16867,15 @@
                 "Processor": "8",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "7TXMUKKQF48U5UNM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
             },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "DPDXBEPKGCCWS6M4.JRTCKXETXF.6YS6EN2CT7",
@@ -15491,6 +16913,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "FBCATKBRS2NR5JSX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "WJWRZVQBPT2W2SHT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -15499,6 +16930,15 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "4TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "ENE3QZ5WAU4Q8CMG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
             },
             "NXyGN9c7OeJbqe1TnLM-w_QN9-pLvCYz3JSUQMbAHDQ V9": {
                 "rateCode": "JY599WEZCQA7X7UA.JRTCKXETXF.6YS6EN2CT7",
@@ -15509,6 +16949,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "7VQ9UZU9VJQPQB7Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
+            },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "EYPUSJKXX85YMZPE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0161200000",
@@ -15517,6 +16966,15 @@
                 "Processor": "2",
                 "Storage": "60GB",
                 "Transfer": "1.5TB"
+            },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "E85YCMDHC5A2PZQY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
             },
             "SMMjxXWoiW-L7a9Fi6xfhUBo5TYXOz1NpX20V8h2GFI V9": {
                 "rateCode": "5U3J59TH2HPSEDZZ.JRTCKXETXF.6YS6EN2CT7",
@@ -15527,6 +16985,15 @@
                 "Storage": "50GB",
                 "Transfer": "0.5TB"
             },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "YNFG3QDHVAHK2NKQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "77JUCBP5PYSWRQ9F.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -15535,6 +17002,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "1TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "VEGSRHW6VABRDSGG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "8JNDDNARBV63SP48.JRTCKXETXF.6YS6EN2CT7",
@@ -15617,6 +17093,15 @@
                 "Storage": "40GB",
                 "Transfer": "1TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "CZB8EHWEADAWJ5VJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "3BT5R8GH4843BNGT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -15680,6 +17165,15 @@
                 "Storage": "640GB",
                 "Transfer": "3.5TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "MJDKNH679BXPJDS8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "M977GAJT6CRD67CH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -15725,6 +17219,15 @@
                 "Storage": "50GB",
                 "Transfer": "1TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "9CQ2S5JSQDY8EA2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "MJYD2BP9342XW466.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -15751,6 +17254,15 @@
                 "Processor": "4",
                 "Storage": "50GB",
                 "Transfer": "1TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "JVZKNRHE23PVKE5A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
             },
             "xJq7uRivo1GoG-uvIIwM3j83hMXTASrBzh7B4u2KQk4 V9": {
                 "rateCode": "JTEK6S3Q5Z8EARMJ.JRTCKXETXF.6YS6EN2CT7",
@@ -16608,6 +18120,24 @@
                 "Storage": "60GB",
                 "Transfer": "1.5TB"
             },
+            "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw V9": {
+                "rateCode": "CXG3WBZXTVMSBHMF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3655900000",
+                "RegionlessRateCode": "BfudwqOJCrNTc4gWyNJIPSxAKBjmoI0KTVf6WERR0xw",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
+            "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI V9": {
+                "rateCode": "YDT6T436SACVUN5V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7795600000",
+                "RegionlessRateCode": "FePaTp3_WGuUzX3fplTaWV76saX-tsh5w3xJ_TjjlJI",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "GWr_1W4doKRwbjNyTnXf89KrlJdSMfXXUFkA9US90V4 V9": {
                 "rateCode": "SHR988CU7KSD6BKJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0295600000",
@@ -16626,6 +18156,15 @@
                 "Storage": "1280GB",
                 "Transfer": "4TB"
             },
+            "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A V9": {
+                "rateCode": "EA7HX43S3DH59TAP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5268800000",
+                "RegionlessRateCode": "J1ex8YwOtlYcO_UKlU2I5yLLxzyNzktj5zA-vqgja1A",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "J6pXtmXzX9KzVUzE664X9A8pjrtBYneHX578GYILYJM V9": {
                 "rateCode": "YEBHU49NPBKDEGB4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5107500000",
@@ -16634,6 +18173,24 @@
                 "Processor": "16",
                 "Storage": "1280GB",
                 "Transfer": "4TB"
+            },
+            "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI V9": {
+                "rateCode": "QMS7E9TF37F2W28B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3655900000",
+                "RegionlessRateCode": "MXwdtfvYnHpmOJaY5kmikRz3C1g7VwLHD2V8RmjJxuI",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
+            "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0 V9": {
+                "rateCode": "W3NYSPGSG7949APJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6854800000",
+                "RegionlessRateCode": "N_pp5P2Omybp2ge-C-qwmlSN4VgmD2OsBsy9PtC9xQ0",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
             },
             "P6fbXgrpU5zZ8Gh8kWSPEj9yicEMtobWf7wxwC9FwsE V9": {
                 "rateCode": "E8W3AFXTTGBXRE8F.JRTCKXETXF.6YS6EN2CT7",
@@ -16644,6 +18201,24 @@
                 "Storage": "60GB",
                 "Transfer": "1.5TB"
             },
+            "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c V9": {
+                "rateCode": "3CVT64EDNZM99V96.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7741900000",
+                "RegionlessRateCode": "RlDyjPwHuXl2BiqeTLlTOZRoZVEVbkY0GOKEkD8bv3c",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
+            "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs V9": {
+                "rateCode": "KQMJVCXUWCVFM8JN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5322500000",
+                "RegionlessRateCode": "T-AH1g4lJCR_s4XfkLEHlVqzYmUHcFrRHvW3eF7Ulvs",
+                "Memory": "192GB",
+                "Processor": "48",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "Yxw6bh47JVV_YZwHuQjNRjQXEn5Z3V4Hhh0b-1SU8AY V9": {
                 "rateCode": "KDUMC9TW37CXEFAR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0094000000",
@@ -16652,6 +18227,15 @@
                 "Processor": "2",
                 "Storage": "40GB",
                 "Transfer": "1TB"
+            },
+            "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw V9": {
+                "rateCode": "DA3D9WJPYARJN2MG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1881700000",
+                "RegionlessRateCode": "ZsVSu1_hvUgFKVPsw-GP2r0S4dbkRmhRpsuaPwwSBLw",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
             },
             "_3AHHBg9HKPuOnRzATYbDIjA02tDZXypIjd9_NCEGkk V9": {
                 "rateCode": "GBK6MH86NA8HS6W3.JRTCKXETXF.6YS6EN2CT7",
@@ -16716,6 +18300,15 @@
                 "Storage": "40GB",
                 "Transfer": "1TB"
             },
+            "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g V9": {
+                "rateCode": "CV8WAR5MSNK9VESH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6801000000",
+                "RegionlessRateCode": "e3EDT2NQTw0dZOMiAbhsSf-W4BbYs3_hDn93MGpzD_g",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
+            },
             "hZNBca7KHcimNpsX7fYYyABd1T-K-oAPdiPrfaJJC4A V9": {
                 "rateCode": "PKRNX6392N75833K.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5161200000",
@@ -16779,6 +18372,15 @@
                 "Storage": "640GB",
                 "Transfer": "3.5TB"
             },
+            "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4 V9": {
+                "rateCode": "5TRZMY79HCC7YKZQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3709600000",
+                "RegionlessRateCode": "kiqLwx6SGq7khYgnsqtddZnF0U5aQ4VFIcwrdfnZrJ4",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
+            },
             "lc9hzVULeL9dESzY4aCDNu6QAcDCeHzWL9UqYfUg3so V9": {
                 "rateCode": "3C9NMNTAB75HZSVD.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0127600000",
@@ -16806,6 +18408,15 @@
                 "Storage": "80GB",
                 "Transfer": "2TB"
             },
+            "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA V9": {
+                "rateCode": "FU86YR5VJYGVBVB4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1827900000",
+                "RegionlessRateCode": "s1fE8xEH8x1x0nm3FhlJbkFGtC32vlau0dPh2dy4BQA",
+                "Memory": "128GB",
+                "Processor": "32",
+                "Storage": "1280GB",
+                "Transfer": "4.5TB"
+            },
             "szcdbAkrXygUVD3kfccA-9NE6OYuPp2WdIB4VyL-Wyk V9": {
                 "rateCode": "PM74DW4KERFXEXND.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2150500000",
@@ -16814,6 +18425,15 @@
                 "Processor": "8",
                 "Storage": "640GB",
                 "Transfer": "3.5TB"
+            },
+            "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg V9": {
+                "rateCode": "3AYXQZSF74X6ZV3B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3602100000",
+                "RegionlessRateCode": "uylCx_U9aDHEHcsoY53dAO9fUNWsbFHW3zRKR3WIuOg",
+                "Memory": "256GB",
+                "Processor": "64",
+                "Storage": "1280GB",
+                "Transfer": "5TB"
             },
             "xNW7mRNxsTdnZkKY62ENVceWSX8Ts8wRBjPd4ULp5Mo V9": {
                 "rateCode": "8D3K7TYUDHAYY5UB.JRTCKXETXF.6YS6EN2CT7",

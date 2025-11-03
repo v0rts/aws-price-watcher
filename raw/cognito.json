@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cognito",
         "accessType": "publish",
-        "esIndex": "plc-cognito-usd-20251013192825",
-        "hawkFilePublicationDate": "2025-10-13T19:28:25Z",
-        "ETLIngestionTriggerDate": "2025-10-13T19:28:25Z",
+        "esIndex": "plc-cognito-usd-20251103173355",
+        "hawkFilePublicationDate": "2025-11-03T17:33:55Z",
+        "ETLIngestionTriggerDate": "2025-11-03T17:33:55Z",
         "currencyCode": "USD",
         "source": "cognito",
         "isMapped": "true"
@@ -194,7 +194,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "3AXW25J6SBQSXPGQ.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -249,7 +249,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "3AXW25J6SBQSXPGQ.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -284,7 +284,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "3AXW25J6SBQSXPGQ.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -464,7 +464,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "3AXW25J6SBQSXPGQ.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -519,7 +519,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "3AXW25J6SBQSXPGQ.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -549,7 +549,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "3AXW25J6SBQSXPGQ.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -741,7 +741,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "5C9QU2RHMEW4VG3Y.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -796,7 +796,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "5C9QU2RHMEW4VG3Y.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -826,7 +826,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "5C9QU2RHMEW4VG3Y.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -1006,7 +1006,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "5C9QU2RHMEW4VG3Y.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -1061,7 +1061,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "5C9QU2RHMEW4VG3Y.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -1091,7 +1091,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "5C9QU2RHMEW4VG3Y.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -1288,7 +1288,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "9HSJRU2JJKYSV87P.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -1343,7 +1343,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "9HSJRU2JJKYSV87P.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -1378,7 +1378,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "9HSJRU2JJKYSV87P.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -1558,7 +1558,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "9HSJRU2JJKYSV87P.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -1613,7 +1613,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "9HSJRU2JJKYSV87P.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -1643,7 +1643,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "9HSJRU2JJKYSV87P.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -1840,7 +1840,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "35WAS3YQUZX28BKP.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -1895,7 +1895,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "35WAS3YQUZX28BKP.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -1930,7 +1930,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "35WAS3YQUZX28BKP.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -2110,7 +2110,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "35WAS3YQUZX28BKP.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -2165,7 +2165,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "35WAS3YQUZX28BKP.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -2195,7 +2195,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "35WAS3YQUZX28BKP.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -2387,7 +2387,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "PVF2QCK7DFEE3R32.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -2442,7 +2442,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "PVF2QCK7DFEE3R32.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -2472,7 +2472,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "PVF2QCK7DFEE3R32.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -2652,7 +2652,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "PVF2QCK7DFEE3R32.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -2707,7 +2707,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "PVF2QCK7DFEE3R32.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -2737,7 +2737,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "PVF2QCK7DFEE3R32.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -2929,7 +2929,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "3FRVHMUGS3N5XM38.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -2984,7 +2984,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "3FRVHMUGS3N5XM38.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -3014,7 +3014,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "3FRVHMUGS3N5XM38.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -3194,7 +3194,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "3FRVHMUGS3N5XM38.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -3249,7 +3249,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "3FRVHMUGS3N5XM38.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -3279,7 +3279,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "3FRVHMUGS3N5XM38.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -3471,7 +3471,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "SD8HKKEDW6G5DDMP.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -3526,7 +3526,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "SD8HKKEDW6G5DDMP.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -3556,7 +3556,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "SD8HKKEDW6G5DDMP.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -3736,7 +3736,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SD8HKKEDW6G5DDMP.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -3791,7 +3791,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SD8HKKEDW6G5DDMP.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -3821,7 +3821,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SD8HKKEDW6G5DDMP.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -4013,7 +4013,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "WXZPJHTY26N5PM78.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -4068,7 +4068,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "WXZPJHTY26N5PM78.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -4098,7 +4098,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "WXZPJHTY26N5PM78.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -4283,7 +4283,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "WXZPJHTY26N5PM78.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -4338,7 +4338,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "WXZPJHTY26N5PM78.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -4368,7 +4368,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "WXZPJHTY26N5PM78.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -4560,7 +4560,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "M62DNZZ9KF2UP7W5.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -4615,7 +4615,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "M62DNZZ9KF2UP7W5.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -4645,7 +4645,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "M62DNZZ9KF2UP7W5.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -4825,7 +4825,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "M62DNZZ9KF2UP7W5.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -4880,7 +4880,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "M62DNZZ9KF2UP7W5.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -4910,7 +4910,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "M62DNZZ9KF2UP7W5.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -5102,7 +5102,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "A7DJ9CVS8Y724CQP.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -5157,7 +5157,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "A7DJ9CVS8Y724CQP.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -5187,7 +5187,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "A7DJ9CVS8Y724CQP.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -5367,7 +5367,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "A7DJ9CVS8Y724CQP.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -5422,7 +5422,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "A7DJ9CVS8Y724CQP.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -5452,7 +5452,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "A7DJ9CVS8Y724CQP.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -5644,7 +5644,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "QNJJVK3NE86TSQKD.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -5699,7 +5699,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "QNJJVK3NE86TSQKD.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -5729,7 +5729,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "QNJJVK3NE86TSQKD.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -5909,7 +5909,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "QNJJVK3NE86TSQKD.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -5964,7 +5964,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "QNJJVK3NE86TSQKD.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -5994,7 +5994,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "QNJJVK3NE86TSQKD.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -6186,7 +6186,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "KMSWSPUFWYGSNZCJ.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -6241,7 +6241,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "KMSWSPUFWYGSNZCJ.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -6271,7 +6271,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "KMSWSPUFWYGSNZCJ.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -6451,7 +6451,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "KMSWSPUFWYGSNZCJ.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -6506,7 +6506,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "KMSWSPUFWYGSNZCJ.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -6536,7 +6536,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "KMSWSPUFWYGSNZCJ.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -6728,7 +6728,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "GJQUENM2S9SCT4BF.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -6783,7 +6783,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "GJQUENM2S9SCT4BF.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -6813,7 +6813,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "GJQUENM2S9SCT4BF.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -6993,7 +6993,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "GJQUENM2S9SCT4BF.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -7048,7 +7048,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "GJQUENM2S9SCT4BF.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -7078,7 +7078,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "GJQUENM2S9SCT4BF.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -7270,7 +7270,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "D5VZQYEHSXAPXU83.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -7325,7 +7325,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "D5VZQYEHSXAPXU83.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -7355,7 +7355,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "D5VZQYEHSXAPXU83.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -7535,7 +7535,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "D5VZQYEHSXAPXU83.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -7590,7 +7590,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "D5VZQYEHSXAPXU83.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -7620,7 +7620,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "D5VZQYEHSXAPXU83.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -7812,7 +7812,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "FWGTXYFPDBUGR7VK.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -7867,7 +7867,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "FWGTXYFPDBUGR7VK.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -7897,7 +7897,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "FWGTXYFPDBUGR7VK.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -8077,7 +8077,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "FWGTXYFPDBUGR7VK.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -8132,7 +8132,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "FWGTXYFPDBUGR7VK.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -8162,7 +8162,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "FWGTXYFPDBUGR7VK.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -8359,7 +8359,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "UQYBY2T3TC5K9BFC.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -8414,7 +8414,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "UQYBY2T3TC5K9BFC.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -8449,7 +8449,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "UQYBY2T3TC5K9BFC.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -8629,7 +8629,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "UQYBY2T3TC5K9BFC.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -8684,7 +8684,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "UQYBY2T3TC5K9BFC.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -8714,7 +8714,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "UQYBY2T3TC5K9BFC.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -8911,7 +8911,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "6VAGK2RA3DY33TDE.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -8966,7 +8966,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "6VAGK2RA3DY33TDE.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -9001,7 +9001,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "6VAGK2RA3DY33TDE.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -9181,7 +9181,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "6VAGK2RA3DY33TDE.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -9236,7 +9236,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "6VAGK2RA3DY33TDE.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -9266,7 +9266,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "6VAGK2RA3DY33TDE.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -9458,7 +9458,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "B54ZCKJAAD76CW3P.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -9513,7 +9513,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "B54ZCKJAAD76CW3P.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -9543,7 +9543,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "B54ZCKJAAD76CW3P.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -9723,7 +9723,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "B54ZCKJAAD76CW3P.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -9778,7 +9778,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "B54ZCKJAAD76CW3P.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -9808,7 +9808,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "B54ZCKJAAD76CW3P.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -10000,7 +10000,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "RHE5G37END2Z7CN5.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -10055,7 +10055,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "RHE5G37END2Z7CN5.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -10085,7 +10085,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "RHE5G37END2Z7CN5.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -10265,7 +10265,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "RHE5G37END2Z7CN5.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -10320,7 +10320,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "RHE5G37END2Z7CN5.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -10350,7 +10350,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "RHE5G37END2Z7CN5.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -10547,7 +10547,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "AES84AD84AUZZZMA.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -10602,7 +10602,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "AES84AD84AUZZZMA.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -10637,7 +10637,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "AES84AD84AUZZZMA.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -10817,7 +10817,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "AES84AD84AUZZZMA.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -10872,7 +10872,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "AES84AD84AUZZZMA.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -10902,7 +10902,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "AES84AD84AUZZZMA.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -11094,7 +11094,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "SWQADRGX7D8W6U8G.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -11149,7 +11149,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "SWQADRGX7D8W6U8G.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -11179,7 +11179,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "SWQADRGX7D8W6U8G.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -11364,7 +11364,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SWQADRGX7D8W6U8G.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -11419,7 +11419,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SWQADRGX7D8W6U8G.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -11449,7 +11449,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SWQADRGX7D8W6U8G.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -11646,7 +11646,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "YUH6VAEUD8C7ZVN5.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -11701,7 +11701,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "YUH6VAEUD8C7ZVN5.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -11736,7 +11736,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "YUH6VAEUD8C7ZVN5.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -11916,7 +11916,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "YUH6VAEUD8C7ZVN5.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -11971,7 +11971,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "YUH6VAEUD8C7ZVN5.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -12001,7 +12001,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "YUH6VAEUD8C7ZVN5.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -12198,7 +12198,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "62AN9GMTBJWC37UH.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -12253,7 +12253,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "62AN9GMTBJWC37UH.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -12288,7 +12288,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "62AN9GMTBJWC37UH.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -12468,7 +12468,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "62AN9GMTBJWC37UH.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -12523,7 +12523,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "62AN9GMTBJWC37UH.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -12553,7 +12553,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "62AN9GMTBJWC37UH.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -12745,7 +12745,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "32RCSF5BA9V6AHRT.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -12800,7 +12800,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "32RCSF5BA9V6AHRT.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -12830,7 +12830,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "32RCSF5BA9V6AHRT.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -13010,7 +13010,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "32RCSF5BA9V6AHRT.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -13065,7 +13065,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "32RCSF5BA9V6AHRT.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -13095,7 +13095,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "32RCSF5BA9V6AHRT.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -13287,7 +13287,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "GKTCKEFJKVPAMRBB.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -13342,7 +13342,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "GKTCKEFJKVPAMRBB.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -13372,7 +13372,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "GKTCKEFJKVPAMRBB.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -13552,7 +13552,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "GKTCKEFJKVPAMRBB.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -13607,7 +13607,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "GKTCKEFJKVPAMRBB.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -13637,7 +13637,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "GKTCKEFJKVPAMRBB.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -13834,7 +13834,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "YUAP5PY8GWTX59RV.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -13889,7 +13889,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "YUAP5PY8GWTX59RV.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -13924,7 +13924,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "YUAP5PY8GWTX59RV.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -14104,7 +14104,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "YUAP5PY8GWTX59RV.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -14159,7 +14159,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "YUAP5PY8GWTX59RV.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -14189,7 +14189,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "YUAP5PY8GWTX59RV.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -14381,7 +14381,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "5YAYQZP85YJC8CEC.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -14436,7 +14436,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "5YAYQZP85YJC8CEC.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -14466,7 +14466,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "5YAYQZP85YJC8CEC.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -14646,7 +14646,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "5YAYQZP85YJC8CEC.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -14701,7 +14701,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "5YAYQZP85YJC8CEC.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -14731,7 +14731,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "5YAYQZP85YJC8CEC.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -14923,7 +14923,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "SK43QFSY8WVA2YY4.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -14978,7 +14978,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "SK43QFSY8WVA2YY4.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -15008,7 +15008,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "SK43QFSY8WVA2YY4.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -15193,7 +15193,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SK43QFSY8WVA2YY4.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -15248,7 +15248,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SK43QFSY8WVA2YY4.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -15278,7 +15278,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SK43QFSY8WVA2YY4.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -15470,7 +15470,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "SF4MVSMA4M44DVBM.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -15525,7 +15525,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "SF4MVSMA4M44DVBM.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -15555,7 +15555,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "SF4MVSMA4M44DVBM.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -15735,7 +15735,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SF4MVSMA4M44DVBM.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -15790,7 +15790,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SF4MVSMA4M44DVBM.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -15820,7 +15820,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "SF4MVSMA4M44DVBM.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -16012,7 +16012,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "4NJ6PWA8RTXYTVZC.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -16067,7 +16067,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "4NJ6PWA8RTXYTVZC.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -16097,7 +16097,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "4NJ6PWA8RTXYTVZC.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -16277,7 +16277,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "4NJ6PWA8RTXYTVZC.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -16332,7 +16332,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "4NJ6PWA8RTXYTVZC.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -16362,7 +16362,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "4NJ6PWA8RTXYTVZC.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -16554,7 +16554,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "WEGPY7GQ6Y6UUUWE.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -16609,7 +16609,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "WEGPY7GQ6Y6UUUWE.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -16639,7 +16639,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "WEGPY7GQ6Y6UUUWE.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -16819,7 +16819,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "WEGPY7GQ6Y6UUUWE.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -16874,7 +16874,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "WEGPY7GQ6Y6UUUWE.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -16904,7 +16904,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "WEGPY7GQ6Y6UUUWE.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -17113,7 +17113,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "8HPVU3VVKRWXKKKJ.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "ccfbLwp_I9dLLtfu5bj-LZ-BGseoR6SjHaHZc8M1FAk": {
@@ -17168,7 +17168,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "8HPVU3VVKRWXKKKJ.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -17198,7 +17198,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "8HPVU3VVKRWXKKKJ.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "zFchiP1ae1ONDGjY5ZklGaBQwtv9HP6i_ltigQluM2s": {
@@ -17378,7 +17378,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "8HPVU3VVKRWXKKKJ.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool RPS UserRead Full": {
@@ -17433,7 +17433,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "8HPVU3VVKRWXKKKJ.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -17463,7 +17463,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "8HPVU3VVKRWXKKKJ.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -17635,7 +17635,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "WV4THVGKXEQDUZRW.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "cuso8lsLyMya3zY6D6eR9rtj1P_UMmGoO4XeajQknDQ": {
@@ -17695,7 +17695,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "WV4THVGKXEQDUZRW.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -17735,7 +17735,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "WV4THVGKXEQDUZRW.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "z4IoWTFVhel0bpmpJ6G6IX6nYHtEj8caIBHiMHy6wGs": {
@@ -17905,7 +17905,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "WV4THVGKXEQDUZRW.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool MAU 100000 upto 1000000 per Requests": {
@@ -17955,7 +17955,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "WV4THVGKXEQDUZRW.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -17990,7 +17990,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "WV4THVGKXEQDUZRW.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {
@@ -18162,7 +18162,7 @@
             },
             "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ": {
                 "rateCode": "UBTEY2FAVJQJMN2U.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "cuso8lsLyMya3zY6D6eR9rtj1P_UMmGoO4XeajQknDQ": {
@@ -18222,7 +18222,7 @@
             },
             "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE": {
                 "rateCode": "UBTEY2FAVJQJMN2U.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "lHTsjSCL_htUiR5fG-CX_sUYDNW_Qhk_EKcgM1ppbVI": {
@@ -18262,7 +18262,7 @@
             },
             "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8": {
                 "rateCode": "UBTEY2FAVJQJMN2U.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "z4IoWTFVhel0bpmpJ6G6IX6nYHtEj8caIBHiMHy6wGs": {
@@ -18427,7 +18427,7 @@
             },
             "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "UBTEY2FAVJQJMN2U.JRTCKXETXF.TAV9HKW45C",
-                "price": "1.5000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "bCl6CwWaxhmzm2Id9A5ARvgEeUhgBMGAXu41VV1dGuQ"
             },
             "User Pool MAU 100000 upto 1000000 per Requests": {
@@ -18477,7 +18477,7 @@
             },
             "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "UBTEY2FAVJQJMN2U.JRTCKXETXF.ETY2894C67",
-                "price": "6.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "lF58DEsfK4iYSAoGHdYwMbPxqh5uEbUOPLVHvQglIXE"
             },
             "User Pool RPS UserResourceUpdate Partial": {
@@ -18512,7 +18512,7 @@
             },
             "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
                 "rateCode": "UBTEY2FAVJQJMN2U.JRTCKXETXF.WQ4TY4VCYZ",
-                "price": "3.0000000000",
+                "price": "0.0000000000",
                 "RegionlessRateCode": "wGkLq5qNsTPQCCDx6ZGi_m42VdV5-pagcp2jZ0w0iD8"
             },
             "User Pool RPS UserAccountRecovery Partial": {

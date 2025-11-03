@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "chimevoiceconnector",
         "accessType": "publish",
-        "esIndex": "plc-chimevoiceconnector-usd-20251027165038",
-        "hawkFilePublicationDate": "2025-10-27T16:50:38Z",
-        "ETLIngestionTriggerDate": "2025-10-27T16:50:38Z",
+        "esIndex": "plc-chimevoiceconnector-usd-20251103170427",
+        "hawkFilePublicationDate": "2025-11-03T17:04:27Z",
+        "ETLIngestionTriggerDate": "2025-11-03T17:04:27Z",
         "currencyCode": "USD",
         "source": "chimevoiceconnector",
         "isMapped": "true"

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ses",
         "accessType": "publish",
-        "esIndex": "plc-ses-usd-20251021183919",
-        "hawkFilePublicationDate": "2025-10-21T18:39:19Z",
-        "ETLIngestionTriggerDate": "2025-10-21T18:39:19Z",
+        "esIndex": "plc-ses-usd-20251103124320",
+        "hawkFilePublicationDate": "2025-11-03T12:43:20Z",
+        "ETLIngestionTriggerDate": "2025-11-03T12:43:20Z",
         "currencyCode": "USD",
         "source": "ses",
         "isMapped": "true"
@@ -4833,6 +4833,11 @@
                 "rateCode": "TWVD27RCWRGYD88Y.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0001000000",
                 "RegionlessRateCode": "cEE0GvklNrL3NTqITdSbX9qhko88WlLjOjMNOFBqLo0"
+            },
+            "ezXrQRF8oz6e8vGyQKZhMXzIXp6D8BQFQavGOJBNNCw": {
+                "rateCode": "4BRJEVDA4DKMMNW8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1900000000",
+                "RegionlessRateCode": "ezXrQRF8oz6e8vGyQKZhMXzIXp6D8BQFQavGOJBNNCw"
             },
             "fep9YWVPEQgA464VCbusFo5zZzlWgrbPWb3Nzv4_QL0": {
                 "rateCode": "5QCJKTKBXBMTUNY3.JRTCKXETXF.H7TEM37A35",

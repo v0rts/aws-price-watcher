@@ -65,7 +65,9 @@
         "Asia Pacific (Jakarta)": "0.0000015000",
         "Asia Pacific (Hyderabad)": "0.0000015000",
         "Asia Pacific (Hong Kong)": "0.0000015000",
-        "Africa (Cape Town)": "0.0000015000"
+        "Africa (Cape Town)": "0.0000015000",
+        "AWS GovCloud (US-East)": "0.0000015000",
+        "AWS GovCloud (US)": "0.0000015000"
     },
     "API Request GetMetricWidgetImage": {
         "US West (Oregon)": "0.0000200000",
@@ -237,7 +239,9 @@
         "Asia Pacific (Jakarta)": "0.0000007500",
         "Asia Pacific (Hyderabad)": "0.0000007500",
         "Asia Pacific (Hong Kong)": "0.0000007500",
-        "Africa (Cape Town)": "0.0000000000"
+        "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US-East)": "0.0000007500",
+        "AWS GovCloud (US)": "0.0000007500"
     },
     "Application Signals 1000000000 upto Inf": {
         "US West (Oregon)": "0.0000003000",
@@ -267,7 +271,9 @@
         "Asia Pacific (Jakarta)": "0.0000003000",
         "Asia Pacific (Hyderabad)": "0.0000003000",
         "Asia Pacific (Hong Kong)": "0.0000003000",
-        "Africa (Cape Town)": "0.0000003000"
+        "Africa (Cape Town)": "0.0000003000",
+        "AWS GovCloud (US-East)": "0.0000003000",
+        "AWS GovCloud (US)": "0.0000003000"
     },
     "IA Custom ingested Logs from 0 upto Inf": {
         "US West (Oregon)": "0.2500000000",

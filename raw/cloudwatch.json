@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudwatch",
         "accessType": "publish",
-        "esIndex": "plc-cloudwatch-usd-20251104184115",
-        "hawkFilePublicationDate": "2025-11-04T18:41:15Z",
-        "ETLIngestionTriggerDate": "2025-11-04T18:41:15Z",
+        "esIndex": "plc-cloudwatch-usd-20251104221632",
+        "hawkFilePublicationDate": "2025-11-04T22:16:32Z",
+        "ETLIngestionTriggerDate": "2025-11-04T22:16:32Z",
         "currencyCode": "USD",
         "source": "cloudwatch",
         "isMapped": "true"
@@ -28234,6 +28234,11 @@
                 "price": "0.1350000000",
                 "RegionlessRateCode": "-CjuNzwrW3gKP5Tnwj3HAF6hbSapnyqdPh3eBZsuiMM"
             },
+            "-FZUuKiR6pNiXBNGuObjJI4OfkeY2AR2_sJ4o5t1-zA": {
+                "rateCode": "NTRKX5E3S3WSZ659.JRTCKXETXF.8DQQFJNTGA",
+                "price": "0.0000015000",
+                "RegionlessRateCode": "-FZUuKiR6pNiXBNGuObjJI4OfkeY2AR2_sJ4o5t1-zA"
+            },
             "0HlALmlp2w3tH13yLuPTq62CikuNIKgRcbLeuHYmWt8": {
                 "rateCode": "BAHV95GFM72D42YC.JRTCKXETXF.6YS6EN2CT7",
                 "price": "9.0000000000",
@@ -28249,10 +28254,20 @@
                 "price": "0.3900000000",
                 "RegionlessRateCode": "1nIeKxZau0sVOam-DMREO190QM3J-BOO9z1j4_7VUEU"
             },
+            "2OJ-dQyZU0PzeNLb1XnejNTZmp9nECxxWAIGpKZBEiw": {
+                "rateCode": "NTRKX5E3S3WSZ659.JRTCKXETXF.V9JAN4EP4Z",
+                "price": "0.0000007500",
+                "RegionlessRateCode": "2OJ-dQyZU0PzeNLb1XnejNTZmp9nECxxWAIGpKZBEiw"
+            },
             "3OMuIdG-Y8zS1FNiNTEcPbkUM8lzfeE70UPbUOt2lYQ": {
                 "rateCode": "KH7N2DY22WQ4KFCD.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0162500000",
                 "RegionlessRateCode": "3OMuIdG-Y8zS1FNiNTEcPbkUM8lzfeE70UPbUOt2lYQ"
+            },
+            "3VKx9VMGHIVWtD9Jfw2kNFIO_aHtyzbs04Ejk8HTQ6E": {
+                "rateCode": "NTRKX5E3S3WSZ659.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000003000",
+                "RegionlessRateCode": "3VKx9VMGHIVWtD9Jfw2kNFIO_aHtyzbs04Ejk8HTQ6E"
             },
             "3v4nxJS1rKJhJGwUTOMSNcN8iX8HSaTP8btkESYMSHA": {
                 "rateCode": "QUVE8YSZJSR2K7NQ.JRTCKXETXF.AQTKZ3QBDA",
@@ -28584,6 +28599,11 @@
                 "price": "0.1350000000",
                 "RegionlessRateCode": "-CjuNzwrW3gKP5Tnwj3HAF6hbSapnyqdPh3eBZsuiMM"
             },
+            "Application Signals for the first 100000000": {
+                "rateCode": "NTRKX5E3S3WSZ659.JRTCKXETXF.8DQQFJNTGA",
+                "price": "0.0000015000",
+                "RegionlessRateCode": "-FZUuKiR6pNiXBNGuObjJI4OfkeY2AR2_sJ4o5t1-zA"
+            },
             "IA Vended ingested logs from 0 upto 10240": {
                 "rateCode": "CREREPAFNUM3ZV47.JRTCKXETXF.Q3Z75P77EN",
                 "price": "0.3380000000",
@@ -28593,6 +28613,16 @@
                 "rateCode": "E2QCGC7R6X42WYD4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3900000000",
                 "RegionlessRateCode": "1nIeKxZau0sVOam-DMREO190QM3J-BOO9z1j4_7VUEU"
+            },
+            "Application Signals 10000000for the first 1000000000": {
+                "rateCode": "NTRKX5E3S3WSZ659.JRTCKXETXF.V9JAN4EP4Z",
+                "price": "0.0000007500",
+                "RegionlessRateCode": "2OJ-dQyZU0PzeNLb1XnejNTZmp9nECxxWAIGpKZBEiw"
+            },
+            "Application Signals 1000000000 upto Inf": {
+                "rateCode": "NTRKX5E3S3WSZ659.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000003000",
+                "RegionlessRateCode": "3VKx9VMGHIVWtD9Jfw2kNFIO_aHtyzbs04Ejk8HTQ6E"
             },
             "IA Custom ingested Logs from 0 upto Inf": {
                 "rateCode": "R62V5DFHAG7QKN9M.JRTCKXETXF.6YS6EN2CT7",
@@ -28821,6 +28851,11 @@
                 "price": "0.1350000000",
                 "RegionlessRateCode": "-CjuNzwrW3gKP5Tnwj3HAF6hbSapnyqdPh3eBZsuiMM"
             },
+            "-FZUuKiR6pNiXBNGuObjJI4OfkeY2AR2_sJ4o5t1-zA": {
+                "rateCode": "7RN56WW34CM4UASZ.JRTCKXETXF.8DQQFJNTGA",
+                "price": "0.0000015000",
+                "RegionlessRateCode": "-FZUuKiR6pNiXBNGuObjJI4OfkeY2AR2_sJ4o5t1-zA"
+            },
             "0HlALmlp2w3tH13yLuPTq62CikuNIKgRcbLeuHYmWt8": {
                 "rateCode": "W8UWA3XW6SRDVQ8K.JRTCKXETXF.6YS6EN2CT7",
                 "price": "9.0000000000",
@@ -28836,10 +28871,20 @@
                 "price": "0.3900000000",
                 "RegionlessRateCode": "1nIeKxZau0sVOam-DMREO190QM3J-BOO9z1j4_7VUEU"
             },
+            "2OJ-dQyZU0PzeNLb1XnejNTZmp9nECxxWAIGpKZBEiw": {
+                "rateCode": "7RN56WW34CM4UASZ.JRTCKXETXF.V9JAN4EP4Z",
+                "price": "0.0000007500",
+                "RegionlessRateCode": "2OJ-dQyZU0PzeNLb1XnejNTZmp9nECxxWAIGpKZBEiw"
+            },
             "3OMuIdG-Y8zS1FNiNTEcPbkUM8lzfeE70UPbUOt2lYQ": {
                 "rateCode": "K2JYHWV84VCCDG46.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0162500000",
                 "RegionlessRateCode": "3OMuIdG-Y8zS1FNiNTEcPbkUM8lzfeE70UPbUOt2lYQ"
+            },
+            "3VKx9VMGHIVWtD9Jfw2kNFIO_aHtyzbs04Ejk8HTQ6E": {
+                "rateCode": "7RN56WW34CM4UASZ.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000003000",
+                "RegionlessRateCode": "3VKx9VMGHIVWtD9Jfw2kNFIO_aHtyzbs04Ejk8HTQ6E"
             },
             "3v4nxJS1rKJhJGwUTOMSNcN8iX8HSaTP8btkESYMSHA": {
                 "rateCode": "A3AVM3BGV5X7AURK.JRTCKXETXF.AQTKZ3QBDA",
@@ -29171,6 +29216,11 @@
                 "price": "0.1350000000",
                 "RegionlessRateCode": "-CjuNzwrW3gKP5Tnwj3HAF6hbSapnyqdPh3eBZsuiMM"
             },
+            "Application Signals for the first 100000000": {
+                "rateCode": "7RN56WW34CM4UASZ.JRTCKXETXF.8DQQFJNTGA",
+                "price": "0.0000015000",
+                "RegionlessRateCode": "-FZUuKiR6pNiXBNGuObjJI4OfkeY2AR2_sJ4o5t1-zA"
+            },
             "IA Vended ingested logs from 0 upto 10240": {
                 "rateCode": "AK6XVVG8UD7USYTF.JRTCKXETXF.Q3Z75P77EN",
                 "price": "0.3380000000",
@@ -29180,6 +29230,16 @@
                 "rateCode": "FY2HGJRGAR5TM6HF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.3900000000",
                 "RegionlessRateCode": "1nIeKxZau0sVOam-DMREO190QM3J-BOO9z1j4_7VUEU"
+            },
+            "Application Signals 10000000for the first 1000000000": {
+                "rateCode": "7RN56WW34CM4UASZ.JRTCKXETXF.V9JAN4EP4Z",
+                "price": "0.0000007500",
+                "RegionlessRateCode": "2OJ-dQyZU0PzeNLb1XnejNTZmp9nECxxWAIGpKZBEiw"
+            },
+            "Application Signals 1000000000 upto Inf": {
+                "rateCode": "7RN56WW34CM4UASZ.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000003000",
+                "RegionlessRateCode": "3VKx9VMGHIVWtD9Jfw2kNFIO_aHtyzbs04Ejk8HTQ6E"
             },
             "IA Custom ingested Logs from 0 upto Inf": {
                 "rateCode": "4GE37REQN34XY4QA.JRTCKXETXF.6YS6EN2CT7",

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "ses",
         "accessType": "publish",
-        "esIndex": "plc-ses-usd-20251103155000",
-        "hawkFilePublicationDate": "2025-11-03T15:50:00Z",
-        "ETLIngestionTriggerDate": "2025-11-03T15:50:00Z",
+        "esIndex": "plc-ses-usd-20251104194253",
+        "hawkFilePublicationDate": "2025-11-04T19:42:53Z",
+        "ETLIngestionTriggerDate": "2025-11-04T19:42:53Z",
         "currencyCode": "USD",
         "source": "ses",
         "isMapped": "true"
@@ -2663,6 +2663,11 @@
             }
         },
         "EU (London)": {
+            "0yNuozAikUZMlvDgdzvVVnmii7YLknFCkBdaLquNSS4": {
+                "rateCode": "RSNNFN6T5BHYGS3W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.0000000000",
+                "RegionlessRateCode": "0yNuozAikUZMlvDgdzvVVnmii7YLknFCkBdaLquNSS4"
+            },
             "9e4BstJhV9P3GXq9_ctVGyOaqt9DTL07qZgh9zdpPzI": {
                 "rateCode": "JNK75J7XXD3TG6JJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000900000",
@@ -2737,6 +2742,11 @@
                 "rateCode": "RY7NC4FNYG3TJV9K.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0001000000",
                 "RegionlessRateCode": "cEE0GvklNrL3NTqITdSbX9qhko88WlLjOjMNOFBqLo0"
+            },
+            "ezXrQRF8oz6e8vGyQKZhMXzIXp6D8BQFQavGOJBNNCw": {
+                "rateCode": "WEWZ8PN4UZ9MWEVG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1900000000",
+                "RegionlessRateCode": "ezXrQRF8oz6e8vGyQKZhMXzIXp6D8BQFQavGOJBNNCw"
             },
             "fep9YWVPEQgA464VCbusFo5zZzlWgrbPWb3Nzv4_QL0": {
                 "rateCode": "TAY5AT9U6KCQKH48.JRTCKXETXF.H7TEM37A35",

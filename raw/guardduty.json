@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "guardduty",
         "accessType": "publish",
-        "esIndex": "plc-guardduty-usd-20251017220221",
-        "hawkFilePublicationDate": "2025-10-17T22:02:21Z",
-        "ETLIngestionTriggerDate": "2025-10-17T22:02:21Z",
+        "esIndex": "plc-guardduty-usd-20251106190114",
+        "hawkFilePublicationDate": "2025-11-06T19:01:14Z",
+        "ETLIngestionTriggerDate": "2025-11-06T19:01:14Z",
         "currencyCode": "USD",
         "source": "guardduty",
         "isMapped": "true"
@@ -9692,6 +9692,11 @@
                 "rateCode": "HG4WM9CH7SJQZ9QG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2730000000",
                 "RegionlessRateCode": "wtgu1P-DwdMnSt9PcIY_8txWCjqW393ycfJTTE9cZG4"
+            },
+            "xe4i1raf0Tv0yWfBH-cLsUXQc0ovFpRP7MndgTfiEXI": {
+                "rateCode": "D3WGQUK6G4S23SKA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "xe4i1raf0Tv0yWfBH-cLsUXQc0ovFpRP7MndgTfiEXI"
             },
             "yak_6gOAHEAnj3pFq7EVHD4D2eNF9DjQK1yF0MwGqis": {
                 "rateCode": "TZSYXW43MQQ52KCG.JRTCKXETXF.6YS6EN2CT7",

@@ -875,7 +875,9 @@
         "Asia Pacific (Sydney)": "0.0900000000",
         "Asia Pacific (Singapore)": "0.1000000000",
         "Asia Pacific (Seoul)": "0.0900000000",
-        "Asia Pacific (Mumbai)": "0.1000000000"
+        "Asia Pacific (Mumbai)": "0.1000000000",
+        "Asia Pacific (Malaysia)": "0.0900000000",
+        "Asia Pacific (Hyderabad)": "0.1000000000"
     },
     "RunReplicator": {
         "US West (Oregon)": "0.3000000000",
@@ -893,7 +895,9 @@
         "Asia Pacific (Sydney)": "0.3400000000",
         "Asia Pacific (Singapore)": "0.3600000000",
         "Asia Pacific (Seoul)": "0.3500000000",
-        "Asia Pacific (Mumbai)": "0.3600000000"
+        "Asia Pacific (Mumbai)": "0.3600000000",
+        "Asia Pacific (Malaysia)": "0.3100000000",
+        "Asia Pacific (Hyderabad)": "0.3600000000"
     },
     "Serverless Partition-hours": {
         "US West (Oregon)": "0.0015000000",
@@ -927,7 +931,9 @@
         "Asia Pacific (Sydney)": "0.0900000000",
         "Asia Pacific (Singapore)": "0.1000000000",
         "Asia Pacific (Seoul)": "0.0900000000",
-        "Asia Pacific (Mumbai)": "0.1000000000"
+        "Asia Pacific (Mumbai)": "0.1000000000",
+        "Asia Pacific (Malaysia)": "0.0900000000",
+        "Asia Pacific (Hyderabad)": "0.1000000000"
     },
     "Serverless Cluster-hours": {
         "US West (Oregon)": "0.7500000000",

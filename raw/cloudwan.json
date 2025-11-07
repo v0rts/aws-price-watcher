@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudwan",
         "accessType": "publish",
-        "esIndex": "plc-cloudwan-usd-20251107150409",
-        "hawkFilePublicationDate": "2025-11-07T15:04:09Z",
-        "ETLIngestionTriggerDate": "2025-11-07T15:04:09Z",
+        "esIndex": "plc-cloudwan-usd-20251107181045",
+        "hawkFilePublicationDate": "2025-11-07T18:10:45Z",
+        "ETLIngestionTriggerDate": "2025-11-07T18:10:45Z",
         "currencyCode": "USD",
         "source": "cloudwan",
         "isMapped": "true"
@@ -1307,6 +1307,170 @@
                 "RegionlessRateCode": "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU"
             }
         },
+        "Asia Pacific (Thailand)": {
+            "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0": {
+                "rateCode": "Z8MB5V7DSF84RYUZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0"
+            },
+            "3idaf0xZzcrDy5oqo8T2uu4CIHBcVU41dEWPmJbuQAM": {
+                "rateCode": "ZRZW8M6FS292VJXG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "3idaf0xZzcrDy5oqo8T2uu4CIHBcVU41dEWPmJbuQAM"
+            },
+            "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE": {
+                "rateCode": "H844DX65AET26FMQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5000000000",
+                "RegionlessRateCode": "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE"
+            },
+            "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg": {
+                "rateCode": "U2WNP6EW242XT2MS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg"
+            },
+            "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE": {
+                "rateCode": "X8ENVZ46XN5E949W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE"
+            },
+            "YttnaUTzHtygWHBvkGmhfxy8kaGLw1O1Ev5kQL5CE_A": {
+                "rateCode": "28JE995BY64VA5DC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "YttnaUTzHtygWHBvkGmhfxy8kaGLw1O1Ev5kQL5CE_A"
+            },
+            "hLDoEnyuvVFElp7eeXRY3Ydd0PwiZtL-muMw6N7OlN8": {
+                "rateCode": "JF542BRCNUKSRHKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "hLDoEnyuvVFElp7eeXRY3Ydd0PwiZtL-muMw6N7OlN8"
+            },
+            "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU": {
+                "rateCode": "GEC25MYNFJVSFTQ7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU"
+            },
+            "uSg-oNmM4gpZa3sWXbVBxr1BW4A_s0fALCsKKJKKdfs": {
+                "rateCode": "YKNM9ZZZEAQRG3JD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "uSg-oNmM4gpZa3sWXbVBxr1BW4A_s0fALCsKKJKKdfs"
+            },
+            "Connect Connect attachments hour": {
+                "rateCode": "Z8MB5V7DSF84RYUZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0"
+            },
+            "VPC Core Network Edge hour": {
+                "rateCode": "H844DX65AET26FMQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5000000000",
+                "RegionlessRateCode": "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE"
+            },
+            "VPC VPC attachments GigaBytes": {
+                "rateCode": "U2WNP6EW242XT2MS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg"
+            },
+            "Transit Gateway Core Network Edge TGW Peering hour": {
+                "rateCode": "X8ENVZ46XN5E949W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE"
+            },
+            "VPC VPC Attachments hour": {
+                "rateCode": "28JE995BY64VA5DC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "YttnaUTzHtygWHBvkGmhfxy8kaGLw1O1Ev5kQL5CE_A"
+            },
+            "AWS Site-to-Site VPN Site-to-Site VPN attachments hour": {
+                "rateCode": "JF542BRCNUKSRHKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "hLDoEnyuvVFElp7eeXRY3Ydd0PwiZtL-muMw6N7OlN8"
+            },
+            "AWS Site-to-Site VPN Site-to-Site VPN attachments GigaBytes": {
+                "rateCode": "GEC25MYNFJVSFTQ7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0": {
+                "rateCode": "ZAKKBPDWZPGX6K79.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0"
+            },
+            "3idaf0xZzcrDy5oqo8T2uu4CIHBcVU41dEWPmJbuQAM": {
+                "rateCode": "AUUBJGRTCYNJXNU5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "3idaf0xZzcrDy5oqo8T2uu4CIHBcVU41dEWPmJbuQAM"
+            },
+            "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE": {
+                "rateCode": "HDFDFZA64W9UXTNA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5000000000",
+                "RegionlessRateCode": "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE"
+            },
+            "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg": {
+                "rateCode": "3Y8ETWJNGSYEY4FM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg"
+            },
+            "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE": {
+                "rateCode": "CQEW2Q7H5THCGE5F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE"
+            },
+            "YttnaUTzHtygWHBvkGmhfxy8kaGLw1O1Ev5kQL5CE_A": {
+                "rateCode": "4TVYHGKVN2Z5U9J8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "YttnaUTzHtygWHBvkGmhfxy8kaGLw1O1Ev5kQL5CE_A"
+            },
+            "hLDoEnyuvVFElp7eeXRY3Ydd0PwiZtL-muMw6N7OlN8": {
+                "rateCode": "DNR23PQ84Q56UHK3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "hLDoEnyuvVFElp7eeXRY3Ydd0PwiZtL-muMw6N7OlN8"
+            },
+            "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU": {
+                "rateCode": "QJJZ4RVYR6P6EF5F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU"
+            },
+            "uSg-oNmM4gpZa3sWXbVBxr1BW4A_s0fALCsKKJKKdfs": {
+                "rateCode": "TTZ6Y747A8CQ5225.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "uSg-oNmM4gpZa3sWXbVBxr1BW4A_s0fALCsKKJKKdfs"
+            },
+            "Connect Connect attachments hour": {
+                "rateCode": "ZAKKBPDWZPGX6K79.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0"
+            },
+            "VPC Core Network Edge hour": {
+                "rateCode": "HDFDFZA64W9UXTNA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5000000000",
+                "RegionlessRateCode": "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE"
+            },
+            "VPC VPC attachments GigaBytes": {
+                "rateCode": "3Y8ETWJNGSYEY4FM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg"
+            },
+            "Transit Gateway Core Network Edge TGW Peering hour": {
+                "rateCode": "CQEW2Q7H5THCGE5F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE"
+            },
+            "VPC VPC Attachments hour": {
+                "rateCode": "4TVYHGKVN2Z5U9J8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "YttnaUTzHtygWHBvkGmhfxy8kaGLw1O1Ev5kQL5CE_A"
+            },
+            "AWS Site-to-Site VPN Site-to-Site VPN attachments hour": {
+                "rateCode": "DNR23PQ84Q56UHK3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "hLDoEnyuvVFElp7eeXRY3Ydd0PwiZtL-muMw6N7OlN8"
+            },
+            "AWS Site-to-Site VPN Site-to-Site VPN attachments GigaBytes": {
+                "rateCode": "QJJZ4RVYR6P6EF5F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU"
+            }
+        },
         "Asia Pacific (Sydney)": {
             "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0": {
                 "rateCode": "QQ75DMXR6A6F3HED.JRTCKXETXF.6YS6EN2CT7",
@@ -1591,6 +1755,88 @@
             },
             "AWS Site-to-Site VPN Site-to-Site VPN attachments GigaBytes": {
                 "rateCode": "MTBA85N6ZF9V5HUX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU"
+            }
+        },
+        "Asia Pacific (New Zealand)": {
+            "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0": {
+                "rateCode": "EXNCYXBTZTRVPWVW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0"
+            },
+            "3idaf0xZzcrDy5oqo8T2uu4CIHBcVU41dEWPmJbuQAM": {
+                "rateCode": "R6YS8KGMSW48RTN5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "3idaf0xZzcrDy5oqo8T2uu4CIHBcVU41dEWPmJbuQAM"
+            },
+            "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE": {
+                "rateCode": "QFVBVWSXK67KRVYR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5000000000",
+                "RegionlessRateCode": "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE"
+            },
+            "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg": {
+                "rateCode": "5YTABZER7ATQ3EP6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg"
+            },
+            "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE": {
+                "rateCode": "3J8Z88RVUV7WWUUP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE"
+            },
+            "YttnaUTzHtygWHBvkGmhfxy8kaGLw1O1Ev5kQL5CE_A": {
+                "rateCode": "9FQXZFCHXW498ZSJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "YttnaUTzHtygWHBvkGmhfxy8kaGLw1O1Ev5kQL5CE_A"
+            },
+            "hLDoEnyuvVFElp7eeXRY3Ydd0PwiZtL-muMw6N7OlN8": {
+                "rateCode": "C57YYG5SZHSPDC7M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "hLDoEnyuvVFElp7eeXRY3Ydd0PwiZtL-muMw6N7OlN8"
+            },
+            "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU": {
+                "rateCode": "7SSV64RQXFC82FSY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU"
+            },
+            "uSg-oNmM4gpZa3sWXbVBxr1BW4A_s0fALCsKKJKKdfs": {
+                "rateCode": "55TSQUFMSETM2AXW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "uSg-oNmM4gpZa3sWXbVBxr1BW4A_s0fALCsKKJKKdfs"
+            },
+            "Connect Connect attachments hour": {
+                "rateCode": "EXNCYXBTZTRVPWVW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "171-WPfOFd4d4zbW3jDtdn4cr5E-J-NzjlU1ScU9h_0"
+            },
+            "VPC Core Network Edge hour": {
+                "rateCode": "QFVBVWSXK67KRVYR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5000000000",
+                "RegionlessRateCode": "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE"
+            },
+            "VPC VPC attachments GigaBytes": {
+                "rateCode": "5YTABZER7ATQ3EP6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg"
+            },
+            "Transit Gateway Core Network Edge TGW Peering hour": {
+                "rateCode": "3J8Z88RVUV7WWUUP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE"
+            },
+            "VPC VPC Attachments hour": {
+                "rateCode": "9FQXZFCHXW498ZSJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "YttnaUTzHtygWHBvkGmhfxy8kaGLw1O1Ev5kQL5CE_A"
+            },
+            "AWS Site-to-Site VPN Site-to-Site VPN attachments hour": {
+                "rateCode": "C57YYG5SZHSPDC7M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0900000000",
+                "RegionlessRateCode": "hLDoEnyuvVFElp7eeXRY3Ydd0PwiZtL-muMw6N7OlN8"
+            },
+            "AWS Site-to-Site VPN Site-to-Site VPN attachments GigaBytes": {
+                "rateCode": "7SSV64RQXFC82FSY.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0200000000",
                 "RegionlessRateCode": "t7Hz7nBmCLA-1C98Nkw6JkyaJnLMo2XHoZOWWb8syNU"
             }

@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-11-11T23:52:52Z",
+  "publicationDate" : "2025-11-12T01:21:36Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1488,6 +1488,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonEC2OCPULicenseFees/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonEC2OCPULicenseFees/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonEC2OCPULicenseFees/current/region_index.json"
+    },
+    "AWSRTBFabric" : {
+      "offerCode" : "AWSRTBFabric",
+      "versionIndexUrl" : "/offers/v1.0/aws/AWSRTBFabric/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/AWSRTBFabric/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AWSRTBFabric/current/region_index.json"
     }
   }
 }

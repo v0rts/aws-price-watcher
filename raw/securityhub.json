@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "securityhub",
         "accessType": "publish",
-        "esIndex": "plc-securityhub-usd-20250918213958",
-        "hawkFilePublicationDate": "2025-09-18T21:39:58Z",
-        "ETLIngestionTriggerDate": "2025-09-18T21:39:58Z",
+        "esIndex": "plc-securityhub-usd-20251114182357",
+        "hawkFilePublicationDate": "2025-11-14T18:23:57Z",
+        "ETLIngestionTriggerDate": "2025-11-14T18:23:57Z",
         "currencyCode": "USD",
         "source": "securityhub",
         "isMapped": "true"

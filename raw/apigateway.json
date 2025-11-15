@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "apigateway",
         "accessType": "publish",
-        "esIndex": "plc-apigateway-usd-20251020132236",
-        "hawkFilePublicationDate": "2025-10-20T13:22:36Z",
-        "ETLIngestionTriggerDate": "2025-10-20T13:22:36Z",
+        "esIndex": "plc-apigateway-usd-20251115010832",
+        "hawkFilePublicationDate": "2025-11-15T01:08:32Z",
+        "ETLIngestionTriggerDate": "2025-11-15T01:08:32Z",
         "currencyCode": "USD",
         "source": "apigateway",
         "isMapped": "true"

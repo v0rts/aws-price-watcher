@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-11-18T19:22:16Z",
+  "publicationDate" : "2025-11-18T19:33:12Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1500,6 +1500,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/Kiro/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/Kiro/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/Kiro/current/region_index.json"
+    },
+    "CloudFrontPlans" : {
+      "offerCode" : "CloudFrontPlans",
+      "versionIndexUrl" : "/offers/v1.0/aws/CloudFrontPlans/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/CloudFrontPlans/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/CloudFrontPlans/current/region_index.json"
     }
   }
 }

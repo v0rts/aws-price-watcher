@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesis",
         "accessType": "publish",
-        "esIndex": "plc-kinesis-usd-20251117221941",
-        "hawkFilePublicationDate": "2025-11-17T22:19:41Z",
-        "ETLIngestionTriggerDate": "2025-11-17T22:19:41Z",
+        "esIndex": "plc-kinesis-usd-20251118005655",
+        "hawkFilePublicationDate": "2025-11-18T00:56:55Z",
+        "ETLIngestionTriggerDate": "2025-11-18T00:56:55Z",
         "currencyCode": "USD",
         "source": "kinesis",
         "isMapped": "true"
@@ -538,6 +538,26 @@
                 "price": "0.0500000000",
                 "RegionlessRateCode": "78N5t7DMjd6U5l5QQGTwW-rsA_2rHpaQJ5B3lNvuTmI"
             },
+            "D_p6yHPVBVKld0s7pDu3pw0e67EX66s5FUYGiVpcC0w": {
+                "rateCode": "RKQX994Q2XFA7VZ2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0160000000",
+                "RegionlessRateCode": "D_p6yHPVBVKld0s7pDu3pw0e67EX66s5FUYGiVpcC0w"
+            },
+            "Ifo3UgCKhx4Owawd2AjasF4Pn2EHcO-1yPBgqQ4LitU": {
+                "rateCode": "VAQ85GW6D4ZRFQE7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0320000000",
+                "RegionlessRateCode": "Ifo3UgCKhx4Owawd2AjasF4Pn2EHcO-1yPBgqQ4LitU"
+            },
+            "Jiaji9dJjSjQNachq8G8pJ9V_ne_Abg2L18k87VatAI": {
+                "rateCode": "BQN55GM3G6WSGDUD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000",
+                "RegionlessRateCode": "Jiaji9dJjSjQNachq8G8pJ9V_ne_Abg2L18k87VatAI"
+            },
+            "KuLCbCglK17_r1TzAxs6FMtv_sUUoHEd5AbTfFb2YS0": {
+                "rateCode": "YENE958B9VU4WT5G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0160000000",
+                "RegionlessRateCode": "KuLCbCglK17_r1TzAxs6FMtv_sUUoHEd5AbTfFb2YS0"
+            },
             "Oll3o5LSJyPfDMj1iUuJ-qEJ_xdqdoFmOum4i4x5fSk": {
                 "rateCode": "GXPWS67USXVJ3QQB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0210000000",
@@ -552,6 +572,11 @@
                 "rateCode": "7RXVY4V5SG8NQC38.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0150000000",
                 "RegionlessRateCode": "RDajteEd7c_1zRPgn2s0MQCJRjI1yTedAko0RTLxwIk"
+            },
+            "T6YFe03LpB5Vm6xmauJsqSF_p8suXXwVpIzzLXMFcxQ": {
+                "rateCode": "UTBCZ7YXFBVNCBZ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0160000000",
+                "RegionlessRateCode": "T6YFe03LpB5Vm6xmauJsqSF_p8suXXwVpIzzLXMFcxQ"
             },
             "V66FS0KC9gNB2H0EEKZL9yETEoPpGPgG6vJkdcTB-rw": {
                 "rateCode": "PNHYMNK9TM59MTU8.JRTCKXETXF.6YS6EN2CT7",
@@ -577,6 +602,16 @@
                 "rateCode": "ECQFCZZ6DTWE83YB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0230000000",
                 "RegionlessRateCode": "lWTh8_q5tUc9HwtMk6XzR1KVDBk-6R8iAKZkwBo2DDQ"
+            },
+            "oQlE3GXZq09Mw4KBCogHCQueFsZcBRPMDtBPKiUwdzU": {
+                "rateCode": "D7V2WMKCCN928FVY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000",
+                "RegionlessRateCode": "oQlE3GXZq09Mw4KBCogHCQueFsZcBRPMDtBPKiUwdzU"
+            },
+            "vhTGnbyu8SLTUVWUgNbencLSI9L2fPprK3_1FuUoBkU": {
+                "rateCode": "YDRUFCJ9QK7K9MK5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0320000000",
+                "RegionlessRateCode": "vhTGnbyu8SLTUVWUgNbencLSI9L2fPprK3_1FuUoBkU"
             },
             "Addon shard hour per ShardHour": {
                 "rateCode": "9DT967X6YQX3AYMB.JRTCKXETXF.6YS6EN2CT7",

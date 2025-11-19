@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "billingconductor",
         "accessType": "publish",
-        "esIndex": "plc-billingconductor-usd-20251118174631",
-        "hawkFilePublicationDate": "2025-11-18T17:46:31Z",
-        "ETLIngestionTriggerDate": "2025-11-18T17:46:31Z",
+        "esIndex": "plc-billingconductor-usd-20251119191847",
+        "hawkFilePublicationDate": "2025-11-19T19:18:47Z",
+        "ETLIngestionTriggerDate": "2025-11-19T19:18:47Z",
         "currencyCode": "USD",
         "source": "billingconductor",
         "isMapped": "true"
@@ -31,6 +31,16 @@
                 "rateCode": "4S8HR5DY6SVXB73D.JRTCKXETXF.NQTM64EBAU",
                 "price": "6.7500000000",
                 "RegionlessRateCode": "8uNc8I5QRklIa1EOD1XhL6VqCctI9uIbCvuqwGa8RO4"
+            },
+            "G7JRTCO5VsT3D_8stBNidW_haenEsW_F5xyZ0jlGBN4": {
+                "rateCode": "XN32S4Q285VST8XT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "50.0000000000",
+                "RegionlessRateCode": "G7JRTCO5VsT3D_8stBNidW_haenEsW_F5xyZ0jlGBN4"
+            },
+            "TPiSYRpBtq2i4y7_oqDkLJStAVpKicqeZU9rRj3SHo4": {
+                "rateCode": "JSKEN6BRDH9BYUET.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "TPiSYRpBtq2i4y7_oqDkLJStAVpKicqeZU9rRj3SHo4"
             },
             "mQ5yzoT-Jk0p_aOGfI-AvaftbyfPe2ZOYz8GSkU_IME": {
                 "rateCode": "4S8HR5DY6SVXB73D.JRTCKXETXF.C2QCTD4VXQ",

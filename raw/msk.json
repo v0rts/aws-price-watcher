@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "msk",
         "accessType": "publish",
-        "esIndex": "plc-msk-usd-20251120182611",
-        "hawkFilePublicationDate": "2025-11-20T18:26:11Z",
-        "ETLIngestionTriggerDate": "2025-11-20T18:26:11Z",
+        "esIndex": "plc-msk-usd-20251120224520",
+        "hawkFilePublicationDate": "2025-11-20T22:45:20Z",
+        "ETLIngestionTriggerDate": "2025-11-20T22:45:20Z",
         "currencyCode": "USD",
         "source": "msk",
         "isMapped": "true"
@@ -4657,6 +4657,16 @@
                 "Memory (GiB)": "256",
                 "operation": "RunBroker"
             },
+            "FFXKzHcH1JgU4nJN7jcYpgMSku4fN0bJgwIrgK775do": {
+                "rateCode": "WS65WFBX5UGJZAT7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0024000000",
+                "RegionlessRateCode": "FFXKzHcH1JgU4nJN7jcYpgMSku4fN0bJgwIrgK775do",
+                "Compute Family": "",
+                "usageType": "SAE1-KafkaServerless-PartitionHours",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "Serverless"
+            },
             "Js2Mw1JjnqRYP-mtERdPLbkp2rHYYpUzQIBXm9heGfc": {
                 "rateCode": "ZW32RANYBYAWJRZ2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1200000000",
@@ -4737,6 +4747,26 @@
                 "Memory (GiB)": "8",
                 "operation": "RunBroker"
             },
+            "Tp-597O6ILUeyWTCLCbOO7KFzOibN3qXUJ4_vBO5ddk": {
+                "rateCode": "WE4QWWANKC9UHPGD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1950000000",
+                "RegionlessRateCode": "Tp-597O6ILUeyWTCLCbOO7KFzOibN3qXUJ4_vBO5ddk",
+                "Compute Family": "",
+                "usageType": "SAE1-KafkaServerless-ClusterHours",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "Serverless"
+            },
+            "W0ajQJ3dJu5UHrR4V-PVzywRAQmF0LZo_XEWMXwBx1I": {
+                "rateCode": "7N63AU2WKACBY8ED.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1600000000",
+                "RegionlessRateCode": "W0ajQJ3dJu5UHrR4V-PVzywRAQmF0LZo_XEWMXwBx1I",
+                "Compute Family": "",
+                "usageType": "SAE1-KafkaServerless-In-Bytes",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "Serverless"
+            },
             "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4": {
                 "rateCode": "W84WEZZMW6VEG9YA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6503000000",
@@ -4746,6 +4776,16 @@
                 "vCPU": "4",
                 "Memory (GiB)": "16",
                 "operation": "RunBroker"
+            },
+            "Z7HmUrHMOXkLfG5toSGBUDbjGfSvucar3zpShXa4T20": {
+                "rateCode": "JNC8AGEXPJRUPA4T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0800000000",
+                "RegionlessRateCode": "Z7HmUrHMOXkLfG5toSGBUDbjGfSvucar3zpShXa4T20",
+                "Compute Family": "",
+                "usageType": "SAE1-KafkaServerless-Out-Bytes",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "Serverless"
             },
             "ZZDWDv6-qPtCINB6h3ChgP9Vz38r19pfUQLrC15IbXE": {
                 "rateCode": "FDRQDXF3NVC25WBC.JRTCKXETXF.6YS6EN2CT7",
@@ -4846,6 +4886,16 @@
                 "vCPU": "2",
                 "Memory (GiB)": "2",
                 "operation": "RunBroker"
+            },
+            "nkHUFY5mZ_SE5hwJJ_vZyUoGU42u-vhHWiwa-Fcmhas": {
+                "rateCode": "W78SM7VZ263R3BNB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1900000000",
+                "RegionlessRateCode": "nkHUFY5mZ_SE5hwJJ_vZyUoGU42u-vhHWiwa-Fcmhas",
+                "Compute Family": "",
+                "usageType": "SAE1-KafkaServerless-StorageHours",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "Serverless"
             },
             "rXoFA90_w7ACKEWN5c2nzVoS4NF8ud80k9qlXvV8Ud4": {
                 "rateCode": "F3UT5Y9ANES6MRQR.JRTCKXETXF.6YS6EN2CT7",
@@ -5002,6 +5052,11 @@
                 "Memory (GiB)": "256",
                 "operation": "RunBroker"
             },
+            "Serverless Partition-hours": {
+                "rateCode": "WS65WFBX5UGJZAT7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0024000000",
+                "RegionlessRateCode": "FFXKzHcH1JgU4nJN7jcYpgMSku4fN0bJgwIrgK775do"
+            },
             "SameRegionSource": {
                 "rateCode": "ZW32RANYBYAWJRZ2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1200000000",
@@ -5067,6 +5122,16 @@
                 "Memory (GiB)": "8",
                 "operation": "RunBroker"
             },
+            "Serverless Cluster-hours": {
+                "rateCode": "WE4QWWANKC9UHPGD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1950000000",
+                "RegionlessRateCode": "Tp-597O6ILUeyWTCLCbOO7KFzOibN3qXUJ4_vBO5ddk"
+            },
+            "Serverless Per-GB data ingressed": {
+                "rateCode": "7N63AU2WKACBY8ED.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1600000000",
+                "RegionlessRateCode": "W0ajQJ3dJu5UHrR4V-PVzywRAQmF0LZo_XEWMXwBx1I"
+            },
             "RunBroker-computefamily-m7g.xlarge": {
                 "rateCode": "W84WEZZMW6VEG9YA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6503000000",
@@ -5081,6 +5146,11 @@
                 "vCPU": "4",
                 "Memory (GiB)": "16",
                 "operation": "RunBroker"
+            },
+            "Serverless Per-GB data egressed": {
+                "rateCode": "JNC8AGEXPJRUPA4T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0800000000",
+                "RegionlessRateCode": "Z7HmUrHMOXkLfG5toSGBUDbjGfSvucar3zpShXa4T20"
             },
             "RunBroker-computefamily-m5.24xlarge": {
                 "rateCode": "FDRQDXF3NVC25WBC.JRTCKXETXF.6YS6EN2CT7",
@@ -5146,6 +5216,11 @@
                 "vCPU": "2",
                 "Memory (GiB)": "2",
                 "operation": "RunBroker"
+            },
+            "Serverless Storage-hours": {
+                "rateCode": "W78SM7VZ263R3BNB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1900000000",
+                "RegionlessRateCode": "nkHUFY5mZ_SE5hwJJ_vZyUoGU42u-vhHWiwa-Fcmhas"
             },
             "RunBroker-computefamily-m7g.8xlarge": {
                 "rateCode": "22NHT96YUSZ53JJR.JRTCKXETXF.6YS6EN2CT7",

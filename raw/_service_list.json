@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-11-20T07:37:37Z",
+  "publicationDate" : "2025-11-20T10:00:35Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1506,6 +1506,18 @@
       "versionIndexUrl" : "/offers/v1.0/aws/CloudFrontPlans/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/CloudFrontPlans/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/CloudFrontPlans/current/region_index.json"
+    },
+    "AWSCountdown" : {
+      "offerCode" : "AWSCountdown",
+      "versionIndexUrl" : "/offers/v1.0/aws/AWSCountdown/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/AWSCountdown/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AWSCountdown/current/region_index.json"
+    },
+    "AWSIncidentDetectionResponse" : {
+      "offerCode" : "AWSIncidentDetectionResponse",
+      "versionIndexUrl" : "/offers/v1.0/aws/AWSIncidentDetectionResponse/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/AWSIncidentDetectionResponse/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AWSIncidentDetectionResponse/current/region_index.json"
     }
   }
 }

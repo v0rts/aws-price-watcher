@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20251121092720",
-        "hawkFilePublicationDate": "2025-11-21T09:27:20Z",
-        "ETLIngestionTriggerDate": "2025-11-21T09:27:20Z",
+        "esIndex": "plc-sagemaker-usd-20251121174706",
+        "hawkFilePublicationDate": "2025-11-21T17:47:06Z",
+        "ETLIngestionTriggerDate": "2025-11-21T17:47:06Z",
         "currencyCode": "USD",
         "source": "sagemaker-training-plan",
         "isMapped": "true"
@@ -173,6 +173,14 @@
                 "Memory": "2 TiB",
                 "VCPU": "192",
                 "Instance": "ml.p5e.48xlarge"
+            },
+            "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo": {
+                "rateCode": "RDTYT9QASH9PSXDN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "86.1120000000",
+                "RegionlessRateCode": "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo",
+                "Memory": "2 TiB",
+                "VCPU": "192",
+                "Instance": "ml.p6-b200.48xlarge"
             }
         },
         "US East (N. Virginia)": {
@@ -231,6 +239,14 @@
                 "Memory": "1152 GiB",
                 "VCPU": "96",
                 "Instance": "ml.p4de.24xlarge"
+            },
+            "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo": {
+                "rateCode": "5U9X6AACP66N6EQQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "86.1120000000",
+                "RegionlessRateCode": "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo",
+                "Memory": "2 TiB",
+                "VCPU": "192",
+                "Instance": "ml.p6-b200.48xlarge"
             }
         },
         "US East (Dallas)": {

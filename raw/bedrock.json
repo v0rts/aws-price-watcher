@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "bedrock",
         "accessType": "publish",
-        "esIndex": "plc-bedrock-usd-20251125180938",
-        "hawkFilePublicationDate": "2025-11-25T18:09:38Z",
-        "ETLIngestionTriggerDate": "2025-11-25T18:09:38Z",
+        "esIndex": "plc-bedrock-usd-20251126010600",
+        "hawkFilePublicationDate": "2025-11-26T01:06:00Z",
+        "ETLIngestionTriggerDate": "2025-11-26T01:06:00Z",
         "currencyCode": "USD",
         "source": "bedrock",
         "isMapped": "true"

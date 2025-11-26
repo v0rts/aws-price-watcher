@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "mediaconnect",
         "accessType": "publish",
-        "esIndex": "plc-mediaconnect-usd-20251125185351",
-        "hawkFilePublicationDate": "2025-11-25T18:53:51Z",
-        "ETLIngestionTriggerDate": "2025-11-25T18:53:51Z",
+        "esIndex": "plc-mediaconnect-usd-20251126011046",
+        "hawkFilePublicationDate": "2025-11-26T01:10:46Z",
+        "ETLIngestionTriggerDate": "2025-11-26T01:10:46Z",
         "currencyCode": "USD",
         "source": "mediaconnect",
         "isMapped": "true"
@@ -2428,7 +2428,7 @@
             },
             "LE9NGDlAG-LJCAVVLfhkl_Mud74-2rqfjhY0ETTdhJ8": {
                 "rateCode": "NRXRWE5SDB8NCGM6.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.9000000000",
+                "price": "0.0900000000",
                 "RegionlessRateCode": "LE9NGDlAG-LJCAVVLfhkl_Mud74-2rqfjhY0ETTdhJ8"
             },
             "Lg3arzYNN_p9chE28nTalQf4aiS2kCX4ko_xr3S_lP4": {

@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-12-02T14:08:12Z",
+  "publicationDate" : "2025-12-02T15:25:10Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -79,7 +79,9 @@
       "offerCode" : "AWSDatabaseMigrationSvc",
       "versionIndexUrl" : "/offers/v1.0/aws/AWSDatabaseMigrationSvc/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AWSDatabaseMigrationSvc/current/index.json",
-      "currentRegionIndexUrl" : "/offers/v1.0/aws/AWSDatabaseMigrationSvc/current/region_index.json"
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AWSDatabaseMigrationSvc/current/region_index.json",
+      "savingsPlanVersionIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/index.json",
+      "currentSavingsPlanIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/region_index.json"
     },
     "AmazonGuardDuty" : {
       "offerCode" : "AmazonGuardDuty",
@@ -165,7 +167,9 @@
       "offerCode" : "AmazonRDS",
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonRDS/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonRDS/current/index.json",
-      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonRDS/current/region_index.json"
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonRDS/current/region_index.json",
+      "savingsPlanVersionIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/index.json",
+      "currentSavingsPlanIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/region_index.json"
     },
     "AWSSecurityHub" : {
       "offerCode" : "AWSSecurityHub",
@@ -387,7 +391,9 @@
       "offerCode" : "AmazonNeptune",
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonNeptune/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonNeptune/current/index.json",
-      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonNeptune/current/region_index.json"
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonNeptune/current/region_index.json",
+      "savingsPlanVersionIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/index.json",
+      "currentSavingsPlanIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/region_index.json"
     },
     "AWSNetworkFirewall" : {
       "offerCode" : "AWSNetworkFirewall",
@@ -789,13 +795,17 @@
       "offerCode" : "AmazonTimestream",
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonTimestream/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonTimestream/current/index.json",
-      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonTimestream/current/region_index.json"
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonTimestream/current/region_index.json",
+      "savingsPlanVersionIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/index.json",
+      "currentSavingsPlanIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/region_index.json"
     },
     "AmazonMCS" : {
       "offerCode" : "AmazonMCS",
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonMCS/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonMCS/current/index.json",
-      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonMCS/current/region_index.json"
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonMCS/current/region_index.json",
+      "savingsPlanVersionIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/index.json",
+      "currentSavingsPlanIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/region_index.json"
     },
     "AmazonGrafana" : {
       "offerCode" : "AmazonGrafana",
@@ -969,7 +979,9 @@
       "offerCode" : "AmazonElastiCache",
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonElastiCache/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonElastiCache/current/index.json",
-      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonElastiCache/current/region_index.json"
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonElastiCache/current/region_index.json",
+      "savingsPlanVersionIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/index.json",
+      "currentSavingsPlanIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/region_index.json"
     },
     "AWSCodeCommit" : {
       "offerCode" : "AWSCodeCommit",
@@ -1017,7 +1029,9 @@
       "offerCode" : "AmazonDynamoDB",
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonDynamoDB/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonDynamoDB/current/index.json",
-      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonDynamoDB/current/region_index.json"
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonDynamoDB/current/region_index.json",
+      "savingsPlanVersionIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/index.json",
+      "currentSavingsPlanIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/region_index.json"
     },
     "AmazonEI" : {
       "offerCode" : "AmazonEI",
@@ -1427,7 +1441,9 @@
       "offerCode" : "AmazonDocDB",
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonDocDB/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonDocDB/current/index.json",
-      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonDocDB/current/region_index.json"
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonDocDB/current/region_index.json",
+      "savingsPlanVersionIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/index.json",
+      "currentSavingsPlanIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/region_index.json"
     },
     "AmazonKinesisFirehose" : {
       "offerCode" : "AmazonKinesisFirehose",
@@ -1439,7 +1455,9 @@
       "offerCode" : "AuroraDSQL",
       "versionIndexUrl" : "/offers/v1.0/aws/AuroraDSQL/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AuroraDSQL/current/index.json",
-      "currentRegionIndexUrl" : "/offers/v1.0/aws/AuroraDSQL/current/region_index.json"
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AuroraDSQL/current/region_index.json",
+      "savingsPlanVersionIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/index.json",
+      "currentSavingsPlanIndexUrl" : "/savingsPlan/v1.0/aws/AWSDatabaseSavingsPlans/current/region_index.json"
     },
     "AmazonEVS" : {
       "offerCode" : "AmazonEVS",
@@ -1530,6 +1548,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/NovaAct/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/NovaAct/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/NovaAct/current/region_index.json"
+    },
+    "DevOpsAgent" : {
+      "offerCode" : "DevOpsAgent",
+      "versionIndexUrl" : "/offers/v1.0/aws/DevOpsAgent/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/DevOpsAgent/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/DevOpsAgent/current/region_index.json"
     }
   }
 }

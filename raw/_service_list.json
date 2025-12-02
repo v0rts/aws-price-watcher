@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-12-02T12:48:24Z",
+  "publicationDate" : "2025-12-02T14:08:12Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1524,6 +1524,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/AWSTransform/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AWSTransform/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/AWSTransform/current/region_index.json"
+    },
+    "NovaAct" : {
+      "offerCode" : "NovaAct",
+      "versionIndexUrl" : "/offers/v1.0/aws/NovaAct/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/NovaAct/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/NovaAct/current/region_index.json"
     }
   }
 }

@@ -79,6 +79,11 @@
         "AWS GovCloud (US-East)": "0.1200000000",
         "AWS GovCloud (US)": "0.1200000000"
     },
+    "0QIZul770Vyyw0NT2rqNwzW-rsb8gZaOLNlXz0I9lJ8 V1": {
+        "US West (Oregon)": "0.1150000000",
+        "US East (N. Virginia)": "0.1150000000",
+        "Asia Pacific (Tokyo)": "0.1380000000"
+    },
     "0X2uosjDqxRP6jad5Yd7CQbLmR-5R8AaRTWQCLW_VHc V1": {
         "US West (Oregon)": "0.2500000000",
         "US West (N. California)": "0.2760000000",
@@ -1350,6 +1355,11 @@
         "Asia Pacific (Melbourne)": "6.0480000000",
         "Asia Pacific (Hyderabad)": "5.7600000000"
     },
+    "B1BzGhIwdrhYZAKN0iz-Z8vYpCxZ61rUFtLIVfW6lJc V1": {
+        "US West (Oregon)": "0.1250000000",
+        "US East (N. Virginia)": "0.1250000000",
+        "Asia Pacific (Tokyo)": "0.1500000000"
+    },
     "BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1": {
         "US West (Oregon)": "0.2500000000",
         "US West (N. California)": "0.2760000000",
@@ -1387,6 +1397,11 @@
         "Africa (Cape Town)": "0.3280000000",
         "AWS GovCloud (US-East)": "0.3000000000",
         "AWS GovCloud (US)": "0.3000000000"
+    },
+    "BtHN9Zd3whLMrTOh6ThXJdLIHkqKfhTsJxhSeqBsfZk V1": {
+        "US West (Oregon)": "0.1150000000",
+        "US East (N. Virginia)": "0.1150000000",
+        "Asia Pacific (Tokyo)": "0.1380000000"
     },
     "C1i20FP0KkdQi0x-niIbRZ6gYYr9FSkLQch1JRmcmJU V1": {
         "US West (Oregon)": "1.5000000000",
@@ -2891,6 +2906,11 @@
         "AWS GovCloud (US-East)": "0.2760000000",
         "AWS GovCloud (US)": "0.2760000000"
     },
+    "UbDIJdDqKF7xqeX1f_7gBdltDkfqiLTQgyLVSCpeepc V1": {
+        "US West (Oregon)": "0.0950000000",
+        "US East (N. Virginia)": "0.0950000000",
+        "Asia Pacific (Tokyo)": "0.0950000000"
+    },
     "UnoS5tn7oH5RfD0ElhXQnjuyeHS1WUbBYSYPjfYmjOA V1": {
         "US West (Oregon)": "0.0631000000",
         "US West (N. California)": "0.0692000000",
@@ -3422,6 +3442,11 @@
         "AWS GovCloud (US-East)": "0.0960000000",
         "AWS GovCloud (US)": "0.0960000000"
     },
+    "YrnoCXQ9W0jxpfZk6mCMTjjPwOpH9UgBcxTi1NAKHmM V1": {
+        "US West (Oregon)": "0.1000000000",
+        "US East (N. Virginia)": "0.1000000000",
+        "Asia Pacific (Tokyo)": "0.1200000000"
+    },
     "Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1": {
         "US West (Oregon)": "0.1000000000",
         "US West (N. California)": "0.1100000000",
@@ -3925,6 +3950,11 @@
         "AWS GovCloud (US-East)": "0.0770000000",
         "AWS GovCloud (US)": "0.0770000000"
     },
+    "blHNryKdDDsDLFl10HmMH8Ys1l3IRItlGJfPzZuP_l0 V1": {
+        "US West (Oregon)": "0.1000000000",
+        "US East (N. Virginia)": "0.1000000000",
+        "Asia Pacific (Tokyo)": "0.1200000000"
+    },
     "c-cCOYzXC_-KJAxTe6XOlsjr7oRmlgpnfgVO_v8SgVs V1": {
         "US West (Oregon)": "0.2000000000",
         "US West (N. California)": "0.2200000000",
@@ -4272,6 +4302,11 @@
         "Africa (Cape Town)": "0.0260000000",
         "AWS GovCloud (US-East)": "0.0240000000",
         "AWS GovCloud (US)": "0.0240000000"
+    },
+    "eanK1q6IzRgC1qoT7sV80cwHRmiDaVm-Qk7z14dMOQc V1": {
+        "US West (Oregon)": "0.0800000000",
+        "US East (N. Virginia)": "0.0800000000",
+        "Asia Pacific (Tokyo)": "0.0960000000"
     },
     "ewoF5IEMyZTGWXOmWodYr-z0MIONnD1N2gUZcs79hQs V1": {
         "US West (Oregon)": "0.1700000000",
@@ -5335,6 +5370,16 @@
         "Africa (Cape Town)": "0.0530000000",
         "AWS GovCloud (US-East)": "0.0480000000",
         "AWS GovCloud (US)": "0.0480000000"
+    },
+    "uNDTDw_WCA_pLczlsZ0MisYHmVyi-qolj-nQG34qr0s V1": {
+        "US West (Oregon)": "0.0200000000",
+        "US East (N. Virginia)": "0.0200000000",
+        "Asia Pacific (Tokyo)": "0.0240000000"
+    },
+    "uNhAS6bgwG9eIVItQ-hf0zMWpo3ZJhGshidHYHyEdc0 V1": {
+        "US West (Oregon)": "0.1250000000",
+        "US East (N. Virginia)": "0.1250000000",
+        "Asia Pacific (Tokyo)": "0.1500000000"
     },
     "uwFlrDyUpeUCpLV6uvtTgpXEaaI6L_eVJzZqCNVC-hs V1": {
         "US West (Oregon)": "0.1250000000",

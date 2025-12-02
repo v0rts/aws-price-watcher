@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-12-02T18:48:31Z",
+  "publicationDate" : "2025-12-02T20:09:58Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1560,6 +1560,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonRDSOCPULicenseFees/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonRDSOCPULicenseFees/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonRDSOCPULicenseFees/current/region_index.json"
+    },
+    "AWSSupportEssential" : {
+      "offerCode" : "AWSSupportEssential",
+      "versionIndexUrl" : "/offers/v1.0/aws/AWSSupportEssential/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/AWSSupportEssential/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AWSSupportEssential/current/region_index.json"
     }
   }
 }

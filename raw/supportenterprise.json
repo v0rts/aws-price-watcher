@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "supportenterprise",
         "accessType": "publish",
-        "esIndex": "plc-supportenterprise-usd-20250909215400",
-        "hawkFilePublicationDate": "2025-01-16T16:08:28Z",
-        "ETLIngestionTriggerDate": "2025-09-09T21:54:00Z",
+        "esIndex": "plc-supportenterprise-usd-20251203151510",
+        "hawkFilePublicationDate": "2025-12-03T15:15:10Z",
+        "ETLIngestionTriggerDate": "2025-12-03T15:15:10Z",
         "currencyCode": "USD",
         "source": "supportenterprise",
         "isMapped": "true"
@@ -29,7 +29,7 @@
             },
             "onLEITW-k3wdiIkRXY89FSvJm3-v5g_1qkqGO2c7XI8": {
                 "rateCode": "H523M4KWZBFZM8WY.JRTCKXETXF.J8BW7J3JFF",
-                "price": "15000",
+                "price": "5000",
                 "RegionlessRateCode": "onLEITW-k3wdiIkRXY89FSvJm3-v5g_1qkqGO2c7XI8"
             },
             "t_rPZrfsy5SNY6m9FKOy-DPWH0vec-FGbh0P_aeRH1g": {
@@ -54,7 +54,7 @@
             },
             "Recurring Fee": {
                 "rateCode": "H523M4KWZBFZM8WY.JRTCKXETXF.J8BW7J3JFF",
-                "price": "15000",
+                "price": "5000",
                 "RegionlessRateCode": "onLEITW-k3wdiIkRXY89FSvJm3-v5g_1qkqGO2c7XI8"
             },
             "Usage 150k": {
